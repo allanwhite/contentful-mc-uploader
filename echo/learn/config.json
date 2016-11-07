@@ -1,0 +1,8 @@
+{
+  "token": "(required) Your contentful oauth token",
+  "spaceId": "(required) Your contentful space id (required)",
+  "contentType": "(required) The name of your content type - like blogPost or teamMember",
+  "publish": "true - publishes the entries after they are created, don't configure this if you don't want to publish, defaults to false",
+  "lang": "The locale that you want to use for this content, defaults to 'en-US'",
+  "mapper": "Path to mapper file. You can use this to prepare entries for upload"
+}
