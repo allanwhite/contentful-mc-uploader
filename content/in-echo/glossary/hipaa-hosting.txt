@@ -1,0 +1,27 @@
+Title: HIPAA Hosting
+
+----
+
+Seotitle: HIPAA Hosting
+
+----
+
+Date: 01/13/2015
+
+----
+
+Summary: There are several different types of hosting, from shared web hosting to dedicated hosting, to name a few. Here we discuss what HIPAA Hosting means in this context.
+
+----
+
+Post: We're all familiar with hosting on a basic level. Hosting is the act of housing and maintaining data, web pages/sites, etc. on a server for a customer of the host. Various types of hosting exist, with layers of flexibility and responsibility varying for customers. These include shared web hosting, dedicated hosting, managed hosting, and cloud hosting, to name a few.
+
+Growing in popularity is cloud hosting. This is when a vendor provides access to virtual servers, shared or dedicated, in secure data centers. The additional requirement of HIPAA compliance gives a _HIPAA host company_ who provides an additional level of security for the storage of [PHI, or Protected Health Information](https://catalyze.io/learn/what-is-protected-health-information-or-phi). The level of security provided by a _**HIPAA hosting provider**_ is varied, and as organizations look for HIPAA compliance help, be sure to investigate the host's offering compared to your needs. For more information on HIPAA check out our [Learn HIPAA](https://catalyze.io/learn) library, or see a high-level overview in this helpful [HIPAA 101 primer](https://catalyze.io/learn/hipaa-101-a-primer).
+
+Catalyze and other _HIPAA web host providers_ offer the technical requirements of _HIPAA hosting compliance_, including encrypted network servers, backups, and disaster recovery. Catalyze, through its [Platform as a Service](https://catalyze.io/paas) product,  also offers dedicated logging and monitoring servers, intrusion detection, breach notification, vulnerability scanning, and more.
+
+In addition, it should be emphasized that hosting, even "[HIPAA-compliant hosting](https://catalyze.io/hipaa-compliant-hosting)", does not ensure HIPAA compliance on its own. Having the technical safeguards in place is a great step, but administrative safeguards are needed too. Very simply stated, these include having the right policies and procedures in place as well as having BAAs with your service providers.
+
+Do you know if your organization is HIPAA compliant? [Check out this handy HIPAA self-assessment checklist.](https://catalyze.io/hipaa-self-assessment-checklist)
+
+Most _HIPAA hosting companies_ will offer some form of HIPAA compliance, but Catalyze prides itself on offering a full spectrum of technical safeguards. We are happy to chat if you want to learn more.
