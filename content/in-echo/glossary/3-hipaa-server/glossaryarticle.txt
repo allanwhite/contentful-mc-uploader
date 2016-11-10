@@ -1,0 +1,23 @@
+Title: HIPAA Server
+
+----
+
+Seotitle: HIPAA Server
+
+----
+
+Date: 03/06/2015
+
+----
+
+Summary: A servers is a physical, low-level tool upon which all other web-based technology is built. Using a HIPAA-compliant server is important, but only gets you part way. In this entry, we discuss what makes a server HIPAA compliant and what more is needed to reach full compliance.
+
+----
+
+Post: The basic definition of a server is a computer on a network that provides services to clients on the network. A server is also a physical piece of equipment, which can be housed locally for an organization, or can be accessed over the [cloud](https://catalyze.io/glossary/hipaa-cloud). Servers can house operating systems, data or file storage, applications and more. A significant amount of maintenance and care is involved in housing servers in a data center, as they generally need to be depended on 24/7. Because of this and other factors, many prefer to outsource their infrastructure needs.
+
+A _**HIPAA server**_, or more accurately, a HIPAA-compliant server, is one that follows the guidelines of the Health Insurance Portability and Accountability Act (HIPAA). [The HIPAA Security Rule](https://catalyze.io/learn/the-hipaa-security-rule) can be split into three categories, one of which is the physical aspects of keeping PHI safe. This includes keeping servers secure and inaccessible to hackers. At Catalyze, we use both Amazon Web Services and Rackspace for our server needs. The physical safeguards they put in place to protect hardware are sufficient for our adherence to that specific aspect of HIPAA. 
+
+Having a HIPAA compliant server does not equal HIPAA compliance, though it is a step in the right direction. There are additional technical and administrative safeguards that need to be put in place to be compliant. Technically, the HIPAA Security Rule details out non-physical safeguards, like encryption of data in transit and at rest, monitoring, and so on. Using a HIPAA-compliant server (or, it's more insidious marketing sibling, "HIPAA-ready server") only gets you part way to HIPAA compliance. You must build or buy the remaining factors. For that situation, Catalyze provides a [Platform as a Service](https://catalyze.io/paas).
+
+To learn more about these safeguards, and how Catalyze addresses them, please check out [how Catalyze handles HIPAA compliance](https://catalyze.io/compliance).

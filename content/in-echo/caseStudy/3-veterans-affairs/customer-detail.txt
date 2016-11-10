@@ -1,0 +1,36 @@
+Title: Veterans Affairs
+----
+Seotitle: Department of Veterans Affairs Case Study
+----
+Description: Department of Veterans Affairs Case Study
+----
+Keywords: veterans affairs, case study, va
+----
+CustomerURL: http://va.gov
+----
+CustomerLogo: va-logo
+----
+CustomerValueProp: Catalyze has helped the Department of Veterans Affairs with many internal projects, such as patient engagement.
+----
+CaseStudyTitle: Streamlining Care for America's Veterans
+----
+CaseStudyKeys: ### In this case study, you will learn:
+
+* The challenges faced by internal teams at the VA
+* How Catalyze helped speed up the deployment of several new tools while also providing new insights to patient behavior
+* The impact on patient engagement goals
+----
+CaseStudyForm: efb6412e-9d74-4a58-92c9-8d98644aca2c
+----
+SpotlightPostTitle:
+----
+SpotlightPostLead:
+----
+SpotlightPostBodyIntro:
+----
+SpotlightPostQuote:
+----
+SpotlightPostBody:
+----
+SpotlightRelatedContent:
+----

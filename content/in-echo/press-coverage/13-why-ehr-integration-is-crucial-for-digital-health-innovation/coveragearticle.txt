@@ -1,0 +1,21 @@
+Title: Why EHR Integration is Crucial for Digital Health Innovation
+
+----
+
+Seotitle: Why EHR Integration is Crucial for Digital Health Innovation
+
+----
+
+Date: 03/14/2016
+
+----
+
+Quote: So what’s an ambitious developer to do? Good says whatever you do, don’t wait for the process or the access points to get easier, because there’s a lot more to consider: “EHR integration tends to be synonymous with message types, but if you’ve completed an integration with an EHR, you realize that it is much more of a process. It’s a journey. Message types, integration engines, and web services are one step in this process. Combining messages with programmed logic, security, and project management are just as essential to getting to the finish line of an integration.”
+
+----
+
+Publication: HIT Consultant
+
+----
+
+Source: http://hitconsultant.net/2016/03/14/why-ehr-integration-crucial-digital-health-innovation/

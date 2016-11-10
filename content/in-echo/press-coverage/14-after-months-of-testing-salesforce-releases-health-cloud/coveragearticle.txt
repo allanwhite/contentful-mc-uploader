@@ -1,0 +1,21 @@
+Title: After months of testing, Salesforce releases Health Cloud
+
+----
+
+Seotitle: After months of testing, Salesforce releases Health Cloud
+
+----
+
+Date: 02/29/2016
+
+----
+
+Quote: Six months after the initial introduction, Salesforce on Monday morning announced the general release of Salesforce Health Cloud, touted as a patient relationship management platform. The San Francisco-based customer relationship management giant released the product just ahead of the opening of HIMSS16 in Las Vegas.
+
+----
+
+Publication: MedCityNews
+
+----
+
+Source: http://medcitynews.com/2016/02/salesforce-health-cloud/

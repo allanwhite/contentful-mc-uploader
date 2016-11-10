@@ -1,0 +1,75 @@
+Title: Healthfinch
+----
+Seotitle: healthfinch
+----
+Description: Build Versus Buy: A Case Study in Accelerated EHR Integrations
+----
+Keywords: healthfinch, catalyze, ehr
+----
+CustomerURL: http://healthfinch.com
+----
+CustomerSummary: Companies that recognize and address clinician’s workflow challenges will quickly rise to the top. Madison-based digital health vendor healthfinch studies these problems closely. If a physician or nurse must open an application outside of the electronic health record to access the company’s information technology, things will end there. As a result, healthfinch has made the EHR user experience one of its company focuses. Placing its technology within the EHR remains critical to the adoption and success of all the healthfinch products.
+
+  The company’s Practice Automation Platform, Charlie, handles routine and repeatable clinical work for healthcare workers and physicians. Doctors say that these mundane tasks are one of the chief reasons for burnout, so embedding this technology into the EHR has become even more important.
+
+  With a goal of dramatically impacting healthcare delivery, healthfinch first customized a non-standard interface to connect their technology with health systems. As the company scaled and moved toward a more defined structure to move data from point A to point B, instead of custom coding, healthfinch sought integration expertise from Catalyze. This case study lays out three important considerations healthfinch evaluated and are applicable to other IT teams when weighing “build versus buy” options for EHR integrations.
+----
+CustomerPerson:
+----
+CustomerRole:
+----
+CustomerAvatar:
+----
+CustomerQuote: Even if we had spent the money to build in-house, integrating would have taken us three to six months compared to just a week using Catalyze.
+----
+CustomerLogo: healthfinch-logo
+----
+CustomerValueProp:
+----
+CustomerProducts:
+----
+CaseStudyTitle: Build Versus Buy: A Case Study in Accelerated EHR Integrations
+----
+CaseStudyKeys: ### In this case study, you will learn:
+
+* How to solve data exchange dilemmas when data requirements fall outside the scope of traditional standards
+* How to bridge the gap between industry-wide promise of interoperability and current data exchange needs
+* The various factors that weigh into a “build versus buy” decision that have bottom line impact
+----
+CaseStudyVideoPoster:
+----
+CaseStudyVideo:
+----
+CaseStudyForm: 7e78a6b9-fe2e-437b-961f-07a9c9d0543e
+----
+SpotlightPostTitle: Using technology to automate, delegate and simplify repeatable clinical tasks
+----
+SpotlightPostLead: When 46 percent of all physicians [report in recent surveys](http://archinte.jamanetwork.com/article.aspx?articleid=1351351) that they are burned out, the consequences reach far beyond the doctor; the effects also impact the physician’s families and his or her patients. Several factors contribute to physician burnout but one of the top cited reasons is increasing computerization. Tasks related to technology requirements are a burden to doctors, who often find themselves working "below-license," having less time for patients and more time needed after work hours to complete clerical work. Companies that can remove these burdens by addressing repeatable and mundane tasks through the use of automated technology are poised to solve some of the most vexing problems for clinicians. Madison-based healthfinch has been solving such clinical challenges for the past five years and is helping healthcare organizations become more efficient while simultaneously improving patient satisfaction.
+----
+SpotlightPostBodyIntro: (image: healthfinch-charlie-typing.png)
+
+Lyle Berkowitz, MD is a thought-leader in medical informatics and extremely passionate about "doctor happiness." When Jonathan Baran heard Dr. Berkowitz speak at a conference about physician burnout and EMR issues, Baran knew he could use his engineering experience to solve some of the challenges of which Dr. Berkowitz lamented. Subsequently, Baran left the PhD program in biomedical engineering at UW-Madison to co-found healthfinch with Dr. Berkowitz. The two quickly began solving organizational inefficiencies among clinical staff, started signing major health systems along the way and raised over $10 million in funding.
+
+Now with more than 30 employees, [healthfinch](http://www.healthfinch.com) has doubled its size within the last year as it has methodically attacked and solved many of the healthcare challenges brought on by increased demands on capacity, changes in regulations and standardization within organizations. Karen Hitchcock, healthfinch’s Chief Experience Officer says, "Helping clinicians to work ‘top-of-license’ by leveraging the power of the electronic medical record (EMR) to improve physician workflows and the work lives of doctors is where the company can make the greatest impact upon healthcare."
+----
+SpotlightPostQuote:  Madison-based healthfinch has been solving such clinical challenges for the past five years and is helping healthcare organizations become more efficient while simultaneously improving patient satisfaction.
+----
+SpotlightPostBody: In 2016 the company moved beyond individual applications to roll out a robust [Practice Automation Platform](http://www.healthfinch.com/our-platform/) designed to unburden clinical staff from routine and repeatable tasks which presently include "Scout" to help staff prepare charts and patients for routine, scheduled visits; “Swoop” to help clinicians make better, more informed decisions around prescription refills; and, “Patrol” for eliminating care gaps.
+
+(image: charlie-swoop-meds.jpg width: 150 class: float-right alt: Charlie Swoop Meds)
+
+While Scout, Swoop and Patrol are names of jobs that the platform performs, "Charlie" is the platform name and one that has its own playful personality for the imaginary healthfinch. The co-founders named the company healthfinch as a playful nod to the work that Charles Darwin did on the Galapagos finches. Ultimately, the finches helped prove Darwin’s evolution theory.
+
+### Automation – the future of healthcare
+
+As healthfinch grows, the company is building up Charlie’s capabilities and clinical intelligence to handle just about any routine task a clinician faces. Baran and Dr. Berkowitz, who respectively became Chief Executive Officer and Chief Medical Officer, point toward automation as the future of healthcare and have a company mission that states: *Automate what can be automated. Delegate what can be delegated. And, simplify the rest. *This is a tall order for healthfinch but one with the potential for huge impacts. Baran says, "We’ve only begun to scratch the surface of what will be possible. In ten years, there will be many large companies executing on this plan and we believe healthfinch is as well positioned as any for that future."
+----
+SpotlightRelatedContent:
+----
+SpotlightQuote:
+  pullquote:
+    person: Karen Hitchcock
+    role: Chief Experience Officer, healthfinch
+    photo: /assets/img/customer-headshots/headshot-healthfinch-hitchcock.jpg
+    quote: Helping clinicians to work ‘top-of-license’ by leveraging the power of the electronic medical record (EMR) to improve physician workflows and the work lives of doctors is where the company can make the greatest impact upon healthcare.
+----

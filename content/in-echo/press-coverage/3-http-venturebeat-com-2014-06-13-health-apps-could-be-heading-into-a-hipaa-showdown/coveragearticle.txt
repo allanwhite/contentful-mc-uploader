@@ -1,0 +1,21 @@
+Title: Health apps could be heading into a HIPAA showdown
+
+----
+
+Seotitle: Health apps could be heading into a HIPAA showdown
+
+----
+
+Date: 06/13/2014
+
+----
+
+Quote: "By definition, an information system that “manages and transmits” protected health information (PHI) is subject to the privacy rules in HIPAA, explains Dr. Travis Good, MD, CEO and Co-founder of Catalyze, Inc. Good is an expert in HIPAA compliance and security issues concerning health information systems."
+
+----
+
+Publication: VentureBeat
+
+----
+
+Source: http://venturebeat.com/2014/06/13/health-apps-could-be-heading-into-a-hipaa-showdown/

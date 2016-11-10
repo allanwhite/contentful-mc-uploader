@@ -1,0 +1,81 @@
+Title: mpirik
+----
+Seotitle: mpirik Health
+----
+Description: [m]pirik: Solving orthopedic  practice challenges with technology
+----
+Keywords:
+----
+CustomerURL: http://mpirik.com
+----
+CustomerSummary: [m]pirik was founded in 2010 on the belief that easy-to-use technology can improve patients’ experience and provide a higher quality of care. We create products that hospitals and practitioners can use to improve access to caregivers and expedite the delivery of pertinent information to patients.
+----
+CustomerPerson: Dr. Joe Kohli
+----
+CustomerRole: Founder
+----
+CustomerAvatar: /assets/img/customer-headshots/headshot-mpirik-kohli.jpg
+----
+CustomerQuote:
+----
+CustomerLogo: mpirik-logo
+----
+CustomerValueProp:
+----
+CustomerProducts:
+----
+CaseStudyTitle:
+----
+CaseStudyKeys:
+----
+CaseStudyVideoPoster:
+----
+CaseStudyVideo:
+----
+CaseStudyForm:
+----
+SpotlightPostTitle: [m]pirik: Solving orthopedic practice challenges with technology
+----
+SpotlightPostLead: By the year 2030, an aging population combined with an increase in the prevalence of obesity will coalesce to place an orthopedic demand on our healthcare system as never before. The Academy of Orthopedic Surgery projects hip replacements to increase 174% to 572,000 annually. Furthermore, a Journal of American Medical Association 2012 study estimates that an increase demand for knee replacement surgeries could reach 3.5 million annually. Meanwhile, total joint replacements are gaining wider acceptance, as well, and are projected to increase by 400% in 2030.
+
+Yes, it looks as if 2030 will be a pivotal year for orthopedists. To meet this swelling demand, small to medium orthopedic practices will need to operate more efficiently in order to survive outside of super groups or hospital systems. Healthcare IT company, [m]pirik is poised to help private orthopedic surgeons remain independent. To meet the challenges of compliance with government regulation and increased efficiency, the Milwaukee-based company has developed an orthopedic care management platform that is transforming the practice of orthopedic medicine.
+----
+SpotlightPostBodyIntro: Baby boomers are living longer and remaining more physically active later in life. As a result, a massive graying population is looking for the 2.0-version of some of their body parts. With this growing demand for new joints, hips and knees, orthopedic surgeons are working within a highly regulated healthcare system that remains in flux as it moves toward value-based care.
+
+Full-time practicing orthopedic surgeon Nadjot “Joe” Kohli, MD recognizes the challenges for his colleagues. In an effort to provide orthopedists the tools to give their patients the most value for different types of orthopedic procedures, he also double downs as CEO of [m]pirik. Increasing efficiency of his own practice and proving the way he practiced medicine became his initial vision for the company. However, that shifted after his practice cohorts began seeing the results, which included: an increased case volume shift, busier practice, and patient satisfaction that skyrocketed.
+
+At the time, Kohli had three products, all with individual log-ins. Once his colleagues began asking questions about what he was doing and how he had shifted his practice so quickly, they too wanted to use his products. Kohli then decided to take the three disparate products and pull them into a single platform. He hired a few developers and launched the company, along with the platform called Ortho[m]atrix.
+----
+SpotlightQuote:
+----
+SpotlightPostBody: ## History Behind the Company Name
+
+The company has a three-pronged focus: doing things the simplest way possible, the fastest way possible, and the most efficient way possible. The odd looking company moniker, [m]pirik is rooted in that focus. Company leaders did a play-on-words to come up with the name, which is derived from the empirical formula — the simplest form of a compound. The brackets around the “m” indicate a math formula because in trying to find the best way to perform different orthopedic procedures, the company sees it as a formula. Using the “k” instead of a “c” is a hat tip to the company’s founder Dr. Joe Kohli.
+
+(image: mpirik-office.jpg)
+
+## The Impact
+
+[m]pirik’s Director of Business Development, Jake Bartnicki, says with MACRA coming down the pike (final rule to be released in November 2016) regulations and data collection needs around government mandates create a problem. “They are bleeding private practices dry,” further stating that beginning January 2017, government regulations and reporting needs will put pressure on private practices to either join, build supergroups, or be bought out by a hospital system. “We want to help those private practices comply with the government regulations and allow them to stay private with our orthopedic care management platform,” says Bartnicki.
+
+While recognizing the need for hospital-employed physicians, Bartnicki explains that physicians in private practices should not feel compelled to join with a large hospital system based on government regulations or financial shortcomings. “We think giving them a simple tool that allows them to comply with the government regulations offers them a choice on what they want to do and how to take care of their patients,” he says.
+
+## How the Platform Works
+
+Since the founding of [m]pirik in 2013, the company has focused solely on the measurement and improvements in orthopedics. “These technologies and solutions that we are building are not theoretical; everything that we add to the product and create is tested immediately inside Dr. Kohli’s practice, ensuring its efficacy and marketplace need,” says Bartnicki. Today’s Ortho[m]atrix orthopedic care management platform will help orthopedic surgeons do the following:
+
+1. Gather and analyze orthopedic data
+2. Standardize patient communication
+3. Provide necessary tools to improve patient outcomes
+4. Increase physician efficiency
+
+## [m]pirik Future
+
+(image: mpirik-staff.jpg)
+
+[m]pirik  will continue working with the platform it currently has in the marketplace, along with data collection. With its use, orthopedists can identify the best forms of treatment. “We’ll be able to create different types of protocols, whether it’s for outpatient total joints, rotator cuff repairs or ACL repairs. If followed correctly, [m]pirik can guarantee a certain outcome for different patient classes.
+----
+SpotlightRelatedContent:
+----
+SpotlightNext:
+----

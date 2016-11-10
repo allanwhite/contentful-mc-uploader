@@ -1,0 +1,21 @@
+Title: Healthcare Platform as a Service (PaaS)
+
+----
+
+Seotitle: Healthcare Platform as a Service (PaaS)
+
+----
+
+Date: 08/18/2015
+
+----
+
+Summary: A platform as a service, or "PaaS", is typically an "opinionated" service, meaning it chooses to do technical things a certain way. The user exchanges greater control and customization for the benefits of not needing to do the work him or herself. Certain users find immense value in a PaaS because it relieves the burden of conducting many of these rote jobs.
+
+----
+
+Post: PaaS, acronym for Platform as a Service, is a computing platform that is outsourced to a vendor, like Catalyze, so the company does not have to manage their own hardware and software layers. PaaS furthers efficient deployment of applications, development of applications, and application testing, while simultaneously supporting the construction, testing and hosting of web applications. PaaS permits IT to do all of the above from a single, streamlined environment.
+
+A PaaS is typically an "opinionated" tool, meaning it chooses to do technical things a certain way. The user exchanges greater control and customization for the benefits of not needing to do the work him or herself.
+
+A healthcare PaaS will thus have "opinions" that are specific to the healthcare industry. In Catalyze's case, our [Platform as a Service](https://catalyze.io/paas) approaches encryption, logging, and many more infrastructure components in a very specific way that complies with HIPAA.

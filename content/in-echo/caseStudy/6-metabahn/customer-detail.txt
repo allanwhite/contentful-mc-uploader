@@ -1,0 +1,52 @@
+Title: Metabahn
+----
+Seotitle: Metabahn
+----
+Description: Digital Agency Identifies Solution to Healthcare Industry Barriers
+----
+Keywords: metabahn, agency, hipaa, compliance
+----
+CustomerURL: http://metabahn.com
+----
+CustomerSummary: In 2015 Metabahn was approached by the HudsonAlpha Institute for Biotechnology to take on Genome Gateway, a new project which involved developing a Web-based portal to manage patient and clinic interactions. They needed a compliance partner, and Catalyze was a perfect fit.
+----
+CustomerPerson: Bryan Powell
+----
+CustomerRole: Founder & CEO, Metabahn
+----
+CustomerAvatar: /assets/img/customer-headshots/headshot-metabahn-bryan.jpg
+----
+CustomerQuote: Catalyze quickly became the only option for us.
+----
+CustomerLogo: metabahn-logo
+----
+CustomerValueProp:
+----
+CustomerProducts:
+----
+CaseStudyTitle: Digital Agency Identifies Solution to Healthcare Industry Barriers
+----
+CaseStudyKeys: ### In this case study, you will learn:
+
+* How the challege of compliance can detract from an agency's core competency.
+* Catalyze's commitment to being a partner through the compliance process.
+* How Catalyze has helped give Metabahn the foundation it needs to break into the healthcare market.
+----
+CaseStudyVideoPoster: https://embed-ssl.wistia.com/deliveries/575c0a57c48f379937a48f9cb7f4b7effa6f77c8.jpg
+----
+CaseStudyVideo: <script src="//fast.wistia.com/embed/medias/z5opnjh133.jsonp" async></script><script src="//fast.wistia.com/assets/external/E-v1.js" async></script><div class="wistia_responsive_padding" style="padding:56.25% 0 0 0;position:relative;"><div class="wistia_responsive_wrapper" style="height:100%;left:0;position:absolute;top:0;width:100%;"><span class="wistia_embed wistia_async_z5opnjh133 popover=true popoverAnimateThumbnail=true videoFoam=true" style="display:inline-block;height:100%;width:100%">&nbsp;</span></div></div>
+----
+CaseStudyForm: 6487f518-2e26-4fc7-8c66-d7957f4c7c7a
+----
+SpotlightPostTitle:
+----
+SpotlightPostLead:
+----
+SpotlightPostBodyIntro:
+----
+SpotlightPostQuote:
+----
+SpotlightPostBody:
+----
+SpotlightRelatedContent:
+----

@@ -1,0 +1,21 @@
+Title: Apple’s HealthKit To Integrate with Epic’s MyChart App
+
+----
+
+Seotitle: Apple’s HealthKit To Integrate with Epic’s MyChart App
+
+----
+
+Date: 06/19/2014
+
+----
+
+Quote: "It’s that lack of understanding that makes the emergence of HealthKit a hot button topic in the healthcare technology community, as it may force developers to recognize they cannot evade the issue of HIPAA compliance if a platform like HealthKit succeeds."
+
+----
+
+Publication: HIT Consultant
+
+----
+
+Source: http://hitconsultant.net/2014/09/18/apples-healthkit-to-integrate-with-epics-mychart-app/

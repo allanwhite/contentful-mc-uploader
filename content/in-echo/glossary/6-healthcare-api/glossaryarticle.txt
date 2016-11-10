@@ -1,0 +1,37 @@
+Title: Healthcare API
+
+----
+
+Seotitle: Healthcare API
+
+----
+
+Date: 03/23/2015
+
+----
+
+Summary: An API is a way for machines to programmatically communicate to each other. As you can imagine, the term "Healthcare API" can mean many things to many people. In this entry, we deconstruct the most common definitions.
+
+----
+
+Post: The term "API" stands for Application Programming Interface, of which "interface" is the most important word of the definition. An interface simply means a way to interact with a system—to send or retrieve data, to commit actions, to trigger events, and so on.
+
+An API is a tool for engineers. It allows for programmatic communication and data sharing between databases, servers, and applications. The benefits of using APIs are tremendous. Being able to access data from other apps and integrate it into one's own app adds immediate value. If you have heard of APIs as a concept, chances are you've also heard of a "REST" API. REST API stands for Representational State Transfer, and works like a website, making calls for a client to a server via HTTP protocol. Mentions of API in the following text are going to refer to a REST API.
+
+As useful as an API can be, it is meaningless without associated documentation. A good API will have clear and detailed reference material on what the functions and objects are within the API and how to access and interact with it. An API is basically a collection of nouns and verbs within a given system, but as users of an API, they are only as good as the documentation.
+
+So what exactly is a _**Healthcare API**_? As you could imagine, using an API within the context of healthcare would probably require some extra element of security. This is PHI ([Protected Health Information](https://catalyze.io/learn/what-is-protected-health-information-or-phi)) we're talking about, and HIPAA compliance is important. For a good overview of securing APIs, check out this blog post written by our [CEO Travis Good](https://catalyze.io/travis), [Intro to Secure APIs](https://catalyze.io/blog/intro-to-secure-apis). Calling an API (or [server](https://catalyze.io/glossary/hipaa-server) or [platform](https://catalyze.io/paas) or _health API database_ or...you get the picture) _HIPAA compliant_ typically means the provider of that technology signs a [business associate agreement (BAA)](https://catalyze.io/learn/business-associate-agreements/) and has additional security controls, and maybe more data segregation. 
+
+To dig deeper into HIPAA compliant APIs, we created a three-part series on the subject.
+
+* [How to Design a HIPAA Compliant Healthcare API - Part 1](https://catalyze.io/blog/how-to-design-a-hipaa-compliant-healthcare-api)
+
+* [How to Design a HIPAA Compliant Healthcare API - Part 2](https://catalyze.io/blog/how-to-design-a-hipaa-compliant-healthcare-api-part-2)
+
+* [How to Design a HIPAA Compliant Healthcare API - Part 3](https://catalyze.io/blog/how-to-design-a-hipaa-compliant-healthcare-api-part-3)
+
+The first and second focus on technology, design of the API and data models respectively. The third delves into HIPAA compliance more broadly, and highlights key areas where Catalyze is different from other infrastructure and _HIPAA compliant API vendors_.
+
+Catalyze's mobile [Backend as a Service (BaaS)](https://catalyze.io/baas) is a secure API which offers a _healthcare API datastore_ (or, better put, a _HIPAA compliant datastore_), healthcare-centric data models, custom classes, and authentication and authorization. This BaaS API Reference provides some excellent documentation on how one can make use of Backend as a Service.
+
+[HL7 Integration](https://catalyze.io/hl7) is another service Catalyze offers, which makes use of a HIPAA API. Mirth is the interface used, which is an open sourced healthcare integration engine. Catalyze manages the painful but necessary HL7 integration between an EHR and your app.

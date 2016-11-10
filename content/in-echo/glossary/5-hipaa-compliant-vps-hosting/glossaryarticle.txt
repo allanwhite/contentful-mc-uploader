@@ -1,0 +1,29 @@
+Title: HIPAA Compliant VPS Hosting
+
+----
+
+Seotitle: HIPAA Compliant VPS Hosting
+
+----
+
+Date: 07/06/2015
+
+----
+
+Summary: “VPS” stands for Virtual Private Server and a VPS hosting backdrop imitates a dedicated server within an allocated hosting environment.
+
+----
+
+Post: ## First, what is VPS Hosting?
+
+“VPS” stands for Virtual Private Server and a VPS hosting backdrop imitates a dedicated server within an allocated hosting environment. VPS Hosting could be said to be both shared and dedicated hosting and is one of the many sorts of web hosting expositions to choose from to host a website. 
+
+Similar to Virtual Box and VMware, VPS technology allows you to work multiple different virtualized operating systems (OS) on a single server while each OS acts as its own dedicated server. This results in one of the benefits of VPS hosting being that you get the advantages of a dedicated server at a proportionate price point. Other benefits include 
+- Privacy by limiting access to files on your server.
+- Control over installing applications that mandate restarting your VPS server without affecting other servers. 
+- Customization over applications such as PHP, Apache, and MySQL to convenience the server to personalized preferences.
+- Accessibility to dedicated RAM quotas available at all times because unlike shared hosting, only you can make use of all the RAM when you need it.
+
+## So what makes VPS Hosting HIPAA Compliant?
+
+HIPAA compliance is all about analysis, risk assessment, and management in the attempt to emphasize confidentiality, integrity, and availability, also known as the *CIA Triad*. With that stated, ePHI should be encrypted (AES-256bit) at rest and also when data is in transmission. If the VPS hosting environment is encrypted, then the minimum requirements of HIPAA compliance are met. If the data is encrypted, HIPAA compliant requirements are still met. A BAA must also be signed with a VPS provider otherwise it is in violation of the Omnibus Rule. And in case of a data breach, fines ranging from $100 to $1.5 million could result, not considering the FTC rule that allows patients to sue for compensation as well.

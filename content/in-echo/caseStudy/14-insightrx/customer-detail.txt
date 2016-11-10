@@ -1,0 +1,66 @@
+Title: InsightRX
+----
+Seotitle: InsightRX
+----
+Description: InsightRX - Precision Medicine Made Simple
+----
+Keywords:
+----
+CustomerURL: http://insight-rx.com
+----
+CustomerSummary: Healthcare suffers from a “one-size-fits-all” approach to medicinal dosing, often resulting in whatever is best for the average patient, rather than what is best for you. San Francisco-based InsightRX believes the technology is there—and the time is now—to bring better decision-making support to the point of care specific to individual patients.
+----
+CustomerPerson: Sirj Goswami
+----
+CustomerRole: CEO and Co-founder
+----
+CustomerAvatar: /assets/img/customer-headshots/headshot-insightrx-sirj.jpg
+----
+CustomerQuote: We saw a large gap in how precision medicine is practiced today. There is a significant need to individualize medicine based on unique patient characteristics and models/algorithms built on large amounts of data. We saw an opportunity to bring these advanced models and algorithms that previously were only available to highly-specialized academic researchers to a wider audience of health care practitioners.
+----
+CustomerLogo: insightrx-logo
+----
+CustomerValueProp:
+----
+CustomerProducts:
+----
+CaseStudyTitle:
+----
+CaseStudyKeys:
+----
+CaseStudyVideoPoster:
+----
+CaseStudyVideo:
+----
+CaseStudyForm:
+----
+SpotlightPostTitle: InsightRX: Precision medicine made simple through machine learning and quantitative pharmacology
+----
+SpotlightPostLead: Healthcare suffers from a “one-size-fits-all” approach to medicinal dosing, often resulting in whatever is best for the average patient, rather than what is best for you. San Francisco-based InsightRX believes the technology is there—and the time is now—to bring better decision-making support to the point of care specific to individual patients.
+----
+SpotlightPostBodyIntro: The concept is often called Precision Medicine, which is literal in its meaning. Technology now makes it possible to customize patient care to the individual patient. Healthcare is being precise with the selection and administering of diagnosing and medicines.
+
+A challenge with precision medicine is a form of the “last mile” problem, which in this case means available analytics and insights available at the actual point of care. Giving these tools to clinicians is an unsolved problem, even though the technology exists. That is where InsightRX comes in. They are a platform for precision medicine and clinical analytics. Insight RX’s technology hinges on quantitative pharmacology and machine learning to individualize medicinal dosing.
+----
+SpotlightQuote:
+  pullquote:
+    person: Sirj Goswami
+    role: CEO and Co-founder
+    photo: /assets/img/customer-headshots/headshot-insightrx-sirj.jpg
+    quote: We saw a large gap in how precision medicine is practiced today. There is a significant need to individualize medicine based on unique patient characteristics and models/algorithms built on large amounts of data. We saw an opportunity to bring these advanced models and algorithms that previously were only available to highly-specialized academic researchers to a wider audience of health care practitioners.
+----
+SpotlightPostBody: The company was founded by Sirj Goswami, Ron Keizer and Ranvir Mangat, and is growing as they gain traction. They saw an opportunity to bring their expertise in quantitative pharmacology, modeling and simulation to this budding industry, and chose the name InsightRX to clearly communicate their focus on providing actionable insights within pharmacology and medical dosing.
+
+Their platform has two approaches. At the individual level, data is collected over-time to learn about the patient’s response and optimize treatment. At the population level, as more data is collected on a large scale, their pharmacological models and clinical algorithms guide treatment recommendations and become more precise.
+
+The platform is built on a strong software and math-based foundation, which will enables machine learning  to play a central role in both the present and future of precision medicine. Quantitative pharmacology describes in mathematical and statistical language the relationship(s) between disease, drug action, and individual variability, which enables patient specific quantitative decision-making.
+
+<iframe src="https://player.vimeo.com/video/112327353" width="640" height="400" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<p><a href="https://vimeo.com/112327353">Introduction InsightRX platform</a> from <a href="https://vimeo.com/user34593662">Ron Keizer</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+
+In the future, InsightRX sees precision medicine as a core tool within patient care, and they aim to be the preferred platform that administers it.
+----
+SpotlightRelatedContent:
+----
+SpotlightNext:
+----

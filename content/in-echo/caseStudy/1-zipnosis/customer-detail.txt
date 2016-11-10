@@ -1,0 +1,52 @@
+Title: Zipnosis
+----
+Seotitle: Zipnosis Case Study
+----
+Description: Scalable, compliant integration with any EHR
+----
+Keywords: Zipnosis
+----
+CustomerURL: http://zipnosis.com
+----
+CustomerSummary:
+----
+CustomerPerson: Derek Rockwell
+----
+CustomerRole: Director of Engineering, Zipnosis, Inc.
+----
+CustomerAvatar: /assets/img/customer-headshots/headshot-zipnosis-derek.jpg
+----
+CustomerQuote: They met our goals, and, along the way, we discovered that Catalyze shared our view about the next generation of healthcare integration.
+----
+CustomerLogo: zipnosis-logo
+----
+CustomerValueProp: See how Catalyze saves Zipnosis 150 man hours per HL7 integration.
+----
+CustomerProducts: integration
+----
+CaseStudyTitle: Scalable, compliant integration with any EHR
+----
+CaseStudyKeys: ### In this case study, you will learn:
+
+* How Zipnosis saves 150 man hours per HL7 integration.
+* Why Catalyze's dedication to service is a defining differentiation.
+* **"Scalable, robust, and HIPAA compliant"** — How the Catalyze platform best met three core criteria when evaluating several infrastructure providers.
+----
+CaseStudyForm: c8ee37d6-3155-4afe-b187-0e42081d66c6
+----
+CaseStudyVideoPoster: /assets/img/video-poster-casestudy-zipnosis-2.jpg
+----
+CaseStudyVideo: <script src="//fast.wistia.com/embed/medias/yohv4fptk4.jsonp" async></script><script src="//fast.wistia.com/assets/external/E-v1.js" async></script><div class="wistia_responsive_padding" style="padding:56.25% 0 0 0;position:relative;"><div class="wistia_responsive_wrapper" style="height:100%;left:0;position:absolute;top:0;width:100%;"><span class="wistia_embed wistia_async_yohv4fptk4 popover=true popoverAnimateThumbnail=true videoFoam=true" style="display:inline-block;height:100%;width:100%"> </span></div></div>
+----
+SpotlightPostTitle:
+----
+SpotlightPostLead:
+----
+SpotlightPostBodyIntro:
+----
+SpotlightPostQuote:
+----
+SpotlightPostBody:
+----
+SpotlightRelatedContent:
+----

@@ -1,0 +1,55 @@
+Title: Cordata
+----
+Seotitle: Cordata
+----
+Description: Cordata Gains Compliance Confidence from Clients and Investors with Catalyze
+----
+Keywords: cordata, integration, interoperability, success story
+----
+CustomerURL: http://cordata.com
+----
+CustomerSummary:
+----
+CustomerPerson: Gary M. Winzenread
+----
+CustomerRole: CEO & President, Cordata
+----
+CustomerAvatar: /assets/img/customer-headshots/headshot-cordata.jpg
+----
+CustomerQuote: We are seeking to build confidence with many stakeholders. When I mention Catalyze, I get nods of recognition and no more questions asked about infrastructure.
+----
+CustomerLogo: cordata-logo
+----
+CustomerValueProp: Helping Cordata over the compliance hurdle has saved the Ohio company time, hassle and the cost of a full-time engineer.
+----
+CustomerProducts: hosting
+----
+CaseStudyTitle: Cordata Gains Compliance Confidence from Clients and Investors with Catalyze
+----
+CaseStudyKeys: When a healthcare IT company struggles with compliance, Catalyze is ready to step in. Helping Cordata over the compliance hurdle has saved the Ohio company time, hassle and the cost of a full-time engineer. Yet the bonus value of Catalyze’s Platform as a Service became most evident during fundraising. Cordata’s CEO received nods of approval from investors when they realized the company’s technology is built upon the HIPAA compliant, HITRUST CSF Certified Catalyze platform.
+
+### Discover how Catalyze helped Cordata strengthen its compliance in this case study.
+
+* The **Challenge:** Build a HIPAA compliant infrastructure without interrupting engineer workflows
+* The **Solution:** Catalyze’s Platform as a Service and expertise to provide compliance direction for product development
+* The **Advantage:** Cordata gains greater confidence in its own security practices
+* The **Opportunities:** Investors immediately trust Cordata’s infrastructure based upon its partnership with HIPAA security experts at Catalyze
+----
+CaseStudyVideoPoster: https://embed-ssl.wistia.com/deliveries/86118d2e20d48686b73a3a3af35d1811e6c5856a.jpg
+----
+CaseStudyVideo: <script src="//fast.wistia.com/embed/medias/vcjue00pyu.jsonp" async></script><script src="//fast.wistia.com/assets/external/E-v1.js" async></script><div class="wistia_responsive_padding" style="padding:56.25% 0 0 0;position:relative;"><div class="wistia_responsive_wrapper" style="height:100%;left:0;position:absolute;top:0;width:100%;"><span class="wistia_embed wistia_async_vcjue00pyu popover=true popoverAnimateThumbnail=true videoFoam=true" style="display:inline-block;height:100%;width:100%">&nbsp;</span></div></div>
+----
+CaseStudyForm: bfc4cfb0-f369-4de4-ba04-aaf4fae2b7c3
+----
+SpotlightPostTitle:
+----
+SpotlightPostLead:
+----
+SpotlightPostBodyIntro:
+----
+SpotlightPostQuote:
+----
+SpotlightPostBody:
+----
+SpotlightRelatedContent:
+----

@@ -1,0 +1,53 @@
+Title: HealthLoop
+----
+Seotitle: Custom Solutions, Cost Savings, and Commitment to Service
+----
+Description: See how HealthLoop saves operational costs with Catalyze
+----
+Keywords: healthloop, data, hipaa, integration
+----
+CustomerURL: http://healthloop.com
+----
+CustomerSummary:
+----
+CustomerPerson: Mayank Thanawala
+----
+CustomerRole: VP of R&D, HealthLoop
+----
+CustomerAvatar: /assets/img/customer-headshots/headshot-healthloop.jpg
+----
+CustomerQuote: Catalyze surprised us when they proposed a customized solution; with our previous hosting company it was always – ‘take it or leave it.’
+----
+CustomerLogo: healthloop-logo
+----
+CaseStudyTitle: See how HealthLoop saves operational costs with Catalyze
+----
+CaseStudyKeys: ### In this case study, you will learn:
+
+* How HealthLoop saved over $132,000 annually.
+* The value in zero lock-in services.
+* Catalyze's commitment to scalability, communication, and responsibility.
+----
+CaseStudyVideoPoster: /assets/img/video-poster-casestudy-healthloop-2.jpg
+----
+CaseStudyVideo: <script charset="ISO-8859-1" src="//fast.wistia.com/assets/external/E-v1.js" async></script>
+<div class="wistia_embed wistia_async_wrrh0oc5c3 popover=true" style="display:inline-block;height:236px;width:420px">&nbsp;</div>
+----
+CustomerValueProp:
+----
+CustomerProducts: integration
+----
+CaseStudyForm: 466ed276-012d-4319-b6ca-0a41fc5939a6
+----
+SpotlightPostTitle:
+----
+SpotlightPostLead:
+----
+SpotlightPostBodyIntro:
+----
+SpotlightPostQuote:
+----
+SpotlightPostBody:
+----
+SpotlightRelatedContent:
+----

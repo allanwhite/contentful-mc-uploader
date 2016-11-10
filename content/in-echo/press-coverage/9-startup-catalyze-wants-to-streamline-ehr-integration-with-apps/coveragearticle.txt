@@ -1,0 +1,21 @@
+Title: Startup Catalyze wants to streamline EHR integration with apps
+
+----
+
+Seotitle: Startup Catalyze wants to streamline EHR integration with apps
+
+----
+
+Date: 12/02/2015
+
+----
+
+Quote: As Catalyze calls integration a “journey” rather than an application provider interface or a static integration engine, Redpoint streamlines and manage the process with three sets of tools: “Scripts,” pre-configured integration sets for specific EHRs; “connectors” to automate data flow between EHRs and third-party apps; and workflows called “bearings” to manage integration projects.
+
+----
+
+Publication: MedCityNews
+
+----
+
+Source: http://medcitynews.com/2015/12/catalyze-ehr-integration/

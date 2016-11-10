@@ -1,0 +1,30 @@
+Title: HL7 FHIR
+
+----
+
+Seotitle: HL7 FHIR
+
+----
+
+Date: 05/27/2015
+
+----
+
+Summary: FHIR (Fast Healthcare Interoperability Resources) is a new and emerging standard being developed under the the Health Language 7 (HL7) organization.
+
+----
+
+Post: FHIR (Fast Healthcare Interoperability Resources) is a new and emerging standard being developed under the the [Health Language 7](https://hl7.org/) (HL7) organization. Pronounced as 'Fire', it was initially developed by [Graham Grieve](http://www.healthintersections.com.au/), who insisted FHIR be open sourced. At its core, FHIR is intended to be the next generation of healthcare interoperability. It tries to combine the best features of HL7 Version 2, HL7 Version 3, and HL7 CDA, while leveraging the latest web service technologies.
+
+FHIR has the ambitious goal for integration capabilities to be built into the EHR itself, along with the other aspects of authentication and security. This will, over time, eliminate the need for expensive integration projects and licenses. Additionally, the use of modern concepts, such as [RESTful APIs](http://en.wikipedia.org/wiki/Representational_state_transfer), and accompanying documentation, will make it much easier for developers and applications to quickly connect and get the data needed. From a design perspective, the general principle is that since healthcare is complicated, creating a standard set of models which are transactional in nature (like HL7) has shown to be problematic; therefore, creating core models (like patients, for example), having standardized data models around those core elements, and ensure most, if not all, use cases can be addressed by allowing requests to be composed as needed.
+
+But what exactly differentiates HL7 FHIR from its predecessors? 
+* FHIR was written with a key focus on the implementers as the target audience, specifically the use of reference implementations, which were incorporated into the design from the start. 
+* Following in the successful footsteps of other interoperable industries, FHIR embraces the use of RESTful web services as an [API](https://catalyze.io/glossary/healthcare-api).
+* Most use cases are covered in the content in the core specification of FHIR being cleaner and easier than HL7 V2 and being less complex than HL7 V3.
+* HL7 CDA introduced the standard of human readability and HL7 FHIR continues this concept ensuring that it will continue to be an option.
+* HL7 FHIR will be a freely available standard.
+* FHIR provides flexibility by supporting multiple architectures and paradigms, such as, REST, Messages, Services, & Documents.
+* FHIR will provide modern governance and capabilities that allow guidelines to be created in a matter that is protective but not restraining. 
+
+HL7 FHIR can be utilized in a multitude of common workflows, like application-to-application, to more complex engagements, like full-fledged multi-facility healthcare information systems. HL7 FHIR surely has a long ways to go before becoming an industry standard, but based off the success of the modern technologies that FHIR was based upon in other industries, the future looks bright.

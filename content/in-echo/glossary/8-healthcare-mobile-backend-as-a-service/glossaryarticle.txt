@@ -1,0 +1,17 @@
+Title: Healthcare Mobile Backend as a Service
+
+----
+
+Seotitle: Healthcare Mobile Backend as a Service (mBaas)
+
+----
+
+Date: 08/11/2015
+
+----
+
+Summary: Mobile Backend as a Service, aka MBaaS or BaaS, is typically an API that exposes a persistent datastore to devices that need it, like an iPhone.
+
+----
+
+Post: Mobile Backend as a Service, more commonly referred to as MBaaS or BaaS, is a respectively recent maturation in the cloud computing industry. BaaS provides application developers a method to connect their apps to backend cloud storage and APIs exposed by backend applications while including attributes such as push notifications, social networking integration, and user management. The process of incorporating these services into an app can be incredibly time-consuming and complex for developers.  Catalyze, as a BaaS provider, forms the bridge between the front-end of applications and the various cloud-based backends through a joint API and SDK. This provides a dependent method to manage backend data which means developers do not to recreate their own backend for each service their app needs access to, which will save both time and money.

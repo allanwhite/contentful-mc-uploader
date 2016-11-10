@@ -1,0 +1,43 @@
+Title: Compliance by Design
+
+----
+
+Seotitle: Compliance by Design
+
+----
+
+Author: travis
+
+----
+
+Date: 05/26/2014
+
+----
+
+Post: There's a principle in engineering called security through obscurity, which is in contrast to security by design. Security by design is how we build technology at catalyze. Security through obscurity takes the premise that if you don't provide any information and you essentially keep the way that you do security, and the types of systems that you use, a secret, then people are less likely to find vulnerabilities and ultimately compromise your systems.
+
+There are theoretical reasons for this approach. A lot of the time, one of the first steps that a malicious attacker will take would be going through the process of network and information discovery. Learning the types of network that you're using, network technologies that you're running, ports that you have opened, operating system versions, application and database server types, all of these various pieces of your technology, is the first step for most malicious hackers. Security by obscurity relies on people not discovering the types of things you're running in your environment.
+
+This is in contrast to security by design, which is very upfront and well-documented in how things are made secure, relying on a proactive approach to security and patching as well as risk mitigation. Security through obscurity is not commonly accepted as a best practice in the industry. NIST specifically speaks against security through obscurity as not an effective way to do information security, or create information security program for an organization.
+
+Applying those same principles to compliance, and doing so while examining the current compliant hosting market, yields interesting results. Compliance through obscurity is something that we see pretty prevalent in the industry today - specifically in the health care industry today. We see many cloud vendors that aren't upfront and don't publicly publish their policies. These compliant vendors don't publish their business associate agreements, and they are not upfront about the way that they manage compliance or map to compliance frameworks like HIPAA. What that lack of transparency does in compliance is even worse than what it does in security through obscurity.
+
+With HIPAA, there's a lot of confusion already in the market. With modern cloud-based technologies, APIs, business associates, and now sub-contractors, there are multiple layers of compliance, and there is inheritance of different aspects of HIPAA compliance. Not having transparency in compliance, and mappings to the different requirements that exist within HIPAA, creates confusion about responsibilities and obligations. In the market today it is very unclear who is financially liable for which security controls and mitigations, as well as who is obligated between the different layers of vendors touching ePHI.
+
+Ultimately, this confusion creates a knee-jerk reaction from the large, established players in the industry, the health care systems and insurers - as they consider moving some of their technologies to a cloud-based environment, or working with vendors that utilize cloud-based technologies. Larger enterprises are more risk averse, rightfully so as they have a lot more at stake with potential breaches. It's harder for large players to move to the cloud because cloud-based offerings are not transparent and it's hard to understand who is meeting each of the various obligations that exist within HIPPA. Questions like who's managing disaster-recovery? Who's doing logging and back-up? Who's managing encryption at rest? Those specific things are different across all the various hosting options.
+
+None of the hosting providers open up their policies, and many don't open up their business associate agreements - heck, some require NDAs before signing BAAs. That serves to create additional confusion, and ultimately lead to solutions that incorporate business associates and subcontractors for things like hosting, that aren't meeting all the requirements of HIPAA, but that are signing BAAs. I think there are a lot of developers and vendors today that understand that. We have conversations with people that say, 'Well, we're using compliant hosting. We know we're not doing all these other things, or we might not be doing all these other things related to compliance that are required, but we have a BAA with our hosting provider, so we're usually able to get past the compliance and/or security roadblock or hurdle at the enterprise.
+
+There is an awareness of this - with business associates and with vendors - that transparency is something that they are largely lacking, but there are these hosting providers who are checking the BAA box for them. There are specific requirements in HIPAA that would be realized if a vendor went through an audit because an auditor would look at all these different components like disaster recovery, logging and back up, and encryption and other pieces. That's why we see so many health care organizations asking vendors - even small vendors - for an audit report, which many small vendors don't have and can't provide because they're expensive, because they're time consuming, and because a lot of the services that are required, from a technology perspective, are just hard to manage by a smaller organization.
+
+At Catalyze we take a radically different approach. We open up all of our [policies](https://catalyze.io/policy/), we host them on Github for version control; we open up our [business associate agreements](https://catalyze.io/policy/#catalyze-hipaa-business-associate-agreement-(“baa”)). We're creating more [tools](https://catalyze.io/hipaa/) that clearly indicate the different requirements that exist within HIPAA, and then how we map to those different requirements. We want to clearly lay out our responsibilities and obligations, and ultimately our risk, as an organization. For our customers, we want them to understand what their obligations are, what are all the obligations that exist within HIPPA, and then where the gaps are so that they can then address those gaps for healthcare organizations.
+
+Our ultimate goal, through transparency - hopefully for us, as well as our customers - is to make it easier to sell into healthcare organizations. For us, customer data must be protected, privacy is paramount, and there's pretty clear and transparent mappings to all the different requirements that exist within HIPAA. We take the approach of compliance by design and compliance through transparency, and we think it's something that as an industry would help increase the pace of adoption of modern cloud-based technologies - not just for us, not just for our customers - but more broadly speaking, for all of the industry.
+
+----
+
+Tags: hipaa,compliance,security,architecture,process
+
+----
+
+Fullname: Travis Good, MD

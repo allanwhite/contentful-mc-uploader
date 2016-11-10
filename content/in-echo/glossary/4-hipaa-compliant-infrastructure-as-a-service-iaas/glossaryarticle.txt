@@ -1,0 +1,27 @@
+Title: HIPAA Compliant Infrastructure as a Service (IaaS)
+
+----
+
+Seotitle: HIPAA Compliant Infrastructure as a Service (IaaS)
+
+----
+
+Date: 07/20/2015
+
+----
+
+Summary: Infrastructure as a Service is the most basic and flexible option of the "as a service" categories.  It takes care of most of the physical  requirements you need at scale.
+
+----
+
+Post: Infrastructure as a Service is customarily distinguished as one of three major classifications that fall under Cloud Computing, the others being SaaS (Software as a Service) and PaaS (Platform as a Service). All three, IaaS, PaaS, and BaaS, are all rendered over the inter-web nexus along with accessible, on-demand services in the cloud. They archetypically are sold to consumers on a subscriptions basis, usually recurring monthly fixed prices, along with the capabilities to scale as necessity dictates. The key distinction IaaS has from PaaS and BaaS is in how the service is utilized.
+
+Infrastructure as a Service permits any application to be run across a broad range of computer infrastructure (storage, servers, network) in accordance to user need. By far IaaS is the most flexible construct of cloud computing and is inclusive of Private Cloud, Public Cloud, and Hybrid Cloud variations.
+
+## So what makes it HIPAA Compliant?
+
+There are a few factors that play into making IaaS truly HIPAA compliant but the biggest is advanced data encryption support for data in transit and at rest. To meet HIPAA standards, data must be maintained in a means that is unreadable, undecipherable, and inaccessible to to outside parties. 
+
+Have more questions about encryption? Check out this [entry](https://catalyze.io/learn/hipaa-and-encryption).
+
+Have questions about HIPAA in general? Read our free guide on [HIPAA compliance](https://catalyze.io/hipaa-compliance).

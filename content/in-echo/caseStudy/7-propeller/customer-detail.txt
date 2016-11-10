@@ -1,0 +1,42 @@
+Title: Propeller
+----
+Seotitle: Propeller Health
+----
+Description: Solving Integration and Workflows to Improve Pediatric Asthma Care: A Propeller Health and Catalyze Collaboration
+----
+Keywords: propeller health, catalyze, asthma, copd, iot
+----
+CustomerURL: http://propellerhealth.com
+----
+CustomerSummary: Propeller Health is a leading digital health company focused on improving outcomes in chronic respiratory diseases such as asthma and COPD. Propeller’s platform provides real-time data and analytics from connected inhalers to help drive adherence to therapy and identify patients that are at risk for exacerbations. Better information enables more proactive care and reduces cost. Propeller’s customers include hospitals and health systems across the US. Each client is different.
+
+The case study described here presented two unique challenges for a children’s hospital wanting to integrate Propeller’s solution for their pediatric asthma patients. First, both patient and caregiver data needed to be housed together within the EHR. Second, it was required that Propeller’s real-time analytics were integrated into the normal clinical workflow. Catalyze provided expertise to help solve for both integration and workflow challenges and enabled Propeller to help patients and their families learn to better manage their disease.
+----
+CustomerPerson: Greg Tracy
+----
+CustomerRole: CTO & Co-Founder, Propeller Health
+----
+CustomerAvatar: /assets/img/customer-headshots/headshot-propeller.jpg
+----
+CustomerQuote: Any time you find a resource that understands Epic, like Mark and his team do, you are more likely to meet your desired project goals.
+----
+CustomerLogo: propeller-logo
+----
+CustomerValueProp:
+----
+CustomerProducts:
+----
+CaseStudyTitle: Solving Integration and Workflows to Improve Pediatric Asthma Care: A Propeller Health and Catalyze Collaboration
+----
+CaseStudyKeys: ### In this case study, you will learn:
+
+* An innovative workflow was created to bypass the data restrictions of the EHR
+* Patient and caregiver data were amalgamated to be read as a singular data source
+* Successful integrations were positioned for the future
+----
+CaseStudyVideoPoster:
+----
+CaseStudyVideo:
+----
+CaseStudyForm: dc17153f-cda3-4283-b7be-1fbd612d2398
+----
