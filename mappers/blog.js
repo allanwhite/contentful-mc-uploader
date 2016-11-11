@@ -47,7 +47,8 @@ module.exports = function(file) {
 
     //Custom mappings
     var pathParts = file.path.split('/');
-    var slug = pathParts[pathParts.length-2];
+    var slugParts = pathParts[pathParts.length-2].split('-');
+    var slug = slugParts.slice(1).join('-');
     file.content.fields.slug = {
         'en-US': slug
     };
