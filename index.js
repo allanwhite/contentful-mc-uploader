@@ -55,7 +55,7 @@ var throwApiError = function(error) {
 };
 
 var showProgress = function(msg) {
-    console.log('>> Progress: '.blue + msg.blue);
+    console.log('>> Progress: '.cyan + msg.cyan);
 }
 
 var showSuccess = function(msg) {
@@ -134,7 +134,7 @@ var contentTypeEndpoint = contentfulApi + '/content_types/' + cmd.contentType + 
 var path = cmd.args;
 var toString = function(file) { return file.toString(); };
 
-console.log('\nchecking authorisation and if content type exists'.blue +
+console.log('\nchecking authorisation and if content type exists'.cyan +
 '\n>> url: ' + contentTypeEndpoint.underline);
 
 var typeSpec;
