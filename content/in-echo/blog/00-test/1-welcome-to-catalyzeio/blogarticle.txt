@@ -1,5 +1,4 @@
 ---
----
 Title: Welcome to catalyze.io!
 SeoTitle: Welcome to catalyze.io!
 Author: travis
