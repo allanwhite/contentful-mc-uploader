@@ -4,6 +4,7 @@ SeoTitle: Mirth Connect: Apache HTTPClient, Rhino and Multi-part forms
 Author: mark
 Fullname: Mark Olschesky
 Date: 03/18/2015
+Summary: 
 Body: |
 I was setting up our alerter to send email through our mailgun account. I encountered a problem that I needed to handle for the first time using Mirth Connect: sending a multi-part message using Mirth Connect.
 
@@ -69,7 +70,8 @@ new BasicNameValuePair("text",  "There is a Mirth Error on appServer X. Please l
 
 ## Step 7: Make your POST and handle your response
 
-This is like a breath of fresh air. From here, just add the form elements as an entity, execute and read the Body: |
+This is like a breath of fresh air. From here, just add the form elements as an entity, execute and read the Summary: 
+Body: |
 
 
 ```

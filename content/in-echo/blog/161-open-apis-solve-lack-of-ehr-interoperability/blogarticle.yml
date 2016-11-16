@@ -4,6 +4,7 @@ SeoTitle: Open APIs Solve Lack of EHR Interoperability
 Author: mark
 Fullname: Mark Olschesky
 Date: 10/21/2015
+Summary: 
 Body: |
 As most healthcare technology professionals do, I was attempting to keep up to date on industry happenings in my down time and ran across [Becker’s](http://www.beckershospitalreview.com/healthcare-information-technology/) article *[15 criticisms on the lack of EHR interoperability from an AHA report](http://www.beckershospitalreview.com/healthcare-information-technology/15-criticisms-on-the-lack-of-ehr-interoperability.html)* by [Max Green](https://www.linkedin.com/pub/max-green/77/b9a/19). It is no secret that that there is a lot of discontent with current electronic health record (EHR) systems, mainly due to limited features and overly complicated processes that take away from patient care. But what this article failed to address are the proposed solutions to the perpetual problems. I think many of the problems physicians face with EHRs could be solved with an open [(API)](https://catalyze.io/glossary/healthcare-api) and an ecosystem of applications that can speed up the clinician workflow while maintaining the documentation quality required within the EHR. 
 

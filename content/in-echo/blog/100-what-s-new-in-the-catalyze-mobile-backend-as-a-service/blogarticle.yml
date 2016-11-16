@@ -4,6 +4,7 @@ SeoTitle: What's new in the Catalyze Mobile Backend as a Service
 Author: ben
 Fullname: Ben Uphoff, PhD
 Date: 03/16/2015
+Summary: 
 Body: |
 We've been busy behind the scenes continuing to build out the Catalyze [Mobile Backend as a Service](https://catalyze.io/baas) (BaaS). Catalyze BaaS is geared towards developers who want to build a HIPAA-compliant mobile application without the need of managing servers or dealing with database backend administration tasks. We provide a REST API focused on storing [Protected Health Information](https://catalyze.io/learn/what-is-protected-health-information-or-phi) along with giving you all the data and user management tools you need to build your app. 
 
