@@ -12,7 +12,7 @@ Here I use the term "shaming" in a positive context, as security lapses like sto
 
 This site is highly relevant to developers and organizations building mobile and web applications in the health IT space. Being on PTO site means that you are likely in violation of HIPAA and subject to fines. A quick scan of the site shows that a health care exchange made the list. Risking a HIPAA violation for something technically solvable, like secure password management, makes no sense to me as a security officer.
 
-## Does HIPAA prohibit the use of plaintext passwords?
+### Does HIPAA prohibit the use of plaintext passwords?
 Ironically, [HIPAA](http://www.hhs.gov/ocr/privacy/)'s requirements give little guidance on the matter of how to store and protect passwords. Section 164.308(a)(5)(ii)(D) does mandate that developers implement procedures *"for creating, changing, and safeguarding passwords"*. This is  pretty weak guidance on a very significant issue.
 
 For another example of how limited this guidance is, see the Department of Health and Human Service's own guidance on the matter in the "Password Management" section of [this PDF](http://www.hhs.gov/ocr/privacy/hipaa/administrative/securityrule/adminsafeguards.pdf).
@@ -27,10 +27,10 @@ Looking at another section of HIPAA, Section 164.308 states:
 
 Again, it's hard to imagine that plain text passwords would not be identified as a risk or vulnerability, and the correction thereof would not be considered "reasonable and appropriate".
 
-## Don't forget the fines
+### Don't forget the fines
 Even if HIPAA doesn't spell out how to manage passwords from a technical standpoint, it does define stiff fines for those that negligently fail to protect patient data. By any account, storing plaintext passwords does amount to willful neglect. If your app's database gets accessed by an unauthorized user or malicious insider then the attacker has access to all the data protected by those plaintext passwords. The fines for this sort of breach would be severe and prison time is also a possibility.
 
-## Catalyze BaaS gets this right by default
+### Catalyze BaaS gets this right by default
 A key feature of the Catalyze BaaS, a HIPAA compliant API and mobile backend as a service, is our powerful user model. It integrates authentication, authorization and storage of user data into a single, easy to use model.
 We handle password management out of the box, in a HIPAA compliant manner. We do not store user passwords in plaintext. Passwords are salted and hashed with SHA-256. If one of your users forgets their password we provide a safe and secure password reset capability for your app. The user gets sent a single use link via email that lands them on a password reset page.
 

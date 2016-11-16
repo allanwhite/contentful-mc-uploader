@@ -14,7 +14,7 @@ CustomerValueProp: Catalyze has helped the Department of Veterans Affairs with m
 ----
 CaseStudyTitle: Streamlining Care for America's Veterans
 ----
-CaseStudyKeys: ### In this case study, you will learn:
+CaseStudyKeys: #### In this case study, you will learn:
 
 * The challenges faced by internal teams at the VA
 * How Catalyze helped speed up the deployment of several new tools while also providing new insights to patient behavior

@@ -31,6 +31,6 @@ According to a [mid-year 2014 Rock Health report](http://rockhealth.com/2014/06/
 
 Panelists are well positioned to address HIPAA concerns, applications, and the gray areas inherent in HIPAA compliance. “Helping startups and enterprise health care understand [HIPAA compliance](https://catalyze.io/compliance) is a personal passion of mine, and the very reason Catalyze has grown to be the trusted technology expert for engineers, entrepreneurs and administrators,” explained Catalyze CEO & co-founder Travis Good, MD.
 
-## About Catalyze, Inc.
+### About Catalyze, Inc.
 
 Catalyze provides HIPAA-compliant infrastructure services with a complete set of tools for handling, storing and transmitting PHI in the cloud. The future of health care will be powered by a scalable, HIPAA-compliant, interoperable infrastructure. Catalyze is building the groundwork so health care innovation can move faster. For more information, please visit [https://catalyze.io](https://catalyze.io).

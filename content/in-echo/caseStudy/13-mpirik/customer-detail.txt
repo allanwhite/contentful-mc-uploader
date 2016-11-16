@@ -48,19 +48,19 @@ At the time, Kohli had three products, all with individual log-ins. Once his col
 ----
 SpotlightQuote:
 ----
-SpotlightPostBody: ## History Behind the Company Name
+SpotlightPostBody: ### History Behind the Company Name
 
 The company has a three-pronged focus: doing things the simplest way possible, the fastest way possible, and the most efficient way possible. The odd looking company moniker, [m]pirik is rooted in that focus. Company leaders did a play-on-words to come up with the name, which is derived from the empirical formula — the simplest form of a compound. The brackets around the “m” indicate a math formula because in trying to find the best way to perform different orthopedic procedures, the company sees it as a formula. Using the “k” instead of a “c” is a hat tip to the company’s founder Dr. Joe Kohli.
 
 (image: mpirik-office.jpg)
 
-## The Impact
+### The Impact
 
 [m]pirik’s Director of Business Development, Jake Bartnicki, says with MACRA coming down the pike (final rule to be released in November 2016) regulations and data collection needs around government mandates create a problem. “They are bleeding private practices dry,” further stating that beginning January 2017, government regulations and reporting needs will put pressure on private practices to either join, build supergroups, or be bought out by a hospital system. “We want to help those private practices comply with the government regulations and allow them to stay private with our orthopedic care management platform,” says Bartnicki.
 
 While recognizing the need for hospital-employed physicians, Bartnicki explains that physicians in private practices should not feel compelled to join with a large hospital system based on government regulations or financial shortcomings. “We think giving them a simple tool that allows them to comply with the government regulations offers them a choice on what they want to do and how to take care of their patients,” he says.
 
-## How the Platform Works
+### How the Platform Works
 
 Since the founding of [m]pirik in 2013, the company has focused solely on the measurement and improvements in orthopedics. “These technologies and solutions that we are building are not theoretical; everything that we add to the product and create is tested immediately inside Dr. Kohli’s practice, ensuring its efficacy and marketplace need,” says Bartnicki. Today’s Ortho[m]atrix orthopedic care management platform will help orthopedic surgeons do the following:
 
@@ -69,7 +69,7 @@ Since the founding of [m]pirik in 2013, the company has focused solely on the me
 3. Provide necessary tools to improve patient outcomes
 4. Increase physician efficiency
 
-## [m]pirik Future
+### [m]pirik Future
 
 (image: mpirik-staff.jpg)
 

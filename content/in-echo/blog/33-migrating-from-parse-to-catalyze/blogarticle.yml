@@ -12,7 +12,7 @@ Parse modified the backbone [TodoMVC](http://todomvc.com/) example to show how t
 # Models
 The Todo app makes use of two Parse data types - Users and Collections. We need to decide what [Catalyze models](http://docs.catalyze.io/api/latest/) we're going to replace those with before we start editing code.
 
-## Users
+### Users
 ([Parse's User Model](https://parse.com/docs/js_guide#users))
 
 A Parse user is pretty basic - it requires a username and password to sign up, and allows for an optional email address - which this app doesn't use. The choice of corresponding Catalyze model here is pretty easy - the [User model](http://docs.catalyze.io/api/latest/#users) even has the same name. Let's map out the required fields for both:
@@ -29,21 +29,21 @@ Uh oh, a few problems here. First off - this app doesn't use the email property.
 
 Second, a Catalyze User requires a first and last name. This information doesn't need to be correct, however - you can put in whatever you want. We'll revisit this in a bit.
 
-## Collections
+### Collections
 ([Parse's Collections Model](https://parse.com/docs/js_guide#collections))
 
 A Parse collection holds data based off a custom object model, and allows it to be queried. This app goes a bit further, using an ACL to restrict the created collection data to the created user. This mapping choice is a bit harder - there are two potential matches.
 
-### 1. User.extras
+#### 1. User.extras
 The user model offers a property called `extras` - just a miscellaneous object in which to store data in any format. This is very basic - it doesn't adhere to any schema, and doesn't allow for server-side querying, like Parse collections.
 
-### 2. Custom classes
+#### 2. Custom classes
 Catalyze's [Custom Class](http://docs.catalyze.io/api/latest/#custom-classes) model allows you to create a schema and have users add data to it. Users can then query their own data. This is a perfect match for Parse Collections, but one problem for this demo - a Custom Class schema requires administrator privileges to create or modify. It can be done from the Catalyze developer portal, but for this example, it's simpler to just use User.extras.
 
 # Code
 (some of this is redundant from our [Quick Start](http://docs.catalyze.io/#quick-start) section)
 
-## Setup
+### Setup
 Like Parse, Catalyze also requires an API key. You can grab one for a free plan in the developer portal ([http://devportal.catalyze.io/](http://devportal.catalyze.io/)). You'll need to:
 
 1. Create an account
@@ -55,14 +55,14 @@ The API key is three items in the form `<type> <identifier> <key>`. Hold onto th
 
 (take note - the free plan [has some limits](https://catalyze.io/backend-as-a-service/) - this should be fine for this demo)
 
-## Framework
+### Framework
 Parse's demo uses their Javascript SDK to access their API. That by itself isn't hard to adapt from, but they've also based it on backbone and added some custom things. That is hard. In order to deal with these, we've converted the application to use Angular. This post won't go over that part of the conversion (it's not terribly complicated in terms of Angular) - instead, we'll cover the trouble spots.
 
-## Code
-### A Catalyze Wrapper
+### Code
+#### A Catalyze Wrapper
 Currently, Catalyze doesn't offer a Javascript SDK (if you'd like to see one, please [let us know](mailto:support@catalyze.io)). Fortunately, the Catalyze v2 API is designed to be easy to call - it's a standard REST API - JSON requests and JSON responses, and semantic HTTP verbs. So, for this conversion, we've created a small custom wrapper as an angular service.
 
-#### Configuration
+##### Configuration
 The Parse code (`todos.js`) has configuration to be set at the top of the file - to simplify this a bit, we've made a `Config` global object contained in `config.js`, for you to edit easily.
 
 ```
@@ -74,7 +74,7 @@ Config = {
 
 You'll need to edit `apikey` above with the API key you got from the developer portal.
 
-#### Custom Headers
+##### Custom Headers
 Every request to the Catalyze v2 API needs to have the `X-Api-Key` header set to your application's API key - this is how we know what application this is for.
 
 ```
@@ -97,7 +97,7 @@ var buildAuthedHeaders = function(token) {
 };
 ```
 
-#### Signing Up
+##### Signing Up
 ([Catalyze Docs - Creating a User](http://docs.catalyze.io/api/latest/#create-a-user-with-pii))
 
 Creating a User is done via a POST request to /v2/users, with the user data as a JSON object for the request body. No `Authorization` header required for this.
@@ -121,7 +121,7 @@ Note the `name` property - we mentioned that in the User model discussion above.
 
 That email was generated using the code above - "not-my-real-name" was the username registered.
 
-#### Sign In and Sign Out
+##### Sign In and Sign Out
 ([Catalyze Docs - Authentication](http://docs.catalyze.io/api/latest/#authentication))
 
 Signing in is done by making a POST request to /v2/auth/signin, passing `username` and `password` in the request body JSON.
@@ -145,7 +145,7 @@ this.signOut = function(token) {
 };
 ```
 
-#### Retrieving the User
+##### Retrieving the User
 ([Catalyze Docs - Retrieve a User](http://docs.catalyze.io/#retrieve-a-user's-pii))
 Retrieving a user is done with a GET request, using the route /v2/users/{usersId}, where `{usersId}` is the ID of the user to be retrieved.
 
@@ -156,7 +156,7 @@ this.getUser = function(token, userId) {
 };
 ```
 
-#### Updating the User
+##### Updating the User
 ([Catalyze Docs - Update a User](http://docs.catalyze.io/#update-a-user's-pii))
 
 Updating a user is similar to creating one, with two key differences. First is the route - /v2/users/{usersId} (just like when retrieving the user). Second, the method is PUT, not POST. You still pass the (updated) user object as the request body. Any added or changed fields will be updated, and any omitted fields will be removed.
@@ -169,8 +169,8 @@ this.updateUser = function(token, userId, user) {
 };
 ```
 
-### The App
-#### Sign In and Sign Up
+#### The App
+##### Sign In and Sign Up
 
 |Parse|Catalyze|
 |-----|--------|
@@ -180,7 +180,7 @@ Aside from changing the title and footer, you can see that we've also added an e
 
 These forms are hooked up to the `signIn` and `signUp` functions from the angular service described above.
 
-#### Managing Todos
+##### Managing Todos
 
 ![Todos](http://catalyzeio.github.io/Todo/images/todos.png)
 

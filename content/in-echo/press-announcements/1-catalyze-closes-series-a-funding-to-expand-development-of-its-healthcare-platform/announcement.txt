@@ -30,6 +30,6 @@ The funds will be used to accelerate platform development, scaling of existing p
 
 “HIPAA security requirements create a hurdle for developers in bringing critical healthcare-focused applications to market in a timely and cost effective manner,” explained Jason Duboe of Chicago Ventures. “Catalyze.io is well positioned to reduce friction for developers and healthcare organizations creating and deploying applications.”
 
-## About Catalyze.io
+### About Catalyze.io
 
 Catalyze offers compliant, cloud-based software for the healthcare industry and simplifies health app development. Catalyze hosted infrastructure breaks down barriers to consumer engagement and helps enterprises manage relationships with consumers. For more information, please visit [https://catalyze.io](https://catalyze.io).

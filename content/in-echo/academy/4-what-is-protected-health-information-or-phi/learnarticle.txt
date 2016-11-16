@@ -23,7 +23,7 @@ The core of the HIPAA regulations is to ensure that ownership of any and all med
 
 2. **Bias and discrimination**: AIDS, mental health and other conditions have some (albeit declining) social stigma associated with it. The HIPAA PHI provisions ensure that employers and others do not have access to one's medical record and use the information contained within to discriminate against the individual based on their health information.
 
-## Uniqueness
+### Uniqueness
 
 Obviously protection and privacy come into play once the individual can / has been uniquely identified. [There are after all 25.8 million Americans have diabetes](http://ndep.nih.gov/diabetes-facts/). Which leads to the question of what data can be used to uniquely identify an individual. The generally accepted set of individually unique data elements include the [following](http://www.oshpd.ca.gov/Boards/CPHS/HIPAAIdentifiers.pdf):
 
@@ -50,7 +50,7 @@ Obviously protection and privacy come into play once the individual can / has be
 
 These 18 elements are the core set of data elements that individually or in combination can be used to uniquely identify an individual. And, considering the fact that the above list of identifiers has **fax numbers** and not Twitter @usernames, Facebook IDs, or a host of other modern, more common identifiers, it's clear that the PII list is not the most up to date and some more thought should go into recognizing and protecting identifiable information. However, since patient data is valuable in clinical trials, medical case studies etc., the above list is used as a guideline to ensure privacy. Which leads to...
 
-## Anonymization & De-identification
+### Anonymization & De-identification
 
 **Anonymization** is a process by which PHI elements are removed or changed with the purpose of minimizing / removing the possibility of going back to the original data set. This involves removing all identifying data to create unlinkable data.
 
@@ -60,7 +60,7 @@ These 18 elements are the core set of data elements that individually or in comb
 
 2. If another approach is used, ensure a statistically small / negligible risk of re-identification which is validated by a statistics expert (you have to love the interpretability of that rule).
 
-## Designing HIPAA compliant solutions
+### Designing HIPAA compliant solutions
 
 Given the above constraints, it is essential that any application that you design takes these anonymization and/or de-identification requirements into account before any data is shared with any external entity. PHI data can be "shared" with an external entity provided you have BAA ([business associate agreement](http://healthcare.partners.org/phsirb/hipaaglos.htm#g7)) in place and the individual has signed the appropriate consent documents. How PHI needs to be managed under HIPAA is a whole topic in itself. Look for a blog post from us shortly describing how we enable HIPAA compliance and simplify adherence to the letter and spirit of the law at [Catalyze](https://catalyze.io/).
 

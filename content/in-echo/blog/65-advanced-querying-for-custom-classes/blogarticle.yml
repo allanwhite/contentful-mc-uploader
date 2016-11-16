@@ -9,7 +9,7 @@ We mentioned new querying abilities for custom classes in the [8/28/14 Release N
 
 The docs for this are [in our resources](https://resources.catalyze.io/#custom-classes), but an example might be a better explanation.
 
-## An Example
+### An Example
 Let's consider an application that tracks how long people run for and the distance they ran. The fields for that custom class (which I'll call `run_log`) are:
 
 * `duration` - integer (in seconds)
@@ -96,7 +96,7 @@ And, finally, the entries in the class (omitting `updatedAt` for brevity):
     </tr>
 </table>
 
-## Retrieving all entries
+### Retrieving all entries
 
 To retrieve _all_ entries, like the table above, the `GET /v2/classes/{name}/query` route can be given no parameters (where `name` is the name of the class, `run_log`). This will return the list, sorted by `createdAt`, ascending, with up to 10 items returned (which is fine, because we have only 9 entries). If you've used the query route before, you'll note that the pagination functionality isn't new - controlled by the optional parameters `pageSize` and `pageNumber` - but the ordering functionality is new.
 
@@ -110,7 +110,7 @@ to `duration`, and `direction` to `desc` (`GET /v2/classes/run_log/query?orderBy
 
 To retrieve only entries for a single user instead of all, use the `GET /v2/classes/{name}/query/{usersId}` route (for example, `GET /v2/classes/run_log/query/456-jane`). All of the same optional query parameters can be used.
 
-## Retrieving a filtered set of entries
+### Retrieving a filtered set of entries
 
 To retrieve only _some_ entries, you can pass extra parameters to the route, with the names being the field name, and the value being the value to check for equality to. For example, to filter for a `duration` of 900 seconds, you'd add `?duration=900`. That would find only Jane's two entries (`abc-e4` and `abc-e5`).
 
@@ -118,7 +118,7 @@ Multiple fields can be used to filter - just add multiple parameters. To match `
 
 The limitation of this route becomes quickly apparent - it's simple to use, but can only do equality checks - no inequalities, and no compound logic. That's why we now refer to these two routes (all and user) as "filter", not "query." For true querying, read on.
 
-## Querying entries
+### Querying entries
 
 We've devised an expressive JSON structure for constructing complex and compound queries. You can read about the nitty-gritty details [in the docs](https://resources.catalyze.io/#custom-classes) (which I recommend at least making a quick pass through), but I'll give a few examples here. All requests are `POST` to the same path, instead of `GET` (`POST /v2/classes/{name}/query` and `POST /v2/classes/{name}/query/{usersId`).
 
@@ -197,7 +197,7 @@ The available logical operators:
 
 The structure of expressions is discussed [in the docs](https://resources.catalyze.io/#query-class-entries) in depth, including how to deal with values in nested objects.
 
-## Permissions
+### Permissions
 
 For the query/filter routes that don't take a user ID (`/v2/classes/{name}/query`), the querying user must either be:
 

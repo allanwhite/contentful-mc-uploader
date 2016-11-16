@@ -10,7 +10,7 @@ Navigating the As-A-Service waters can be a choppy adventure. Different service 
 
 Two options that sit near the middle of the spectrum are Backend as a Service (BaaS for short) and Platform as a Service (PaaS). While close cousins, they are ultimately two very different services. Catalyze provides both a [Backend as a Service](https://catalyze.io/baas) and [Platform as a Service](https://catalyze.io/paas), and we often find customers aren't entirely sure which is the best fit for them. Today we want to briefly explain the difference.
 
-## The Backend As A Service (BaaS)
+### The Backend As A Service (BaaS)
 
 A Backend as a Service couples a basic datastore with expressive user provisioning and authentication tools. Think of it like a NoSQL database someone else manages for you off in the cloud, except that access is via a REST API. A similar yet non-compliant service is Parse.com.
 
@@ -18,7 +18,7 @@ User provisioning and authentication are important in healthcare since applicati
 
 The best use case for a BaaS is when data will only reside on either the device/browser and the BaaS itself, with nothing in between. A BaaS does not have any backend processing abilities, so it's not a good fit for data crunching or processing events like handling a batch of daily claims. If those aren't requirements, BaaS does most of the heavy lifting for you. Since retrieved Protected Health Information (PHI) only ever sits on the device or browser, you have no other HIPAA infrastructure concerns other than configuring the build in security tools to meet your needs.
 
-## The Platform As A Service (PaaS)
+### The Platform As A Service (PaaS)
 
 A Platform as a Service is something where you would deploy an entire application architecture. The full stack, from application code to database structure to backend workers, is deployed to your little slice of the cloud. That slice, at the infrastructure layer (networking and OS levels), is managed by the PaaS provider.
 
@@ -28,7 +28,7 @@ It's not too dissimilar from a "Host", but what makes a PaaS different is all th
 
 The reason you would select a PaaS is because you will be processing PHI in some capacity. It could be simply validating the data before storing, or maybe you are analyzing results, or perhaps you are combining data points to provide additional services. If you are handling PHI in any way _other_ than simply storing it, the Platform is what you need.
 
-## Your Use Case Is The Decider
+### Your Use Case Is The Decider
 
 Choosing between the two is relatively simple once you understand the difference. It basically comes down to your software application use case.
 

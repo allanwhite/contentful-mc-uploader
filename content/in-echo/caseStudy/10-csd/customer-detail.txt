@@ -39,7 +39,7 @@ The deaf and hard of hearing community has been quick to adopt electronic commun
 
 One typical healthcare-related scenario that reflects the need for such a platform and its appropriate matching capabilities might be found in a primary care scenario. A provider reaches out to CSD to schedule an interpreter online or in person. “To match the best interpreter skill for the patient, certain PHI comes into play. CSD and the interpreter both receive this PHI information,” says Rarus. “CSD requires PHI to ensure that the selected interpreter is qualified to do the assignment and the interpreter requires it to prepare for the job.” Rarus also says it allows the interpreter to ensure no conflicts exist, such as might be found with an OB/Gyn appointment being inadvertently filled by a male interpreter, who would know to decline.
 
-### Protecting Health and Promoting Employment
+#### Protecting Health and Promoting Employment
 
 Vineya isn’t the only focus for CSD though. The organization also has five contact centers for relay services that help connect both hard of hearing and Deaf consumers with those who use the telephone. This helps the community live more independently using a Captioned Telephone, a computer or a TeleTypewriter (TTY). CSD’s Chief Technology Officer Willie King explains, “Any deaf or hard of hearing person can use their TTY machine, iPad, or computer to call to the relay; the operator will then convey information between the hearing person and the deaf person.” CSD has been operating relay services for over twenty years and has used it as a springboard to investigate how they can better integrate new technologies into the lives of the Deaf community.  
 
@@ -49,6 +49,6 @@ Two additional programs, designed to facilitate educational and employment oppor
 
 Between the technologies and the services provided through CSD, the deaf and hard of hearing population has greater opportunities for personal and professional growth, as well as protected health information for medical needs. These resources, as well as the awareness efforts for businesses about this population, help build a more inclusive society, one with employment equality.  
 
-### The CSD Future
+#### The CSD Future
 
 CSD has always been a leader when it comes to initiating policy changes or developing new technology to advance communication access for Deaf and Hard of Hearing people. After forty years of significant achievements, CSD is primed and ready to shift gears. While the organization continues the important work of closing equality gaps, its future is focused on providing resources and services that encourage self-definition and self assertion in its community. CSD believes disability is a notion that needs to be reexamined, even challenged. Deaf people, their culture and their language have much to offer the world. Emboldened by the strength of the human spirit, CSD is once again, setting out to blaze a new network of possibilities.

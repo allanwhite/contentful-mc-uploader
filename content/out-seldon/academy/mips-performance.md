@@ -23,7 +23,7 @@ It is interesting to note that given this weightage and the way the scoring work
 
 Now let's consider the fact that the score obtained will be compared against *all other qualified*—i.e. MIPS eligible physicians—for a previous performance period. Based on a sample comparative chart published [here](https://www.federalregister.gov/documents/2016/05/09/2016-10032/medicare-program-merit-based-incentive-payment-system-mips-and-alternative-payment-model-apm#h-78), if each of those above PQRS measure is only better than 60% of peers reflected in the benchmark, then that measure would earn only earn 7 out of 10 possible points, i.e. the overall score calculated above would now drop to 70% x 50% x 100 = 35 points.
 
-## Scoring in the Quality Category
+### Scoring in the Quality Category
 
 MIPS essentially adopts the quality measures and reporting methods from the PQRS and VBM programs. Although there are some changes to the PQRS reporting methods, for the most part the quality reporting methods remain the same.
 
@@ -33,7 +33,7 @@ The process works as follows:
 2. **CMS will calculate 2 or 3 cohort based claims quality measures**: Two for individual clinicians and groups with less than 10 clinicians and three for groups with 10+ clinicians. This compares peer groups with each other and can have an additional impact on scoring.
 3. **Bonus points**: MIPS also provides additional paths to achieve a quality score of 100% by granting bonus points for certain quality reporting activities. So if two bonus points were earned in the earlier example, then the quality score would increase to (64+2)/80 = 82.5%, resulting in 82.5% x 50% x 100 = 41.25 CPS points.
 
-## Scoring in the Advancing Care Information (ACI) Category
+### Scoring in the Advancing Care Information (ACI) Category
 
 MIPS changes MU (renamed to ACI) from an all-or-nothing compliance program to a continuous scoring system where MU measure rates are compared to benchmarks in much the same way as described for the MIPS Quality category described above.
 
@@ -45,7 +45,7 @@ The process works as follows:
 > 2. **Performance Score**: Up to 80 points for performance on eight measures per the decile scoring scale described above.
 > 3. **Bonus Points**: Up to 1 bonus point for reporting to an additional public health registry
 
-## Scoring in the Clinical Practice Improvement Activities (CPIA) Category
+### Scoring in the Clinical Practice Improvement Activities (CPIA) Category
 
 Under MIPS, a clinician can earn up to 60 points within the CPIA category.
 
@@ -55,7 +55,7 @@ The process works as follows:
 
 The CPIA percentage score is calculated by dividing the total CPIA points by 60. For example, 30 points would yield a 30/60 = 50% CPIA performance score, which in turn would deliver 50% x (15% CPIA category weighting) x 100 = 7.5 CPS points.
 
-## Scoring in the Resource Use Category
+### Scoring in the Resource Use Category
 
 MIPS rates clinicians for Resource Use (Medicare costs of attributed patients) based on 40+ cost measures to account for differences among specialties. 40+ cost measures are to be used. The hope is that this variety of cost measures will be able to account for differences among specialties.
 
@@ -67,7 +67,7 @@ Similar to the Quality category, measures can earn up to 10 points each on a per
 
 For instance, say a clinician earns 8 and 8 points respectively on two included cost measures. Then the category contributes (8+8)/20 x 10% x 100 = 8 CPS points.
 
-## Calculating the overall CPS score
+### Calculating the overall CPS score
 
 Assuming that the numerical examples used for the four categories as described above all apply to the same clinician, we can calculate a total CPS from the components as follows:
 
@@ -77,7 +77,7 @@ Assuming that the numerical examples used for the four categories as described a
 > - Resource Use = (14 of 20 points) x 10% weight x 100 = 7 CPS points
 > - Total CPS points = 35 + 12.5 + 10 + 7 = 64.5
 
-## Reputation and reporting
+### Reputation and reporting
 
 CMS publishes provider specific performance measures through its [Physician Compare website](https://www.medicare.gov/physiciancompare/search.html) for consumers to browse and commercial or any other third party physician rating websites to use. As out-of-pocket costs grow, patients are looking for more transparency into clinician quality and the cost-value trade-off. A recent [JAMA study](http://jama.jamanetwork.com/article.aspx?articleid=1829975) found that 65% of consumers are aware of online physician rating sites and that 36% of consumers had used a ratings site at least once. MACRA provisions address this consumer demand. MIPS will publish each eligible clinician’s annual Composite Performance Score (CPS) and scores for each MIPS performance category about 12 months after the end of the relevant performance year. In addition, all statistically significant measure values in the Quality, Resource Use and Advancing Care Information (ACI) categories for each clinician will be available for free download. Activities reported for the Clinical Practice Improvement Activities (CPIA) category will be listed for every clinician. Physician Compare will continue to publish cost utilization data for all Medicare Part B clinicians.
 

@@ -18,7 +18,7 @@ Post: Infrastructure as a Service is customarily distinguished as one of three m
 
 Infrastructure as a Service permits any application to be run across a broad range of computer infrastructure (storage, servers, network) in accordance to user need. By far IaaS is the most flexible construct of cloud computing and is inclusive of Private Cloud, Public Cloud, and Hybrid Cloud variations.
 
-## So what makes it HIPAA Compliant?
+### So what makes it HIPAA Compliant?
 
 There are a few factors that play into making IaaS truly HIPAA compliant but the biggest is advanced data encryption support for data in transit and at rest. To meet HIPAA standards, data must be maintained in a means that is unreadable, undecipherable, and inaccessible to to outside parties. 
 

@@ -44,7 +44,7 @@ I'll lay out our design as a to-do list which will also act as a listing of topi
 
 We looked at requirements from a customer perspective and then a backend perspective to enable those requirements. We then layered on security and compliance requirements.
 
-### Customer requirements
+#### Customer requirements
 
 - Application definition
 

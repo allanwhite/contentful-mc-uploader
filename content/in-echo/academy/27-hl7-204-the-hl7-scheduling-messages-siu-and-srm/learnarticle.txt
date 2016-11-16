@@ -123,7 +123,7 @@ As mentioned before, the only apparent difference between the structure of an SI
 
 Apart from the few differences between the SCH segment and the ARQ segment, there is no structural difference between an SIU message and an SRM message. However, the main difference between any two message types comes not from the structure of the message, but from the action prescribed by the different trigger events.
 
-## List of Trigger Events
+### List of Trigger Events
 
 Trigger events for SRM:
 
@@ -144,69 +144,69 @@ Trigger Events for SIU:
 | S15 | Notification of Appointment Cancellation |
 | S26 | Notification that Patient did not show up for Scheduled Appointment |
 
-## Message Construction
+### Message Construction
 
 The message I want to send is: A female, Caucasian patient, Jane Fredericks, MRN:30745109, SSN:321-87-6543 born on May 1, 1973 and account number of 11396810 wants to schedule a new appointment to have an X-Ray taken of her ankle. The appointment request is being placed by Dr. James Matthews. The exact service to be performed is X-RAY ANKLE 3+ VW with the associated CPT code of 73610. This is based upon a diagnosis of Broken Ankle. Additional information that will need to be sent will include the appointment date and time, duration, sending and receiving systems, the version of HL7 being used etc. The request is approved and the hospital sends a notification for the new appointment booking.
 
 Based on this information, the segments would be created as follows:
 
-### MSH - Message Header
+#### MSH - Message Header
 Assuming an all Epic environment i.e. sending and receiving systems are all Epic and request is created at 2016/05/02 at 16:20:33. Version of HL7 being used is v2.3. Since this message is a notification for a new appointment booking, the message type is SIU and the trigger event is S12. This would result in a segment that looks like this.
 
 ```
 MSH|^~\&|EPIC|EPIC|||20160502162033||SIU^S12|538|D|2.3||
 ```
 
-### SCH
+#### SCH
 This contains all of the scheduling information - the placer and filler application's appointment identifiers, duration, start time, the person who requested the appointment, and the appointment status. To keep things simple, we'll only include the identifiers and required information.
 
 ```
 SCH|01928374|57483920|||||||1|hr|1^^^20160515133000|||||||||1173^MATTHEWS^JAMES^A|||||BOOKED
 ```
 
-### PID - Patient Identification
+#### PID - Patient Identification
 Since this message is a patient specific request, it needs all the associated patient info to prevent any confusion. This would include the patient's identifier, full name, DOB, sex, race, address, phone number(s), account number, SSN and place of birth.
 
 ```
 PID|1||30745109^^^^EPI||FREDERICKS^JANE^I^^MRS.^||19730501|F||Cauc|421 N. BAKER ST^^MADISON^WI^53513^US^^^DN|DN|(608)555-6789|(608)555-4321||S||11396810|321-87-6543||||^^^WI^^
 ```
 
-### PV1 - Patient Visit
+#### PV1 - Patient Visit
 This usually contains information on the admission information, attending, referring and consulting, admitting physician IDs and names and so on. I'll just keep it simple and just have the attending physician's info in the sample giving us
 
 ```
 PV1|||^^^CARE HEALTH SYSTEMS^^^^^||| |1173^MATTHEWS^JAMES^A^^^||||||||||||610613||||||||||||||||||||||||||||||||V
 ```
 
-### DG1 - Diagnosis
+#### DG1 - Diagnosis
 Some basic context needs to be provided so that the billing systems can do their work so diagnosis information is also provided. So in ICD10 (I10), ankle fracture is coded as S82.
 
 ```
 DG1||I10|S82^ANKLE FRACTURE^I10|ANKLE FRACTURE||
 ```
 
-### RGS - Resource Group
+#### RGS - Resource Group
 This is brief header for the group of resource segments that follow it. Included is the number of the resource group, the action prescribed (here it's "add", or 'A'), and the group ID. This group ID may be used for modifying or rescheduling the resource group at a later date.
 
 ```
 RGS|1|A|094
 ```
 
-### AIS - Appointment Info. - Service
+#### AIS - Appointment Info. - Service
 This contains information related to the scheduled service. In this case, it will be an X-Ray for the patient's ankle. Along with the CPT code for the scheduled service, the segment also contains the time the service is expected to start (may be different from the appointment start time) and the length of time the service will be needed.
 
 ```
 AIS|1||73610^X-RAY ANKLE 3+ VW^CPT|20160515134500|15|min|45|min||
 ```
 
-### AIP - Appointment Info. - Personnel
+#### AIP - Appointment Info. - Personnel
 This optional repeating segment identifies personnel needed for the appointment that are not explicitly mentioned anywhere else in the message. For the scheduled appointment, a radiologist (Allan Good) will be needed to perform the X-Ray. Just like the AIS segment, this segment contains the time the radiologist will be needed and for how long, which gives us
 
 ```
 AIP|1||1069^GOOD^ALLAN^B|RADIOLOGIST||20160515134500|15|min|45|min||
 ```
 
-## Putting it all together
+### Putting it all together
 To assemble the SIU message, we string together the message segments following the message structure outlined above:
 
 ```

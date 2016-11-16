@@ -26,7 +26,7 @@ CustomerProducts:
 ----
 CaseStudyTitle: Digital Agency Identifies Solution to Healthcare Industry Barriers
 ----
-CaseStudyKeys: ### In this case study, you will learn:
+CaseStudyKeys: #### In this case study, you will learn:
 
 * How the challege of compliance can detract from an agency's core competency.
 * Catalyze's commitment to being a partner through the compliance process.

@@ -28,7 +28,7 @@ CaseStudyTitle: DocbookMD Saves $360K and Puts Integration at the Center of its 
 ----
 CaseStudyKeys: Catalyze shares an opinion and vision about physician-oriented integrations that resonates with growth stage companies, like Austin-based DocbookMD. This case study explains how we took the upfront burden of engineering costs off a fast growing healthcare IT company and made systems integrations a core component of the company’s critical collaboration platform for physician communication.
 
-### In this case study you’ll discover:
+#### In this case study you’ll discover:
 
 * Four reasons why DocbookMD saw Catalyze as the cohesive answer to integrations
 * The savings in upfront engineering costs DocbookMD obtained

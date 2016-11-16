@@ -17,12 +17,12 @@ The key features are:
 * The ability to assign *Create*, *Read*, *Update*, *Delete* (CRUD) permissions to a user or groups on a custom class or the applications file store
 * Creating a custom class or file entry on behalf of another user
 
-## Documentation
+### Documentation
 This short post cannot explain all the details of the new features. We have recently published the [Catalyze Baas Guide](https://docs.catalyze.io/guides/api/latest/) to help getting started with Catalyze's mobile backend. While some sections are works in progress, the [Permissions and ACLs](https://docs.catalyze.io/guides/api/latest/permissions_and_acls/README.html) section fully covers the features discussed in this post and more. See the [Introduction](https://docs.catalyze.io/guides/api/latest/) and [Getting Started](https://docs.catalyze.io/guides/api/latest/getting_started/README.html) sections to get up to speed and set up your environment to test out the ACL features covered in the [permissions section](https://docs.catalyze.io/guides/api/latest/permissions_and_acls/README.html).
 
 Also be sure to refer to the ACLs and Groups section of the [API reference documentation](https://docs.catalyze.io/api/latest/) for additional details. Refer to the Dashboard's [Resources](https://dashboard.catalyze.io/resources) page for additional documentation.
 
-## Upcoming features
+### Upcoming features
 While this new set of features provides a great deal of power for developers, we will continue to roll out new capabilities in the coming months.
 
 Here is a list of features on our roadmap:

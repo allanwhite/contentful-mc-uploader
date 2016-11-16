@@ -11,7 +11,7 @@ With all of those minions running around, it can be like herding cats. Some runn
 
 What ever is a master to do?
 
-## Enter Salt
+### Enter Salt
 
 >   … it’s - it’s a cookbook!
 
@@ -23,7 +23,7 @@ At it's simplest, Salt consists of a master (hey that's you!) and one or more mi
 
 Setup and configuration of Salt is covered in a lot of places, but the [official documentation](http://docs.saltstack.com/en/latest/) site has a great comprehensive list of Salt resources to get you started.
 
-## What if my kingdom is in The Cloud?
+### What if my kingdom is in The Cloud?
 
 >   Start where you are. Use what you have. Do what you can.
 
@@ -39,7 +39,7 @@ There are three important parts to Salt-Cloud.
 
 3. YAML map files: This ties in the above with any additional configuration information you may want to set and describes your environment.
 
-## How does all of this even work?
+### How does all of this even work?
 
 >   If you’re an employer, you want to hire an employee who’ll do their job, not do your bidding.
 
@@ -125,7 +125,7 @@ db_server_2GB:
 
 The map file is pretty easy to understand and is pretty extensible. You'll note the instance/server profiles we listed in the profile configuration. Along with the hostname, I've included a list of "grains" for each server, in this case, a role. Grains can help in looking up servers later or identifying them to salt. For example, if I have a ton of these environments, I can get a list of all servers who's role is "app" or I can use that designation to have salt install nginx or some other application server software.
 
-## Putting it all together
+### Putting it all together
 
 >   Boom, baby!
 
@@ -142,7 +142,7 @@ That's it! Really quick, the "-m" flag specifies the map file, and the "-P" flag
 
 You can now sit back and watch salt-cloud setup your minions for you! In the next post, I'll show you some more about how to customize this process, but as of now you have 4 new servers and they're all automatically managed through salt!
 
-## In conclusion
+### In conclusion
 
 >   So in one leap we had gone from being a friendly society to something almost professional.
 

@@ -18,7 +18,7 @@ Date: 06/02/2015
 
 ----
 
-Post: ## Virtual care pioneering company scales up on Catalyze’s HIPAA-compliant platform to offer HL7 integration to customers.
+Post: ### Virtual care pioneering company scales up on Catalyze’s HIPAA-compliant platform to offer HL7 integration to customers.
 
 Madison, WI (PRWEB) June 02, 2015
 
@@ -31,10 +31,10 @@ Rockwell stated that Zipnosis, like other companies looking to setup HL7 integra
 Mohan Balachandran, president and co-founder of Catalyze, believes accelerating HL7 integrations for health tech companies will be a major factor in transforming healthcare. “Catalyze enjoys working hand-in-hand with innovative companies like Zipnosis. We believe they hold the key to transforming traditional care.”
 Read how Zipnosis scales integrations in our latest case study: [https://catalyze.io/customers/zipnosis](https://catalyze.io/customers/zipnosis)
 
-### About Zipnosis
+#### About Zipnosis
 
 Minnesota-based Zipnosis, Inc. offers innovative access to mainstream medicine by providing patients with safe, simple and convenient online diagnosis and treatment of common health needs. For more information, please visit [http://www.zipnosis.com](http://www.zipnosis.com).
 
-### About Catalyze, Inc.
+#### About Catalyze, Inc.
 
 Catalyze provides an innovative HIPAA-compliant platform with a complete set of modules to handle, store and transmit PHI in the cloud. Scalable, HIPAA-compliant and interoperable infrastructure is powering the future of healthcare, so Catalyze has built the platform upon which an enterprise can hasten healthcare innovation without becoming an overnight expert in compliance. For more information, please visit [http://www.catalyze.io](http://www.catalyze.io).

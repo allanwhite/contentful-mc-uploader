@@ -30,13 +30,13 @@ First, a quote from the [FHIR website](http://www.hl7.org/fhir/):
 
 At the core of FHIR's design is the concept of a Resource. Resources are essentially a structured model of a JSON or XML object. There are various resource categories, namely:
 
-#### Clinical Resources
+##### Clinical Resources
 Models that describe clinical objects such as Medications, Diagnostics, Observations or other General objects.
 
-#### Administrative Resources
+##### Administrative Resources
 Models that outline how clinical resources are attributed (Attribution), or are described (Entities), or are used to support workflows (Workflow).
 
-#### Infrastructure Resources
+##### Infrastructure Resources
 Models that pertain to carrying specific data payloads such as documents, message headers specifying source and destinations, and more. Critically, there are four key model types described in this category:
 
 * **Composition** — Allows combination of multiple resources into a single, complex and more descriptive object.
@@ -46,7 +46,7 @@ Models that pertain to carrying specific data payloads such as documents, messag
 
 Putting these various models together allows for the creation of most any clinical condition.
 
-## Structure of any Resource
+### Structure of any Resource
 
 All resources follow a standard model with content and associated extensions being the only thing that changes from resource to resource, meaning while a Patient Resource and a Medication Resource both have the same general overall structure, the content within each describing the resource will be different and specific to that resource.
 
@@ -64,7 +64,7 @@ Let's take a sample Resource Object and work our way through it. We'll lay out t
 
 We'll begin with an example Patient Resource.
 
-### Resource Type
+#### Resource Type
 
 Every resource will start with its name. Given the Patient example, it will start with:
 
@@ -74,7 +74,7 @@ Every resource will start with its name. Given the Patient example, it will star
 
 This sets the context of the data exchange and allows for appropriate parsing and other rules to be invoked.
 
-### Human Readable Summary
+#### Human Readable Summary
 
 Every resource has an associated tabular description of the contents of the message, thus making it human readable. The contents of this section are in XHTML format and will include all the `\n` (next line) characters. A sample human readable summary included in a patient message could look like this:
 
@@ -170,7 +170,7 @@ The intent of this section is borrowed from the HL7 spec. The human readable ver
 
 Note that this narrative element in a resource is **not** mandatory. If you have do put one in, it **shall** reflect all the content needed for a human to understand the essential clinical and business information otherwise encoded within the resource. Note also that this generally will be difficult to generate. Epic, for example, has chosen to [drop this section](http://open.epic.com/Clinical/FHIR?whereTo=patient) from their spec for the time being. We expect a similar trend across various EHRs so practical deployments can (for the time being) safely skip this.
 
-## Identifier section
+### Identifier section
 
 In FHIR, every object is expected to have its own URI (universal resource identifier). All this implies is that every patient, in our context, will have their own URI, and potentially URL, with a unique identifier. Identifiers could include SSN (social security numbers), MRNs (medical record numbers), and any number of others. Multiple identifiers can be specified since it is defined as an array. In our context, this would look like the following.
 
@@ -192,7 +192,7 @@ In FHIR, every object is expected to have its own URI (universal resource identi
 
 ```
 
-## Extensions
+### Extensions
 
 This is healthcare after all. There are a million use cases that you can think of that requires "slightly" different definitions that what is already provided. Not to mention that since FHIR is supposed to be a **universal** standard, all of these must be taken into account as well. Hence the need for extensions.
 
@@ -250,7 +250,7 @@ Here's another extremely relevant example of a patient resource where you can se
   ... other data for patient...
 ```
 
-## Contained Resources
+### Contained Resources
 
 Since FHIR is a request-based format, contained resources are a way to minimize the number of calls to address use cases where specific data elements need to be served up every time a request is made to a particular resource. An example would be if a patient avatar picture needs to be served up anytime a patient resource is returned. Note that this assumed that the request is valid and the request is authenticated and authorized before the response is served.
 
@@ -280,7 +280,7 @@ In this specific scenario, if the patient avatar image always has to be sent alo
   ]
 ```
 
-## Resource Content
+### Resource Content
 
 The meat of the FHIR message. Every resource has a model associated with it that is different based upon the resource type in question. As you can imagine, in the context of a patient, the kind of information that needs to be shared includes date of birth, contact information, next of kin, address info etc. The sample below is pretty self explanatory.
 
@@ -580,7 +580,7 @@ Piecing together our discussion thus far, here's what the final Patient Resource
 
 ```
 
-## Summary
+### Summary
 
 Some FHIR resources are still undefined and open to comment, such as Financial models, which will fall under the Administrative category of Resources. The above sections delve in a little bit more detail on the overall resource model and its constituent parts.
 

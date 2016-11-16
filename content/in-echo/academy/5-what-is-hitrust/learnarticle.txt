@@ -42,7 +42,7 @@ Because of the subjective nature of HIPAA and variability in audits (as a former
 
 
 
-## Introduction to HITRUST
+### Introduction to HITRUST
 
 
 
@@ -62,7 +62,7 @@ According to its website, HITRUST, and its corresponding CSF, “was born out of
 
 
 
-## CSF Domains and Controls
+### CSF Domains and Controls
 
 
 
@@ -114,7 +114,7 @@ In addition to the above domains, HITRUST has 135 specific controls.
 
 
 
-## CSF Levels of Implementation
+### CSF Levels of Implementation
 
 
 
@@ -134,7 +134,7 @@ In determining the implementation level, HITRUST dynamically sets requirements f
 
 
 
-## CSF Degrees of Assurance
+### CSF Degrees of Assurance
 
 
 
@@ -158,7 +158,7 @@ The following options exist for Degrees of Assurance, starting with the least co
 
 
 
-## PCI for Healthcare
+### PCI for Healthcare
 
 
 
@@ -170,7 +170,7 @@ In many ways, HITRUST is an attempt by the healthcare industry to create a stand
 
 
 
-## HITRUST vs HIPAA
+### HITRUST vs HIPAA
 
 
 

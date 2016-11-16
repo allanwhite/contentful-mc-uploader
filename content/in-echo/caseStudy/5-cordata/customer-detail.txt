@@ -28,7 +28,7 @@ CaseStudyTitle: Cordata Gains Compliance Confidence from Clients and Investors w
 ----
 CaseStudyKeys: When a healthcare IT company struggles with compliance, Catalyze is ready to step in. Helping Cordata over the compliance hurdle has saved the Ohio company time, hassle and the cost of a full-time engineer. Yet the bonus value of Catalyze’s Platform as a Service became most evident during fundraising. Cordata’s CEO received nods of approval from investors when they realized the company’s technology is built upon the HIPAA compliant, HITRUST CSF Certified Catalyze platform.
 
-### Discover how Catalyze helped Cordata strengthen its compliance in this case study.
+#### Discover how Catalyze helped Cordata strengthen its compliance in this case study.
 
 * The **Challenge:** Build a HIPAA compliant infrastructure without interrupting engineer workflows
 * The **Solution:** Catalyze’s Platform as a Service and expertise to provide compliance direction for product development

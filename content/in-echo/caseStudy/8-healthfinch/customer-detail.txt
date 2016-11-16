@@ -30,7 +30,7 @@ CustomerProducts:
 ----
 CaseStudyTitle: Build Versus Buy: A Case Study in Accelerated EHR Integrations
 ----
-CaseStudyKeys: ### In this case study, you will learn:
+CaseStudyKeys: #### In this case study, you will learn:
 
 * How to solve data exchange dilemmas when data requirements fall outside the scope of traditional standards
 * How to bridge the gap between industry-wide promise of interoperability and current data exchange needs
@@ -60,7 +60,7 @@ SpotlightPostBody: In 2016 the company moved beyond individual applications to r
 
 While Scout, Swoop and Patrol are names of jobs that the platform performs, "Charlie" is the platform name and one that has its own playful personality for the imaginary healthfinch. The co-founders named the company healthfinch as a playful nod to the work that Charles Darwin did on the Galapagos finches. Ultimately, the finches helped prove Darwin’s evolution theory.
 
-### Automation – the future of healthcare
+#### Automation – the future of healthcare
 
 As healthfinch grows, the company is building up Charlie’s capabilities and clinical intelligence to handle just about any routine task a clinician faces. Baran and Dr. Berkowitz, who respectively became Chief Executive Officer and Chief Medical Officer, point toward automation as the future of healthcare and have a company mission that states: *Automate what can be automated. Delegate what can be delegated. And, simplify the rest. *This is a tall order for healthfinch but one with the potential for huge impacts. Baran says, "We’ve only begun to scratch the surface of what will be possible. In ten years, there will be many large companies executing on this plan and we believe healthfinch is as well positioned as any for that future."
 ----

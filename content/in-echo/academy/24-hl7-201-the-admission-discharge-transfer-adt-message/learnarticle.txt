@@ -70,12 +70,12 @@ In case you're wondering why we always use the v2.3 or v2.3.1 for examples - it'
 
 I've always felt that the best way to learn is by doing. So, we'll start with a message that we want to send and see how we can encode and construct that message in HL7.
 
-## The message to be sent
+### The message to be sent
 As another side note, the examples we'll use throughout will be inpatient oriented as outpatient HL7 messages are identical in nature and simpler to boot. Let's take the simple case of an admission into a hospital. In the case of an admit - you would need to know the name of the patient and some demographics like date or birth, gender,any next of kin and their info in case there are any significant problems, an identifier like an MRN, where they were admitted into (room, bed), who was the attending physician who signed off on the admit, and the reason for the admit. So the message you would want to perhaps send from an ADT system to say a Lab system could be (in plain English) - "Patient (John A Appleseed) was admitted on Jan 1, 2013 at 12:23 a.m. by Dr Sidney J. Good (#004777) for surgery. He has been assigned to room 2012, bed 01 on nursing unit 2000."
 
 One thing, we can know immediately looking at the table above that this would be an ADT-A01 message.
 
-## The mandated structure of the ADT-A01 message
+### The mandated structure of the ADT-A01 message
 
 As we discussed in [the earlier HL7 102: Anatomy of an HL7 message post], HL7 recommends / mandates that messages follow a specific structure. For the ADT-A01 message type, the structure is as shown in the image below. 
 
@@ -92,7 +92,7 @@ As we discussed in [the earlier HL7 102: Anatomy of an HL7 message post], HL7 re
 
 It's easily downloadable from the [HL7](http://www.hl7.org) website. One quick tip before we begin - in most HL7 messages the pipe character "|" is called the BAR and it is the field separator and in the case of this message, we're going to use the "^" as a space. So if you see a bunch of pipes together like this "||||||||||" - all that means is that the fields at that point in the sequence were optional or not available. Also remember that segments are separated by a carriage return - which cannot be displayed as any and all viewers will interpret that for display.
 
-### The MSH segment
+#### The MSH segment
 If you wanted to mail someone an important letter, you need to specify the from and to addresses and you may sign up for delivery confirmation. That corresponds almost exactly to the first and common segment across all HL7 messages - the MSH (message header) segment. The figure below shows the needed fields that need to be populated in an MSH segment and the values filled in for those fields. We've also assumed here that the system sending the update is an Epic ADT system and it's being sent to a Lab system.
 
 (image: msh-segment.png)
@@ -103,7 +103,7 @@ Now, if we lookup the mapping tables, we can easily fill in the MSH segment with
 MSH|^~\&|EPICADT|DH|LABADT|DH|201301011226||ADT^A01|HL7MSG00001|P|2.3|
 ```
 
-### The EVN segment
+#### The EVN segment
 Similarly in the case of the EVN segment, the figure below shows the data needed and the data we have.
 
 (image: evn-message-segment.png)
@@ -114,7 +114,7 @@ Following the same process of looking up the mapping tables and encoding, gives 
 EVN|A01|201301011223||
 ```
 
-### The PID segment
+#### The PID segment
 The PID segment contains more info such as the full name of the patient etc. Which requires the use of a space and newlines. This is where the other control characters come into play, namely the "^" symbol. What we need to send, and the data we have, are as follows:
 
 (image: pid-message-segment.png)
@@ -125,7 +125,7 @@ And following the process above and encoding the data (in this case for example,
 PID|||MRN12345^5^M11||APPLESEED^JOHN^A^III||19710101|M||C|1^CATALYZE STREET^^MADISON^WI^53005-1020|GL|(414)379-1212|(414)271-3434||S||MRN12345001^2^M10|123456789|987654^NC|
 ```
 
-### The NK1 segment
+#### The NK1 segment
 What we need to send and what we have is this:
 
 (image: pid-message-segment.png)
@@ -136,7 +136,7 @@ And we get this:
 NK1|1|APPLESEED^BARBARA^J|WIFE||||||NK^NEXT OF KIN
 ```
 
-### The PV1 segment
+#### The PV1 segment
 This:
 
 (image: pv1-message-segment.png)
@@ -147,7 +147,7 @@ And we get this:
 PV1|1|I|2000^2012^01||||004777^GOOD^SIDNEY^J.|||SUR||||ADM|A0|
 ```
 
-## Putting it all together
+### Putting it all together
 Now that we've generated the individual segments, we need to put them together. In the earlier section on message structure, you'd have seen the required sequence to be followed. So - we do that and voila! - the full HL7 ADT-A01 message (without the carriage returns)
 
 ```

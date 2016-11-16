@@ -10,7 +10,7 @@ HIPAA guidelines define the safeguards for protected health information (PHI). B
 
 We've written about BAAs [before](https://catalyze.io/learn/business-associate-agreements). Start there for a general understanding. The rest of this article, as well as a [Part 2 that talks about the top 5 things to look for in a business associate agreement](/blog/top-5-things-you-find-in-an-ideal-business-associate-agreement), will dive into why selecting a BAA is important, and give guidance when doing so.
 
-## It's not just a checkbox
+### It's not just a checkbox
 
 >   A chain is only as strong as its weakest link.
 >   —  A wise engineer
@@ -21,7 +21,7 @@ Unlike several others, we do not require a non-disclosure agreement (NDAs) to vi
 
 It is very important you read the language in the BAA from your vendor and understand it well. While it might seem the thought "I have a BAA with my vendor" is sufficient, the reality is when a breach or any other kind of security incident happens, you're at risk for whatever was declared in your BAA. In many ways a BAA is a mechanism for transferring risk (and thus liability) from one entity to another by having each entity acknowledging their responsibility in managing specific aspects of the legal mandates. 
 
-## Briefly, how a business associate agreement works
+### Briefly, how a business associate agreement works
 
 Business associate agreements became a lot more interesting with the passing of the new HITECH HIPAA Omnibus Rule in 2013, which expanded upon the definition of _business associate_ to include something called subcontractors. _Subcontractors_ are typically service or technology organizations that provide additional services to the business associates, which are providing services for the covered entities.
 
@@ -33,7 +33,7 @@ It is critical for you to remember that ultimately you, as the business associat
 
 - **Meet your responsibilities.** If all the hosting provider gives you is VMs and VPN access, you are now responsible for everything else HIPAA demands. We're talking about encryption at-rest or in-transit (even within your dedicated environment), dedicated logging, and so on. Know what HIPAA requires and what you're left having to take care of yourself!
 
-## The takeaway
+### The takeaway
 
 That leaves you with an intriguing proposition. By choosing Catalyze, you only ever have to sign one BAA. Never will you have to worry about lining up consistency with multiple vendors, or dreading the anxiety of gaps not covered.
 

@@ -18,7 +18,7 @@ Date: 06/09/2015
 
 ----
 
-Post: ## Two health technology summits tap Catalyze, Inc. for presentations on integration and innovation.
+Post: ### Two health technology summits tap Catalyze, Inc. for presentations on integration and innovation.
 
 Madison, WI (PRWEB) June 09, 2015
 
@@ -34,6 +34,6 @@ Dr. Good will also speak at the [Fourth Annual Digital Health Summer Summit](htt
 
 The session brings together pivotal players to share their strategic insights on how to sell, pilot and scale successfully within healthcare systems. “As medicine moves from volume to value-based care, more hospital systems are reaching out to external sources,” said Good. “Both entrepreneurs and Fortune 500 companies will have the opportunity in this session to learn the ways to effectively talk with and present their ideas to healthcare providers.”
 
-### About Catalyze, Inc.
+#### About Catalyze, Inc.
 
 Catalyze provides HIPAA-compliant infrastructure services with a complete set of tools for handling, storing and transmitting PHI in the cloud. The future of health care will be powered by scalable, HIPAA-compliant, interoperable infrastructure. Catalyze is building the groundwork so health care innovation can move faster. For more information, please visit [https://catalyze.io](https://catalyze.io)

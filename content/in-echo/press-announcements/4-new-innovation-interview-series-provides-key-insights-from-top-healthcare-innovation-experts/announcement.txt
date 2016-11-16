@@ -38,6 +38,6 @@ A new innovation interview will be posted once a month, along with the written t
 
 To learn more about the Healthcare Innovation Interview insights, visit Booth #1699 South Hall at HIMSS15 and speak with Catalyze co-founders Travis Good, MD and Mohan Balachandran.
 
-## About Catalyze
+### About Catalyze
 
 Catalyze provides HIPAA-compliant infrastructure services with a complete set of tools for handling, storing and transmitting PHI in the cloud. The future of healthcare will be powered by scalable, HIPAA-compliant, interoperable infrastructure. Catalyze is building the groundwork so healthcare innovation can move faster. For more information, please visit [https://catalyze.io](https://catalyze.io).

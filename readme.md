@@ -6,12 +6,12 @@ Mc Uploader in the house!
 
 A tool to upload markdown files with frontmatter to contentful. This is the first release, if you find an issue or would like a feature added, please open an issue.
 
-### Features
+#### Features
 - Validates your data against your contentful content type before it uploads.
 - Rate limits requests according to contentful rate limit.
 - Transform your data with a mapper before you upload to contentful.
 
-## Installation
+### Installation
 
 Install like so:
 
@@ -19,7 +19,7 @@ Install like so:
 npm install mc.uploader
 ```
 
-## Usage
+### Usage
 
 There are two ways to use mc.uploader. With or without a config file. Without a config file you pass in all parameters with command line arguments like so:
 
@@ -32,7 +32,7 @@ For convenience you can also a config file
 mc.uploader -C <my-config-file.json> <glob>
 ```
 
-### Options
+#### Options
 
 To get all available options, simply go
 ```
@@ -68,7 +68,7 @@ Here's how a config.json file would look:
 }
 ```
 
-### Mappers
+#### Mappers
 Use a mapper if you need to modify your data before uploading it to contentful.
 
 For example, let's say you want to use the file names to populate a field called 'slug' before you send the data to contentful. You can use a mapper to do that.
@@ -126,7 +126,7 @@ And when it has run through the mapper it'll look like this
 }
 ```
 
-### Where do I find all the contentful settings?
+#### Where do I find all the contentful settings?
 
 - __Where do I find my token?__ You can find out about getting a [contentful oauth token here](https://www.contentful.com/developers/docs/references/authentication/#getting-an-oauth-token). To get your space id, simply look at your api settings.
 - __Where do I find my space id?__ You can look at the url when you're logged into contentful - it'll look something like `https://app.contentful.com/spaces/<your-space-id>`

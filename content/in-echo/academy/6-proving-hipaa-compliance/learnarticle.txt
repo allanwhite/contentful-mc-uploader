@@ -34,7 +34,7 @@ The end result is an inefficient process of security and compliance reviews wher
 
 
 
-## HIPAA vs PCI
+### HIPAA vs PCI
 
 
 
@@ -54,7 +54,7 @@ HITRUST, like PCI, is [governed by a board made up of large private sector healt
 
 
 
-## How to Prove HIPAA Compliance
+### How to Prove HIPAA Compliance
 
 
 
@@ -62,7 +62,7 @@ Different paths can lead to HIPAA compliance. To be clear, we're talking about p
 
 
 
-### Path 1 - Self Assessments
+#### Path 1 - Self Assessments
 
 
 
@@ -74,7 +74,7 @@ Downsides proliferate, however. The inspiration that led to the formation of Cat
 
 
 
-#### Supporting Documentation
+##### Supporting Documentation
 
 
 
@@ -114,7 +114,7 @@ We've been through multiple third party audits at Catalyze. Based on that experi
 
 
 
-### Path 2 - Full third party audits
+#### Path 2 - Full third party audits
 
 
 
@@ -134,7 +134,7 @@ Vendors typically do audits once they have about 4-5 enterprises customers. At t
 
 
 
-#### Supporting Documentation
+##### Supporting Documentation
 
 
 
@@ -162,7 +162,7 @@ While you may still have to answer questions from each customer about security a
 
 
 
-#### Types of audits
+##### Types of audits
 
 
 
@@ -204,7 +204,7 @@ Other certification-type frameworks exist, like the [DIRECT certification](http:
 
 
 
-#### Cost of an audit
+##### Cost of an audit
 
 
 
@@ -216,7 +216,7 @@ Most want to know the direct costs, which is easier to compute. From our experie
 
 
 
-### Path 3 - Middle Road: Inheriting Proof
+#### Path 3 - Middle Road: Inheriting Proof
 
 
 
@@ -244,7 +244,7 @@ How is Path 3 different from Path 1 and other "compliant" cloud options? If you'
 
 
 
-## Choices, choices, choices
+### Choices, choices, choices
 
 
 

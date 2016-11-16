@@ -14,7 +14,7 @@ Post: HL7 (Health Language 7) is a "standard" utilized by the healthcare industr
 
 The HL7 messaging protocol was designed to facilitate high volumes of pre-defined data to be shared across many applications reliably. The protocol selected to make this happen was a traditional file transfer or a TCP/IP **socket** in both a real-time and batched fashion. HL7 v2.x message structure is complex, flat, and delimited. HL7 has obviously evolved over time. The current version of HL7 is v3.0. However, older versions exist and make up the bulk of the standard used today primarily because of the  large number customizations that have been done to each HL7 message.
 
-### The key differences between a v2.x and v3 message are as follows:
+#### The key differences between a v2.x and v3 message are as follows:
 
 1. v2.x was primarily meant for clinical communications - medical orders, patient registration etc. whereas v3.x has additional features for use by informaticists and for government reporting requirements.
 2. v2.x was a custom format (barebones text - all coded and separated by a pipe with headers and multiple segments etc.) v2.x looks like this:
@@ -31,7 +31,7 @@ Any technology solution in healthcare has to support both v2.x and v3.x formats.
 
 (image: figure1.png)
 
-## Customization
+### Customization
 
 Every conversation that you've ever overheard about HL7 usually talks about customizations to be accounted for and associated implementation costs. When I was starting in this space, I heard the same things but wasn't really sure what it meant.
 
@@ -43,7 +43,7 @@ Before you get too excited, the true customization comes in the form of the cont
 
 So in practice, HL7 can be perhaps best described as a messaging protocol and format standard in most implementations rather than as a comprehensive messaging standard.
 
-## HL7 Message Types (most common)
+### HL7 Message Types (most common)
 
 There are over 80 message types, a whole host of segments and codes for pretty much anything you can think of. See [this](http://www.hl7.org/special/committees/vocab/v26_appendix_a.pdf) document for a pretty comprehensive listing. But the following are the most common HL7 message types:
 
@@ -85,7 +85,7 @@ There are over 80 message types, a whole host of segments and codes for pretty m
 
 The important thing to remember is that the content of the message doesn't change all that much between all these sub-types. The message is still about the specific patient (PID segment - see segment section below).
 
-## HL7 Segments
+### HL7 Segments
 
 A segment is a group of fields that then contain different types of data. Each segment exists independently and can be utilized in multiple messages, in different sequences. Segments may be required for a particular message or in other cases, they may be optional.
 

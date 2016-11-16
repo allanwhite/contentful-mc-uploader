@@ -22,7 +22,7 @@ CustomerLogo: healthloop-logo
 ----
 CaseStudyTitle: See how HealthLoop saves operational costs with Catalyze
 ----
-CaseStudyKeys: ### In this case study, you will learn:
+CaseStudyKeys: #### In this case study, you will learn:
 
 * How HealthLoop saved over $132,000 annually.
 * The value in zero lock-in services.

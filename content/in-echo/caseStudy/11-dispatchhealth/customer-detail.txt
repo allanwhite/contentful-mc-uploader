@@ -46,7 +46,7 @@ DispatchHealth co-founders, Mark Prather, MD (CEO) and Kevin Riddleberger (Chief
 
 Originally known as True North Health Navigation, the company formed in 2013 after developing a partnership with one of Denver’s innovative and premier fire departments — South Metro Fire Rescue Authority. At the time, the fire and rescue department recognized that many of its 911 calls could be handled more efficiently and effectively by a lower level of care. For 18 months, the startup founders developed their proof of concept by going through a pilot phase of their idea. “We collected data and validated what we were doing to ensure that we could prove that we offered something more robust than just putting a bandage on people,” says Riddleberger. Once the founders knew they had both a viable and valuable service, they were ready to raise capital; at that point, they changed the name to DispatchHealth.
 
-### Pivoting after the Pilot
+#### Pivoting after the Pilot
 
 Though the company still operates with the fire station to take its low acuity 911 calls, today, DispatchHealth has moved upstream with its service. By partnering with healthcare systems, independent living and senior facilities, these providers have been given another option beyond going through the 911 system. “The number of baby boomers entering Medicare is exploding and these seniors typically have multiple co-morbidities, as well as being on many medications,” says Riddleberger, who also shares that these individuals are frequently acutely ill, which drives up healthcare costs.” The company has found their niche in lowering those healthcare costs for all parties concerned, by helping healthcare systems treat these individuals in their home versus experiencing the trauma of a hospital or emergency department visit. For patients, convenience of in-home treatment combined with quick and easy access summoned by phone, through the website or through the DispatchHealth iOS or Android apps.
 ----
@@ -62,7 +62,7 @@ SpotlightPostBody: Riddleberger and Prather caught the early and prevailing wind
 (image: dispatch-health-car-1.jpg)
 (image: dispatch-health-car-2.jpg)
 
-### Challenges to Care Delivery
+#### Challenges to Care Delivery
 
 Although the company has treated more than 2,000 patients since 2014 and has racked up roughly two million dollars in cost-savings across all its channels, such success wasn’t without its challenges. Creating a new brand also presented an education hurdle for both consumers and clinicians. Company executives had ongoing discussions with the public to aid understanding around what  DispatchHealth treats and to explain the difference between a mobile acute care house call versus a concierge service. For clinicians, the company had to provide specific education around its value. “We are like a tool in your box that can be leveraged so that you are more successful when taking on risk-based contracts,” says Riddleberger.
 

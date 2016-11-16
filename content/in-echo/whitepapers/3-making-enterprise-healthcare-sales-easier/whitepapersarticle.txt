@@ -16,7 +16,7 @@ September 2014
 
 ***
 
-## Trust is the currency of the enterprise. Catalyze is proven to be a pivotal tool to help customers earn trust in enterprise healthcare.
+### Trust is the currency of the enterprise. Catalyze is proven to be a pivotal tool to help customers earn trust in enterprise healthcare.
 
 Selling into large enterprises is hard. Selling into large healthcare enterprises presents additional roadblocks, especially for modern, cloud-based technology companies. Healthcare enterprises, in the context used here, means insurance companies, hospitals, and health systems. They have traditionally kept data on premises, in their own data centers, and behind their own firewalls. Many are risk averse when it comes to data storage outside of their own data centers, including cloud-based systems. A recent report found almost 40% of healthcare enterprises cite risk aversion as the main barrier to adoption of new technologies.
 
@@ -34,13 +34,13 @@ There are five key areas in which our customers derive value from Catalyze to se
 4. Direct Sales Assistance
 5. HIPAA Transparency
 
-### Health IT B2B Sales Process
+#### Health IT B2B Sales Process
 
 Part of the sales complexity is associated with the myriad of healthcare players. Sometimes it's clinical, sometimes financial, sometimes ops, but always security and compliance. When you, as a business associate, sell to a healthcare enterprise, you expose them to financial risk if your technology integrates their data or collects data considered PHI. To mitigate that risk, security and compliance sign-off is always necessary before implementation and deployment.
 
 (image: sales-actors.png)
 
-### 1. Healthcare Exclusivity and Expertise
+#### 1. Healthcare Exclusivity and Expertise
 
 > "Catalyze has been an invaluable partner as we create new products for patients managing challenging health situations. The depth of their knowledge of HIPAA, their experience in protecting personal health information, and the ease of use of their services has helped us quickly and confidently create a scalable platform for our solutions."
 > —	Clay Williams, PhD, CEO & Co-founder, Cohere Health
@@ -53,13 +53,13 @@ Another benefit of healthcare specificity is we offer specific, pre-built HIPAA-
 
 And lastly, because we work directly with enterprises like Blue Shield of California and the VA, we sometimes assist customers with introductions. Since Catalyze has existing relationships and passed security and compliance reviews, the process is expedited for our vendor customers.
 
-### 2. Marketing Collateral
+#### 2. Marketing Collateral
 
 Because Catalyze operates like other Business Associates and not just as a secure hosting provider, we have completed full 3rd-party HIPAA audits ourselves. We readily share our audit reports with our customers when they are asked as part of the sales process. Most customers have not completed full HIPAA audits and lean on Catalyze audit reports as evidence of compliance. This has been effective for all customer types selling to large health systems.
 
 In addition to audit reports, we also have white papers written by HIPAA auditors about the Catalyze platform that highlight the security and built-in privacy of our technology. The white papers are used by our customers when they are asked for documentation about compliance. The white papers, like our audit reports, are detailed and answer many of the questions enterprise ask about information security and HIPAA.
 
-### 3. Dedicated Infrastructure
+#### 3. Dedicated Infrastructure
 
 > "Working with Catalyze has been a fantastic experience for Zipnosis and our unique infrastructure requirements. Catalyze has not only been quick to set up new, dedicated environments, but they have also been crucial partners in defining our security and infrastructure strategy through care and understanding of our business."
 > —	Derek Rockwell, Director of Engineering, Zipnosis
@@ -73,7 +73,7 @@ While not a requirement of HIPAA, this is something many healthcare enterprises 
 
 Offering dedicated infrastructure is a great way to speed sales because it addresses many of the questions and concerns enterprises have about multi-tenant, cloud environments. Catalyze customers quickly spin up dedicated environments for customers, in minutes, not weeks. These environments have their own encryption, logging, backup, monitoring, and other services. Since the cost is passed on to enterprises, the main hurdle is the speed to spin up these dedicated environments and the time to manage them. Catalyze addresses both of these and helps its customers go from contracts to go-live much faster than with traditional HIPAA compliant hosting options.
 
-### 4. Direct Sales Assistance
+#### 4. Direct Sales Assistance
 
 Security and compliance are always a step in the sales process. Catalyze gives customers a significant shortcut, sometimes shaving off 6 to 9 or even 12 months. The step typically includes a series of calls centering around a set of questions related to information security and compliance; the only standard set of questions seen has come from a large, midwest system that asked Business Associates to complete the [Compliance Cloud Matrix](https://cloudsecurityalliance.org/research/ccm/). Some of these questionnaires are lengthy and quite similar to the questionnaires HIPAA auditors utilize in their audits.
 
@@ -82,7 +82,7 @@ The ability for our customers to lean on Catalyze as audited, trusted compliance
 
 (image: logo-grid.png)
 
-### 5. Transparency in Compliance
+#### 5. Transparency in Compliance
 
 > "Catalyze made things easy for us as we developed our own privacy and security policies, and then went through the security gauntlets of some of the big health systems. Many of our policies directly quote or refer to Catalyze's policies that they make available on a well-organized public page. And often when big systems have had security questions about our deployment, I could either refer them to Catalyze's HIPAA page, or simply copy and paste from the page myself."
 > —	Mayank Thanawala, SVP - Research & Development, HEALTHLOOP
@@ -93,7 +93,7 @@ A good example is our public policies page. We list current [policies](https://p
 
 We know several customers refer compliance and security officers to our [policy](https://policy.catalyze.io) page. With such positive interest feedback on our policies, we recently [open sourced them](https://catalyzeio.github.io/policies/) so others can use or improve them, if they choose.
 
-### Conclusions
+#### Conclusions
 
 Healthcare is at a tipping point. The digitization of health data, proliferation of sensors and connected devices, and changing incentives around accountability and patient-centered care are driving entirely new technology solutions. Developers, companies, and [investors are flocking to healthcare](https://fortune.com/2014/09/24/health-insurance-invest-startups/) like never before. Healthcare enterprises are finally adopting new solutions. But, in order to succeed in distributing and scaling technology solutions, vendors must overcome the risk aversion of healthcare enterprises.
 
@@ -101,7 +101,7 @@ It is possible to build and maintain compliant cloud environments on traditional
 
 If you want to learn more about how Catalyze can help you sell to healthcare enterprises faster, send us an [email](mailto:sales@catalyze.io) or give us a call at 888-377-3184.
 
-#### About Catalyze
+##### About Catalyze
 
 Catalyze is cloud computing for healthcare. We offer a HIPAA compliant platform to make achieving compliance easier. We also have platform solutions for building compliant mobile apps and integrating data to and from clinical systems. Customers such as the VA, Blue Shield of California, Healthloop, University of North Carolina, Zipnosis, and others utilize Catalyze for building and scaling innovative solutions for healthcare.
 

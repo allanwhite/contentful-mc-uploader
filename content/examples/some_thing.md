@@ -15,7 +15,7 @@ While you're waiting on the download, let's talk about [what's new](http://arste
 
 The big ones are multitasking, low-power mode, and keyboard additions.
 
-## Multitasking
+### Multitasking
 This release sees a lot of love going towards the iPad. Three new tablet views are:
 
 - Slide Over
@@ -24,7 +24,7 @@ This release sees a lot of love going towards the iPad. Three new tablet views a
 
 These features are only available on the Mini 2+ and Air 1+ iPads. On this releasse, Apple was kind enough to [highlight spots](https://developer.apple.com/library/prerelease/ios/documentation/WindowsViews/Conceptual/AdoptingMultitaskingOniPad/index.html#//apple_ref/doc/uid/TP40015145-CH3-SW2) where bugs are likely to appear.
 
-### What to test
+#### What to test
 The quick and dirty summary of [for testing](https://developer.apple.com/library/prerelease/ios/documentation/WindowsViews/Conceptual/AdoptingMultitaskingOniPad/index.html#//apple_ref/doc/uid/TP40015145-CH3-DontLinkElementID_1) is:
 
 - Be mindful of resource consumption. Mo' apps, mo' problems.
@@ -43,12 +43,12 @@ The quick and dirty summary of [for testing](https://developer.apple.com/library
 
 <section class="note">To test, "Test the use case of transitioning from secondary app to primary app."</section>
 
-### ACHTUNG! Multitasking is ON by default
+#### ACHTUNG! Multitasking is ON by default
 You'll eventually want to support these spiffy new multitasking features. But let's assume you're sane and not ready to hop on the bandwagon.
 
 <section class="note">To opt out, add _UIRequiresFullScreen_ as a key to the _Info.plist_ for the project. Set the value to YES ([source](https://developer.apple.com/library/prerelease/ios/documentation/WindowsViews/Conceptual/AdoptingMultitaskingOniPad/QuickStartForSlideOverAndSplitView.html#//apple_ref/doc/uid/TP40015145-CH13-SW1)).</section>
 
-## Low-power mode
+### Low-power mode
 iOS 9 adds low-power mode. Yay! More battery life. Also, more edge cases. The good news is it's easy to test. Turn on low-power mode by [visiting Settings > Battery](https://developer.apple.com/library/prerelease/ios/documentation/Performance/Conceptual/EnergyGuide-iOS/LowPowerMode.html).
 
 The low-power mode changes a few things, which are relevant to testing:
@@ -63,7 +63,7 @@ Any or all of the above might cause strange behavior. Test all the important flo
 
 Get designers and PMs involved with the testing. Some of the above might not cause actual bugs but may very well cause unexpected ugliness.
 
-## Keyboard changes
+### Keyboard changes
 The keyboard has some snazzy new tricks, as well.
 
 - A two-finger tap and hold expands the text field for easy scrolling.
@@ -76,7 +76,7 @@ Native apps are likely to be relatively safe from the keyboard changes. Expect A
 
 <section class="note">Copy, cut, and paste are nothing new, but the ease of access means bugs around these features are more likely to surface. Take this as a great excuse to test these actions more thoroughly.</section>
 
-## In closing
+### In closing
 Download the beta! It's Apple's first public beta, so take advantage. Flip through [the docs](https://developer.apple.com/library/prerelease/ios/documentation/WindowsViews/Conceptual/AdoptingMultitaskingOniPad/index.html#//apple_ref/doc/uid/TP40015145-CH3-DontLinkElementID_1) and get acquainted.
 
 If you're looking to update your cache of test devices, check the [refurb site](http://store.apple.com/us/browse/home/specialdeals/ipad). It's an easy way to save a few bucks.

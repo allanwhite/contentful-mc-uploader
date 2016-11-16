@@ -28,7 +28,7 @@ CustomerProducts:
 ----
 CaseStudyTitle: Solving Integration and Workflows to Improve Pediatric Asthma Care: A Propeller Health and Catalyze Collaboration
 ----
-CaseStudyKeys: ### In this case study, you will learn:
+CaseStudyKeys: #### In this case study, you will learn:
 
 * An innovative workflow was created to bypass the data restrictions of the EHR
 * Patient and caregiver data were amalgamated to be read as a singular data source

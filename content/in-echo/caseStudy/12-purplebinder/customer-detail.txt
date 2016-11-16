@@ -55,7 +55,7 @@ SpotlightPostBody: “You would think that a simple online Google search for a s
 
 Declan, Purple Binder’s co-founder and chief technology officer, says the problem with the current healthcare system is that it is not set up that way. “We have these two systems that grew up along side of each other – the healthcare system on one hand and the social services system on the other. There has never been a way to connect them before. We see Purple Binder as the technological bridge that can connect those two systems.”
 
-### Expanding the Healthcare Bridge
+#### Expanding the Healthcare Bridge
 
 Since 2013, Purple Binder has been providing an informational product that empowers hospital staff and social workers to have readily available information about community resources. As Purple Binder evolves, they are the referral loop to provide even more engaging, impactful connections. They are piloting a messaging portal allowing hospital systems and social service organizations to log-in, input when a patient is referred, and then receive feedback when the patient accesses that particular service…
 
@@ -63,7 +63,7 @@ Since 2013, Purple Binder has been providing an informational product that empow
 
 When Purple Binder began developing the next evolution of their product, they asked their customers’ security officers what would make them comfortable in regards to hosting. Thematically, each expressed a strong preference for working with a HITRUST CSF Certified company, believing that the scrutiny waged in the certification process gives them comfort and assurance levels about being compliant. “I think that’s where Catalyze hit the sweet spot: able to provide that level of assurance and still having a strong focus on the developer experience.”
 
-### A Purple Binder Future
+#### A Purple Binder Future
 
 As this next step in Purple Binder’s evolution develops, Catalyze will share more on their important role in the healthcare landscape. Currently, Purple Binder serves the greater metro area of Chicago, as well as parts of California; geographically is one manner in which the co-founders will soon expand. Likewise, they will expand equally in depth as they innovate within the social service organizations they serve.
 

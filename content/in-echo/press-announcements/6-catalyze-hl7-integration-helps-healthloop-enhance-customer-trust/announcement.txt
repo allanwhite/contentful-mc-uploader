@@ -32,10 +32,10 @@ Mohan Balachandran, president and co-founder of Catalyze said that when a health
 
 That business approach worked well for Thanawala who said, “With Catalyze, we had the ability to scale out our bandwidth when we needed it.” Right now, HealthLoop’s integration is focused mostly on Epic, because that’s the electronic health record company they encounter most often. “It’s also one of the more complex EHR systems to interface with, so that’s the biggest win. But, the HL7 integration with Catalyze is useful for other systems, too.”
 
-## About HealthLoop
+### About HealthLoop
 
 HealthLoop keeps doctors and patients connected between visits with clinical information that is insightful, actionable, and engaging. HealthLoop automates the routine aspects of care while tracking patient progress and monitoring clinical areas of concern, boosting efficiency, and improving outcomes through patient engagement. For more information on HealthLoop, visit [http://www.healthloop.com](http://www.healthloop.com).
 
-## About Catalyze, Inc.
+### About Catalyze, Inc.
 
 Catalyze provides an innovative HIPAA-compliant platform with a complete set of modules to handle, store and transmit PHI in the cloud. Scalable, HIPAA-compliant and interoperable infrastructure is powering the future of healthcare, so Catalyze has built the platform upon which an enterprise can hasten healthcare innovation without becoming an overnight expert in compliance. For more information, please visit [https://catalyze.io](https://catalyze.io).

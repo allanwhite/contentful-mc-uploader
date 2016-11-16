@@ -9,7 +9,7 @@ Let's cut to the chase. You want to create a mobile application that stores PHI 
 
 In this post, I'll explain the basics of getting set up with Catalyze and Ionic by explaining how to create a simple app with Ionic that can be used to sign in with a Catalyze account.
 
-## Set up your environment
+### Set up your environment
 
 To get started, you'll need to sign up for and activate an account on the [Catalyze dashboard](https://dashboard.catalyze.io/signup) if you haven't already done so. You'll also need to get all of the necessary components to develop using the Ionic Framework. Following their [getting started guide](http://ionicframework.com/getting-started/) will get you everything you need to begin. I used the blank project template for the code below, but there shouldn't be too many changes to use the tabs or sidemenu templates.
 
@@ -21,7 +21,7 @@ Make sure to keep your browser open or take note of you application id and the A
 
 The easiest way to interact with the Catalyze API is to use the [Catalyze Javascript SDK](https://github.com/catalyzeio/catalyze-js-sdk). For ionic, you will probably want to install it using bower, and save it to your dependencies by running `bower install --save-dev catalyze` from the command line within your ionic project's directory.
 
-## Set up the controllers
+### Set up the controllers
 
 For the purposes of this tutorial, we're going to only create a single file to keep track of our controllers. The file www/js/controllers.js should contain the following:
 
@@ -48,7 +48,7 @@ angular.module('controllers', [])
 });
 ```
 
-## Inject dependencies into our app
+### Inject dependencies into our app
 
 Before using our controllers modules and the Catalyze Javascript SDK, we must let angular know about them. To do this, we must include the js files in our index.html and then add 'controllers' and 'catalyze' to the list of modules injected into the app in app.js.
 
@@ -73,7 +73,7 @@ One more change to index.html is to add in an ion-nav-view in place of ion-conte
 		</ion-pane>
 	</body>
 
-## Create the views
+### Create the views
 
 There are two views I'm going to create: a view for the sign in form, and a sign in success view. To start with, I created a new directory and files for the two new views.
 
@@ -85,7 +85,7 @@ www/
 --- sign-in-success.html
 ```
 
-#### sign-in.html
+##### sign-in.html
 
 ```
 <ion-view title="Sign In">
@@ -106,7 +106,7 @@ www/
 </ion-view>
 ```
 
-#### sign-in-success.html
+##### sign-in-success.html
 
 ```
 <ion-view title="Sign In Success">
@@ -116,7 +116,7 @@ www/
 </ion-view>
 ```
 
-## State configuration
+### State configuration
 
 The last thing we need to do is tell our app how to deal with the different states it can be in. For handling states, keep this [link](https://github.com/angular-ui/ui-router) handy.
 
@@ -170,11 +170,11 @@ Finally, we need to tell our ionic app what our Catalyze application's app id an
 })
 ```
 
-## Test it out
+### Test it out
 
 Now that everything is in place, you should be able to run the command `ionic serve` from a terminal, and test the app in your browser. You should be able to log in with your Catalyze dashboard account; any login errors that occur should be viewable with your browser's developer tools. NOTE: Make sure you run the command from the top directory of your project, not within the www directory.
 
-## Final notes
+### Final notes
 
 Some corners were cut while writing this post to keep it as short as possible while still hitting the key points, so before you dive into development, make sure you structure your project appropriately. In most cases, having all of your services in services.js and all of your controllers in controllers.js will lead to headaches down the road. I would suggest checking out this [link](http://blog.angularjs.org/2014/02/an-angularjs-style-guide-and-best.html), particularly the 'Best Practice Recommendations' link therein.
 

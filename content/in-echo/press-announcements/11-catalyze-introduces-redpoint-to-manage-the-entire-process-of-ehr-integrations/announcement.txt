@@ -18,7 +18,7 @@ Date: 12/02/2015
 
 ----
 
-Post: ## Redpoint promises to enable healthcare integration workflows and automate secure connectivity
+Post: ### Redpoint promises to enable healthcare integration workflows and automate secure connectivity
 
 
 
@@ -38,7 +38,7 @@ Redpoint is the product evolution of Catalyze's industry-leading integration ser
 
 
 
-### Integration is a Journey, not an API or Interface Engine
+#### Integration is a Journey, not an API or Interface Engine
 
 
 
@@ -50,7 +50,7 @@ Redpoint and its components will guide vendors through the entire process of a h
 
 
 
-### The Guide for Digital Health Innovators
+#### The Guide for Digital Health Innovators
 
 
 

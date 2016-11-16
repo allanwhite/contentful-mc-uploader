@@ -18,7 +18,7 @@ Date: 07/19/2016
 
 ----
 
-Post: ## Healthcare customers gain compliance and security measurement with extension of HITRUST CSF Certification Workloads on AWS.
+Post: ### Healthcare customers gain compliance and security measurement with extension of HITRUST CSF Certification Workloads on AWS.
 
 MADISON, WIS. (PRWEB) JULY 19, 2016
 

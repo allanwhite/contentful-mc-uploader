@@ -32,6 +32,6 @@ Gleason went on to say this move could be revolutionary in helping the industry 
 
 “Our goal with providing HIPAA-compliant cloud services has always been to make life easier for healthcare developers, and we believe this small open source step may bring about a huge leap for the healthcare industry,” said Good.
 
-## About Catalyze, Inc.
+### About Catalyze, Inc.
 
 Catalyze provides HIPAA-compliant infrastructure services with a complete set of tools for handling, storing and transmitting PHI in the cloud. the future of healthcare will be powered by scalable, HIPAA-compliant, interoperable infrastructure. Catalyze is building the groundwork so healthcare innovation can move faster. For more information, please visit [https://catalyze.io](https://catalyze.io) or follow on Twitter at [https://twitter.com/catalyzeio](@catalyzeio).

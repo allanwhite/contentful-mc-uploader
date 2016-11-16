@@ -3,7 +3,7 @@ Title: Lay of the Land
 SeoTitle: Lay of the Land
 Author: travis
 Date: 05/15/2013
-Summary: 
+Summary: Our mission is to make it easier to build, test and scale secure, interoperable, and effective apps for healthcare.
 Body: |
   Modular technology, or services that developers can plug into for various features or function, is here. There seems to be almost a limitless number of possible **BLANK-as-a-Service** offerings these days. Amazon and Rackspace offer Infrastructure-as-a-Service (IaaS). Heroku offers a Platform-as-a-Service (PaaS). Kinvey, Parse, and Stackmob offer Backend-as-a-Service (BaaS). Context.io offers Email-as-a-Service.
 
@@ -16,6 +16,7 @@ Body: |
   At catalyze.io, we are healthcare app developers. We have lots of ideas. We desperately need and want tools to help us in the process of making apps. We have lots of people, especially physicians, come to use with ideas. We also talk to tons of developers and entrenched interests in the industry about how they build and test apps and services. We found other people needed the same things we needed because they, like us, wanted a lower barrier to getting to market and testing their app / idea.
 
   So that's our mission at catalyze.io - make it easier to build, test and scale secure, interoperable, and effective apps for healthcare. We don't think security and interoperability have to be a hindrance to building and distributing apps for health and wellness. We also don't think developers and apps should compete on security and interoperability, instead they should compete on their core value to users and/or customers. Our healthcare backend-as-a-service is being built and tested with several production reference launch apps. We're excited to share them with you in the coming months, and open up our platform this spring. If you're interested in testing our platform, please send us an email.
+
 Tags: baas, backend as a service, mission
 Fullname: Travis Good, MD
 ---

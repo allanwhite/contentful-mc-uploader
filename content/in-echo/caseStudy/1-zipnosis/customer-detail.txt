@@ -26,7 +26,7 @@ CustomerProducts: integration
 ----
 CaseStudyTitle: Scalable, compliant integration with any EHR
 ----
-CaseStudyKeys: ### In this case study, you will learn:
+CaseStudyKeys: #### In this case study, you will learn:
 
 * How Zipnosis saves 150 man hours per HL7 integration.
 * Why Catalyze's dedication to service is a defining differentiation.

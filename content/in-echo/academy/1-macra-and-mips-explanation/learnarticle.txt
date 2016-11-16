@@ -30,18 +30,18 @@ Post: There is confusion in the industry around MACRA, MIPs, and APMs. It begs t
 
 This article will outline old program terminology and how they’re being replaced with new incentive programs. It will dive into the new program structures and provide links to helpful resources so you can cut through the clutter.
 
-## Get to Know the Acronyms
+### Get to Know the Acronyms
 
 Acronyms are no fun, but even worse are when old acronyms are replaced by new acronyms that mean essentially the same thing. It causes unnecessary confusion and wastes brain-power. This is partially what we are experiencing with MACRA and MIPS.
 
-### Old Acronyms Being Replaced by New Acronyms
+#### Old Acronyms Being Replaced by New Acronyms
 
 | Acronym | Term | Description |
 |---------|------|-------------|
 | MU | Meaningful Use | The Medicare EHR incentive program is now a component of MIPS and is called Advancing Care Information. Will we start saying ACI? Probably. |
 | EP | Eligible Professional | What we used to call an eligible professional under Meaningful Use is now called Eligible Clinician (EC) within MIPS. |
 
-### Net-New Acronyms
+#### Net-New Acronyms
 
 | Acronym | Term | Description |
 |---------|------|-------------|
@@ -52,11 +52,11 @@ Acronyms are no fun, but even worse are when old acronyms are replaced by new ac
 | QP | Qualifying APM Participant | Someone that participates in an advanced APM model at a higher threshold. |
 | APM | Advanced Alternative Payment Models | The QPP creates additional incentives for Qualifying Professional’s (QP’s) who participate in an Advanced Alternative Payment Models.  It does not create the APM or alter the structure of APMs. (Some think these should have been called AAPMs.) |
 
-## What is the overarching goal?
+### What is the overarching goal?
 
 The goal of CMS is to increase the focus on quality and value-based care. By the end of this year, CMS plans to tie 30% of Medicare payments to alternative payment models and to tie 85% of fee-for-service payments to quality. To do that, the Quality Payment Program has been created and has two branches. Clinicians will either participate in MIPS or an APM. Most clinicians will be subject to MIPS. Clinicians will be excluded from MIPS if they meet a low volume threshold, are in their first year of Medicare Part B Participation, or if they participate in the other branch of the quality payment program, an advanced alternative payment model (APM).
 
-## What is MIPS?
+### What is MIPS?
 
 MIPS is a single incentive program that streamlines three current programs within it: the physician quality reporting system (PQRS), Value Based Payment, and the Medicare EHR incentive program for eligible professionals (Meaningful Use for EP). It is important to note that the EHR incentive program for hospitals will continue; MIPS does not apply to hospitals. Also, the Medicaid EHR incentive program for eligible professionals will continue. MIPS will take effect in 2018 and MIPS begins adjusting payments in 2019. The fourth component of MIPS is new; Clinical Practice Improvement Activities.
 
@@ -68,7 +68,7 @@ In 2017, groups will report year’s worth of data to CMS so a national threshol
 
 (image: image01.png)
 
-## What is an APM?
+### What is an APM?
 
 Advanced Alternative Payment Models (APMs) are defined by CMS as new approaches to paying for medical care through Medicare that incentivize quality and value. MACRA doesn’t create new Advanced Alternative Payment Models. Just as MACRA created MIPS, a program to change the reimbursement model, that’s the exact goal of MACRA under APMs as well; additional incentives for APM participation.
 

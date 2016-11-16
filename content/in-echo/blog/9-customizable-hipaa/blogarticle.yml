@@ -3,7 +3,7 @@ Title: Customizable HIPAA
 SeoTitle: Customizable HIPAA
 Author: travis
 Date: 10/21/2013
-Summary: 
+Summary: Minimizing risk and maximizing protections for patient data.
 Body: |
 It might seem strange but communicating directly with individuals about their health is a pretty new concept. It's part of larger trends in healthcare that put the patient in more control of their data, and make the patient a more informed and active member of the care team. Patient activation and engagement are not the subjects of this post, though they are near and dear to our hearts at Catalyze.
 
@@ -18,6 +18,7 @@ But having a patient opt-in to SMS or email or Push or any number of other deliv
 SMS is a good example because there are very successful, and popular, SMS delivery services, Twilio and Plivo being the biggest, that can be used to deliver SMS (or voice). But, according to the new HIPAA Omnibus rules, those delivery services are still considered subcontractors and subject to the same rules and risks of any other business associate in the eyes of HIPAA and HHS. ePHI passes through, and is typically queued, on systems while awaiting delivery. Email delivery is very similar to SMS in these ways, just replace Twilio and Plivo with Mailgun and Postmark. Push too.
 
 So what can you do as a developer? It's a matter of being thoughtful about who you work with and understanding where PHI flows. Many infrastructure companies understand the unique needs in healthcare and the broadened scope of HIPAA. But, at the same time, you have to be proactive when you work with vendors to assure you minimize risk and maximize protections for patient data.
+
 Tags: engagement, hipaa, sms, learn
 Fullname: Travis Good, MD
 ---

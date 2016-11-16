@@ -18,7 +18,7 @@ Post: You did it! You made your first big sale to a hospital. Your product is li
 
 What needs to be done? Lets walk through the names, the players and the timelines of delivering your first integration with Epic Systems EHR (EpicCare) or any other EHR like Cerner or Allscripts.
 
-## The Players
+### The Players
 
 **Project Manager** - The person responsible for running the project plan and gathering resources. Depending on the integration size or scope, this person might wear multiple hats within IT *or* might be involved with operations within the healthcare organization itself.
 
@@ -54,7 +54,7 @@ It's also worth noting that the process of getting data in or out the EHR doesn'
 
 **Support Staff** - A larger organization likely has team members handle some amount of support. This person is probably who will contact you if there is downtime from the Hospital side or if they notice that errors are pooling up on your interface connection. Likewise, you will want to inform this person (or some other centralized resource) in the event that you notice a degradation of service
 
-## The Process
+### The Process
 
 <div class="ctz-hl7-projectplan-container cf">
 <div class="ctz-hl7-projectplan-txt">
@@ -85,11 +85,11 @@ It's also worth noting that the process of getting data in or out the EHR doesn'
 </div>
 </div>
 
-## The Stack
+### The Stack
 
 We use Mirth Connect with Postgres as a backend here at Catalyze and I highly recommend it. It's open source with a permissive license and can satisfy most integrations needs for startups. It's ranked highly in KLAS. [You can give it a try here.](http://www.mirthcorp.com/products/mirth-connect)
 
-## Why Catalyze?
+### Why Catalyze?
 
 With all this information in tow, why do you need an integration partner?
 
@@ -107,7 +107,7 @@ Because there is so much more to do. It takes plenty of specialized experience t
 
 * Straight-forward pricing: Do you know that in 1990 the pitch for HL7 involved pricing for an interface costing less than $10,000? Why are you still paying through the teeth for it now?
 
-## Conclusion
+### Conclusion
 
 We want to make interoperability easier for everyone. Look forward to more open-sourced advice and documentation in the future.
 
