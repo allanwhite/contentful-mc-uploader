@@ -61,6 +61,7 @@ This flow, which is what we used as we modeled out healthcare APIs, does have dr
 This should give you an idea of the thought process that went into the overall structure and architecture of the data models that are needed to build out a healthcare specific API. The next blog post will delve deeper into the data models and the design of our compliant API.
 
 If you'd like to start playing around with what we already have, signup for a BaaS account [here](https://devportal.catalyze.io/) today, check out our documentation [here](https://docs.catalyze.io/), check out the guide we're writing on how to use the APIs [here](https://docs.catalyze.io/guides/api/latest/) (this is a work in progress) or signup for our newsletter on the right to stay informed of updates.
+
 Tags: hipaa, api, mhealth, healthcare data models, platform
 Fullname: Mohan Balachandran
 ---

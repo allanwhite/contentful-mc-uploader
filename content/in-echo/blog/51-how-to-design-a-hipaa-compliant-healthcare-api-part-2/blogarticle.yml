@@ -84,6 +84,7 @@ PUT /classes/EncounterNote
 ##Step 3: Design your data with best practices and use cases in mind##
 
 Overall, the best piece of advice that I can give you getting started is to not create two data models where one will suffice. In healthcare, it's not uncommon to have an app that operates in various contexts with variations on use cases.  Your ED docs may want something different than Family Medicine doctors in an office, who may want something different than an attending on the Hospital floor. Just because you have three different care settings doesn't mean that you should have three different data models for each care setting for a similar object. Instead, create a custom class with a type or location modifier that allows you to differentiate functionality and usage upon querying the API for that data type. It's much harder to merge data back together in the future than it is to separate it out if you decide that that is prudent at a later date.
+
 Tags: hipaa, design, custom classes, data, api
 Fullname: Mark Olschesky
 ---

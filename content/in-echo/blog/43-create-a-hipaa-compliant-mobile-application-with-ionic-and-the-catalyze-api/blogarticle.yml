@@ -179,6 +179,7 @@ Now that everything is in place, you should be able to run the command `ionic se
 Some corners were cut while writing this post to keep it as short as possible while still hitting the key points, so before you dive into development, make sure you structure your project appropriately. In most cases, having all of your services in services.js and all of your controllers in controllers.js will lead to headaches down the road. I would suggest checking out this [link](http://blog.angularjs.org/2014/02/an-angularjs-style-guide-and-best.html), particularly the 'Best Practice Recommendations' link therein.
 
 Overall we love working with Ionic, and plan to do a lot more with it in the future. HIPAA compliance is a headache, as is writing mobile apps to run on multiple mobile platforms; combining Ionic and Catalyze is a great way to overcome both and get your compliant app built and deployed quickly.
+
 Tags: code, tutorial, mobile, ionic
 Fullname: Anthony Pleshek
 ---

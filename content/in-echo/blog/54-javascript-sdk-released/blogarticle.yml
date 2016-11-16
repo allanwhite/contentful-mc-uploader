@@ -11,6 +11,7 @@ The SDK is available via `npm` (for the Node.js release) and `bower` (for the jQ
 [https://github.com/catalyzeio/catalyze-js-sdk](https://github.com/catalyzeio/catalyze-js-sdk)
 
 Register an account in the [Dashboard](http://dashboard.catalyze.io/) to get started writing HIPAA compliant apps today. Contact us at [support@catalyze.io](mailto:support@catalyze.io ) if you have questions or need help getting started.
+
 Tags: javascript, jQuery, Node.js, node, angular, SDK, BaaS, backend, backend as a service, compliance, code
 Fullname: Alex Foran
 ---

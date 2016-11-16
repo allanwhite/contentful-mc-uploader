@@ -44,6 +44,7 @@ The last class holds all the messages for all users titled `messages`. Much like
 |(image: hipaagram1.png)|(image: hipaagram2.png)|(image: hipaagram3.png)|
 
 You can check out the source code for HipaaGram on github [here](https://github.com/catalyzeio/HipaaGram). Be sure to put in your own API Key and app ID. To get started, [signup](https://dashboard.catalyze.io/signup) for a free Catalyze trial account or check out our [documentation](https://dashboard.catalyze.io/resources). Feel free to [email us](mailto:hello@catalyze.io) if you have any questions or feedback.
+
 Tags: app, iOS, api, sms, messaging
 Fullname: Josh Ault
 ---

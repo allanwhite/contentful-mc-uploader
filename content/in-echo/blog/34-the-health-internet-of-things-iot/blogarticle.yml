@@ -22,6 +22,7 @@ Tied closely to mashing up of health IoT data with existing clinical data are is
 We firmly agree with the report that there are paradigm shifts coming to healthcare, and a lot of those shifts are going to be technology and data-driven; but, in order for those shifts to take hold, in order for those shifts to scale, both on the consumer side as well as on the enterprise side, there needs to be a high level of security. There also needs to be transparency into the policies and procedures that manage that security. This is essential to provide the assurances needed for both individuals as well as enterprises that will be using these technologies.
 
 This security and transparency is in the [core](https://catalyze.io/compliance/) of how we build our technology at Catalyze. It's in our DNA. It's the compliance and security layer that we want to help vendors, enterprises, and developers address so that they can focus on creating meaningful health IoT applications or the actionable insights or algorithms based on health IoT data. Whether you're building a mobile app using our compliant [backend](https://catalyze.io/backend-as-a-service/) or deploying a custom application on our compliant [platform](https://catalyze.io/platform-as-a-service/), we want to help you build and sell the future of healthcare.
+
 Tags: data, ehr, quantified, sensors
 Fullname: Travis Good, MD
 ---

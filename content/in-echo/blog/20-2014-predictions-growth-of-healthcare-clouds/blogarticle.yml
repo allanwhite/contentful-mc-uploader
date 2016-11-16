@@ -30,6 +30,7 @@ One of the other main drivers of cloud-based adoption in the enterprise is devel
 Above are findings from a recent Forrester report on the growth of different sectors of cloud computing. For a good general discussion of enterprise trends in cloud and why some of the metrics for private cloud growth rates aren't really private cloud at all, read this recent [commentary](http://readwrite.com/2014/01/27/private-public-cloud-cloudwashing#awesm=~owh388yqD0DouV) on Forrester research. If you don't want to click the link, the punch line is that only about 8% of what is considered "private cloud" is actually cloud computing; it's really just virtualized computing. And virtualized computing misses several of the key benefits of cloud computing listed above. Right in our backyard, the large data center project that Epic has underway in Verona, WI, will very likely be purely virtualized computing, and not meet the definitions for cloud computing, hence not have the benefits for customers.
 
 But that's not to say that other vendors won't bring cloud computing to healthcare; it simply means do not believe everything you read about private clouds and enterprises. We predict there will be tremendous growth in 2014 of newer, non-EHR cloud-based tools, many of which will continue to grow beyond 2014 as healthcare evolves to meet growing demands on providers to manage risk.
+
 Tags: cloud, hipaa, iaas, paas, trends
 Fullname: Travis Good, MD
 ---

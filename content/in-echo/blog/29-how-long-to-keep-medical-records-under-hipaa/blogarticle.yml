@@ -30,6 +30,7 @@ There are lots of policy and documentation requirements in HIPAA, and the rules 
 At Catalyze we use Git for version control on our policies, and the current versions are written in Markdown and maintained in a Master branch. More on why we do this in a separate post.
 
 We backup our current policies using Box. For risk assessments, change and configuration management, vulnerability scanning, and audits we also use Box as a repository. You can see our current policies here - [catalyze.io/policy](https://catalyze.io/policy/).
+
 Tags: hipaa, data, ephi, policy
 Fullname: Travis Good, MD
 ---

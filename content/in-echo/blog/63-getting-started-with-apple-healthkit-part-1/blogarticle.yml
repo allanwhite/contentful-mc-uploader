@@ -116,6 +116,7 @@ This type of query would be particularly useful for integrating with a piece of 
 At Catalyze we can help you get started with HealthKit. We have begun developing a utility that will allow you to easily save your data to both HealthKit and our HIPAA compliant APIs simultaneously. That way if anything would ever happen to the user's device, their health data would be stored in an external location and still accessible to them. Another situation we find that this would be extremely helpful would be if the user revokes your application's permission to read or write any data to HealthKit. In the event that this happens you are no longer able to retrieve any data at all. Not even data your application created and wrote to HealthKit when you had access. You had just lost all your historical data about the user. Using this tool you will be able to retrieve this data from our APIs and perform any operations on the data that you'd like, respecting the patients privacy of course.
 
 Be on the lookout for another blog post announcing the release of this tool so you can start developing with HealthKit and Catalyze! We're excited to see the applications you come up with and would love to hear about them. Feel free to [email us](mailto:hello@catalyze.io) with any feedback or questions you might have.
+
 Tags: healthkit, api, iOS
 Fullname: Josh Ault
 ---

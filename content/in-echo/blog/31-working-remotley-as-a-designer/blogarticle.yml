@@ -32,6 +32,7 @@ That comprises most of the collaboration tools we use on a daily basis. Since Ca
 - **Use frameworks and tools:** Creating web prototypes can become tedious if you're constantly having to rewrite a lot basic HTML and Boilerplate code. [Middleman](http://middlemanapp.com) has been essential in creating prototypes and websites for us. Because it's a static site generator it produces code that we can put up virtually anywhere with little to no setup. We've been using DigitalOcean on the design team to help us host websites and prototypes. DigitalOcean has some [great resources](https://www.digitalocean.com/community/articles) to get designers up to speed with server management.
 
 Our process is not perfect and we continue to improve it everyday. It's my hope that this post inspires a reader to consider working remotely as a designer, because it can work. Keeping things simple is key.
+
 Tags: remote, design, collaboration, tools
 Fullname: Ryan Rich
 ---

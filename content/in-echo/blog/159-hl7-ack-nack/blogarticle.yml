@@ -42,4 +42,5 @@ Moreover, if the message was not successfully received, an HL7 NACK (negative ac
 In short, standard HL7 protocol calls for ACKnowledgment protocol. Each time a system receives a message and processes the data, it is expected to send an ACKnowledgment message back to the sending system. The sending system is expected to keep on sending a message until it has received a ACK/NACK message. Without this standard enacted, data could be lost in transmission.
 
 Questions? Thoughts? Anything related to HL7 integration on your mind? [Tweet us](https://twitter.com/catalyzeio) or shoot us an [email](hello@catalyze.io). If you want to read more about HL7, check out some of our [HL7](https://catalyze.io/learn/hl7-101-a-primer) resources freely available in our [Academy](https://catalyze.io/learn).
+
 Tags: hl7 integration

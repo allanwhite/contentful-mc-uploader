@@ -34,6 +34,7 @@ HealthKit is important for developers, both data collectors (sensor makers and a
 The major things I wonder about with HealthKit relate to privacy, security, and ownership of data. With Apple potentially sharing data with healthcare providers, will it be signing BAAs and at what point does HIPAA apply? Who owns the data if a user decides to move off of iOS? Apple does not have the best track record of [supporting](http://www.techrepublic.com/article/how-to-keep-receiving-sms-from-iphone-users-after-making-the-switch-to-android/) open, cross platform standards. These are all yet-to-be-answered questions.
 
 As part of our HIPAA-compliant backend-as-a-service (BaaS), we'll be integrating our [iOS SDK](https://github.com/catalyzeio/catalyze-ios-sdk) with iOS 8, and building some cool samples to help you get started connecting to HealthKit. With very limited information on structured data in HealthKit, we're uncertain how our structured data [models](https://docs.catalyze.io/) will map to HealthKit, but our [custom classes](https://docs.catalyze.io/#custom-classes) support unstructured data in any case. Signup for a BaaS account [here](https://devportal.catalyze.io/) today or signup for our newsletter on the right to stay informed of updates.
+
 Tags: apple, mhealth, data, healthkit
 Fullname: Travis Good, MD
 ---

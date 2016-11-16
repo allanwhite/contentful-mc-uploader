@@ -23,6 +23,7 @@ Body: |
 * When downloading a file, setting your `Accept` header to either `Accept: */*` or `Accept: application/json, application/octet-stream` will now allow you to correctly receive error messages.
 
 As always, if you run into a problem, please [let us know](https://catalyzeio.zendesk.com/).
+
 Tags: api, release notes, BaaS, backend
 Fullname: Alex Foran
 ---

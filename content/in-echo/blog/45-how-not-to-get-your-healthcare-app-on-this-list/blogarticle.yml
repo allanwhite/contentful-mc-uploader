@@ -37,6 +37,7 @@ We handle password management out of the box, in a HIPAA compliant manner. We do
 None of these things are hard to implement technically but Catalyze's [API](https://docs.catalyze.io/api/latest/) gives you these features and a full HIPAA compliant backend and supported infrastructure. Leave the security and privacy details to us so that you can focus on building the next great health care app.
 
 If you are interested in getting started with Catalyze BaaS, please take a look at our [API Guide](https://docs.catalyze.io/guides/api/latest/).
+
 Tags: hipaa, security, privacy, api, baas
 Fullname: Ben Uphoff, PhD
 ---

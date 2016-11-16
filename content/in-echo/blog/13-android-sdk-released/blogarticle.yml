@@ -12,6 +12,7 @@ The SDK is a JAR file that can be easily added to the classpath of your existing
 The sample app is really easy to import into [Android Studio](http://developer.android.com/sdk/installing/studio.html). Simply clone the [project](https://github.com/catalyzeio/ExampleAndroidApp), select **Import project...**, select the build.gradle file from the repository and you are ready to go.
 
 Register for the Catalyze [Developer Portal](http://developer.catalyze.io/sign-up) to get started writing HIPAA compliant apps today. Contact us at [support@catalyze.io](mailto:support@catalyze.io ) if you have questions or need help getting started.
+
 Tags: android, sdk
 Fullname: Josh Ault
 ---

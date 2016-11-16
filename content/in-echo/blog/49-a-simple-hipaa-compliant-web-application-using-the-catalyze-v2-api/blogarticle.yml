@@ -124,6 +124,7 @@ And we're done! We've created a HIPAA compliant web app to collect, store, and r
 If you'd like to use the application I built here and try it out, check it out at [http://catalyzeio.github.com/PHQ9](http://catalyzeio.github.io/PHQ9).
 
 The source for all of the above (with instructions for running it yourself) can be found at [https://github.com/catalyzeio/PHQ9](https://github.com/catalyzeio/PHQ9). If you encounter any problems or have any questions, please don't hesitate to let us know.
+
 Tags: hipaa, api, example, sample, tutorial, integration, javascript, code
 Fullname: Alex Foran
 ---

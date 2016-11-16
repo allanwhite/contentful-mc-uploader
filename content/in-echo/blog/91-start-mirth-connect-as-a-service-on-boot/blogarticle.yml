@@ -21,4 +21,5 @@ Your options are pretty self-explanatory. If you want to set mcservice to automa
 `sudo update-rc.d mcservice defaults`
 
 This will restart mirth on boot, which on a VM running SSDs usually occurs within seconds. If you have a setup like [Catalyze](https://catalyze.io/hl7) where you have load-balanced, redundant servers ready to receive and process messages to incur a zero downtime outage. Otherwise, this should have you up and running again quickly and painlessly.
+
 Tags: Mirth

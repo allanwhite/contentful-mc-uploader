@@ -26,6 +26,7 @@ A more common practice for protecting against MITM attacks is enabling HTTP Stri
 Now we come to the question why do we have to canonicalize requests and support HSTS? Isn’t that overkill? The answer is yes and no. For browsers, yes that is a bit unnecessary. But what about mobile apps? Mobile apps don’t use browsers to make requests. Oftentimes mobile apps use a third party library to handle all the network needs; at Catalyze we use [AFNetworking](https://github.com/AFNetworking/AFNetworking) for iOS and have integrated it into our SDK. These libraries don’t have HSTS built into them and do not support it. This is where canonicalizing requests comes into play to stop request bodies from being read even if the SSL is decrypted.
 
 Following these tips will help prevent attacks on your APIs and make your data, as well as your customer’s data, more secure. Remember press is good, but making headlines for having your entire API reverse engineered and database stolen is not anyone’s goal. A modern tech company, in a connected world, should be first and foremost a security company. At Catalyze we've taken these steps, and more, to secure our APIs. We'll be sharing more tips on security and hope you find them useful.
+
 Tags: api, hipaa
 Fullname: Travis Good, MD
 ---

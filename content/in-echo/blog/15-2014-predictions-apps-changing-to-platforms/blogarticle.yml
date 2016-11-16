@@ -30,6 +30,7 @@ In 2014 it's unlikely we'll see much in the way of cross mingling between these 
 1 Open" is used loosely here. Most EHR vendors with APIs or app stores are not open in the same way that Facebook or Twitter are open. This is usually by design, as the data is much more sensitive and ownership of data can get murky. With EHRs, "open" usually means apply and do a manual review.
 
 2 Doximity started with a clear platform and network vision so it's not quite the same as an app app, like Runkeeper for example, that evolved to a platform, though it is still early with its API.
+
 Tags: apps, hipaa, platform
 Fullname: Travis Good, MD
 ---

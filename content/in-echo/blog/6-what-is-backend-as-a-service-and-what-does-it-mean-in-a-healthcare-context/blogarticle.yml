@@ -56,6 +56,7 @@ Our goal is to take much of the discovery and drudgery out of building a healthc
 We will accomplish this through a growing set of RESTful APIs and a set of SDKs (iOS, Android and Javascript) to get access to: - a health grade data store - an extensible and interoperable patient model - integrated semantic validation - health grade secure messaging - health grade user management and authentication - health grade auditing and logging - health and wellness data sources - healthcare specific test data and - health grade data archiving
 
 Our mission is to become the defacto standard to build, test and deploy healthcare apps.
+
 Tags: baas, backend as a service, blue button, hipaa, icd10, icd9, loinc, rxnorm
 Fullname: Mohan Balachandran
 ---
