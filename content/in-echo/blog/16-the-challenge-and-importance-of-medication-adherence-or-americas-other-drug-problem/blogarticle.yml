@@ -3,7 +3,7 @@ Title: The Challenge and Importance of Medication Adherence or America's Other D
 SeoTitle: The Challenge and Importance of Medication Adherence or America's Other Drug Problem
 Author: mohan
 Date: 01/11/2014
-Summary: 
+Summary:
 Body: |
 In business school, as we discussed the problems of accurate forecasting, one of my professors joked that "the fundamental problem is that consumers don't buy what they're supposed to." In a way, the problem of medication adherence is just that, patients don't do what they're supposed to do, or what we think is the logical thing to do. There are various reasons for this of course, ranging from the inability to purchase medications, physical disability, complicated medication regimens, real or perceived side effects, and so on. Lack of medication adherence has a significant cost associated with it as well causing it to be also called **America's other drug problem**. And therein lie the challenge and the opportunity - how do you get patients to do what they're supposed to, given their constraints?
 
@@ -32,7 +32,6 @@ The causes of non-adherence are complex, and multifactorial. Non-adherence is br
 Net net, the reasons for non-adherence can be traced back to multiple root causes but the ones that are addressable are as follows:
 
 - **Better patient education**: Medication regimens for the more chronic diseases (which invariably present with additional co-morbidities) are complicated. A prescription for a complex MI patient could include aspirin, lisinopril, atenolol, atorvastatin, spironolactone, furosemide, potassium, sublingual nitroglycerin and clopidogrel. And these medications can, and often do, change. Expecting older patients and those with language barriers to understand, remember and take these medications on time (2 of this one, 1 of that one, and 1 of this other one but before lunch and the others after meals and at night) is unrealistic.
-
 - **Motivation or rather lack of immediate gratification / feedback**: Drugs often don't manifest an immediately visible benefit. For example, the use of antihypertensive agents in asymptomatic patients may be perceived by a patient as not providing benefit because they simply do not feel better as drugs often address an underlying problem and not necessarily the symptoms. Additionally, antihypertensives have side effects, many of which are immediately experienced by patients.
 
 So how does one go about addressing this problem? The real challenge is the need for someone to have an "a-ha" moment. Multiple approaches have been tried as described below, with varying success. Even in cases where a certain approach has shown promise, the problem still seems to be one of user adoption and sustained adherence (there's some irony for you).
@@ -44,15 +43,12 @@ So how does one go about addressing this problem? The real challenge is the need
 Data in healthcare is not, and to some extent cannot, be shared easily. This makes discovering patterns in data and mining data difficult since the data required to truly understand medication adherence comes from multiple sources and is in multiple formats. So analytics on medication adherence requires the following sets of data - each of which is owned by a different entity.
 
 - The prescription: The entire flow is triggered when a physician writes an Rx (there are steps prior to this such a pre-auth etc. but is skipped for simplicity). See here for a summary [view](http://en.wikipedia.org/wiki/File:Electronic_Prescribing, _How_it_works.jpeg) and [here](http://en.wikipedia.org/wiki/Electronic_prescribing) for a deep dive. These e-prescriptions flow from the EMR to the pharmacy via SureScripts.
-
 - The prescription fill: A patient picks up an Rx. The Rx fill information is communicated at a summary level to SureScripts and the details are shared with Rx fill aggregators like Argus. Aggregators in turn share with this data with your health plan etc.
 
 Given these two sets of disparate data, analytics is difficult but you can imagine triggers such as:
 
 - Rx has not been filled after X days (of being written or procedure or discharge, etc.);
-
 - Rx has not been refilled;
-
 - Rx refill is due (based on Rx dosage and amount dispensed).
 
 Unifying and analyzing this data is made more difficult because of the associated challenges of uniquely identifying an individual across these data domains. Unification of these data sources is doable, but it presents additional challenges.
