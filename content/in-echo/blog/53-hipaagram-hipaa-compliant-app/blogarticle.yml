@@ -3,7 +3,8 @@ Title: HipaaGram - A HIPAA Compliant Messaging App
 SeoTitle: HipaaGram - A HIPAA Compliant Messaging App
 Author: josh
 Date: 07/22/2014
-Body: ##Initial Planning
+Body: |
+##Initial Planning
 
 We recently had an internal hackathon here at Catalyze. We were trying to accomplish things we didn't think were possible on our HIPAA compliant APIs as well as try to break everything that we could. And of course, we succeeded in doing both. But don't worry, everything we broke is now fixed. But it's what we tried to accomplish that we didn't think was possible that turned out to be the most interesting. One of our projects involved creating a fully HIPAA compliant messaging app.
 
@@ -42,6 +43,6 @@ The last class holds all the messages for all users titled `messages`. Much like
 |(image: hipaagram1.png)|(image: hipaagram2.png)|(image: hipaagram3.png)|
 
 You can check out the source code for HipaaGram on github [here](https://github.com/catalyzeio/HipaaGram). Be sure to put in your own API Key and app ID. To get started, [signup](https://dashboard.catalyze.io/signup) for a free Catalyze trial account or check out our [documentation](https://dashboard.catalyze.io/resources). Feel free to [email us](mailto:hello@catalyze.io) if you have any questions or feedback.
-Tags: app,iOS,api,sms,messaging
+Tags: app, iOS, api, sms, messaging
 Fullname: Josh Ault
 ---

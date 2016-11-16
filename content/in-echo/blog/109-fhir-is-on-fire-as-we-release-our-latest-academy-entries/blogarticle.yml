@@ -4,7 +4,8 @@ SeoTitle: FHIR is on FIRE as We Release Our Latest Academy Entries
 Author: kenny
 Fullname: Kenny Stark
 Date: 05/28/2015
-Body: As you may have heard, FHIR (Fast Healthcare Interoperability Resources) is the new and emerging standard being developed under the [Health Language 7](https://hl7.org/) (HL7) organization and Catalyze has just released THREE new Academy articles so you can stay ahead of the curve on all things FHIR related. 
+Body: |
+As you may have heard, FHIR (Fast Healthcare Interoperability Resources) is the new and emerging standard being developed under the [Health Language 7](https://hl7.org/) (HL7) organization and Catalyze has just released THREE new Academy articles so you can stay ahead of the curve on all things FHIR related. 
 
 Pronounced as ‘Fire’ (hopefully bringing clarity to the pun in the title), it was initially developed by [Graham Grieve](http://www.healthintersections.com.au/), who insisted upon FHIR being open sourced.
 
@@ -15,4 +16,4 @@ In the second entry to our FHIR series, [The FHIR Resource Object: The Core Buil
 Still want to know more about FHIR? We sure hope so as Mohan’s third entry, [Recommended FHIR API Implementation](https://catalyze.io/learn/recommended-fhir-api-implementation-principles) shows the general design principles that we have followed at [Catalyze](https://catalyze.io/hl7) and what the key underlying principles are when building RESTful APIs.
 
 As always, Catalyze is here to be your trusted resource and partner in all aspects of HL7. Stay tuned for more [Academy entries](https://catalyze.io/learn) as we stay up to date on the latest in digital health!
-Tags: hl7 integration,FHIR
+Tags: hl7 integration, FHIR

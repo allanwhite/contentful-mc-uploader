@@ -3,7 +3,8 @@ Title: Advanced Querying for Custom Classes
 SeoTitle: Advanced Querying for Custom Classes
 Author: alex
 Date: 09/16/2014
-Body: We mentioned new querying abilities for custom classes in the [8/28/14 Release Notes](https://catalyze.io/blog/8-28-14-release-notes/), but it's a topic that deserves expansion and examples. The ability to perform custom, multiple-field queries on your entries is immensely powerful.
+Body: |
+We mentioned new querying abilities for custom classes in the [8/28/14 Release Notes](https://catalyze.io/blog/8-28-14-release-notes/), but it's a topic that deserves expansion and examples. The ability to perform custom, multiple-field queries on your entries is immensely powerful.
 
 The docs for this are [in our resources](https://resources.catalyze.io/#custom-classes), but an example might be a better explanation.
 
@@ -131,7 +132,7 @@ And the second (duration = 900, distance = 2.5) can be expressed as:
 ```
 {
     "and": [
-        { "=": ["duration", 900] },
+        { "=": ["duration", 900] }, 
         { "=": ["distance", 2.5] }
     ]
 }
@@ -148,7 +149,7 @@ For distances between 1 and 3 miles, inclusive (finding Bob's other two and all 
 ```
 {
     "and": [
-        { ">=": ["distance", 1] },
+        { ">=": ["distance", 1] }, 
         { "<=": ["distance", 3] }
     ]
 }
@@ -159,7 +160,7 @@ The inverse of that (distances under 1 or over 3):
 ```
 {
     "or": [
-        { "<": ["distance", 1] },
+        { "<": ["distance", 1] }, 
         { ">": ["distance", 3] }
     ]
 }
@@ -172,11 +173,11 @@ Expressions can also be compound (nested logical operators) - for example, findi
     "or": [
         {
             "and": [
-                { ">=": ["duration", 600] },
+                { ">=": ["duration", 600] }, 
                 { "<=": ["duration", 1200] }
             ]
-        },
-        { ">": ["distance", 3] },
+        }, 
+        { ">": ["distance", 3] }, 
         { "=": ["distance", 2.4] }
     ]
 }
@@ -199,14 +200,14 @@ The structure of expressions is discussed [in the docs](https://resources.cataly
 
 For the query/filter routes that don't take a user ID (`/v2/classes/{name}/query`), the querying user must either be:
 
-1. An **admin** or **dev** for the organization,
-2. A **supervisor** for the application,
+1. An **admin** or **dev** for the organization, 
+2. A **supervisor** for the application, 
 3. A member of a group that has the `RETRIEVE` ACL permission granted, or
 4. Have the `RETRIEVE` ACL permission granted directly to them.
 
 The routes that do take a user ID (`/v2/classes/{name}/query/{usersId}`), the same permissions apply, with the addition that a user can query/filter their own entries. For more information on ACLs and groups, [check out our guide](https://docs.catalyze.io/guides/api/latest/permissions_and_acls/acls_for_custom_classes_and_files.html).
 
 Thank you for reading - if you run into issues using any of this, need help, or think we should add new functionality to it, please [let us know](mailto:support@catalyze.io).
-Tags: api,backend,BaaS,custom classes,guide,example
+Tags: api, backend, BaaS, custom classes, guide, example
 Fullname: Alex Foran
 ---

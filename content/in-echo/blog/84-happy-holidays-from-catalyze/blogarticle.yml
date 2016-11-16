@@ -34,9 +34,9 @@ Developed using [processing.js](http://processingjs.org/), our holiday card auto
 void drawHexagonally(PVector startLoc, var distanceFromCenter) {
   for(int i=0; i<6; i++) {
     pushStyle();
-    translate(startLoc.x,startLoc.y);
+    translate(startLoc.x, startLoc.y);
     rotate(radians(60*i));
-    line(0,0,distanceFromCenter,0);
+    line(0, 0, distanceFromCenter, 0);
     popStyle();
   }
 }

@@ -3,7 +3,8 @@ Title: Catalyze BaaS Shellshock Update
 SeoTitle: Catalyze BaaS Shellshock Update
 Author: mark
 Date: 09/26/2014
-Body: As you're likely aware, [CVE-2014-6271](http://www.troyhunt.com/2014/09/everything-you-need-to-know-about.html) or "Shellshock" was made public in the last 24 hours. Considered by many to be a vulnerability of Heartbleed proportions or greater, security analysts and programmers sprung into action to begin to fix the problem. Here's what we know and how it affects your usage of BaaS:
+Body: |
+As you're likely aware, [CVE-2014-6271](http://www.troyhunt.com/2014/09/everything-you-need-to-know-about.html) or "Shellshock" was made public in the last 24 hours. Considered by many to be a vulnerability of Heartbleed proportions or greater, security analysts and programmers sprung into action to begin to fix the problem. Here's what we know and how it affects your usage of BaaS:
 
 1. **No piece of code which operates BaaS has access to bash or can possibly run bash.** No CGI Scripts. Nothing.
 
@@ -17,9 +18,9 @@ When an authorized patch from bash and Ubuntu are available, we will apply those
 
 Thanks for sticking with us. Since PHI is stored on BaaS, it is our responsibility to protect your data. We're always proactively working to protect your data, and you can read more about how we do that here: [Catalyze Policy](https://catalyze.io/policy/)
 
-Thank you,
+Thank you, 
 
 The Catalyze Team
-Tags: shellshock,security
+Tags: shellshock, security
 Fullname: Mark Olschesky
 ---

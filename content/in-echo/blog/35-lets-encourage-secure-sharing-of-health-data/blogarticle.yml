@@ -3,7 +3,8 @@ Title: Let's encourage secure sharing of health data
 SeoTitle: Let's encourage secure sharing of health data
 Author: travis
 Date: 05/16/2014
-Body: There's a recent report and [infographic](http://www.mobiquityinc.com/get-mobile-get-healthy-appification-health-fitness-infographic) that surveyed over a thousand consumers and asked them questions related to tracking their own health, searching for health information online, and about sharing health data about themselves with healthcare providers. The report found that an overwhelming majority are already sharing data or would be willing to share data with providers. That's fantastic! Motivated patients are a very good thing.
+Body: |
+There's a recent report and [infographic](http://www.mobiquityinc.com/get-mobile-get-healthy-appification-health-fitness-infographic) that surveyed over a thousand consumers and asked them questions related to tracking their own health, searching for health information online, and about sharing health data about themselves with healthcare providers. The report found that an overwhelming majority are already sharing data or would be willing to share data with providers. That's fantastic! Motivated patients are a very good thing.
 
 (image: mobiquity_mhealth_final_1.jpg)
 
@@ -18,6 +19,6 @@ The fact that a large chunk of people would like to share information that they'
 The data in the infographic also shows trends that innovators and vendors should enable and capitalize upon. First, creating ways for consumers to easily collect and combine information about their activity and daily routine is incredibly valuable. There are countless sensors and apps so this is a crowded space to jump into. Second, creating tools that leverage that data to provide intelligent feedback to individuals is needed. This is an area that more companies are trying to get into, but is still pretty open. Third, enabling the easy sharing of personal data while maintaining the privacy and security of that data is essential to consumer trust and health system buy-in. This is harder, and there is still much to be figured out. Where is data going? Is it using traditional interfaces or new EHR APIs? How is it secured and can it pass the compliance officer? And fourth, though this is implied in 1 through 3 above, would be standardizing the data formats to make it easier for data to be exchanged. So many opportunities....
 
 At Catalyze we're here to help you solve some of these challenges. Check out our healthcare-specific [Platform](https://catalyze.io/platform-as-a-service/) and [Backend](https://catalyze.io/backend-as-a-service/) to learn more and get started.
-Tags: hipaa,quantified,research,inforgraphic
+Tags: hipaa, quantified, research, inforgraphic
 Fullname: Travis Good, MD
 ---

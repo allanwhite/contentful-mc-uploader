@@ -3,7 +3,8 @@ Title: Understanding Healthcare Vocabularies & Code Sets
 SeoTitle: Understanding Healthcare Vocabularies & Code Sets
 Author: mohan
 Date: 11/18/2013
-Body: What are they, why they're important and how they're used
+Body: |
+What are they, why they're important and how they're used
 
 Firstly, I want to apologize for the delay in getting this post out. Things have been really hectic with fund raising, working with our initial customers (enterprises and developers / agencies), writing requirements, testing... It's not that these are slowing down, it's just that I've decided to set myself a goal of writing at least one blog post every week and ideally move to a goal of 500 words a day.
 
@@ -21,7 +22,7 @@ Firstly, here's a list of the most common and increasingly mandated and generall
 
 - ICD 9 and 10 - The International Classification of Diseases. It was developed and is managed by the World Health Organization. It was initially developed for epidemiology but has since evolved significantly. The US was / is one of the last to switch over to the latest version, ICD-10. ICD-10 was complicated as it introduced a lot more detail (for example, it's codes allow one to distinguish between the right and left lobes of a lung and even more granularly) and an almost 10x increase in codes which is why its rollout in the US was delayed and is still problematic. The use of ICD 9 and 10 is also possible with the acceptance of a simple license agreement (see the download link for more info). No fees are needed to use this in any commercial application [Website](http://www.who.int/classifications/icd/en/), [Browser](http://apps.who.int/classifications/icd10/browse/2010/en), APIs - APIs are available for query. See blog post here and register for access, [Download](http://www.nlm.nih.gov/research/umls/licensedcontent/downloads.html).
 
-- CPT - Common Procedure Terminology. It was developed and is maintained by the American Medical Association AMA. CPT coding is similar to ICD-9 and ICD-10 coding, except that it identifies the services rendered rather than the diagnosis on the claim. ICD code sets also contain procedure codes but these are only used in the inpatient setting. There is a necessary license agreement for any use and a fee for usage as well (see the download link for more info). Website,[Browser][cpt], Download
+- CPT - Common Procedure Terminology. It was developed and is maintained by the American Medical Association AMA. CPT coding is similar to ICD-9 and ICD-10 coding, except that it identifies the services rendered rather than the diagnosis on the claim. ICD code sets also contain procedure codes but these are only used in the inpatient setting. There is a necessary license agreement for any use and a fee for usage as well (see the download link for more info). Website, [Browser][cpt], Download
 RxNORM - RxNorm provides normalized names for clinical drugs and links its names to many of the drug vocabularies commonly used in pharmacy management and drug interaction software, including those of First Databank, Micromedex, MediSpan, Gold Standard, and Multum. By providing links between these vocabularies, RxNorm can mediate messages between systems not using the same software and vocabulary. Website, Browser, APIs - APIs are available for query. See blog post here and register for access, Download
 
 - HL7 - Health Language 7. This is more of a messaging and interoperability oriented standard and organization. It is the most common standard set for exchanging data between clinical systems. There are multiple HL7 message standards. However, HL7 has had to evolve to include codesets to enable this exchange. Website, Browser - none, Download - you must be a paid member to access and use it.
@@ -57,6 +58,6 @@ Fifthly, lookups and look-ahead functionality in any form in your app or website
 And lastly, in the next version of the API that we're working on (v2.x), you will be able to use one of the pre-built models (for user, allergies, medications and so on) to quickly create a form to capture whatever elements of data you think are needed for your app. And validations for each of these elements will be built in.
 
 Building compliant apps is hard, and that's where we started at Catalyze; but, adding interoperability and meaning to data collected, imported, or exchanged is also a huge challenge when building health apps. We have a lot more coming to simplify working with health data so stay tuned, or register and start building today!
-Tags: codeset,icd10,icd9,loinc,snomed-ct,vocabularies
+Tags: codeset, icd10, icd9, loinc, snomed-ct, vocabularies
 Fullname: Mohan Balachandran
 ---

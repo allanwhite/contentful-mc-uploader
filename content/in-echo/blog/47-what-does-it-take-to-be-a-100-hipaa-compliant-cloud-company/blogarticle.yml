@@ -3,7 +3,8 @@ Title: What does it take to be a 100% HIPAA compliant cloud company?
 SeoTitle: What does it take to be a 100% HIPAA compliant cloud company?
 Author: travis
 Date: 06/25/2014
-Body: The short answer to that question is, not surprisingly, **it take A LOT of time, energy, and money to be 100% HIPAA compliant**. At Catalyze we're focused on security and HIPAA compliance. It's a differentiator and we aren't reaching when we say *[It's in our DNA](https://catalyze.io/compliance/)*, referring to HIPAA compliance. Because of that focus, we have a lot of resources for compliance. That translates to a lot of time and money on security and organizational policies and procedures specifically to comply with HIPAA.
+Body: |
+The short answer to that question is, not surprisingly, **it take A LOT of time, energy, and money to be 100% HIPAA compliant**. At Catalyze we're focused on security and HIPAA compliance. It's a differentiator and we aren't reaching when we say *[It's in our DNA](https://catalyze.io/compliance/)*, referring to HIPAA compliance. Because of that focus, we have a lot of resources for compliance. That translates to a lot of time and money on security and organizational policies and procedures specifically to comply with HIPAA.
 
 We recently completed our 3rd external audit in 12 months. The audit was performed by Coalfire Systems, a large national 3rd party auditor. The results of that audit are a very lengthy report, about 20 pages, but the entire report can be boiled down to the image below (we can't share the entire report here because there are things in it that would be considered internal and sensitive to Catalyze, like IP addresses, specific controls, etc).
 
@@ -15,7 +16,7 @@ We're very proud of that image and the overall results! It's a pretty materially
 
 There are countless innovative and powerful things we do to maintain the integrity, privacy, and security of data on Catalyze and we need to do a better job of sharing those with our customers and the cloud community as a whole. In addition to insight into how we secure our networks, systems, and data, we also intend to start open sourcing libraries we've written so stay tuned.
 
-**Policies**. We have a lot of policies, and I don't think we fully expected to spend so much time developing and refining them. The last time I checked we had about 26,000 words worth of policies, including our BAA. You can look at our policies [here](https://catalyze.io/policy/).
+**Policies**. We have a lot of policies, and I don't think we fully expected to spend so much time developing and refining them. The last time I checked we had about 26, 000 words worth of policies, including our BAA. You can look at our policies [here](https://catalyze.io/policy/).
 
 All of our policies are written in Markdown and we use Github for version control. We will be open sourcing our policies very soon, and hope that others can use them to simplify their lives. [Accountable](http://accountablehq.com/) is good source of policies and overall management of the administrative side of HIPAA.
 
@@ -30,6 +31,6 @@ All of our policies are written in Markdown and we use Github for version contro
 We took all of these steps, dedication all of these resources, and spent all of these resources because operating as a business associate, with all organization and admin requirements met, sets us apart from everybody else in the compliant infrastructure business. We don't just sign business associate agreements (BAAs) and secure our infrastructure, we comply with HIPAA to the full extent of the rules. It gives us additional insight into our customers' needs and keep us intimately close to the problem we are solving. It is also extremely valuable to our customers when they work with compliance offices and point to our audit reports and white papers.
 
 When you decide to go down the path of HIPAA compliant hosting and APIs, we encourage you to spend time digging deeper than sales and into how the offerings and organizations available to you differ in approaches to HIPAA, and which are really solving your problem vs selling you a checkbox for a BAA. If you have a question about about compliance at Catalyze, please [email me](mailto:travis@catalyze.io) and I'll be happy to tell you everything we've learned and why we're so proactive about compliance and transparency.
-Tags: hipaa,audit
+Tags: hipaa, audit
 Fullname: Travis Good, MD
 ---

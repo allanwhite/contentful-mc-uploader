@@ -3,7 +3,8 @@ Title: The three rules of product definition
 SeoTitle: The three rules of product definition
 Author: mohan
 Date: 04/22/2014
-Body: How does one go about defining a product? What constitutes a product? Some musings on the topic and approaches that we like to take with some examples from other domains.
+Body: |
+How does one go about defining a product? What constitutes a product? Some musings on the topic and approaches that we like to take with some examples from other domains.
 
 I've always been interested in how a product is defined. How does one go about defining a solution to meet a market need that may or may not be perceived by the market in general? In the enterprise context, you need to spend time with the appropriate business personnel to define what problem they expect the solution to solve. Contrast that with the stories of how the iPod would never have existed if anyone asked a user (consumer in this case) what it is they wanted from a portable music player. And perhaps, that delta is the nuance - enterprise vs. consumer?
 
@@ -40,6 +41,6 @@ I am a big proponent of designing up front. It does seem like there is no progre
 **3. Design / prototype up front.**
 
 Now all you need to do is sell it - which is an entire art to itself and perhaps the topic of another post.
-Tags: product requirements,definition
+Tags: product requirements, definition
 Fullname: Mohan Balachandran
 ---

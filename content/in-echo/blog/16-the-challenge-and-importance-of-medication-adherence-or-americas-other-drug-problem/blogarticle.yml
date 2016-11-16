@@ -3,7 +3,8 @@ Title: The Challenge and Importance of Medication Adherence or America's Other D
 SeoTitle: The Challenge and Importance of Medication Adherence or America's Other Drug Problem
 Author: mohan
 Date: 01/11/2014
-Body: In business school, as we discussed the problems of accurate forecasting, one of my professors joked that "the fundamental problem is that consumers don't buy what they're supposed to." In a way, the problem of medication adherence is just that, patients don't do what they're supposed to do, or what we think is the logical thing to do. There are various reasons for this of course, ranging from the inability to purchase medications, physical disability, complicated medication regimens, real or perceived side effects, and so on. Lack of medication adherence has a significant cost associated with it as well causing it to be also called **America's other drug problem**. And therein lie the challenge and the opportunity - how do you get patients to do what they're supposed to, given their constraints?
+Body: |
+In business school, as we discussed the problems of accurate forecasting, one of my professors joked that "the fundamental problem is that consumers don't buy what they're supposed to." In a way, the problem of medication adherence is just that, patients don't do what they're supposed to do, or what we think is the logical thing to do. There are various reasons for this of course, ranging from the inability to purchase medications, physical disability, complicated medication regimens, real or perceived side effects, and so on. Lack of medication adherence has a significant cost associated with it as well causing it to be also called **America's other drug problem**. And therein lie the challenge and the opportunity - how do you get patients to do what they're supposed to, given their constraints?
 
 ## Is this really that big a problem?
 
@@ -15,7 +16,7 @@ And this is not just a US only problem - the WHO estimates that, on a worldwide 
 
 ## A closer look at the cost-benefits of medication adherence
 
-Multiple studies have confirmed the benefits of medication adherence including the ones listed earlier. A [rigorous study](http://www.cimit.org/images/events/ciw/Adherence-Health-Affairs.pdf) was conducted recently looking at cost data by condition. That study calculated average annual medical savings, per patient annually, of $8,881 in congestive heart failure, $4,337 in hypertension, $4,413 in diabetes, and $1,860 in dyslipidemia. These savings were after offsetting for the increased pharmacy spend associated with being adherent; the increased pharmacy spend is because increased adherence means more medications purchased. [This](http://circ.ahajournals.org/cgi/content/full/121/12/1455) study showed that those who filled none of their discharge prescriptions within 120 days after myocardial infarction (MI) had an 80% increased chance of death and those who filled only some of their prescriptions had a 44% increased chance of death compared with those who filled the majority of their prescriptions.
+Multiple studies have confirmed the benefits of medication adherence including the ones listed earlier. A [rigorous study](http://www.cimit.org/images/events/ciw/Adherence-Health-Affairs.pdf) was conducted recently looking at cost data by condition. That study calculated average annual medical savings, per patient annually, of $8, 881 in congestive heart failure, $4, 337 in hypertension, $4, 413 in diabetes, and $1, 860 in dyslipidemia. These savings were after offsetting for the increased pharmacy spend associated with being adherent; the increased pharmacy spend is because increased adherence means more medications purchased. [This](http://circ.ahajournals.org/cgi/content/full/121/12/1455) study showed that those who filled none of their discharge prescriptions within 120 days after myocardial infarction (MI) had an 80% increased chance of death and those who filled only some of their prescriptions had a 44% increased chance of death compared with those who filled the majority of their prescriptions.
 
 All of which begs the questions - if the value (cost, health, life, quality of life) is clear, why does this problem exist at all? And why is this problem so incredibly prevalent?
 
@@ -41,7 +42,7 @@ So how does one go about addressing this problem? The real challenge is the need
 
 Data in healthcare is not, and to some extent cannot, be shared easily. This makes discovering patterns in data and mining data difficult since the data required to truly understand medication adherence comes from multiple sources and is in multiple formats. So analytics on medication adherence requires the following sets of data - each of which is owned by a different entity.
 
-- The prescription: The entire flow is triggered when a physician writes an Rx (there are steps prior to this such a pre-auth etc. but is skipped for simplicity). See here for a summary [view](http://en.wikipedia.org/wiki/File:Electronic_Prescribing,_How_it_works.jpeg) and [here](http://en.wikipedia.org/wiki/Electronic_prescribing) for a deep dive. These e-prescriptions flow from the EMR to the pharmacy via SureScripts.
+- The prescription: The entire flow is triggered when a physician writes an Rx (there are steps prior to this such a pre-auth etc. but is skipped for simplicity). See here for a summary [view](http://en.wikipedia.org/wiki/File:Electronic_Prescribing, _How_it_works.jpeg) and [here](http://en.wikipedia.org/wiki/Electronic_prescribing) for a deep dive. These e-prescriptions flow from the EMR to the pharmacy via SureScripts.
 
 - The prescription fill: A patient picks up an Rx. The Rx fill information is communicated at a summary level to SureScripts and the details are shared with Rx fill aggregators like Argus. Aggregators in turn share with this data with your health plan etc.
 
@@ -81,13 +82,13 @@ This data in conjunction with Rx data can go a very long way in making medicatio
 
 ## So, the summary?
 
-**Why do it?** - Money: very conservatively, $105 billion problem * 0.01% = $10,500,000 (annual) - Social impact: population health improvement, reduced spend on healthcare emergencies and so on as described earlier
+**Why do it?** - Money: very conservatively, $105 billion problem * 0.01% = $10, 500, 000 (annual) - Social impact: population health improvement, reduced spend on healthcare emergencies and so on as described earlier
 
 **What technologies to explore?** - Mobile: everyone has at least one of these devices. Also look to SMS as a communication mechanism - Data analytics: what blog post would be complete without at least one reference to big data? But, on a serious note, the problem is one of scale as well and drawing intelligent conclusions and predictive insights based on Rx, claims, fills, disease and compliance is challenging.
 
 We, at Catalyze, are very interested and passionate about this area and do know a few things about the space and its associated challenges. If you have an idea and are looking to understand more about data, data source, app ideas, APIs, drop us a line. We're working on a open source template app that you will be able to use. Look for its release and announcement shortly.
 
 As always, please do comment and let us know what you think.
-Tags: adherence,apps,compliance,data analytics,devices,medication,smart pills
+Tags: adherence, apps, compliance, data analytics, devices, medication, smart pills
 Fullname: Mohan Balachandran
 ---

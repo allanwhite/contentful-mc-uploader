@@ -3,9 +3,10 @@ Title: What is Backend as a Service and what does it mean in a healthcare contex
 SeoTitle: What is Backend as a Service and what does it mean in a healthcare context
 Author: mohan
 Date: 06/25/2013
-Body: [Wikipedia](http://en.wikipedia.org/wiki/Backend_as_a_service) summarizes it best (as always)
+Body: |
+[Wikipedia](http://en.wikipedia.org/wiki/Backend_as_a_service) summarizes it best (as always)
 
-> Although similar to other cloud computing developer tools, such as software as a service(SaaS),infrastructure as a service (IaaS), and platform as a service (PaaS), BaaS is distinct from these other services in that it specifically addresses the cloud computing needs of web and mobile app developers by providing a unified means of connecting their apps to cloud services.
+> Although similar to other cloud computing developer tools, such as software as a service(SaaS), infrastructure as a service (IaaS), and platform as a service (PaaS), BaaS is distinct from these other services in that it specifically addresses the cloud computing needs of web and mobile app developers by providing a unified means of connecting their apps to cloud services.
 
 The concept of a backend as a service (BaaS) is simple. All application developers (web or mobile) require a core set of features that need to be incorporated into every app. Examples of these features include user management, push notifications, integration with Facebook, Google+ etc., and cloud based data/file/image/video storage. These backend features take about 50% of overall app development time and cost.
 
@@ -23,7 +24,7 @@ This is where the need for a **healthcare specific** backend-as-a-service surfac
 
 ## Healthcare specific BaaS
 
-As we built healthcare apps and talked to other healthcare app developers and enterprises, we uncovered a core list of features that each one of us was building over and over again. Namely,
+As we built healthcare apps and talked to other healthcare app developers and enterprises, we uncovered a core list of features that each one of us was building over and over again. Namely, 
 
 - **Security**: this includes identification of PHI (personally identifiable health information), encryption of PHI at rest and in transit with associated audit logs. There are some additional nuances when it comes to cloud computing and we will go into this in more detail in the subsequent blog post on security.
 
@@ -54,6 +55,6 @@ Our goal is to take much of the discovery and drudgery out of building a healthc
 We will accomplish this through a growing set of RESTful APIs and a set of SDKs (iOS, Android and Javascript) to get access to: - a health grade data store - an extensible and interoperable patient model - integrated semantic validation - health grade secure messaging - health grade user management and authentication - health grade auditing and logging - health and wellness data sources - healthcare specific test data and - health grade data archiving
 
 Our mission is to become the defacto standard to build, test and deploy healthcare apps.
-Tags: baas,backend as a service,blue button,hipaa,icd10,icd9,loinc,rxnorm
+Tags: baas, backend as a service, blue button, hipaa, icd10, icd9, loinc, rxnorm
 Fullname: Mohan Balachandran
 ---

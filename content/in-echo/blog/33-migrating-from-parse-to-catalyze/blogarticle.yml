@@ -3,7 +3,8 @@ Title: Migrating from Parse to Catalyze for HIPAA Compliance
 SeoTitle: Migrating from Parse to Catalyze for HIPAA Compliance
 Author: alex
 Date: 05/02/2014
-Body: [Parse](http://www.parse.com) is a popular platform, allowing for data to be easily stored and retrieved. But, what happens if you need to store PHI (protected health information)? Bad news - [Parse isn't HIPAA-compliant](https://www.parse.com/questions/hipaa-compliance). Storing such data in the Parse platform would put you in hot water. Good news - [Catalyze is a fully compliant environment](https://catalyze.io/compliance/), and migrating from Parse (or even starting fresh) isn't hard. This post will go over migrating a small app.
+Body: |
+[Parse](http://www.parse.com) is a popular platform, allowing for data to be easily stored and retrieved. But, what happens if you need to store PHI (protected health information)? Bad news - [Parse isn't HIPAA-compliant](https://www.parse.com/questions/hipaa-compliance). Storing such data in the Parse platform would put you in hot water. Good news - [Catalyze is a fully compliant environment](https://catalyze.io/compliance/), and migrating from Parse (or even starting fresh) isn't hard. This post will go over migrating a small app.
 
 Parse modified the backbone [TodoMVC](http://todomvc.com/) example to show how to use their Javascript SDK - we'll base our example migration off of that. Their code for that example is [here](https://github.com/ParsePlatform/Todo).
 
@@ -65,7 +66,7 @@ The Parse code (`todos.js`) has configuration to be set at the top of the file -
 
 ```
 Config = {
-    host: "https://apiv2.catalyze.io",
+    host: "https://apiv2.catalyze.io", 
     apikey: "your-API-key-goes-here"
 };
 ```
@@ -104,11 +105,11 @@ Creating a User is done via a POST request to /v2/users, with the user data as a
 this.signUp = function(username, password, email) {
     var user = {username: username, password: password, email: {primary: email}};
     user.name = {
-        firstName: username,
+        firstName: username, 
         lastName: "-"
     };
-    return $http.post(this.host + "/v2/users",
-        user,
+    return $http.post(this.host + "/v2/users", 
+        user, 
         {headers: buildHeaders()});
 };
 ```
@@ -126,8 +127,8 @@ Signing in is done by making a POST request to /v2/auth/signin, passing `usernam
 
 ```
 this.signIn = function(username, password) {
-    return $http.post(this.host + "/v2/auth/signin",
-            {username: username, password: password},
+    return $http.post(this.host + "/v2/auth/signin", 
+            {username: username, password: password}, 
             {headers: buildHeaders()});
 };
 ```
@@ -138,7 +139,7 @@ Signing out is a GET to /v2/auth/signout - no request body required, since the u
 
 ```
 this.signOut = function(token) {
-    return $http.get(this.host + "/v2/auth/signout",
+    return $http.get(this.host + "/v2/auth/signout", 
             {headers: buildAuthedHeaders(token)});
 };
 ```
@@ -149,7 +150,7 @@ Retrieving a user is done with a GET request, using the route /v2/users/{usersId
 
 ```
 this.getUser = function(token, userId) {
-    return $http.get(this.host + "/v2/users/" + userId,
+    return $http.get(this.host + "/v2/users/" + userId, 
         {headers: buildAuthedHeaders(token)});
 };
 ```
@@ -161,8 +162,8 @@ Updating a user is similar to creating one, with two key differences. First is t
 
 ```
 this.updateUser = function(token, userId, user) {
-    return $http.put(this.host + "/v2/users/" + userId,
-        user,
+    return $http.put(this.host + "/v2/users/" + userId, 
+        user, 
         {headers: buildAuthedHeaders(token)});
 };
 ```
@@ -187,8 +188,8 @@ Since we're using User.extras to contain the todos, working with them is a matte
 ```
 extras: {
     todos: [
-        {id: 123, desc: "Take screenshots", done: true},
-        {id: 456, desc: "Finish Blog Post", done: false},
+        {id: 123, desc: "Take screenshots", done: true}, 
+        {id: 456, desc: "Finish Blog Post", done: false}, 
         {id: 789, desc: "Nothing", done: true}
     ]
 }
@@ -211,6 +212,6 @@ There's some extra angular fiddling done for the filters, and some additional CS
 [https://github.com/catalyzeio/Todo](https://github.com/catalyzeio/Todo)
 
 Thanks for reading! We hope you enjoy working with the Catalyze v2 API. If you have any problems, please contact us at [support@catalyze.io](mailto:support@catalyze.io).
-Tags: code,tutorial,example,javascript,api,compliance,hipaa,guide
+Tags: code, tutorial, example, javascript, api, compliance, hipaa, guide
 Fullname: Alex Foran
 ---

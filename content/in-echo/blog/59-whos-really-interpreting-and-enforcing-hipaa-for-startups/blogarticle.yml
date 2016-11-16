@@ -3,7 +3,8 @@ Title: Who's really interpreting and enforcing HIPAA for startups?
 SeoTitle: Who's really interpreting and enforcing HIPAA for startups?
 Author: travis
 Date: 08/30/2014
-Body: > You have to learn the rules of the game. And then you have to play better than anyone else. **- Albert Einstein**
+Body: |
+> You have to learn the rules of the game. And then you have to play better than anyone else. **- Albert Einstein**
 
 We've covered HIPAA from almost all angles, including interpretation and [enforcement](/learn/hipaa/the-who-and-how-of-hipaa-enforcement/). When most people think about enforcement and HIPAA, they think about [breaches](/learn/hipaa/hipaa-and-data-breaches/), fines, and potential jail time. All of those areas of enforcement are officially carried out by the [Office of Civil Rights](http://www.hhs.gov/ocr/office/) (OCR), which is part of Health and Human Services (HHS). But that's not the practical side of enforcement for many of our customers.
 
@@ -18,6 +19,6 @@ We often help our customers when they get to the compliance and security point o
 In these questions CEs are interpreting HIPAA for BAs. Many of our customers are more interested in closing contracts with CEs than completing full HIPAA audits, so CE interpretation trumps OCR interpretation much of the time. And there are things that CEs ask that aren't required by HIPAA, like stating 'all business associates need to have hardware firewalls'; we've seen this with several customers, and is the reason we host on Rackspace in addition to AWS.
 
 These CE security and compliance questions are typically part of the contracting process, or at the very least the implementation process. They can significantly slow the closing and sales process for BAs, especially smaller startups using modern, cloud-based technologies. At Catalyze, we offer both HIPAA compliant infrastructure and content (white papers, audit reports, policies, etc) that helps *our* customers show compliance to *their* customers. We also assist customers in completing these questionnaires and spreadsheets as well as joining phone calls with security and compliance officers for our customers. To learn more about how we can help with both HIPAA compliant technology and covered entity interpretation of HIPAA, shoot us an [email](mailto:sales@catalyze.io).
-Tags: hipaa,ocr,enforcement,business associates,sales
+Tags: hipaa, ocr, enforcement, business associates, sales
 Fullname: Travis Good, MD
 ---

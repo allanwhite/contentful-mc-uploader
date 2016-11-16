@@ -4,7 +4,8 @@ SeoTitle: Fifty States of HIPAA
 Author: kenny
 Fullname: Kenny Stark
 Date: 07/07/2015
-Body: Recently, [Brian Murphy](http://www.chilmarkresearch.com/about/team/), analyst for [Chilmark Research](http://www.chilmarkresearch.com/), released a post titled “[HIPAA Must Die](http://www.chilmarkresearch.com/2015/06/18/hipaa-must-die/)” pertaining to the complex nexus of federal and state HIPAA healthcare regulations for patient privacy and security.
+Body: |
+Recently, [Brian Murphy](http://www.chilmarkresearch.com/about/team/), analyst for [Chilmark Research](http://www.chilmarkresearch.com/), released a post titled “[HIPAA Must Die](http://www.chilmarkresearch.com/2015/06/18/hipaa-must-die/)” pertaining to the complex nexus of federal and state HIPAA healthcare regulations for patient privacy and security.
 
 Murphy states “the time has come for healthcare providers and other stakeholders to call for a harmonized regulatory regime for a tangle of issues in healthcare.” I am a major fan of the work Chilmark publishes, but had questions arise soon after a review of Murphy’s statements.
 
@@ -29,4 +30,4 @@ Between Vermont and Texas on opposite sides of the spectrum, it is shown there i
 HIPAA is not perfect, nor a golden standard, so changes will need to be made to avoid inefficiencies. In my opinion, a one-size-fits-all solution that will not allow for customization or flexibility has its drawbacks that should be acknowledged and discussed before any sort of implementation is enacted. HIPAA is largely [enforced by Covered Entities](https://catalyze.io/blog/whos-really-interpreting-and-enforcing-hipaa-for-startups), not HHS or the states, so we already have a complicated framework that will need to be adjusted.
 
 Do you think the American healthcare system would benefit from a single administrative standard HIPAA approach? Tweet us at [@catalyzeio](https://twitter.com/catalyzeio) and [@chilmarkhit](https://twitter.com/chilmarkhit) to continue the discussion.
-Tags: hipaa,privacy,security
+Tags: hipaa, privacy, security

@@ -4,13 +4,14 @@ SeoTitle: False Claims, Meaningful Use, and HIPAA Compliance: What's the Connect
 Author: travis
 Fullname: Travis Good, MD
 Date: 07/23/2015
-Body: # False Claims Act
+Body: |
+# False Claims Act
 
 First, what is the False Claims Act? 
 
 The False Claims Act inflicts forfeitures on anyone and everyone who knowingly forges, alters, falsifies, or demolishes documents to protected payment. The repercussions for each civil penalty if found in violation are:
 
-- Each claim of no fewer than $5,500 and no more than $11,000
+- Each claim of no fewer than $5, 500 and no more than $11, 000
 - Triple the amount of treble damages that the federal government sustains.
 
 # Meaningful Use
@@ -36,4 +37,4 @@ So what do you do?
 This part is simple. Conduct a risk assessment. Not performing one has the potential of costing millions, prison time, reputation loss, and exclusion from Medicaid and Medicare.
 
 Learn all you need to learn about HIPAA from our [free compliance guide](https://catalyze.io/hipaa-compliance/) to become a compliance expert in a single coffee break. And, as always, please reach out to us directly with any questions you may have by emailing us at [hello@catalyze.io](hello@catalyze.io) or tweeting us at [@catalyzeio](https://twitter.com/catalyzeio).
-Tags: hipaa,false claims,meaningful use
+Tags: hipaa, false claims, meaningful use

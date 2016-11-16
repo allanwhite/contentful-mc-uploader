@@ -3,7 +3,8 @@ Title: Our company policies, now available free on GitHub
 SeoTitle: Our company policies, now available free on GitHub
 Author: kris
 Date: 09/25/2014
-Body: Today is a big day for us, and for those businesses striving for HIPAA compliance. [Starting today, we are open sourcing all our company policies.](http://catalyzeio.github.io/policies/) Are you a company who handles PHI and trying to achieve HIPAA compliance? Then you'll find what we are about to share compelling and useful.
+Body: |
+Today is a big day for us, and for those businesses striving for HIPAA compliance. [Starting today, we are open sourcing all our company policies.](http://catalyzeio.github.io/policies/) Are you a company who handles PHI and trying to achieve HIPAA compliance? Then you'll find what we are about to share compelling and useful.
 
 Achieving HIPAA compliance generally has two halves. The first half includes all technical guidelines, both physical and digital. Encryption, logging, monitoring, backup—these are just a few examples. Since the beginning, Catalyze has worked every day to take on these technical burdens for our customers.
 
@@ -16,6 +17,6 @@ By open sourcing our own company policies, we hope other healthcare companies wi
 The policies are hosted on GitHub, the premier public platform for open-sourced content. [To read more, head over to the project's homepage.](http://catalyzeio.github.io/policies/)
 
 Let us know if you find these useful!
-Tags: compliance,policy,open source
+Tags: compliance, policy, open source
 Fullname: Kris Gösser
 ---

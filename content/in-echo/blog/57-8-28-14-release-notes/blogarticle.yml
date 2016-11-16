@@ -3,7 +3,8 @@ Title: 8/28/14 Release Notes
 SeoTitle: 8/28/14 Release Notes
 Author: alex
 Date: 08/28/2014
-Body: (We've decided we're going to make blog posts about changes and enhancements to the Catalyze v2 API when we release them, starting today.)
+Body: |
+(We've decided we're going to make blog posts about changes and enhancements to the Catalyze v2 API when we release them, starting today.)
 
 ### Enhancements
 
@@ -21,6 +22,6 @@ Body: (We've decided we're going to make blog posts about changes and enhancemen
 * When downloading a file, setting your `Accept` header to either `Accept: */*` or `Accept: application/json, application/octet-stream` will now allow you to correctly receive error messages.
 
 As always, if you run into a problem, please [let us know](https://catalyzeio.zendesk.com/).
-Tags: api,release notes,BaaS,backend
+Tags: api, release notes, BaaS, backend
 Fullname: Alex Foran
 ---

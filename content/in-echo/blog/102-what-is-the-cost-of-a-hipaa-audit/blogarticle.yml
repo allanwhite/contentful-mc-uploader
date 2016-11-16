@@ -4,7 +4,8 @@ SeoTitle: What is the cost of a HIPAA audit?
 Author: travis
 Fullname: Travis Good, MD
 Date: 03/19/2015
-Body: > You must pay the price if you wish to secure the blessing. — Andrew Jackson
+Body: |
+> You must pay the price if you wish to secure the blessing. — Andrew Jackson
 
 
 
@@ -34,15 +35,15 @@ The easier bucket to calculate. It begins with the costs for an auditing firm to
 
 
 
-* **HIPAA Gap Assessment**. The best starting point. It is meant to identify gaps and remediation plans for those gaps. It's the cheapest option and least time consuming. It often does not require an onsite visit from an auditor. A gap assessment leads to a full HIPAA audit; after the gap assessment, organizations spend time addressing the gaps before beginning a full HIPAA audit. **The direct cost is about $15,000-$20,000.**
+* **HIPAA Gap Assessment**. The best starting point. It is meant to identify gaps and remediation plans for those gaps. It's the cheapest option and least time consuming. It often does not require an onsite visit from an auditor. A gap assessment leads to a full HIPAA audit; after the gap assessment, organizations spend time addressing the gaps before beginning a full HIPAA audit. **The direct cost is about $15, 000-$20, 000.**
 
 
 
-* **Full HIPAA Audit**. A full HIPAA audit, when applied to technology vendors, assesses an organization against all the [requirements in HIPAA Security Rule](https://hipaa.catalyze.io). It's a long list. It includes both technical settings and configurations as well as administrative requirements like training and business associate agreements. It will involve an auditor visit and will require documentation to support claims about security and compliance; this can include showing specific technology settings like password rules and guest access. **The direct cost is about $20,000-$25,000.**
+* **Full HIPAA Audit**. A full HIPAA audit, when applied to technology vendors, assesses an organization against all the [requirements in HIPAA Security Rule](https://hipaa.catalyze.io). It's a long list. It includes both technical settings and configurations as well as administrative requirements like training and business associate agreements. It will involve an auditor visit and will require documentation to support claims about security and compliance; this can include showing specific technology settings like password rules and guest access. **The direct cost is about $20, 000-$25, 000.**
 
 
 
-* **Validated HITRUST Assessment**. HITRUST is a more [complete, certifiable version of HIPAA](https://catalyze.io/blog/down-the-road-to-hitrust). It was created by large healthcare enterprises to mirror PCI compliance. It is similar to a full HIPAA audit but goes into much more granular detail about the maturity of controls and compliance programs. There's now a standard web app that you use to enter information. Those entries are then validated by HITRUST approved assessor. Then HITRUST, the organization, reviews all the entries, typically asks for more evidence, and you hopefully get HITRUST CSF Certified at the end. The direct costs for this include both fees to HITRUST and to your auditor (approved assessor). **The direct cost is about $30,000-$45,000** (cost can be much higher for larger organizations).
+* **Validated HITRUST Assessment**. HITRUST is a more [complete, certifiable version of HIPAA](https://catalyze.io/blog/down-the-road-to-hitrust). It was created by large healthcare enterprises to mirror PCI compliance. It is similar to a full HIPAA audit but goes into much more granular detail about the maturity of controls and compliance programs. There's now a standard web app that you use to enter information. Those entries are then validated by HITRUST approved assessor. Then HITRUST, the organization, reviews all the entries, typically asks for more evidence, and you hopefully get HITRUST CSF Certified at the end. The direct costs for this include both fees to HITRUST and to your auditor (approved assessor). **The direct cost is about $30, 000-$45, 000** (cost can be much higher for larger organizations).
 
 
 
@@ -78,11 +79,11 @@ We conservatively estimated the cost of an hour of work to be $100/hour. This is
 
 
 
-* **HIPAA Gap Assssment - $17,800-$22,800.** 
+* **HIPAA Gap Assssment - $17, 800-$22, 800.** 
 
-* **Full HIPAA Audit - $27,000-$32,000.**
+* **Full HIPAA Audit - $27, 000-$32, 000.**
 
-* **Validated HITRUST Assssment - $44,000-$59,000.** 
+* **Validated HITRUST Assssment - $44, 000-$59, 000.** 
 
 
 
@@ -95,4 +96,4 @@ If you are considering an audit, cost is only one consideration. Audits are time
 
 
 It's also important to understand that the cost of an audit is not simply a cost at one point in time. Audits are typically followed by annual reviews, sort of like miniature audits. These too cost money, eat time, and can be a distraction. We're working on calculating the overall cost of being HIPAA compliant so stay tuned for more soon. Also, if you have audit insights you can share, [we'd love to hear them](mailto:hello@catalyze.io).
-Tags: audit,hitrust
+Tags: audit, hitrust

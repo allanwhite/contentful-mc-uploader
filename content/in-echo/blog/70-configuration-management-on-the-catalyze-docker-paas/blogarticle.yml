@@ -3,7 +3,8 @@ Title: Configuration management on the Catalyze Docker PaaS
 SeoTitle: Configuration management on the Catalyze Docker PaaS
 Author: mike
 Date: 09/25/2014
-Body: The need for configuration and system management is well known. Since shortly after the dawn of time, when the first caveman got his second mainframe, managing configuration across multiple hosts has been a daunting task.
+Body: |
+The need for configuration and system management is well known. Since shortly after the dawn of time, when the first caveman got his second mainframe, managing configuration across multiple hosts has been a daunting task.
 
 In the era of cloud computing, with ever more complex applications and infrastructure, this task is considerably more involved than it was for our caveman ancestor. Many hosts need be provisioned with all of their associated configurations. Those hosts then need to be managed.  Automation is essential.
 
@@ -26,6 +27,6 @@ In to addition docker/apparmor and quick deployments at our production providers
 When we combine all of this (and more) with the ability to trivially define entire environments in YAML with salt-cloud and validate/compare configurations on hosts to "known good" states in salt, we have a complete system management and configuration infrastructure that is extensible and easy to manage.
 
 I'll be providing some more in-depth tutorials on configuring and managing Salt and Docker at a later date, so stay tuned!
-Tags: docker,paas,salt,configuration management,aws
+Tags: docker, paas, salt, configuration management, aws
 Fullname: Mike Ortiz
 ---

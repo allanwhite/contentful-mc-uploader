@@ -4,7 +4,8 @@ SeoTitle: Mirth Connect: Apache HTTPClient, Rhino and Multi-part forms
 Author: mark
 Fullname: Mark Olschesky
 Date: 03/18/2015
-Body: I was setting up our alerter to send email through our mailgun account. I encountered a problem that I needed to handle for the first time using Mirth Connect: sending a multi-part message using Mirth Connect.
+Body: |
+I was setting up our alerter to send email through our mailgun account. I encountered a problem that I needed to handle for the first time using Mirth Connect: sending a multi-part message using Mirth Connect.
 
 While this would be simpler to do with the HTTPS plugin provided by Mirth, it doesn't seem like you're given a great programatic way to do it even with the Mirth utils within the JavaScript Writer. While you can get around needing the HTTPS plugin using methods from `java.net.URL`, if you haven't started allow me to give you a tip.
 
@@ -62,13 +63,14 @@ I don't really know enough about Rhino to know why this doesn't work. As far as 
 ```
 var nvps = java.util.Arrays.asList([new BasicNameValuePair("from", "mailgun@catalyze.io"), 
 new BasicNameValuePair("to",  "support@catalyze.io"), 
-new BasicNameValuePair("subject",  "Customer Mirth Error"),
+new BasicNameValuePair("subject",  "Customer Mirth Error"), 
 new BasicNameValuePair("text",  "There is a Mirth Error on appServer X. Please login to investigate.")]);
 ```
 
 ## Step 7: Make your POST and handle your response
 
-This is like a breath of fresh air. From here, just add the form elements as an entity, execute and read the body: 
+This is like a breath of fresh air. From here, just add the form elements as an entity, execute and read the Body: |
+
 
 ```
 httpPost.setEntity(new UrlEncodedFormEntity(nvps));
@@ -87,4 +89,4 @@ try {
 ## Use HTTPClient with Mirth
 
 It's so good. Want the Mirth Channel? Sign up to the right and we'll send it over to you. Need help with the other parts of setting up an interface like project planning and networking setup? We can help. [Check it out.](https://catalyze.io/hl7)
-Tags: Mirth,Apache,Rhino
+Tags: Mirth, Apache, Rhino
