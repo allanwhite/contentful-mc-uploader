@@ -8,3 +8,4 @@ Body: Another OpenSSL vulnerablility is affecting servers running SSL v3.0. This
 To read up on the details of the vulnerability please see the original [Google disclosure](http://googleonlinesecurity.blogspot.com/2014/10/this-poodle-bites-exploiting-ssl-30.html).
 Tags: poodle,security
 Fullname: Ben Uphoff, PhD
+---

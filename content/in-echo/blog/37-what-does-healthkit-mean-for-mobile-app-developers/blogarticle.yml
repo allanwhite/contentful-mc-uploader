@@ -34,3 +34,4 @@ The major things I wonder about with HealthKit relate to privacy, security, and 
 As part of our HIPAA-compliant backend-as-a-service (BaaS), we'll be integrating our [iOS SDK](https://github.com/catalyzeio/catalyze-ios-sdk) with iOS 8, and building some cool samples to help you get started connecting to HealthKit. With very limited information on structured data in HealthKit, we're uncertain how our structured data [models](https://docs.catalyze.io/) will map to HealthKit, but our [custom classes](https://docs.catalyze.io/#custom-classes) support unstructured data in any case. Signup for a BaaS account [here](https://devportal.catalyze.io/) today or signup for our newsletter on the right to stay informed of updates.
 Tags: apple,mhealth,data,healthkit
 Fullname: Travis Good, MD
+---

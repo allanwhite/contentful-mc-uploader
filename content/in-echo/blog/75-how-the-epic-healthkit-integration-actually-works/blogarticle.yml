@@ -30,3 +30,4 @@ My thoughts:
 - Traditional integration is still alive. MyChart/Healthkit helps your app write data to MyChart, but doesn't provide any controls to request patient data from it. If you want to get data out of the EHR, you'll need to do integration. If you want to get patient data into the EHR without any of the afforementioned steps, you'll need a traditional flowsheet/notes interface. Need help with that? [We can help.](http://catalyze.io/hl7)
 Tags: epic,healthkit
 Fullname: Mark Olschesky
+---

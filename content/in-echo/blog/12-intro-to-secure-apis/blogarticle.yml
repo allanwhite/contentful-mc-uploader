@@ -26,3 +26,4 @@ Now we come to the question why do we have to canonicalize requests and support 
 Following these tips will help prevent attacks on your APIs and make your data, as well as your customer’s data, more secure. Remember press is good, but making headlines for having your entire API reverse engineered and database stolen is not anyone’s goal. A modern tech company, in a connected world, should be first and foremost a security company. At Catalyze we've taken these steps, and more, to secure our APIs. We'll be sharing more tips on security and hope you find them useful.
 Tags: api,hipaa
 Fullname: Travis Good, MD
+---

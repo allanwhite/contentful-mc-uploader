@@ -44,3 +44,4 @@ In addition to service models, which basically define the level of control custo
 The reason we care about cloud computing, including the definition and characteristics of it, is that we firmly believe the benefits of cloud computing have not been realized in healthcare. And we believe much of that relates to a lack of understanding of what cloud computing is, and how cloud computing can be both compliant and secure. Current compliant offerings in healthcare, especially when you look at compliant cloud computing service models, sorely miss the needs of modern app app developers and the industry as a whole; we make the important distinction between PaaS and IaaS, and believe PaaS is the necessary approach to be compliant because of the myriad of compliance requirements beyond dedicated infrastructure. More to come on service models and compliance in a future post.
 Tags: hipaa,security,paas,cloud
 Fullname: Travis Good, MD
+---

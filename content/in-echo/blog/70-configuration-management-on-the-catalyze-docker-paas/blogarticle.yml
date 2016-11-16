@@ -28,3 +28,4 @@ When we combine all of this (and more) with the ability to trivially define enti
 I'll be providing some more in-depth tutorials on configuring and managing Salt and Docker at a later date, so stay tuned!
 Tags: docker,paas,salt,configuration management,aws
 Fullname: Mike Ortiz
+---
