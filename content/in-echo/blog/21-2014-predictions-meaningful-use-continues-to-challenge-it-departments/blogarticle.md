@@ -3,7 +3,7 @@ Title: 2014 Predictions - Meaningful Use Continues to Challenge IT Departments
 SeoTitle: 2014 Predictions - Meaningful Use Continues to Challenge IT Departments
 Author: travis
 Date: 02/11/2014
-Summary: 
+Summary: What does "Meaningful Use" mean, and why is it needed?
 Body: |
 ---
 Meaningful Use has been one of the biggest topics in the health IT industry for the last several years. Meaningful Use (MU) was introduced in 2009 as a part of the HITECH Act. Basically it's an incentive program that was created to encourage providers, physicians and health systems, to adopt electronic health records (EHRs). EHRs need to be certified for providers to get the financial incentive that goes along with MU. If a provider can show that he/she is using a certified EHR, that provider is eligible for financial incentives from Medicare or Medicaid of $44K or $66K, respectively. Those payments are spread over 5 or 6 years.

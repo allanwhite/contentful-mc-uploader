@@ -3,22 +3,17 @@ Title: 2014 Predictions - Growth of Healthcare Clouds
 SeoTitle: 2014 Predictions - Growth of Healthcare Clouds
 Author: travis
 Date: 02/04/2014
-Summary: 
+Summary: In healthcare, the biggest drivers of cloud-based technologies have been the small, but fast growing, number hosted EHR and PM vendors. 
 Body: |
 ---
 Continuing well into 2014 with more detailed discussion of our predicted trends for the year. Increasingly technology vendors are looking to move applications and resources to cloud-based technologies. The reasons for cloud are well established:
 
-- low capital spend
-
-- flexible capacity (scale up and down as needed)
-
-- more time on apps and less on ops;
-
-- speed of deployments
-
-- global reach
-
-- flexibility in locations (pick your data center locations regions)
+- Low capital spend
+- Flexible capacity scale up and down as needed
+- More time on apps and less on ops
+- Speed of deployments
+- Global reach
+- Flexibility in locations pick your data center locations regions
 
 In healthcare, the biggest drivers of cloud-based technologies have been the small, but fast growing, number hosted EHR and PM vendors. The biggest in that category is Athena (not small), with companies like CareCloud, Kareo, PracticeFusion, and drchrono also included. These players will continue to grow in 2014; as an indication, Athena just [unseated](http://news.athenahealth.com/Press-Releases/athenahealth-Earns-Top-Best-in-KLAS-Recognition-for-its-Cloud-Based-Services-Ranking-as-1-Overal-c4d.aspx) Epic as the #1 overall software vendor by [KLAS](http://www.klasresearch.com/) after Epic had held the spot for the last 8 years. For those that don't know, KLAS is the trusted rating system in the health IT industry.
 
