@@ -4,9 +4,10 @@ SeoTitle: 2014 Predictions - Growth of Niche Digital Health
 Author: travis
 Date: 01/13/2014
 Summary: Why do focusing on niche offerings make so much sense in health and wellness? 
-Body: |
+Lead: |
 2013, and to a lesser extent 2012, saw the growth and success of niche-based health IT offerings. Both on the provider side, with specialty specific EHRs like those from Modernizing Medicine, and on the patient side, with apps and services like [Telcare](http://www.telcare.com/), [Propellor Health](http://propellerhealth.com/), [Ovuline](http://www.ovuline.com/), [Direct Dermatology](http://directdermatology.com/), and now [Kurbo Health](http://www.datrihealth.com/).
 
+Body: |
 In 2014 we'll see more and more niche-based health IT launches, in part because of the examples of the successes listed above, and in part because having a niche 1) helps vendors say "no" to things that don't fit, 2) allows vendors to know customers and their needs really well (workflows, integration points, etc), and 3) helps vendors develop a go to market strategy and early champion customers; I think investors also like niche assuming the niche is large enough for the investor to have an interest.
 
 Why do niche offerings make so much sense in health and wellness? Simply put, health and wellness is extremely broad. Focusing on a niche is smart, mainly for the following reasons:

@@ -5,9 +5,10 @@ Author: kenny
 Fullname: Kenny Stark
 Date: 06/11/2015
 Summary: 
-Body: |
+Lead: |
 Here at Catalyze, we have many customers and [business associates](https://catalyze.io/learn/business-associate-agreements) that utilize our products, services, and expertise with applications that employ telecommunication technology with means of improving healthcare, collective well-being, and health education remittance and assistance — put simply in layman’s terms, Catalyze serves as a great technology partner to telehealth apps. 
 
+Body: |
 ### What is **telehealth**?
 
 Telehealth encompasses a vast range of logistics, policies, and technologies in order to yield the desired communication results of the users. The federal [HRSA (Health Resources and Services Administration)](http://www.hrsa.gov/ruralhealth/about/telehealth/telehealth.html) defines telehealth as

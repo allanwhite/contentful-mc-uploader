@@ -4,9 +4,10 @@ SeoTitle: Who's really interpreting and enforcing HIPAA for startups?
 Author: travis
 Date: 08/30/2014
 Summary: 
-Body: |
+Lead: |
 > You have to learn the rules of the game. And then you have to play better than anyone else. **- Albert Einstein**
 
+Body: |
 We've covered HIPAA from almost all angles, including interpretation and [enforcement](/learn/hipaa/the-who-and-how-of-hipaa-enforcement/). When most people think about enforcement and HIPAA, they think about [breaches](/learn/hipaa/hipaa-and-data-breaches/), fines, and potential jail time. All of those areas of enforcement are officially carried out by the [Office of Civil Rights](http://www.hhs.gov/ocr/office/) (OCR), which is part of Health and Human Services (HHS). But that's not the practical side of enforcement for many of our customers.
 
 Breaches and fines have been big news over the last few weeks. Community Health Systems (CHS) has been in the news  lately because a malicious hacker, or group of hackers, was able to gain access to health records for 5.4 million people (CHS is a large system). The current [speculation](http://www.forbes.com/sites/danmunro/2014/08/18/cyber-attack-nets-4-5-million-records-from-large-hospital-system/) is that CHS could face fines up to $150 million levied by OCR. The cause of the CHS breach was a vulnerability in SSL discovered and made public over 4 months ago. CHS had not patched all of its servers. I assume CHS manages its own servers and likely has many, many applications; but, Heartbleed was a very public vulnerability and I'm surprised production systems were unpatched. At Catalyze we [updated](/blog/addressing-the-heartbleed-vulnerability-the-catalyze-way/) all of our systems the same day the vulnerability was discovered.

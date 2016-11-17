@@ -5,9 +5,10 @@ Author: travis
 Fullname: Travis Good, MD
 Date: 04/21/2015
 Summary: 
-Body: |
+Lead: |
 Our team is still recovering from HIMSS. Each year the event gets larger (I read attendance was just north of 40, 000 this year) and longer (starting on Saturday this year and running until Thursday). It's an exhausting event but also **the** conference for connecting with anybody in health tech, be they vendors, enterprises, government officials, consultants, or investors.
 
+Body: |
 I think this is my 6th HIMSS and each year I'm shocked by the size of the exhibitor hall. The floor seems to go on forever. What's most surprising is not the over-the-top mega booths for major vendors like Microsoft, Optum, and Epic, but the endless sea of booths with names and logos you don't know. It speaks to the size of the healthcare technology market. If you pay attention, you quickly see seemingly "small" niches in healthcare can create large companies.
 
 It's always hard to summarize HIMSS. It's like summarizing the industry generally. With that grain of salt, a few of the things we noticed consistently coming up are listed below.

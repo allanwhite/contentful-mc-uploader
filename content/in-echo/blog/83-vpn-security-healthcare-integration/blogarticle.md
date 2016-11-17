@@ -5,9 +5,10 @@ Author: mark
 Fullname: Mark Olschesky
 Date: 12/22/2014
 Summary: 
-Body: |
+Lead: |
 If you're used to a world of OAuth handshakes, Pub/Sub and HTTPS for authorization and enabling data transfer, you'll find yourself somewhat disoriented with healthcare data integration. While outdated it has worked up to this point and helped healthcare organizations keep the "bad guys" out while letting the business associates in. We'll talk about what's common and how we help our customers setup secure, redundant integration with clients.
 
+Body: |
 ### Let's talk about networking
 
 (image: zdt7agj.gif)

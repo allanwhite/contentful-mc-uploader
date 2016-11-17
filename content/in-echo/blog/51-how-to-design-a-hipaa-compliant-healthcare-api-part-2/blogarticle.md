@@ -4,9 +4,10 @@ SeoTitle: How to design a HIPAA compliant healthcare API, part 2
 Author: mark
 Date: 07/09/2014
 Summary: 
-Body: |
+Lead: |
 In [part 1](/blog/how-to-design-a-hipaa-compliant-healthcare-api) we discussed why we structured our backend as its built. Now in part two we'll discuss how to get started with building out your apps.
 
+Body: |
 ##Step 1: Develop your application's data models##
 Now that you know a bit more about the data structures that comprise standard Catalyze data models, decide which models you will need to use. Not sure where to start? Let me ask you some questions to help you hone in on what you need.
 

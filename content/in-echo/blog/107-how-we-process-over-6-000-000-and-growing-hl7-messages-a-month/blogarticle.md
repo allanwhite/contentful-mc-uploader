@@ -5,9 +5,10 @@ Author: kris
 Fullname: Kris Gösser
 Date: 05/04/2015
 Summary: 
-Body: |
+Lead: |
 Integration is a buzzword in healthcare, and for good reason.
 
+Body: |
 As the healthcare industry transforms from the traditional model of volume-based care to new models of value-based care, there is heightened interest in patient outcomes, patient engagement in decision making, and patient satisfaction. Executives know aggressive inclusion of novel third party tools that solve real problems is paramount to meeting new metrics. Integrating several third party vendors is hard enough, while scaling a sea change is untenable. No one wants to do inefficient one-offs until the end of time.
 
 Increasingly health systems and vendors are partnering with Catalyze to [accelerate third party integration](https://catalyze.io/hl7). Hospitals get an ROI from the streamlined workflows while vendors, like [HealthLoop](https://catalyze.io/proof), appreciate offloading this unique expertise. The end result is faster, reliable integration on compliant infrastructure. Major cost savings are instantly realized by all parties involved.

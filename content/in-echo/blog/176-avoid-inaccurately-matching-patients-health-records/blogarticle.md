@@ -5,9 +5,10 @@ Author: marcia
 Fullname: Marcia Noyes
 Date: 12/09/2015
 Summary: Most people probably do not realize that traditional data management and patient index tools only automatically match approximately 70 percent of records.
-Body: |
+Lead: |
 If you haven’t been following along on our blog, we have been taking a dive into the Government Accountability Office’s (GAO) recently released report, [Nonfederal Effort to Help Achieve Health Information Interoperability](http://www.gao.gov/assets/680/672585.pdf). Specifically, we have been exploring the five barriers this report found to achieving true nation-wide interoperability:
 
+Body: |
 1. Insufficiencies in health data standards
 2. Variation in state privacy rules
 3. Accurately matching patients’ health records

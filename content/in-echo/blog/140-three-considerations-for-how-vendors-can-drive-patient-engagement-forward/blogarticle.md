@@ -5,9 +5,10 @@ Author: kenny
 Fullname: Kenny Stark
 Date: 08/12/2015
 Summary: 
-Body: |
+Lead: |
 The most critical issue the healthcare industry is seeing when it comes to patient engagement is altering the perspectives and suppositions of patients and clinicians. Many believe that patient portals are the end-all solution for patient engagement by simply satisfying Meaningful Use requirements, but what many fail to understand is that patient engagement is not simply technological advancements; it is a complete culture change.
 
+Body: |
 As clinical practices face the gap between readily available resources and accessibly affordable technology, vendors can bridge this space by adopting a patient-centric mindset. Patients want many features and tools at hand, but for practices to take full advantage of these, they need to be part of a larger platform that has integration capabilities with other technologies.
 
 Here are three considerations every vendor in healthcare should know to really hone in on how they can enforce the message of patient engagement.

@@ -4,9 +4,10 @@ SeoTitle: Health Pitch 2014 [Fargo, ND]
 Author: sarah
 Date: 08/28/2014
 Summary: 
-Body: |
+Lead: |
 ##### “Showcasing our region’s innovators that are creating a healthier world”
 
+Body: |
 If you’re like me, the town of Fargo does not conjure up much aside from the 1996 Coen brothers film. Luckily, I got to experience much more on a recent trip to Fargo, ND for Health Pitch 2014. Travis Good, co-founder of Catalyze, pitched for Catalyze alongside 13 other innovators and organizations.
 
 Shane Waslaski (President and CEO of [Intelligent InSites](http://intelligentinsites.com)) was the keynote speaker for this event. He gave an encouraging introduction, stating how the best days in healthcare are ahead of us, and our focus should be on attitude, optimism, and determination.
@@ -18,8 +19,6 @@ Shane also introduced the themes of the event, which were Efficiency in Health, 
 After Shane left the stage we heard from the charismatic Mert Iseri, CEO of [SwipeSense](https://www.swipesense.com/). From their website, “According to the CDC, increasing hand hygiene is the best way to prevent illness and infections. SwipeSense is an affordable, data-driven, hand hygiene platform for doing just that.”
 
 A 2013 participate, this year SwipeSense wanted to give updates on their successes. Not only was it exciting to hear how well this company is doing, it was also a source of pride for us at Catalyze, as SwipeSense recently became a customer of ours.
-
-
 
 ##### On to the pitches!
 

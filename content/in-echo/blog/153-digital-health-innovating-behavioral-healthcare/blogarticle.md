@@ -5,9 +5,10 @@ Author: marcia
 Fullname: Marcia Noyes
 Date: 09/16/2015
 Summary: 
-Body: |
+Lead: |
 In a digitally interconnected world, people with behavioral health conditions consult their technologies long before approaching healthcare providers for further diagnosis and treatment. What would be the benefit in approaching a healthcare provider immediately anyways? Behavioral healthcare is insufficient in assisting diagnosis, overseeing treatment response, and evaluating disease acuity. In contrast to other healthcare fields, psychiatric care is founded on a conversational Q&A model, rather than physical exams, clinical trials, or laboratory testing.
 
+Body: |
 As a result, behavioral healthcare is a rapidly growing, but often a neglected sector in the healthcare industry. This specialty presents both many opportunities and challenges; inadequate funding being one of those challenges. Sadly, behavioral healthcare remains the proverbial stepchild, never seeing the therapeutic breakthroughs or [innovation](https://catalyze.io/solutions/enterprise-innovation) necessary to be in the spotlight. However, the opportunities remain. The health economic burden is massive and the life expectancy of patients is considerably less, due to their conditions being difficult to treat, an overwhelming challenge in patient monitoring and overall subpar patient care. Innovative behavioral health technologies have a great opportunity to contribute to change in this area.
 
 With the Web being accessible from nearly all handheld devices, patients are turning to tablets and smartphones in search of further healthcare information, to connect with online support communities and to discover possible treatment options. Digital health technologies are offering the ability for fiscally effective, long-term remote monitoring of patients with mental health issues. New mobile applications and Web portals are enabling patients and caretakers to gauge and communicate status updates to the care team on a regular basis from wherever the patient may reside, enabling telehealth assessments and therapeutic interventions. 

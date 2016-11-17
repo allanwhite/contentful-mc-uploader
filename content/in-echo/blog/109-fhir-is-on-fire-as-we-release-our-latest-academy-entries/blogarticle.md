@@ -5,9 +5,10 @@ Author: kenny
 Fullname: Kenny Stark
 Date: 05/28/2015
 Summary: 
-Body: |
+Lead: |
 As you may have heard, FHIR (Fast Healthcare Interoperability Resources) is the new and emerging standard being developed under the [Health Language 7](https://hl7.org/) (HL7) organization and Catalyze has just released THREE new Academy articles so you can stay ahead of the curve on all things FHIR related. 
 
+Body: |
 Pronounced as ‘Fire’ (hopefully bringing clarity to the pun in the title), it was initially developed by [Graham Grieve](http://www.healthintersections.com.au/), who insisted upon FHIR being open sourced.
 
 In our [Introduction to FHIR](https://catalyze.io/learn/introduction-to-fhir) Academy article, Catalyze Co-founder and President, [Mohan Balachandran](https://catalyze.io/mohan), guides us through why FHIR was necessary due to the current state of healthcare integration and interoperability and why FHIR brings a better, more modern approach with concepts such as [Restful APIs](http://en.wikipedia.org/wiki/Representational_state_transfer) and accompanying documentation to integration systems. In this introduction, you will learn what makes FHIR the superior in flexibility, the advantages FHIR has over the existing HL7 standards, and where FHIR is headed from here.

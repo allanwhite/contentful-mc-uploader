@@ -5,9 +5,10 @@ Author: marcia
 Fullname: Marcia Noyes
 Date: 08/18/2015
 Summary: 
-Body: |
+Lead: |
 Change in healthcare is inevitable. With a swell in patient population combined with the declining number of clinicians and physicians, the hourglass of healthcare is about to be upended. What is largely unspoken though is the expectation that this younger generation will naturally be highly engaged. With immediate gratification being a key characteristic among this generation, is [patient engagement](https://catalyze.io/solutions/patient-engagement) possible? And if so, what will that look like?
 
+Body: |
 Patient care starts with recognizing the consumer audience. Senior citizens will follow physician orders without question. Baby Boomers are more likely to debate their doctor and dispute every step on the road to recovery. Generation X is known to educate themselves before consulting their physician. And Millennials see any form of contact beyond online chat as “last century.”
 
 The Millennials are the group that has grown up with technological engagement, computers and tablets as the normalcy, and the Internet being perceived as a “one stop shop” for anything you could ever need. Individuals believe they can diagnose themselves with resources from sites such as [WebMD](http://www.webmd.com/), iTriage, or one of the new startups in this field, [uGoHealth](http://www.ugohealth.com/), where symptom information is available day and night. Instead of saving their concerns for their annual check-up, Millennials simply expect to download an application to their smart phone, list their symptoms, and have their prescription sent to their neighborhood pharmacy for pick-up by early afternoon.

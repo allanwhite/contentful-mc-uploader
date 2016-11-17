@@ -4,9 +4,10 @@ SeoTitle: Mobile Backend as a Service Stack
 Author: ben
 Date: 06/30/2014
 Summary: 
-Body: |
+Lead: |
 Welcome to our engineering blog. We intend for this section to cover in-depth technical content that is of interest to developers and ops folks. For a first post we are covering our Mobile Backend as a Service's stack. Future posts will drill down into the specifics of some of the more interesting pieces.
 
+Body: |
 ### REST API
 
 Our REST API is written in Java using the [Dropwizard](https://dropwizard.github.io/dropwizard/) framework. Dropwizard bundles - among other things - strong [gradle](http://www.gradle.org/) support, [Jersey](https://jersey.java.net/), [Jackson](http://jackson.codehaus.org/) for JSON processing and a bunch of handy features like integrated metrics and YML configuration files.

@@ -5,9 +5,10 @@ Author: kris
 Fullname: Kris Gösser
 Date: 03/30/2015
 Summary: 
-Body: |
+Lead: |
 SXSW was a blast. Catalyze had the chance to participate in a panel discussion for digital health startups. Our CEO [Travis Good](https://catalyze.io/travis) answered tough questions around HIPAA and regulation.
 
+Body: |
 (image: sxsw1.png)
 
 We often find HIPAA's perceived complexity exists mainly due to lack of awareness or education, which is not the fault of digital health startups or those new to healthcare. Instead, it's the fault of poorly designed and inaccessible resources. We strongly believe that we are helping to accelerate innovation within healthcare not just through our [products](https://catalyze.io/products), but also through our [free educational content](https://catalyze.io/learn). Making ourselves available at events  to answer questions and lend advice is all part of our mission to lessen the burden of HIPAA on those who want to change healthcare.

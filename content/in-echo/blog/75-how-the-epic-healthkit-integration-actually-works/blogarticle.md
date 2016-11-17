@@ -4,9 +4,10 @@ SeoTitle: How the Epic/Healthkit integration actually works
 Author: mark
 Date: 10/28/2014
 Summary: 
-Body: |
+Lead: |
 There's been no shortage of pieces on how the Epic/Healthkit integration _might_ work or should _work_. Even the piece in which [Epic spokespersons talked about functionality](http://venturebeat.com/2014/09/17/ehr-giant-epic-explains-how-it-will-bring-apple-healthkit-data-to-doctors/) points to how "the EHR accesses HealthKit data from the MyChart app, not via a direct integration with the HealthKit platform." Ok, so it uses MyChart, Epic's patient portal. But saying that MyChart is used for integration is like saying that souffle is made because a pan interfaces with a stove. What you really need to know are the ingredients and how they mix together. We've got the scoop.
 
+Body: |
 The first thing worth noting about the Epic/Healthkit integration is that <i style="font-style:italic;">*it is not patient-initiated*</i>. Any user using the MyChart application on an iPhone running iOS 8 cannot decide to send information to their clinicians. Epic won't store it; in fact MyChart won't even show you the activity in MyChart unless a clinician has ordered MyChart tracking for you. You've been looking for real, prescribed apps? Here's the first one.
 
 While this may disappoint patients looking for a new communication tool, this makes alot of sense for doctors and clinicians. Many clinicians are afraid the upcoming "Internet of Things for healthcare era" will be a lot of static in ratio to noise. How can apps and EHRs guarantee clinicians only retrieve pertinent patient information from devices with intervention opportunity?

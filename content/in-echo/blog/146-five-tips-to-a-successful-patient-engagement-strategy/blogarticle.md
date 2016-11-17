@@ -5,9 +5,10 @@ Author: kenny
 Fullname: Kenny Stark
 Date: 08/24/2015
 Summary: 
-Body: |
+Lead: |
 Healthcare enterprises are striving to achieve the “triple threat of patient engagement":
 
+Body: |
 -  Enhance the patient care experience (quality and gratification)
 -  Improve the general population health
 -  Minimize cost of care

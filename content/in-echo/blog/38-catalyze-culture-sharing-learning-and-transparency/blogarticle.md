@@ -4,9 +4,10 @@ SeoTitle: Catalyze Culture - Sharing, learning and transparency
 Author: mohan
 Date: 06/04/2014
 Summary: 
-Body: |
+Lead: |
 Managing distributed teams and ensuring ongoing communication between them is hard. This is especially so at Catalyze since we have a *very* distributed team and two very distinct product offerings. The choice of allowing the development teams to be distributed was something that we thought about hard but felt that the challenges were well worth it because of the caliber of people that we could attract. However, communication and sharing was something that we felt we had to foster and encourage. Especially because we dogfood everything that we sell.
 
+Body: |
 We use our own [Backend-as-a-Service](https://catalyze.io/backend-as-a-service/) (BaaS) to build mobile apps and will be open sourcing a few of them shortly. We are in the process of moving our BaaS onto version 2.0 of our [Platform as a Service](https://catalyze.io/platform-as-a-service/) (PaaS). The PaaS v2.0 is something we're excited about as we're using Docker across the board and have figured out how to solve challenges around multi-container, multi-host linking and are progressing quickly down the path of toward a [zero-trust cloud](http://www.computerworld.com/s/article/9244959/Cloud_computing_2014_Moving_to_a_zero_trust_security_model). But that's a topic for another post. Overlaying the BaaS and the PaaS are [the security principles and policies](https://catalyze.io/compliance/) that govern our [HIPAA compliance](https://catalyze.io/hipaa/) (and shortly, HITRUST).
 
 ##Tools

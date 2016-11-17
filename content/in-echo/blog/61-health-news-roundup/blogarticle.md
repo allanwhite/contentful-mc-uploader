@@ -4,9 +4,10 @@ SeoTitle: Health News Roundup - 9/2/2014
 Author: sarah
 Date: 09/02/2014
 Summary: 
-Body: |
+Lead: |
 Breaches, new health data privacy requirements, a pharma accelerator, HealthKit, and new apps for veterans...
 
+Body: |
 #### [Mac McMillan: 'Disparate' health privacy requirements overwhelming for providers](http://www.fiercehealthit.com/story/privacy-mac-mcmillan-hipaa-ocr-hhs-healthcare-himss/2014-08-22?page=full&utm_content=bufferc254f&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
 As the U.S. Department of Health and Human Services' Office for Civil Rights ramps up its audits of healthcare entities in the coming months, there is a sense among some that there will be a flood of fines levied compared to actions that have already been taken.<br>source: FierceHealthIT
 

@@ -5,9 +5,10 @@ Author: mohan
 Fullname: Mohan Balachandran
 Date: 08/31/2015
 Summary: 
-Body: |
+Lead: |
 There are two broad classifications facilitated towards [patient engagement](https://catalyze.io/solutions/patient-engagement): organizational and individual. Organizational-level engagement implementations are executed by means of change in policies, processes, systems, procedures, or structures. On the other side, individual-level engagement tactics are enacted to reshape knowledge, demeanors, or skills through various tools for educating and engaging the individual. These two ranks are not mutually exclusive though. Individual-level tools can support organizational-level interventions and individual characteristics can be aided by organizational support. 
 
+Body: |
 Organizational Engagement can be categorized into four main groups:
 
 1. **The Team.** Engagement tactics utilized with patients and family members by the healthcare team can include bedside rounds, patient/family facilitated response groups, efforts to encourage familial participation, and granting access to medical record information. 

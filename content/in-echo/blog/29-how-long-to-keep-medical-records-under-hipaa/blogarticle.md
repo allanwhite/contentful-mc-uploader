@@ -4,9 +4,10 @@ SeoTitle: How long to keep medical records under HIPAA?
 Author: travis
 Date: 04/17/2014
 Summary: 
-Body: |
+Lead: |
 It may come as a surprise, but you don't have to retain medical records according to HIPAA rules. This is a very common misconception with HIPAA. Medical records means electronic protected health information (ePHI) in this case. HIPAA does not have any rules that require covered entities or business associates to retain ePHI. I assume this is a common question for HHS as they have it listed in a [FAQ](http://www.hhs.gov/ocr/privacy/hipaa/enforcement/examples/disposalfaqs.pdf).
 
+Body: |
 (image: retention.png)
 
 The confusion likely stems from two things. First, most states have requirements that covered entities retain ePHI for a certain period of time, even if the covered entity closes its doors; I imagine the most common case of a covered entity closing is a physician retiring. As a covered entitiy, the onus is on you to understand the requirements in the states that you work in and to comply with them.

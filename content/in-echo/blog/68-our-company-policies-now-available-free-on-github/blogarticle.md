@@ -4,9 +4,10 @@ SeoTitle: Our company policies, now available free on GitHub
 Author: kris
 Date: 09/25/2014
 Summary: 
-Body: |
+Lead: |
 Today is a big day for us, and for those businesses striving for HIPAA compliance. [Starting today, we are open sourcing all our company policies.](http://catalyzeio.github.io/policies/) Are you a company who handles PHI and trying to achieve HIPAA compliance? Then you'll find what we are about to share compelling and useful.
 
+Body: |
 Achieving HIPAA compliance generally has two halves. The first half includes all technical guidelines, both physical and digital. Encryption, logging, monitoring, backup—these are just a few examples. Since the beginning, Catalyze has worked every day to take on these technical burdens for our customers.
 
 The second half of HIPAA is focused on administrative and organizational activities, and these are where _your_ company policies come into play. Non-technical guidelines include signing Business Associate Agreements (BAAs), risk management procedures, and policies for training, among many other things. Crafting company policies that align with HIPAA administrative guidelines are straightforward, but an immense burden.

@@ -4,9 +4,10 @@ SeoTitle: What does it take to be a 100% HIPAA compliant cloud company?
 Author: travis
 Date: 06/25/2014
 Summary: 
-Body: |
+Lead: |
 The short answer to that question is, not surprisingly, **it take A LOT of time, energy, and money to be 100% HIPAA compliant**. At Catalyze we're focused on security and HIPAA compliance. It's a differentiator and we aren't reaching when we say *[It's in our DNA](https://catalyze.io/compliance/)*, referring to HIPAA compliance. Because of that focus, we have a lot of resources for compliance. That translates to a lot of time and money on security and organizational policies and procedures specifically to comply with HIPAA.
 
+Body: |
 We recently completed our 3rd external audit in 12 months. The audit was performed by Coalfire Systems, a large national 3rd party auditor. The results of that audit are a very lengthy report, about 20 pages, but the entire report can be boiled down to the image below (we can't share the entire report here because there are things in it that would be considered internal and sensitive to Catalyze, like IP addresses, specific controls, etc).
 
 (image: compliance.png)

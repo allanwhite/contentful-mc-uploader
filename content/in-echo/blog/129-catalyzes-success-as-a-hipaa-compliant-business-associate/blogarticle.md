@@ -5,9 +5,10 @@ Author: mohan
 Fullname: Mohan Balachandran
 Date: 07/22/2015
 Summary: 
-Body: |
+Lead: |
 Nowadays in the healthcare industry everyone must be aware of their roles in regards to data privacy and security because accountability risk from consumers, moderators, officials, covered entities, and their business associates is higher than ever before. Business associates, due to the HIPAA Final Rule, are now being audited and held liable for enforcing and following privacy HIPAA regulations.
 
+Body: |
 The Department of Health and Human Services’ Office for Civil Rights is conducting these audits and, according to recent reports, business associates affected by a data breach face average fine costs of $1 million. You read that correctly but let me repeat to ensure clarity. Average of $1 million. With that said, no matter if your business is massive or minor or how far segmented you feel from direct patient care, responsibilities must be clarified on how to handle protected health information (PHI) so you do not face these fines.
 
 Business associates have governed regulations for the Privacy, Security, and Breach Notification Rules of HIPAA and the HITECH Act. A [Business Associate Agreement](https://catalyze.io/learn/business-associate-agreements) states and clarifies work with your covered entity, especially in regards to the Breach Notification Rule (timeframe, context, and financial liability responsibilities). And, as of last year, all covered entities are mandated to have these agreements between their business associates and those business associates with their subcontractors, and this will be one of the core criteria that auditors will be looking for in healthcare organizations over the coming years.

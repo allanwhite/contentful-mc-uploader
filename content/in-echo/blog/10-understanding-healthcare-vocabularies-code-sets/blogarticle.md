@@ -4,8 +4,10 @@ SeoTitle: Understanding Healthcare Vocabularies & Code Sets
 Author: mohan
 Date: 11/18/2013
 Summary: Developers coming into healthcare are often confused as to why it's so difficult to get data in and out of backend "systems of record" like EMRs.
-Body: |
+Lead: |
 
+
+Body: |
 #### What are they, why they're important and how they're used
 
 Things have been really hectic with fund raising, working with our initial customers (enterprises and developers / agencies), writing requirements, testing... It's not that these are slowing down, it's just that I've decided to set myself a goal of writing at least one blog post every week and ideally move to a goal of 500 words a day.

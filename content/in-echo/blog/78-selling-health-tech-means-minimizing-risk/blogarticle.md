@@ -5,9 +5,10 @@ Author: travis
 Fullname: Travis Good, MD
 Date: 11/19/2014
 Summary: 
-Body: |
+Lead: |
 > Trust is the glue of life. It's the most essential ingredient in effective communication. It's the foundational principle that holds all relationships. - Steven Covey
 
+Body: |
 At Catalyze we most frequently work with B2B health technology companies. Those companies build and sell software to healthcare enterprises, most commonly health systems, insurance companies, and biopharma companies. As we detailed in our last [white paper](https://catalyze.io/whitepapers/making-enterprise-healthcare-sales-easier/), selling to those large healthcare enterprises is challenging, especially for modern, cloud-based companies. The major sales challenge in this space is [overcoming risk](http://www.verizonenterprise.com/resources/reports/rp_hbr-vertical-report-healthcare_en_xg.pdf); variability exists, but risk is the basis for exhaustive security and compliance review that is part of the sales cycle.
 
 The reason our B2B customers represent risk for enterprises is because our customers are business associates, meaning they are accessing, storing, processing, or otherwise touching protected health information (PHI). That PHI is coming from the enterprise, or covered entity. Our customers, as business associates, have to be stewards of that PHI. If PHI is accessed in an unauthorized way, HIPAA views it as a breach. Our customers and their enterprise customers have business associate agreements (BAAs) in place to define obligations and risk exposure in the case of a breach. Unfortunately breaches, and the associated notification requirements and investigation, are a burden for both the business associates and covered entities.

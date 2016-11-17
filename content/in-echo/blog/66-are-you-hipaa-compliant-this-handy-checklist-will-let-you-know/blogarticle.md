@@ -4,9 +4,10 @@ SeoTitle: Are you HIPAA compliant? This handy checklist will let you know
 Author: kris
 Date: 09/16/2014
 Summary: 
-Body: |
+Lead: |
 When we talk to companies who handle Protected Health Information (PHI), often the first topic of discussion is simply understanding what it takes to be HIPAA compliant.
 
+Body: |
 "Am I HIPAA compliant? I don't even know."
 
 This is by far the question we're asked most often. HIPAA is so complex, people usually aren't even sure how it applies to them.

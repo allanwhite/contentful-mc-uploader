@@ -4,9 +4,10 @@ SeoTitle: Health News Roundup - 9/11/2014
 Author: sarah
 Date: 09/11/2014
 Summary: 
-Body: |
+Lead: |
 CVS, Hospital Hacks, VA, Obamacare, Interoperability
 
+Body: |
 #### [CVS Stops Tobacco Sales Today, Changes Name To Reflect New Era](http://getprismatic.com/story/1409719091444?share=MTIxOTI3.MTQwOTcxOTA5MTQ0NA.QZrzXW76j3Ful1WmpeUx9U0VIVI&utm_content=buffer2151f&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
 CVS, the giant drugstore chain that shocked the U.S. public health community and Wall Street with its decision earlier this year to remove tobacco products from its shelves by October, said cigarettes are officially no longer on store shelves a month ahead of schedule.
 

@@ -5,9 +5,10 @@ Author: ryan
 Fullname: Ryan Rich
 Date: 08/19/2015
 Summary: 
-Body: |
+Lead: |
 Today Ionic [officially launched](//blog.ionic.io/introducing-the-ionic-market-buy-and-sell-ionic-starters-plugins-and-themes/) their new [market](//market.ionic.io) which gives developers the opportunity to buy and sell Ionic goods such as, plugins, templates and starter projects.
 
+Body: |
 Since Catalyze and Ionic share [_The City of Four Lakes_](https://en.wikipedia.org/wiki/Madison, _Wisconsin) as a headquarters we're always interested in what the other is doing. A few months ago we were contacted by Ionic to see if we'd be interested in featuring a product on their upcoming market. We were delighted to collaborate.
 
 #### Deciding on a product

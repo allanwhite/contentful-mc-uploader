@@ -5,8 +5,10 @@ Author: marcia
 Fullname: Marcia Noyes
 Date: 10/27/2015
 Summary: 
-Body: |
+Lead: |
 > America’s health care system is neither healthy, caring, nor a system.
+
+Body: |
 > —Walter Cronkite
 
 $125 billion is wasted every year on nearly one billion doctors’ visits that Americans take that could simply be solved with a bit of education. The efforts to solve this problem is rapidly becoming the fastest growing market in healthcare. It’s a race that's promoted by the massive shift in the healthcare industry’s economics, mandated by the Affordable Care Act, also known as Obamacare. Because of this shift, an immense opportunity rests in the hands of healthcare entrepreneurs. Among these aspiring go-getters slashing away at healthcare’s frivolous spending are [Health123](http://www.health123.com/) and [SocialWellth](http://socialwellth.com/). 

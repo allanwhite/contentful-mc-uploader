@@ -4,9 +4,10 @@ SeoTitle: What is cloud computing? (and why it matters for compliance)
 Author: travis
 Date: 03/05/2014
 Summary: What are the essential characteristics** of cloud computing?
-Body: |
+Lead: |
 Reading this [commentary](http://readwrite.com/2014/01/27/private-public-cloud-cloudwashing#awesm=~ouLFi5BDMHpcmd) on recent Forrester data, and writing this [post](blog/2014-predictions-growth-of-healthcare-clouds) on 2014 trends around cloud computing in healthcare, got us thinking more about the definition of cloud computing, and different options in cloud computing.
 
+Body: |
 As we work with cloud-based vendors and enterprises in healthcare, we're constantly fielding questions related to cloud deployments and models. This is our attempt to summarize what we've learned.
 
 I think we all *know* what cloud computing is, or at least we have certain associations and benefits that come to mind for the term “cloud computing”. NIST has a formal definition of cloud computing. NIST breaks down cloud computing into 5 essential characteristics, 3 service models, and 4 deployment models.

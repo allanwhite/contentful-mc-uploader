@@ -5,9 +5,10 @@ Author: travis
 Fullname: Travis Good, MD
 Date: 11/16/2015
 Summary: 
-Body: |
+Lead: |
 This week was the first [Voalte User Experience (VUE)](http://www.voalte.com/vue15/) conference. Catalyze sponsored the event, which took place in Sarasota, FL, and moderated a panel on lessons learned in mobile health and the path forward. We were happy to be included in the event and to support it; we’re also very excited to be working with [Voalte](http://www.voalte.com/). 
 
+Body: |
 Overall, it was a great learning and collaborative experience. In talking with [Trey Lauderdale](http://www.voalte.com/about-us/trey-lauderdale/), Voalte founder and CEO, prior to the event, I asked him why Voalte decided to do a user meeting this year for the first time and not in previous years. He told me Voalte wanted to assure they had enough customers and experiences to put together a two-day event filled with high quality content. Voalte wanted attendees to walk away feeling like they got real value out of attending the event. Voalte succeeded in that goal, and did it with typical Voalte personality, and a lot of pink scrubs and [Gator](http://www.ufl.edu/) references. It was a refreshing experience to be a part of such an intimate, collaborative event.
 
 For those that don’t know [Voalte](http://www.voalte.com/), you likely will soon. 

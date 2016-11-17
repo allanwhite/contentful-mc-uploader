@@ -4,9 +4,10 @@ SeoTitle: Lay of the Land
 Author: travis
 Date: 05/15/2013
 Summary: Our mission is to make it easier to build, test and scale secure, interoperable, and effective apps for healthcare.
-Body: |
+Lead: |
 Modular technology, or services that developers can plug into for various features or function, is here. There seems to be almost a limitless number of possible **BLANK-as-a-Service** offerings these days. Amazon and Rackspace offer Infrastructure-as-a-Service (IaaS). Heroku offers a Platform-as-a-Service (PaaS). Kinvey, Parse, and Stackmob offer Backend-as-a-Service (BaaS). Context.io offers Email-as-a-Service.
 
+Body: |
 MongoLab and MongoHQ offer Database-as-a-Service. Desk.com, ZenDesk, UserVoice and a host of others offer the equivalent of Helpdesk-as-a-Service. Google, Swiftype, and Searchify offer Search-as-a-Service. Stripe offers Payment-as-a-Service. And then some others, like Singly, offer niche solutions like Social-as-a-Service.
 
 All of these offerings are valuable to developers of different kids of applications. We at catalyze.io have personally tested all the services listed above and gone to production with many of them supporting our applications. The real value, and the reason people pay for these services, is that $29 or $49 or even $499 per month is a lot cheaper than having dedicated developer time spent to maintain and scale these various services. By using these services, and the majority of them offer a free tier to developers to get started, the time to market is considerably faster and it's much cheaper to fail or succeed, and to iterate on the core value of the product based on user feedback and usage analytics.

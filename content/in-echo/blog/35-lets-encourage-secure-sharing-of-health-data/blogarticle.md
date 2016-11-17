@@ -4,9 +4,10 @@ SeoTitle: Let's encourage secure sharing of health data
 Author: travis
 Date: 05/16/2014
 Summary: 
-Body: |
+Lead: |
 There's a recent report and [infographic](http://www.mobiquityinc.com/get-mobile-get-healthy-appification-health-fitness-infographic) that surveyed over a thousand consumers and asked them questions related to tracking their own health, searching for health information online, and about sharing health data about themselves with healthcare providers. The report found that an overwhelming majority are already sharing data or would be willing to share data with providers. That's fantastic! Motivated patients are a very good thing.
 
+Body: |
 (image: mobiquity_mhealth_final_1.jpg)
 
 This is a trend that the health system should encourage and help foster. Interesting, to me at least, is that the report found that 70% of the people that shared data with providers thought providers were interested in the patient reported data. That finding surprises me because it doesn't fit into the way that the vast majority of providers deliver, document, and get reimbursed for care today. With very limited time per patient visit, going through tons of new data is not always feasible or encouraged. Self tracking is exactly in line with the goals of healthcare in terms of patient engagement and ownership of patient health. If individuals are actively measuring and quantifying themselves and they want to share that information, it should be encouraged to create a return on that individual investment and effort.

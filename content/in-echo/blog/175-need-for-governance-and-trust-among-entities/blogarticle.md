@@ -5,9 +5,10 @@ Author: adam
 Fullname: Adam Leko
 Date: 12/07/2015
 Summary:
-Body: |
+Lead: |
 > Trust each other again and again. When the trust level gets high enough, people transcend apparent limits, discovering new and awesome abilities of which they were previously unaware. – David Armistead
 
+Body: |
 In a day and age where data breaches and cyber terrorism are at an all time high, it is no surprise that our healthcare system lacks trust, especially when pertaining to [patient data](https://catalyze.io/learn/what-is-protected-health-information-or-phi). But EHR system wide interoperability is a necessity in the transformation of healthcare into a network that can achieve objectives of improved quality, efficiency and patient safety. With these exciting possibilities in reach once interoperability is achieved, it is frustrating that the third barrier to this initiative, according to the [GAO report](http://www.gao.gov/assets/680/672585.pdf), is the need for governance and trust among entities.
 
 There is so much excitement surrounding the new technologies in healthcare these days but with that excitement comes a few contingencies. There are questions raised from healthcare providers, both internally and externally, surrounding trust. In most cases, technological solutions or process improvements are implemented but in others, a certain comfort level with a new healthcare environment must be had among entities over time.

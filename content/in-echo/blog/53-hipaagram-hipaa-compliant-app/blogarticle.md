@@ -4,9 +4,10 @@ SeoTitle: HipaaGram - A HIPAA Compliant Messaging App
 Author: josh
 Date: 07/22/2014
 Summary: 
-Body: |
+Lead: |
 ##Initial Planning
 
+Body: |
 We recently had an internal hackathon here at Catalyze. We were trying to accomplish things we didn't think were possible on our HIPAA compliant APIs as well as try to break everything that we could. And of course, we succeeded in doing both. But don't worry, everything we broke is now fixed. But it's what we tried to accomplish that we didn't think was possible that turned out to be the most interesting. One of our projects involved creating a fully HIPAA compliant messaging app.
 
 Messaging apps are big in healthcare, and there's tons of interest in these types of apps to replace the current tools in place - mainly SMS/iMessage, MMS, and email - none of which are HIPAA compliant. There are a lot of companies that have launched messaging solutions for healthcare, and there are many organizations piloting or fulling replacing pagers with modern messaging solutions. It's been one of the big use cases for mHealth. We thought it was an interesting use case to showcase what can be done with our APIs.

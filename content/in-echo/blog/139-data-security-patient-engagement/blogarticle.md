@@ -5,9 +5,10 @@ Author: mark
 Fullname: Mark Olschesky
 Date: 08/11/2015
 Summary: 
-Body: |
+Lead: |
 It's true: 2015 is beginning to show that hospitals are stemming their primary initiatives from patient engagement. When the HITECH Act was passed back in 2009, hospitals and all medical facilities started to create patient portals to assure that patients would be able to view, download, and even transmit their medical profiles and information as they see fit. But as the latest findings will report, not only are patient engagement stratagem taking priority, but data security is at the forefront as well, closing the loop on the rising number of patient data breaches and cybersecurity attacks that threaten the healthcare industry to ensure value-based healthcare delivery is successful.
 
+Body: |
 Better alliance between clinicians and healthcare providers is being facilitated by the transition between volume-based care to value-based care. The clinician portal is an indispensable solution in strengthening this alignment in ideologies. Past that requirement, clinicians and hospitals are allowing patients to be actively involved in their treatments by offering complete access to the portals through mobile applications. 
 
 With this rise in mobile utilization, there must also be a rise in mobile data security. Whether it be mobile data security purchases from hospitals or various other types of data protection, the industry has shifted its focus across the board to showcase the relationship between patient engagement and data security. Major improvements can be seen in patient portals, administrative management platforms, and healthcare IT systems. 

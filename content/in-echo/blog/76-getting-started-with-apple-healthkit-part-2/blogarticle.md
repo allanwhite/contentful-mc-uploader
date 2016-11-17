@@ -4,9 +4,10 @@ SeoTitle: Getting started with Apple HealthKit - Part 2
 Author: josh
 Date: 10/31/2014
 Summary: 
-Body: |
+Lead: |
 With the release of iOS 8 there has been a lot of talk about Apple's HealthKit, especially with the initial delay of applications that went to market who used HealthKit. Here at Catalyze we've been working hard to expand on the services we offer and bring you new ones as well. This is why we've decided to write a small wrapper around the `HealthStore` class. Our `CatalyzeStore` makes it easy to store your data to both HealthKit and to Catalyze's BaaS. To use this in your application, download the latest code from the [iOS SDK repo](https://github.com/catalyzeio/catalyze-ios-sdk) or upgrade to version `3.2` or later if using cocoapods. This second part of our HealthKit blog posts will walk you through completing an application so that by the end, you will have a finished product, learned about characteristic data, getting data out of HealthKit, and storing data simultaneously to HealthKit and Catalyze.
 
+Body: |
 Start off by cloning the repo from the master branch [https://github.com/catalyzeio/RunLog](https://github.com/catalyzeio/RunLog). This application uses cocoapods so open up a terminal to the root of the project and run `pod install`. Open up the `RunLog.xcworkspace` after that completes successfully.
 
 If you don't already have an account, head over to the Catalyze [dashboard](https://dashboard.catalyze.io) and sign up. You'll need to create an organization, an application, an api key, and a custom class. The custom class should be called `health_kit`, marked `phi` as true and have the following schema

@@ -5,8 +5,10 @@ Author: mohan
 Fullname: Mohan Balachandran
 Date: 04/06/2015
 Summary: 
-Body: |
+Lead: |
 > "Thar's gold in them thar hills!"
+
+Body: |
 > — Mulberry Sellers, Mark Twain's A Gilded Age.
 
 Apple [announced](https://www.apple.com/pr/library/2015/03/09Apple-Introduces-ResearchKit-Giving-Medical-Researchers-the-Tools-to-Revolutionize-Medical-Studies.html) ResearchKit on March 9. Since then, there has been a flurry of blog posts and discussions around its value and impact. I'll go into more detail on that below but the main thing is that this is the first time a **significant** player in the consumer ecosystem has stepped into the esoteric world of clinical research. The product being offered does have limitations around code, technology and liability—all of which can be addressed. That Apple is willing to step up and help improve medical research, an area desperately in need of change, is heartening and will, I'm willing to bet, cause Google and others to step up as well.

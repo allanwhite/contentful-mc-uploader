@@ -5,9 +5,10 @@ Author: mohan
 Fullname: Mohan Balachandran
 Date: 08/05/2015
 Summary: 
-Body: |
+Lead: |
 Mobile health applications, wearable technology, and remote patient monitoring devices all present exemplary options for meeting patient engagement goals. Since HITECH passed in 2009, more providers have narrowed their focus on improving patient engagement in their practices, especially since meaningful use requires patients to view, download, and access their health information. All of these solutions can help minimize costs and increase improved care results, but the leaders in the industry recognize that increased patient engagement and maximized interoperability will most likely be the ultimate solution for long-term sustainability of the advantages seen.
 
+Body: |
 Because individuals are becoming more active participants in their personal care, patient engagement is on the rise. You can see shared decision making between providers and patients, stimulating conversations and allowing patients to select preferable treatments. By directing patients to pay greater attention to their medical needs, care coordination is improved between hospital visits, and mismanagement healthcare costs are reduced overall. 
 
 Healthcare IT systems and various other technologies will contribute to more compelling patient engagement. As more developers emphasize improving interoperability throughout the healthcare industry, medical providers are better aligning their resources to suit the patient’s medical needs. A myriad of channels are being productized to increase communication between clinicians and patients, such as secure patient portals and [compliant messaging platforms](http://hipaagr.am/).

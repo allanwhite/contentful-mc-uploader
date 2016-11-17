@@ -4,9 +4,10 @@ SeoTitle: JavaScript SDK Released
 Author: alex
 Date: 08/05/2014
 Summary: 
-Body: |
+Lead: |
 We're happy to announce the release of the [Catalyze API v2 Javascript SDK](https://github.com/catalyzeio/catalyze-js-sdk), supporting Node.js, jQuery, and Angular. This makes it easier to integrate our backend into your web applications and node-based server applications.
 
+Body: |
 The SDK is available via `npm` (for the Node.js release) and `bower` (for the jQuery and Angular releases). Documentation for installation and use of the SDK (as well as the SDK source) can be found on github:
 [https://github.com/catalyzeio/catalyze-js-sdk](https://github.com/catalyzeio/catalyze-js-sdk)
 

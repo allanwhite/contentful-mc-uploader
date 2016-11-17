@@ -5,9 +5,10 @@ Author: mark
 Fullname: Mark Olschesky
 Date: 09/10/2015
 Summary: 
-Body: |
+Lead: |
 Taking an inside look at the United States healthcare systems can reveal key insights for chief information officers (CIOs) as the industry goes through epic transformations. Today’s healthcare CIO can come from a myriad of backgrounds since IT is no longer a prerequisite for the position. Rather than a technical nature, a business-oriented mindset is crucial in order for healthcare CIOs to be strategic and manage the system’s financial metrics. With the healthcare industry shifting gears and the CIOs no longer narrowly focusing on the technology, what is included in the scope of work for the modern healthcare CIO?
 
+Body: |
 ### Population Health Management
 
 Forward-thinking healthcare leaders have been actively pursuing population health management objectives. These objectives pertain to some of the most challenging cohorts that the twenty-first-century CIO has fully embraced. Proven solutions show that data analytics play a vital role in providing insight into individuals and populations, assuring that standardized, actionable, and substantial healthcare delivery information is received. The CIO of healthcare systems has the power to leverage influence to shift the quality of human health across entire segments of the population. The key challenges faced involve data: patient ascertainment, stratification, and analytics for exertions or interventions. 

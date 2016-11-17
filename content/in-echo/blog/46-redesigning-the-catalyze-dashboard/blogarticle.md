@@ -4,9 +4,10 @@ SeoTitle: Redesigning The Catalyze Dashboard
 Author: ryan
 Date: 06/23/2014
 Summary: 
-Body: |
+Lead: |
 At Catalyze we pride ourselves on moving our products forward through attention to detail and always listening to our users. A big part of that is having the capacity to learn and grow our products quickly. We recently redesigned our user dashboard to help them manage applications and messaging instances better.
 
+Body: |
 One of the first orders of business was to rethink the structure and aesthetic of the user interface. We had been using bootstrap out of the box since the initial release and it was time to spend some effort on creating something more unique. If you've logged in recently the image below should look familiar.
 
 ![Catalyze Dashboard](http://cdn2.dropmark.com/45280/36695ca7b05f1d9ac4bf6739df1f9c047663e08f/app-shot-four.png)

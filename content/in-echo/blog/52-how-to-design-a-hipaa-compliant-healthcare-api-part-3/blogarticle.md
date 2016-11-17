@@ -4,9 +4,10 @@ SeoTitle: How to design a HIPAA Compliant Healthcare API, Part 3
 Author: travis
 Date: 07/11/2014
 Summary: 
-Body: |
+Lead: |
 This is the third post in our series on building a HIPAA compliant healthcare [API](/baas). The [first](/blog/how-to-design-a-hipaa-compliant-healthcare-api) and [second](https://www.catalyze.io/blog/how-to-design-a-hipaa-compliant-healthcare-api-part-2-1/) post focused on technology, design of the API and data models respectively. This post delves into HIPAA compliance more broadly than technology, and highlights some of the key areas where Catalyze is different from other infrastructure and HIPAA compliant API vendors.
 
+Body: |
 HIPAA is about a lot [more](https://catalyze.io/hipaa/) than technology. There are organizational and administrative requirements that are a part of HIPAA. When we started Catalyze we had a lot of experience with HIPAA from a multitude of angles - clinical, auditor, vendor, and consultant. We realized that "HIPAA compliant" was a loaded phrase in healthcare. Initially we shied away from calling our technology "HIPAA compliant", instead using phrases like "HIPAA grade" in place of it. The reason we shied away was that 1) HIPAA is about more than technology and 2) there isn't a central body that certifies HIPAA compliance.
 
 Calling an API, or server or platform or database, HIPAA compliant typically means that the provider of that technology signs a [business associate agreement (BAA)](/blog/business-associate-agreements/) and has additional security controls, and maybe more data segregation. This is what providers today call "HIPAA compliant hosting" or "HIPAA compliant storage". You can see this clearly in this question on Quora, to which we also contributed.

@@ -5,9 +5,10 @@ Author: marcia
 Fullname: Marcia Noyes
 Date: 09/28/2015
 Summary: 
-Body: |
+Lead: |
 *There is no time like the present.*
 
+Body: |
 A message that rang clear at the [2015 Stanford Medicine X Conference](http://medicinex.stanford.edu/), which transpired Sept. 23-27, bringing together the most innovative and thought-provoking leaders from far and wide. The conglomerate that ensued has commanded a full industry shift to improve healthcare. The opportunities are endless and the advancements on the horizon are revolutionary to making this transformation a reality. New technologies are allowing for this change towards increased patient engagement and interaction, while reducing resilience and reservations, leading towards a more involved and educated general populace. 
 
 Among these leaders, is the ever-engaging, cloud services fan, [Howard Look](https://www.linkedin.com/in/howardlook). As, president and CEO of [Tidepool](http://tidepool.org/), Look gave his presentation *Like crawling through broken glass* which covered the  challenges of living with diabetes and how [Tidepool](http://tidepool.org/)’s participatory, open source platform is enfranchising data and creating an overall superior healthcare industry. By enabling a patient-centric, open sourced approach, [Tidepool](http://tidepool.org/) has been able to display a new model for  product companies and the healthcare industry to provide improved quality care. Even more impressive, this approach is sparking a new mindset towards research utilizing donated patient data. On behalf of those seeking to improve healthcare, Catalyze applauds the efforts from the lean startup, [Tidepool](http://tidepool.org/). 

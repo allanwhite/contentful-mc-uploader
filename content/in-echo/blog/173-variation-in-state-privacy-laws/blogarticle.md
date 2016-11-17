@@ -5,9 +5,10 @@ Author: travis
 Fullname: Travis Good, MD
 Date: 12/01/2015
 Summary: With the topic of interoperability resurfacing, a strong argument towards this standardization can be made when considering the national interoperability initiative.
-Body: |
+Lead: |
 Now that the turkeys have been stuffed and our shopping bags have been filled, it’s back to business and time to continue the conversation from our last post, [Insufficiencies in Standards for EHR Interoperability](https://catalyze.io/blog/insufficiencies-in-standards-for-ehr-interoperability). Moving on to the next item on [GAO’s list](http://www.gao.gov/assets/680/672585.pdf), we tackle the second preeminent challenge the industry faces to achieving true interoperability – variation in state privacy laws. You actually may recall a post done back in July titled [Fifty States of HIPAA](https://catalyze.io/blog/fifty-states-of-hipaa) that discusses what may be advantageous to the standardization of HIPAA in response to [Chilmark Research’s](http://www.chilmarkresearch.com/) post [HIPAA Must Die](http://www.chilmarkresearch.com/2015/06/18/hipaa-must-die/). With the topic now resurfacing, a strong argument towards this standardization can be made when considering the national interoperability initiative.
 
+Body: |
 Washington, Oregon, Idaho and Utah – what do you they have in common? Geographically similarly but if you’re looking at their respective state privacy laws, not very much. With HIPAA enacted, a precedence is set but it is one of complete subjectivity. For example, the differences in granting individual access to medical records:
 
 **Washington** – Health care providers must permit a patient to examine or copy his or her recorded health care information no later than 15 days after receiving a written request.

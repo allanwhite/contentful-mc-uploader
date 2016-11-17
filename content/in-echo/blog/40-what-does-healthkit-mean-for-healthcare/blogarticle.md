@@ -4,9 +4,10 @@ SeoTitle: What does HealthKit mean for healthcare?
 Author: mohan
 Date: 06/10/2014
 Summary: 
-Body: |
+Lead: |
 The world has been mesmerized (as always) by the Apple WWDC. One of the areas which is generating a lot of interest and excitement is Healthkit. Heck, we [wrote](https://catalyze.io/blog/what-does-healthkit-mean-for-mobile-app-developers/) about it as well.  Healthkit's [website](https://developer.apple.com/healthkit/) describes it as something that "*allows apps that provide health and fitness services to share their data with the new Health app and with each other. A user’s health information is stored in a centralized and secure location and the user decides which data should be shared with your app.*"  Words like "game changing" and "revolutionary" are being thrown around. But I'm not so sure if those are the words I would use.
 
+Body: |
 I informally polled a cross section of physician friends of mine about it - ranging from direct primary care physicians, family practitioners, concierge physicians and so on to get some feedback on it. And it was very illuminating:
 
 - The direct primary care and concierge physicians were all for it. Why? Because most of their patients (and they themselves) were iPhone users. They could also see how this would allow them to provide a higher level of service to their clients.

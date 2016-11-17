@@ -5,9 +5,10 @@ Author: travis
 Fullname: Travis Good, MD
 Date: 08/27/2015
 Summary: 
-Body: |
+Lead: |
 _This entry was taken and adapted from an original article published on [HIStalk](http://histalkmobile.com/) on August 18, 2014 by [Travis Good](https://catalyze.io/travis), MD, Catalyze Co-Founder & CEO. You can read the original [here](http://histalkmobile.com/whats-your-patient-engagement-strategy/)._
 
+Body: |
 I like to ask people from health systems, most of them from the IT side, about their [patient engagement](https://catalyze.io/solutions/patient-engagement) or digital engagement strategy. It’s interesting to hear how systems think about digital engagement considering the buzz and hype it is getting from vendors and pundits.
 
 My unscientific opinion is that very few systems have anything resembling a patient engagement strategy. Despite getting so much attention, most healthcare delivery organizations aren’t preparing for patient engagement.

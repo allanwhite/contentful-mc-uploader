@@ -4,9 +4,10 @@ SeoTitle: Configuration management on the Catalyze Docker PaaS
 Author: mike
 Date: 09/25/2014
 Summary: 
-Body: |
+Lead: |
 The need for configuration and system management is well known. Since shortly after the dawn of time, when the first caveman got his second mainframe, managing configuration across multiple hosts has been a daunting task.
 
+Body: |
 In the era of cloud computing, with ever more complex applications and infrastructure, this task is considerably more involved than it was for our caveman ancestor. Many hosts need be provisioned with all of their associated configurations. Those hosts then need to be managed.  Automation is essential.
 
 As an example, docker may have some perceived security concerns, which has been discussed in detail in a few [posts](http://blog.docker.com/2013/08/containers-docker-how-secure-are-they/). Those concerns can be mitigated with AppArmor profiles and kernel-level tuning, making higher security and isolation [achievable](https://docs.docker.com/articles/security/). Managing and updating these kernel parameters and profiles across multiple hosts, of course, needs configuration management. That's one problem, but also as development proceeds, docker images need to evolve to contain new features and bug-fixes, and be re-deployed with them. A configuration management tool would be handy to verify and deploy the correct version of these images across the lifecycle of the software.

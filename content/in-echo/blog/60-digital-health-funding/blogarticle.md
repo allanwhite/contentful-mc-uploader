@@ -4,9 +4,10 @@ SeoTitle: Digital Health Funding - 9/2/2014
 Author: sarah
 Date: 09/02/2014
 Summary: 
-Body: |
+Lead: |
 Ybrain, MyDoc, AirStrip, uBiome, and more...
 
+Body: |
 #### Healthcare wearable Ybrain raises US$3.5M in Series A funding
 The Korea-based startup, founded in Feb 2013 by a Caltech neuroscientist and Samsung engineers, [has raised](http://e27.co/healthcare-wearables-startup-ybrain-from-seoul-raises-3-5m-in-series-a-funding-20140828/?utm_content=buffer787ff&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer) a total of US$4.2 million. <br>_source: e27_
 

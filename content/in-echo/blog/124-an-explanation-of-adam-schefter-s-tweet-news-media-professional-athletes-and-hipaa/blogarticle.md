@@ -5,9 +5,10 @@ Author: kenny
 Fullname: Kenny Stark
 Date: 07/09/2015
 Summary: 
-Body: |
+Lead: |
 With over 7, 000 retweets and 3, 000 favorites in mere hours, ESPN reporter Adam Schefter’s [tweet](https://twitter.com/adamschefter/status/618918579770146816) has prompted a backlash about personal privacy. Many are asking if the content is considered [PHI](https://catalyze.io/learn/what-is-protected-health-information-or-phi) and covered under HIPAA. Many believe the ethics of the tweet are questionable regardless. We felt it helpful to explain the situation through the lens of our HIPAA expertise. Spoiler: This is most likely _not_ a breach of HIPAA regulations.
 
+Body: |
 ### HIPAA Does NOT Apply to the News Media
 
 As the federal [Act](http://www.hhs.gov/ocr/privacy/) states, news media entities are not directly impacted by HIPAA unless the employer serves as a healthcare provider by offering some sort of medical benefit or if a member of media publication was working for a covered entity. Members of the media are permitted to request what is referred to as “Directory Information” if they request the patient’s information by name and the patient has not opted out of the directory. Directory information includes, and is limited to, the name, location on site, and general condition. Media will be unable to get specifics about a patient unless the patient discloses of their own notion, or the patient has given written authorization to the covered entity to publicize their PHI. 

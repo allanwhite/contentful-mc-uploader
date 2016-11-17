@@ -4,9 +4,10 @@ SeoTitle: Our Journey to Series A
 Author: travis
 Date: 04/09/2014
 Summary: 
-Body: |
+Lead: |
 Catalyze is the 3rd startup this founding team has launched over the last several years. The first, AccessMobile, ended up focused on global health with paying customers in Africa but without a truly scalable business model. The second startup, Share.MD, was focused on physician collaboration, profiles, education, and communications; we pitched at Health 2.0, had pilots at 3 academic centers and many, many discussions on Sand Hill Road in Palo Alto with “interested” investors before ultimately deciding that we were creating something that we weren’t positioned to distribute and solving a problem we weren’t passionate enough about.
 
+Body: |
 Catalyze, is really the product of what we learned over the last several years in our previous startups and through a countless number of discussions with people in the industry. Yes, Catalyze is a new venture; but, we started it with the benefit of learnings from an infinite number of mistakes over the last few years. I wouldn’t call it a pivot, but it’s not a totally “new” idea either. Ironically, many of the things we are building and selling now are things that we wish we had with our previous startups. They are the cloud-based services that would have made it much faster and easier to launch those other startups. We saw this opportunity, and discussed it, over the last several years but didn’t pursue it until last spring.
 
 We founded Catalyze in April of this year with a pretty vague and lofty goal - to simplify the process of building modern health technology. We knew the major challenges we’d personally encountered in building health apps, namely around cloud-based compliance/security and data (access, models, interfaces), were areas we were targeting. We basically set out to build the compliant infrastructure that we wish we had in our previous startups. And have tons of ideas for apps and solutions we want to build on our infrastructure in time.

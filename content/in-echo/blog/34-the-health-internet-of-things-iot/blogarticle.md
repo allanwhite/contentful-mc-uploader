@@ -4,9 +4,10 @@ SeoTitle: The Health Internet of Things (IoT)
 Author: travis
 Date: 05/13/2014
 Summary: 
-Body: |
+Lead: |
 There's a new research [report](http://research.gigaom.com/report/the-internet-of-things-and-the-future-of-health-care/) by GigaOM about what they call the "health internet of things" (health IoT), which is essentially what most people in the industry today describe as "connected health". It's inclusive of devices, sensors, apps and other tools that can track an individual's activity and the other data on that individual. The report delves into the potential and power of that data, specifically the power of that data as it relates to health and wellness and the healthcare industry more broadly. The report's worth reading if you haven't see it.
 
+Body: |
 The author [Jody Ranck](https://twitter.com/jranck) is well respected in the industry and he did a very nice job with the report, laying out in pretty good detail the case for the health IoT and connected health. It includes a lot of good case studies in it. To me, there are several key things which Jody calls out in the report that are worth highlighting.
 
 The first insight is obvious, namely that sensors and individual tracking present huge opportunities in terms of the volume and the value of data on individuals. Connected sensors and devices will dramatically expand data points and dimensions on individuals, providing more value than what has traditionally been captured and used in healthcare.

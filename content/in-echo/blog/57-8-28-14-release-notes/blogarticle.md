@@ -4,9 +4,10 @@ SeoTitle: 8/28/14 Release Notes
 Author: alex
 Date: 08/28/2014
 Summary: 
-Body: |
+Lead: |
 (We've decided we're going to make blog posts about changes and enhancements to the Catalyze v2 API when we release them, starting today.)
 
+Body: |
 #### Enhancements
 
 * Applications can now be set as invite-only in the dashboard, requiring users to be sent an invite code via email and sign up with it. [Read more about it on the Catalyze blog](https://catalyze.io/blog/invite-only-applications/).

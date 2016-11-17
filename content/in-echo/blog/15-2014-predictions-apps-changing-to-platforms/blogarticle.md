@@ -4,9 +4,10 @@ SeoTitle: 2014 Predictions - Apps Changing to Platforms
 Author: travis
 Date: 01/08/2014
 Summary: This post covers the not-so-new trend of successful apps evolving into platforms.
-Body: |
+Lead: |
 I covered an overview of trends for 2014 in my last post. I hedged a bit because there are some very broad trends on that list. Hopefully this series of posts will add additional detail to what we're betting on for 2014. This post covers the not-so-new trend of successful apps evolving into platforms.
 
+Body: |
 Everybody loves platforms. We're a platform company too, a backend platform for health apps. Platforms can be very powerful and disruptive, but can also be challenging to sell without specific solutions pre-built on the platform. Also, as people build applications they may automate or create reusable components that will later turn into a platform offering. And dogfooding your own platform while building solutions is the best way to test and refine a platform.
 
 The shift from app to platform isn't unique to digital health. Twitter started as an app that's now a platform. Facebook is very similar. So is Salesforce. The list goes on and on to include others like Netflix and Spotify. Even the Pebble watch is a wrist-based platform now. There a lots of examples; too many to mention here actually.

@@ -4,9 +4,10 @@ SeoTitle: Create a HIPAA Compliant Mobile Application with Ionic and the Catalyz
 Author: anthony
 Date: 06/19/2014
 Summary: 
-Body: |
+Lead: |
 Let's cut to the chase. You want to create a mobile application that stores PHI (protected health information), and you want to get it to users as fast as possible. A good option for reaching your customers quickly, without spending time becoming a HIPAA expert, is by using the Catalyze HIPAA Compliant Backend as a Service (BaaS) for storing your data and [Ionic](http://ionicframework.com/) for developing your mobile app.
 
+Body: |
 In this post, I'll explain the basics of getting set up with Catalyze and Ionic by explaining how to create a simple app with Ionic that can be used to sign in with a Catalyze account.
 
 ### Set up your environment
