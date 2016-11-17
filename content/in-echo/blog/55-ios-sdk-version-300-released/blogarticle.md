@@ -5,7 +5,7 @@ Author: josh
 Date: 08/26/2014
 Summary: 
 Lead: |
-We've just released version 3.0.0 of the Catalyze iOS SDK! There are tons of new resources in the SDK to help you build HIPAA compliant mobile apps that will change healthcare. Head on over to the [github repo](https://github.com/catalyzeio/catalyze-ios-sdk) to get started.  The README has tons of examples and details on how to install the SDK.
+  We've just released version 3.0.0 of the Catalyze iOS SDK! There are tons of new resources in the SDK to help you build HIPAA compliant mobile apps that will change healthcare. Head on over to the [github repo](https://github.com/catalyzeio/catalyze-ios-sdk) to get started.  The README has tons of examples and details on how to install the SDK.
 
 Tags: iOS, SDK, BaaS, mobile
 Fullname: Josh Ault

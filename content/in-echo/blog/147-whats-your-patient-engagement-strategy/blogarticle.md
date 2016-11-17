@@ -6,7 +6,7 @@ Fullname: Travis Good, MD
 Date: 08/27/2015
 Summary: 
 Lead: |
-_This entry was taken and adapted from an original article published on [HIStalk](http://histalkmobile.com/) on August 18, 2014 by [Travis Good](https://catalyze.io/travis), MD, Catalyze Co-Founder & CEO. You can read the original [here](http://histalkmobile.com/whats-your-patient-engagement-strategy/)._
+  _This entry was taken and adapted from an original article published on [HIStalk](http://histalkmobile.com/) on August 18, 2014 by [Travis Good](https://catalyze.io/travis), MD, Catalyze Co-Founder & CEO. You can read the original [here](http://histalkmobile.com/whats-your-patient-engagement-strategy/)._
 
 Tags: patient engagement
 ---

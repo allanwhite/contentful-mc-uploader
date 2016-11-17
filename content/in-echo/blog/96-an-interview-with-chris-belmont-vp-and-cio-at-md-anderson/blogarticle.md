@@ -6,7 +6,7 @@ Fullname: Kris Gösser
 Date: 03/02/2015
 Summary: 
 Lead: |
-We recently published the third installment in our [Innovation Series](https://catalyze.io/innovation), and couldn't be more thrilled to share the insights the participant, Chris Belmont from MD Anderson Cancer Center, shared with us.
+  We recently published the third installment in our [Innovation Series](https://catalyze.io/innovation), and couldn't be more thrilled to share the insights the participant, Chris Belmont from MD Anderson Cancer Center, shared with us.
 
 Tags: innovation
 ---

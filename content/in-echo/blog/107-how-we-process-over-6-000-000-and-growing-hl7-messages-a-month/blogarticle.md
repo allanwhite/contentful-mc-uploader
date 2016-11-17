@@ -6,7 +6,7 @@ Fullname: Kris Gösser
 Date: 05/04/2015
 Summary: 
 Lead: |
-Integration is a buzzword in healthcare, and for good reason.
+  Integration is a buzzword in healthcare, and for good reason.
 
 Tags: hl7 integration, fhir
 ---

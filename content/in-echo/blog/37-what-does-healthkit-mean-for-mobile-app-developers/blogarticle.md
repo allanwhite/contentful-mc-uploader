@@ -5,7 +5,7 @@ Author: travis
 Date: 06/03/2014
 Summary: 
 Lead: |
-Apple WWDC was today. The buildup, as always, has been massive. It's always a surprise what will be unveiled, though some sources seem to get reliable info ahead of time. I wrote a [post](http://histalkmobile.com/what-could-healthbook-be/) last week on Healthbook. That post was largely speculative, as everything is before Apple formally announces it. In that post, I described Healthbook as the new app that is very likely going to be a part of the new version of iOS, iOS 8, from Apple.
+  Apple WWDC was today. The buildup, as always, has been massive. It's always a surprise what will be unveiled, though some sources seem to get reliable info ahead of time. I wrote a [post](http://histalkmobile.com/what-could-healthbook-be/) last week on Healthbook. That post was largely speculative, as everything is before Apple formally announces it. In that post, I described Healthbook as the new app that is very likely going to be a part of the new version of iOS, iOS 8, from Apple.
 
 Tags: apple, mhealth, data, healthkit
 Fullname: Travis Good, MD

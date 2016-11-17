@@ -6,7 +6,7 @@ Fullname: Marcia Noyes
 Date: 11/09/2015
 Summary: 
 Lead: |
-> If you don’t know history, then you don’t know anything. You are a leaf that doesn’t know it is part of a tree. - Michael Crichton
+  > If you don’t know history, then you don’t know anything. You are a leaf that doesn’t know it is part of a tree. - Michael Crichton
 
 Tags: conferences, mhealth
 ---

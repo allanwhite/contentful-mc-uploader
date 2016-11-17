@@ -6,7 +6,7 @@ Fullname: Travis Good, MD
 Date: 07/16/2015
 Summary: 
 Lead: |
-> The reward of suffering is experience - Harry S. Truman
+  > The reward of suffering is experience - Harry S. Truman
 
 Tags: hitrust, audit
 ---

@@ -5,7 +5,7 @@ Author: travis
 Date: 06/03/2013
 Summary: We're aannouncing our new website, and our first white paper.
 Lead: |
-We're really, really excited to be launching our new website! We'll be growing our content over time with additional tools to help people learn about and build technology for health and wellness.
+  We're really, really excited to be launching our new website! We'll be growing our content over time with additional tools to help people learn about and build technology for health and wellness.
 
 Tags: redesign, whitepaper
 Fullname: Travis Good, MD

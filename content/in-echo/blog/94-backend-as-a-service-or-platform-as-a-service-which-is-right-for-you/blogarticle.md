@@ -6,7 +6,7 @@ Fullname: Kris Gösser
 Date: 02/06/2015
 Summary: 
 Lead: |
-Navigating the As-A-Service waters can be a choppy adventure. Different service flavors exist up and down the entire technology spectrum, starting as low as Infrastructure as a Service (IaaS) — access to physical hardware — all the way up to Software as a Service (SaaS) — what most people utilize daily, like Salesforce and Gmail. We've written before about [different forms of cloud delivery](https://catalyze.io/blog/what-is-cloud-computing-and-why-it-matters-for-compliance).
+  Navigating the As-A-Service waters can be a choppy adventure. Different service flavors exist up and down the entire technology spectrum, starting as low as Infrastructure as a Service (IaaS) — access to physical hardware — all the way up to Software as a Service (SaaS) — what most people utilize daily, like Salesforce and Gmail. We've written before about [different forms of cloud delivery](https://catalyze.io/blog/what-is-cloud-computing-and-why-it-matters-for-compliance).
 
 Tags: baas, backend as a service, paas, platform as a service
 ---

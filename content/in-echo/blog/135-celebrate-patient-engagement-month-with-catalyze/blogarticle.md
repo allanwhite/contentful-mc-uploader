@@ -6,7 +6,7 @@ Fullname: Kenny Stark
 Date: 08/03/2015
 Summary: 
 Lead: |
-All of us at Catalyze are extremely adamant and passionate about all patients seen across the entirety of healthcare. Whether you are the primary care physician for a high-risk patient or an app developer that has no role in direct care, everyone plays a part in how engaged patients are in their treatment and beyond. So join us in celebrating patient engagement this August and spreading awareness for how critical this topic is to the industry as a whole.
+  All of us at Catalyze are extremely adamant and passionate about all patients seen across the entirety of healthcare. Whether you are the primary care physician for a high-risk patient or an app developer that has no role in direct care, everyone plays a part in how engaged patients are in their treatment and beyond. So join us in celebrating patient engagement this August and spreading awareness for how critical this topic is to the industry as a whole.
 
 Tags: patient engagement
 ---

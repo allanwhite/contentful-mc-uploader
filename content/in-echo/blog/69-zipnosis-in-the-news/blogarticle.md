@@ -5,7 +5,7 @@ Author: kris
 Date: 09/23/2014
 Summary: 
 Lead: |
-Zipnosis, a customer of Catalyze's HIPAA compliance cloud computing platform, has been selected to be a final presenter at the [Chicago Venture Summit event on October 15th](http://www.chicagoventuresummit.com/wp-content/uploads/2014/09/Chicago-Venture-Summit-Announces-Final-Presenters-Sept-19-2014-FINAL.pdf). Hand-picked along with 14 other companies, Zipnosis will join a group of 30 midwest startups who will get the opportunity to pitch to members of the Midwest Fortune 100. It's not just a fundraising opportunity, but a chance to create meaningful business relationships.
+  Zipnosis, a customer of Catalyze's HIPAA compliance cloud computing platform, has been selected to be a final presenter at the [Chicago Venture Summit event on October 15th](http://www.chicagoventuresummit.com/wp-content/uploads/2014/09/Chicago-Venture-Summit-Announces-Final-Presenters-Sept-19-2014-FINAL.pdf). Hand-picked along with 14 other companies, Zipnosis will join a group of 30 midwest startups who will get the opportunity to pitch to members of the Midwest Fortune 100. It's not just a fundraising opportunity, but a chance to create meaningful business relationships.
 
 Tags: zipnosis, customers
 Fullname: Kris Gösser

@@ -6,7 +6,7 @@ Fullname: Mohan Balachandran
 Date: 10/30/2015
 Summary: 
 Lead: |
-In 2013, the Office of Civil Rights began enforcing a new set of regulations intending to improve patients’ access to their medical records and increase security to protected health information. Called the HIPAA Omnibus Rules, these litigations have forced healthcare organizations and their [business associates](https://catalyze.io/blog/catalyzes-success-as-a-hipaa-compliant-business-associate) to scrutinize how they store and transmit patient data. Changes included vary from new rules for [deceased patients](https://catalyze.io/blog/how-long-do-you-need-to-retain-medical-records-under-hipaa) to how providers market third party services, but here are three need-to-knows for the healthcare IT professional. 
+  In 2013, the Office of Civil Rights began enforcing a new set of regulations intending to improve patients’ access to their medical records and increase security to protected health information. Called the HIPAA Omnibus Rules, these litigations have forced healthcare organizations and their [business associates](https://catalyze.io/blog/catalyzes-success-as-a-hipaa-compliant-business-associate) to scrutinize how they store and transmit patient data. Changes included vary from new rules for [deceased patients](https://catalyze.io/blog/how-long-do-you-need-to-retain-medical-records-under-hipaa) to how providers market third party services, but here are three need-to-knows for the healthcare IT professional. 
 
 Tags: hipaa, business associates
 ---

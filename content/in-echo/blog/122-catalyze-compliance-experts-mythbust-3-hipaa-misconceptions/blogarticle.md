@@ -6,7 +6,7 @@ Fullname: Kenny Stark
 Date: 07/01/2015
 Summary: 
 Lead: |
-### Catalyze Compliance Experts MythBust HIPAA 
+  ### Catalyze Compliance Experts MythBust HIPAA 
 
 Tags: compliance, hipaa
 ---

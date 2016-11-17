@@ -6,7 +6,7 @@ Fullname: Travis Good, MD
 Date: 07/23/2015
 Summary: 
 Lead: |
-# False Claims Act
+  # False Claims Act
 
 Tags: hipaa, false claims, meaningful use
 ---

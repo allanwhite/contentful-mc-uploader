@@ -5,7 +5,7 @@ Author: josh
 Date: 12/30/2013
 Summary: We are pleased to announce the release of the Catalyze Android SDK & sample apps.
 Lead: |
-We are pleased to announce the release of the Catalyze [Android SDK](https://dashboard.catalyze.io/resources) and [example app](https://github.com/catalyzeio/ExampleAndroidApp). With this release, Catalyze is bringing the world of secure health care apps to Android (we have an [iOS SDK](https://github.com/catalyzeio/catalyze-ios-sdk) too). If you are an Android developer that has been waiting for the chance to build a HIPAA compliant Android app but haven't had the tools to make it both secure and cost effective, the time is now.
+  We are pleased to announce the release of the Catalyze [Android SDK](https://dashboard.catalyze.io/resources) and [example app](https://github.com/catalyzeio/ExampleAndroidApp). With this release, Catalyze is bringing the world of secure health care apps to Android (we have an [iOS SDK](https://github.com/catalyzeio/catalyze-ios-sdk) too). If you are an Android developer that has been waiting for the chance to build a HIPAA compliant Android app but haven't had the tools to make it both secure and cost effective, the time is now.
 
 Tags: android, sdk
 Fullname: Josh Ault

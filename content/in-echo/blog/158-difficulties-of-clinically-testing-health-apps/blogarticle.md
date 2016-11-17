@@ -6,7 +6,7 @@ Fullname: Travis Good, MD
 Date: 10/06/2015
 Summary: 
 Lead: |
-There are nearly 70, 000 digital health apps available on your mobile device right now. Would it shock you to discover that there is no [clinical validation](http://www.ofnisystems.com/clinical-data-validation/) to back up most of them? Would it deter you from downloading them knowing they were created by developers exploiting the healthy lifestyle trends in America? Hopefully, like myself, your answer is yes.
+  There are nearly 70, 000 digital health apps available on your mobile device right now. Would it shock you to discover that there is no [clinical validation](http://www.ofnisystems.com/clinical-data-validation/) to back up most of them? Would it deter you from downloading them knowing they were created by developers exploiting the healthy lifestyle trends in America? Hopefully, like myself, your answer is yes.
 
 Tags: clinical trials
 ---

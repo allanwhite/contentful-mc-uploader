@@ -6,7 +6,7 @@ Fullname: Mohan Balachandran
 Date: 04/06/2015
 Summary: 
 Lead: |
-> "Thar's gold in them thar hills!"
+  > "Thar's gold in them thar hills!"
 
 Tags: Research, ResearchKit, Apple
 ---

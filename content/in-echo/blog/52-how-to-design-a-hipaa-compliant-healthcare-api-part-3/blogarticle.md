@@ -5,7 +5,7 @@ Author: travis
 Date: 07/11/2014
 Summary: 
 Lead: |
-This is the third post in our series on building a HIPAA compliant healthcare [API](/baas). The [first](/blog/how-to-design-a-hipaa-compliant-healthcare-api) and [second](https://www.catalyze.io/blog/how-to-design-a-hipaa-compliant-healthcare-api-part-2-1/) post focused on technology, design of the API and data models respectively. This post delves into HIPAA compliance more broadly than technology, and highlights some of the key areas where Catalyze is different from other infrastructure and HIPAA compliant API vendors.
+  This is the third post in our series on building a HIPAA compliant healthcare [API](/baas). The [first](/blog/how-to-design-a-hipaa-compliant-healthcare-api) and [second](https://www.catalyze.io/blog/how-to-design-a-hipaa-compliant-healthcare-api-part-2-1/) post focused on technology, design of the API and data models respectively. This post delves into HIPAA compliance more broadly than technology, and highlights some of the key areas where Catalyze is different from other infrastructure and HIPAA compliant API vendors.
 
 Tags: hipaa, compliance, process
 Fullname: Travis Good, MD

@@ -6,7 +6,7 @@ Fullname: Marcia Noyes
 Date: 08/18/2015
 Summary: 
 Lead: |
-Change in healthcare is inevitable. With a swell in patient population combined with the declining number of clinicians and physicians, the hourglass of healthcare is about to be upended. What is largely unspoken though is the expectation that this younger generation will naturally be highly engaged. With immediate gratification being a key characteristic among this generation, is [patient engagement](https://catalyze.io/solutions/patient-engagement) possible? And if so, what will that look like?
+  Change in healthcare is inevitable. With a swell in patient population combined with the declining number of clinicians and physicians, the hourglass of healthcare is about to be upended. What is largely unspoken though is the expectation that this younger generation will naturally be highly engaged. With immediate gratification being a key characteristic among this generation, is [patient engagement](https://catalyze.io/solutions/patient-engagement) possible? And if so, what will that look like?
 
 Tags: patient engagement
 ---

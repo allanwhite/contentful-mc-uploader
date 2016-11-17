@@ -6,7 +6,7 @@ Fullname: Travis Good, MD
 Date: 08/07/2015
 Summary: 
 Lead: |
-> Mobile is eating the world. - Benedict Evans
+  > Mobile is eating the world. - Benedict Evans
 
 Tags: hipaagram
 ---

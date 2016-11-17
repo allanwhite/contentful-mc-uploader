@@ -5,7 +5,7 @@ Author: kris
 Date: 09/24/2014
 Summary: 
 Lead: |
-A group of researchers from the Mayo Clinic in Rochester, MN, set out to determine patient desirability, feasibility, and viability with modern telemedicine options. [The results were surprising](http://online.liebertpub.com/doi/pdfplus/10.1089/tmj.2014.0037).
+  A group of researchers from the Mayo Clinic in Rochester, MN, set out to determine patient desirability, feasibility, and viability with modern telemedicine options. [The results were surprising](http://online.liebertpub.com/doi/pdfplus/10.1089/tmj.2014.0037).
 
 Tags: telemedicine
 Fullname: Kris Gösser

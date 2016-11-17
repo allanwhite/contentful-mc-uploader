@@ -5,7 +5,7 @@ Author: travis
 Date: 08/30/2014
 Summary: 
 Lead: |
-> You have to learn the rules of the game. And then you have to play better than anyone else. **- Albert Einstein**
+  > You have to learn the rules of the game. And then you have to play better than anyone else. **- Albert Einstein**
 
 Tags: hipaa, ocr, enforcement, business associates, sales
 Fullname: Travis Good, MD

@@ -6,7 +6,7 @@ Fullname: Travis Good, MD
 Date: 11/16/2015
 Summary: 
 Lead: |
-This week was the first [Voalte User Experience (VUE)](http://www.voalte.com/vue15/) conference. Catalyze sponsored the event, which took place in Sarasota, FL, and moderated a panel on lessons learned in mobile health and the path forward. We were happy to be included in the event and to support it; we’re also very excited to be working with [Voalte](http://www.voalte.com/). 
+  This week was the first [Voalte User Experience (VUE)](http://www.voalte.com/vue15/) conference. Catalyze sponsored the event, which took place in Sarasota, FL, and moderated a panel on lessons learned in mobile health and the path forward. We were happy to be included in the event and to support it; we’re also very excited to be working with [Voalte](http://www.voalte.com/). 
 
 Tags: voalte, conferences
 ---

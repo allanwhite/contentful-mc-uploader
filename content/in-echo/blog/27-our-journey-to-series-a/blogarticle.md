@@ -5,7 +5,7 @@ Author: travis
 Date: 04/09/2014
 Summary: 
 Lead: |
-Catalyze is the 3rd startup this founding team has launched over the last several years. The first, AccessMobile, ended up focused on global health with paying customers in Africa but without a truly scalable business model. The second startup, Share.MD, was focused on physician collaboration, profiles, education, and communications; we pitched at Health 2.0, had pilots at 3 academic centers and many, many discussions on Sand Hill Road in Palo Alto with “interested” investors before ultimately deciding that we were creating something that we weren’t positioned to distribute and solving a problem we weren’t passionate enough about.
+  Catalyze is the 3rd startup this founding team has launched over the last several years. The first, AccessMobile, ended up focused on global health with paying customers in Africa but without a truly scalable business model. The second startup, Share.MD, was focused on physician collaboration, profiles, education, and communications; we pitched at Health 2.0, had pilots at 3 academic centers and many, many discussions on Sand Hill Road in Palo Alto with “interested” investors before ultimately deciding that we were creating something that we weren’t positioned to distribute and solving a problem we weren’t passionate enough about.
 
 Tags: funding
 Fullname: Travis Good, MD

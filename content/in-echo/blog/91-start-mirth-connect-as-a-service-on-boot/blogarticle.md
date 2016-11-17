@@ -6,7 +6,7 @@ Fullname: Mark Olschesky
 Date: 01/20/2015
 Summary: 
 Lead: |
-You want total uptime with your Mirth Connect servers. They should be resilient to the problems that usually beleaguer the cloud. This includes arbitrary reboots. Arbitrary reboots are the currency of the cloud and you should be prepared for them.
+  You want total uptime with your Mirth Connect servers. They should be resilient to the problems that usually beleaguer the cloud. This includes arbitrary reboots. Arbitrary reboots are the currency of the cloud and you should be prepared for them.
 
 Tags: Mirth
 ---

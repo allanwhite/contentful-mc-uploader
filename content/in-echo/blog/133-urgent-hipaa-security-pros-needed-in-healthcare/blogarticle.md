@@ -6,7 +6,7 @@ Fullname: Kenny Stark
 Date: 07/30/2015
 Summary: 
 Lead: |
-The increase in technological innovation is bringing rapid changes to the healthcare industry as a whole but it’s also bringing a need for more IT security professionals. What is causing the lack of talent and what do you need to know to be considered a professional?
+  The increase in technological innovation is bringing rapid changes to the healthcare industry as a whole but it’s also bringing a need for more IT security professionals. What is causing the lack of talent and what do you need to know to be considered a professional?
 
 Tags: hipaa, security
 ---

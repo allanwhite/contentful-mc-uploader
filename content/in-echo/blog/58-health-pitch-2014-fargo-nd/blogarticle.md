@@ -5,7 +5,7 @@ Author: sarah
 Date: 08/28/2014
 Summary: 
 Lead: |
-##### “Showcasing our region’s innovators that are creating a healthier world”
+  ##### “Showcasing our region’s innovators that are creating a healthier world”
 
 Tags: events, arthur, swipesense, startups
 Fullname: Sarah Nettie

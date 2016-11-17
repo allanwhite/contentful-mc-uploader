@@ -6,7 +6,7 @@ Fullname: Marcia Noyes
 Date: 09/23/2015
 Summary: 
 Lead: |
-Catalyze’s very own [Dr. Travis Good](https://catalyze.io/travis), CEO and Co-Founder, is back on stage in the spotlight at the five-day [Stanford Medicine X](http://medicinex.stanford.edu/) Conference presenting on how compliant cloud computing will accelerate healthcare innovation. 
+  Catalyze’s very own [Dr. Travis Good](https://catalyze.io/travis), CEO and Co-Founder, is back on stage in the spotlight at the five-day [Stanford Medicine X](http://medicinex.stanford.edu/) Conference presenting on how compliant cloud computing will accelerate healthcare innovation. 
 
 Tags: innovation
 ---

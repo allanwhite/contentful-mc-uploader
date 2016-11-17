@@ -6,7 +6,7 @@ Fullname: Ryan Rich
 Date: 07/15/2015
 Summary: 
 Lead: |
-As a continuous effort in helping our loyal customers handle compliance with ease, we have created a deployable version of our widely popular open-source compliance policies. [Grab a copy for yourself here.](https://github.com/catalyzeio/policies-deployable)
+  As a continuous effort in helping our loyal customers handle compliance with ease, we have created a deployable version of our widely popular open-source compliance policies. [Grab a copy for yourself here.](https://github.com/catalyzeio/policies-deployable)
 
 Tags: policy, open source
 ---

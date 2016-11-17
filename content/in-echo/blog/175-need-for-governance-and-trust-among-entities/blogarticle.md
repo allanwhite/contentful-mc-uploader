@@ -6,7 +6,7 @@ Fullname: Adam Leko
 Date: 12/07/2015
 Summary:
 Lead: |
-> Trust each other again and again. When the trust level gets high enough, people transcend apparent limits, discovering new and awesome abilities of which they were previously unaware. – David Armistead
+  > Trust each other again and again. When the trust level gets high enough, people transcend apparent limits, discovering new and awesome abilities of which they were previously unaware. – David Armistead
 
 Tags: interoperability
 

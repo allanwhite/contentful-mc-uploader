@@ -6,7 +6,7 @@ Fullname: Kenny Stark
 Date: 07/27/2015
 Summary: 
 Lead: |
-Earlier this month, an act with the intent to lighten restrictions on the use and exposure of protected health information for research motivations was passed through the United States House of Representatives called the 21st Century Cures Act.
+  Earlier this month, an act with the intent to lighten restrictions on the use and exposure of protected health information for research motivations was passed through the United States House of Representatives called the 21st Century Cures Act.
 
 Tags: hipaa, legislation
 ---

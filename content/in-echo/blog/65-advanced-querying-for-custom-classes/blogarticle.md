@@ -5,7 +5,7 @@ Author: alex
 Date: 09/16/2014
 Summary: 
 Lead: |
-We mentioned new querying abilities for custom classes in the [8/28/14 Release Notes](https://catalyze.io/blog/8-28-14-release-notes/), but it's a topic that deserves expansion and examples. The ability to perform custom, multiple-field queries on your entries is immensely powerful.
+  We mentioned new querying abilities for custom classes in the [8/28/14 Release Notes](https://catalyze.io/blog/8-28-14-release-notes/), but it's a topic that deserves expansion and examples. The ability to perform custom, multiple-field queries on your entries is immensely powerful.
 
 Tags: api, backend, BaaS, custom classes, guide, example
 Fullname: Alex Foran

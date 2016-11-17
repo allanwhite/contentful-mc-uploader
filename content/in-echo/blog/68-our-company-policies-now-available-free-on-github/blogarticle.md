@@ -5,7 +5,7 @@ Author: kris
 Date: 09/25/2014
 Summary: 
 Lead: |
-Today is a big day for us, and for those businesses striving for HIPAA compliance. [Starting today, we are open sourcing all our company policies.](http://catalyzeio.github.io/policies/) Are you a company who handles PHI and trying to achieve HIPAA compliance? Then you'll find what we are about to share compelling and useful.
+  Today is a big day for us, and for those businesses striving for HIPAA compliance. [Starting today, we are open sourcing all our company policies.](http://catalyzeio.github.io/policies/) Are you a company who handles PHI and trying to achieve HIPAA compliance? Then you'll find what we are about to share compelling and useful.
 
 Tags: compliance, policy, open source
 Fullname: Kris Gösser

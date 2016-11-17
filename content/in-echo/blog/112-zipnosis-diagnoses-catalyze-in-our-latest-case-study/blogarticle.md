@@ -6,7 +6,7 @@ Fullname: Marcia Noyes
 Date: 06/05/2015
 Summary: 
 Lead: |
-### “Catalyze has gone above and beyond in the exceptional requests that we’ve made, making it easy for us to feed the medical information to our customers.” - [Jon Pearce](https://zipnosis.com/about-us), Founder & CEO
+  ### “Catalyze has gone above and beyond in the exceptional requests that we’ve made, making it easy for us to feed the medical information to our customers.” - [Jon Pearce](https://zipnosis.com/about-us), Founder & CEO
 
 Tags: zipnosis, hl7 integration
 ---

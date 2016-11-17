@@ -6,7 +6,7 @@ Fullname: Marcia Noyes
 Date: 09/16/2015
 Summary: 
 Lead: |
-In a digitally interconnected world, people with behavioral health conditions consult their technologies long before approaching healthcare providers for further diagnosis and treatment. What would be the benefit in approaching a healthcare provider immediately anyways? Behavioral healthcare is insufficient in assisting diagnosis, overseeing treatment response, and evaluating disease acuity. In contrast to other healthcare fields, psychiatric care is founded on a conversational Q&A model, rather than physical exams, clinical trials, or laboratory testing.
+  In a digitally interconnected world, people with behavioral health conditions consult their technologies long before approaching healthcare providers for further diagnosis and treatment. What would be the benefit in approaching a healthcare provider immediately anyways? Behavioral healthcare is insufficient in assisting diagnosis, overseeing treatment response, and evaluating disease acuity. In contrast to other healthcare fields, psychiatric care is founded on a conversational Q&A model, rather than physical exams, clinical trials, or laboratory testing.
 
 Tags: behavioral health, innovation
 ---

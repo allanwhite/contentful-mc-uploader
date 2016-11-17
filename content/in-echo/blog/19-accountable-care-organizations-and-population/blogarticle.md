@@ -5,7 +5,7 @@ Author: mohan
 Date: 02/03/2014
 Summary: Look for partnerships and potentially mergers and acquisition activities as vendors look to get an edge in this burgeoning market.
 Lead: |
----
+  ---
 
 Tags: accountable care, health systems, population health, risk software
 Fullname: Mohan Balachandran

@@ -5,7 +5,7 @@ Author: kris
 Date: 09/16/2014
 Summary: 
 Lead: |
-When we talk to companies who handle Protected Health Information (PHI), often the first topic of discussion is simply understanding what it takes to be HIPAA compliant.
+  When we talk to companies who handle Protected Health Information (PHI), often the first topic of discussion is simply understanding what it takes to be HIPAA compliant.
 
 Tags: hipaa, self-assessment, checklist
 Fullname: Kris Gösser

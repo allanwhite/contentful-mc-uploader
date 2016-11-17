@@ -5,7 +5,7 @@ Author: kris
 Date: 10/01/2014
 Summary: 
 Lead: |
-Healthcare is complex, so it's no wonder the sales process proves overly complicated.
+  Healthcare is complex, so it's no wonder the sales process proves overly complicated.
 
 Tags: whitepaper, announcement
 Fullname: Kris Gösser

@@ -6,7 +6,7 @@ Fullname: Kenny Stark
 Date: 08/12/2015
 Summary: 
 Lead: |
-The most critical issue the healthcare industry is seeing when it comes to patient engagement is altering the perspectives and suppositions of patients and clinicians. Many believe that patient portals are the end-all solution for patient engagement by simply satisfying Meaningful Use requirements, but what many fail to understand is that patient engagement is not simply technological advancements; it is a complete culture change.
+  The most critical issue the healthcare industry is seeing when it comes to patient engagement is altering the perspectives and suppositions of patients and clinicians. Many believe that patient portals are the end-all solution for patient engagement by simply satisfying Meaningful Use requirements, but what many fail to understand is that patient engagement is not simply technological advancements; it is a complete culture change.
 
 Tags: patient engagement
 ---

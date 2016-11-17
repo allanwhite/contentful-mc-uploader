@@ -6,7 +6,7 @@ Fullname: Adam Leko
 Date: 11/03/2015
 Summary: 
 Lead: |
-Innovation is critically fundamental to healthcare, helping to improve the quality of patient care and enhance workflows. Despite that, a rudimentary cultural change is needed across the industry to fully embrace innovation. This incorporation will create collaborations to polish present processes with a patient-centric mindset. And there is an extraordinary amount of these [innovative collaborations](https://catalyze.io/solutions/enterprise-innovation) happening across the country already. Influencing creative solutions to complex problems, startups and healthcare innovators are working to manage the challenges the industry is facing. However, the difficulty of achieving interoperability still remains the bottleneck that is hindering real breakthroughs.
+  Innovation is critically fundamental to healthcare, helping to improve the quality of patient care and enhance workflows. Despite that, a rudimentary cultural change is needed across the industry to fully embrace innovation. This incorporation will create collaborations to polish present processes with a patient-centric mindset. And there is an extraordinary amount of these [innovative collaborations](https://catalyze.io/solutions/enterprise-innovation) happening across the country already. Influencing creative solutions to complex problems, startups and healthcare innovators are working to manage the challenges the industry is facing. However, the difficulty of achieving interoperability still remains the bottleneck that is hindering real breakthroughs.
 
 Tags: interoperability
 ---

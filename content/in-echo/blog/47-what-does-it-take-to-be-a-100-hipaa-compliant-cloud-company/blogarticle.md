@@ -5,7 +5,7 @@ Author: travis
 Date: 06/25/2014
 Summary: 
 Lead: |
-The short answer to that question is, not surprisingly, **it take A LOT of time, energy, and money to be 100% HIPAA compliant**. At Catalyze we're focused on security and HIPAA compliance. It's a differentiator and we aren't reaching when we say *[It's in our DNA](https://catalyze.io/compliance/)*, referring to HIPAA compliance. Because of that focus, we have a lot of resources for compliance. That translates to a lot of time and money on security and organizational policies and procedures specifically to comply with HIPAA.
+  The short answer to that question is, not surprisingly, **it take A LOT of time, energy, and money to be 100% HIPAA compliant**. At Catalyze we're focused on security and HIPAA compliance. It's a differentiator and we aren't reaching when we say *[It's in our DNA](https://catalyze.io/compliance/)*, referring to HIPAA compliance. Because of that focus, we have a lot of resources for compliance. That translates to a lot of time and money on security and organizational policies and procedures specifically to comply with HIPAA.
 
 Tags: hipaa, audit
 Fullname: Travis Good, MD

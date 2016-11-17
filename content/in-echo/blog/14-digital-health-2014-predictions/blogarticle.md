@@ -5,7 +5,7 @@ Author: travis
 Date: 01/06/2014
 Summary: So what's in store for digital health over the next 12 months? Let's take a look into the crystal ball.
 Lead: |
-Welcome to 2014! 2013 was another big year for digital health on all fronts. While widespread disruption didn't happened in healthcare in 2013, we did see lots of great progress on technology and business fronts, and we're starting to see more concrete evidence around new and emerging models of care, many of which rely highly on new, modern technologies. It takes time for change to take hold in an industry as large as healthcare, but talking to people inside and outside of the industry gives us the sense that we're past the tipping point.
+  Welcome to 2014! 2013 was another big year for digital health on all fronts. While widespread disruption didn't happened in healthcare in 2013, we did see lots of great progress on technology and business fronts, and we're starting to see more concrete evidence around new and emerging models of care, many of which rely highly on new, modern technologies. It takes time for change to take hold in an industry as large as healthcare, but talking to people inside and outside of the industry gives us the sense that we're past the tipping point.
 
 Tags: engagement, hipaa, mhealth
 Fullname: Travis Good, MD

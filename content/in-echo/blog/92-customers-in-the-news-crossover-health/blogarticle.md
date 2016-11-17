@@ -6,7 +6,7 @@ Fullname: Kris Gösser
 Date: 01/30/2015
 Summary: 
 Lead: |
-Earlier this week Catalyze customer [Crossover Health](http://crossoverhealth.com/) raised [$15 million in new funding](http://blogs.wsj.com/privateequity/2015/01/26/norwest-rocks-primary-care-model-with-crossover-investment/), lead by Norwest.
+  Earlier this week Catalyze customer [Crossover Health](http://crossoverhealth.com/) raised [$15 million in new funding](http://blogs.wsj.com/privateequity/2015/01/26/norwest-rocks-primary-care-model-with-crossover-investment/), lead by Norwest.
 
 Tags: customers
 ---

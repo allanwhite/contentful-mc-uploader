@@ -5,7 +5,7 @@ Author: sarah
 Date: 09/11/2014
 Summary: 
 Lead: |
-CVS, Hospital Hacks, VA, Obamacare, Interoperability
+  CVS, Hospital Hacks, VA, Obamacare, Interoperability
 
 Tags: healthit, trends, news
 Fullname: Sarah Nettie

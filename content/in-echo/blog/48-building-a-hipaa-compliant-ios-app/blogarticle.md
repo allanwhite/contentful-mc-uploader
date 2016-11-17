@@ -5,7 +5,7 @@ Author: josh
 Date: 06/26/2014
 Summary: 
 Lead: |
-There are great backend services, APIs, and SDKs that make it easy to build mobile apps. The problem is they aren't made for healthcare, and don't provide you with what you need to be HIPAA compliant, either in terms of technology or with a business associate agreement (BAA). If you want to store health information, or maybe transmit health information to a healthcare provider through something like HealthKit from Apple, and sell your app to healthcare organizations, you can't use these non-health backend services.
+  There are great backend services, APIs, and SDKs that make it easy to build mobile apps. The problem is they aren't made for healthcare, and don't provide you with what you need to be HIPAA compliant, either in terms of technology or with a business associate agreement (BAA). If you want to store health information, or maybe transmit health information to a healthcare provider through something like HealthKit from Apple, and sell your app to healthcare organizations, you can't use these non-health backend services.
 
 Tags: hipaa, baas, tutorial, iOS, compliance
 Fullname: Josh Ault

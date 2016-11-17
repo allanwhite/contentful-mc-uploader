@@ -5,7 +5,7 @@ Author: ben
 Date: 06/30/2014
 Summary: 
 Lead: |
-Welcome to our engineering blog. We intend for this section to cover in-depth technical content that is of interest to developers and ops folks. For a first post we are covering our Mobile Backend as a Service's stack. Future posts will drill down into the specifics of some of the more interesting pieces.
+  Welcome to our engineering blog. We intend for this section to cover in-depth technical content that is of interest to developers and ops folks. For a first post we are covering our Mobile Backend as a Service's stack. Future posts will drill down into the specifics of some of the more interesting pieces.
 
 Tags: hipaa, api, backend, BaaS, REST
 Fullname: Ben Uphoff, PhD

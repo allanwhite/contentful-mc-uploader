@@ -5,7 +5,7 @@ Author: josh
 Date: 07/22/2014
 Summary: 
 Lead: |
-##Initial Planning
+  ##Initial Planning
 
 Tags: app, iOS, api, sms, messaging
 Fullname: Josh Ault

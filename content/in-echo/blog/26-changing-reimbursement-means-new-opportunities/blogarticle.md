@@ -5,7 +5,7 @@ Author: travis
 Date: 04/09/2014
 Summary: 
 Lead: |
-Health technology is hot. Entrepreneurs are flocking to it and it's becoming a lot more attractive to [investors](http://rockhealth.com/2014/01/2013-digital-health-funding-report/). A big area of interest, one we are betting on as well, is the power of mobile technology to reshape all aspects of healthcare. Mobile health, or mHealth, isn't a panacea, but it is a catalyst for new processes, workflows, data collections, and ultimately care, whether that's self care or clinician-provided care. When we say "mHealth", we're speaking to more than apps but also sensors, messaging services, and other connected devices.
+  Health technology is hot. Entrepreneurs are flocking to it and it's becoming a lot more attractive to [investors](http://rockhealth.com/2014/01/2013-digital-health-funding-report/). A big area of interest, one we are betting on as well, is the power of mobile technology to reshape all aspects of healthcare. Mobile health, or mHealth, isn't a panacea, but it is a catalyst for new processes, workflows, data collections, and ultimately care, whether that's self care or clinician-provided care. When we say "mHealth", we're speaking to more than apps but also sensors, messaging services, and other connected devices.
 
 Tags: mhealth, reimbursement, reform
 Fullname: Travis Good, MD

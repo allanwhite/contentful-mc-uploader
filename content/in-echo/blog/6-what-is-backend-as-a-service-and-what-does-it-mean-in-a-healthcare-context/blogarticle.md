@@ -5,7 +5,7 @@ Author: mohan
 Date: 06/25/2013
 Summary: We're working on taking much of the discovery and drudgery out of building a healthcare-specific backend.
 Lead: |
-[Wikipedia](http://en.wikipedia.org/wiki/Backend_as_a_service) summarizes it best (as always)
+  [Wikipedia](http://en.wikipedia.org/wiki/Backend_as_a_service) summarizes it best (as always)
 
 Tags: baas, backend as a service, blue button, hipaa, icd10, icd9, loinc, rxnorm
 Fullname: Mohan Balachandran

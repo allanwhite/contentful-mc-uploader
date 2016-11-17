@@ -5,7 +5,7 @@ Author: travis
 Date: 07/01/2013
 Summary: See how we're helping developers quickly and easily cloud-enable apps, building secure and full featured apps for health and wellness in record time.
 Lead: |
-The answer is that the cloud holds almost **limitless potential for developers**. Amazon and Rackspace, and an increasingly diverse group of other vendors, have commoditized cloud computing in its most raw form. These vendors provide access to virtual servers, shared or dedicated, hosted in secure data centers with extremely high up-times. There's no up-front or hardware costs for these services, so the barriers to getting up and running are basically gone.
+  The answer is that the cloud holds almost **limitless potential for developers**. Amazon and Rackspace, and an increasingly diverse group of other vendors, have commoditized cloud computing in its most raw form. These vendors provide access to virtual servers, shared or dedicated, hosted in secure data centers with extremely high up-times. There's no up-front or hardware costs for these services, so the barriers to getting up and running are basically gone.
 
 Tags: cloud
 Fullname: Travis Good, MD

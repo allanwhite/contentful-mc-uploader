@@ -5,7 +5,7 @@ Author: alex
 Date: 05/02/2014
 Summary: 
 Lead: |
-[Parse](http://www.parse.com) is a popular platform, allowing for data to be easily stored and retrieved. But, what happens if you need to store PHI (protected health information)? Bad news - [Parse isn't HIPAA-compliant](https://www.parse.com/questions/hipaa-compliance). Storing such data in the Parse platform would put you in hot water. Good news - [Catalyze is a fully compliant environment](https://catalyze.io/compliance/), and migrating from Parse (or even starting fresh) isn't hard. This post will go over migrating a small app.
+  [Parse](http://www.parse.com) is a popular platform, allowing for data to be easily stored and retrieved. But, what happens if you need to store PHI (protected health information)? Bad news - [Parse isn't HIPAA-compliant](https://www.parse.com/questions/hipaa-compliance). Storing such data in the Parse platform would put you in hot water. Good news - [Catalyze is a fully compliant environment](https://catalyze.io/compliance/), and migrating from Parse (or even starting fresh) isn't hard. This post will go over migrating a small app.
 
 Tags: code, tutorial, example, javascript, api, compliance, hipaa, guide
 Fullname: Alex Foran

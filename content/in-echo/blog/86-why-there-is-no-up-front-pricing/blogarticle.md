@@ -6,7 +6,7 @@ Fullname: Mark Olschesky
 Date: 01/05/2015
 Summary: 
 Lead: |
-Someone the other day told us that they didn't trust us because we didn't have up front pricing on our website. It's the only thing we heard from them before they walked out the virtual door of our website. I'm sorry we didn't get a good chance to engage, because I would have loved to talk about why we do this.
+  Someone the other day told us that they didn't trust us because we didn't have up front pricing on our website. It's the only thing we heard from them before they walked out the virtual door of our website. I'm sorry we didn't get a good chance to engage, because I would have loved to talk about why we do this.
 
 Tags: pricing
 ---

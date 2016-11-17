@@ -5,7 +5,7 @@ Author: josh
 Date: 09/10/2014
 Summary: 
 Lead: |
-Perhaps one of the most exciting updates with the upcoming release of iOS 8 is HealthKit API and associated Health app from Apple. With the HealthKit API, developers now have a way to pour health data into a centralized location on each device and access data stored in HealthKit created by a multitude of apps and devices. This opens the door for a tremendous amount of possibilities. First of all, Apple takes away one of the biggest hurdles with its Health app pre packaged on every device running iOS 8, deciding which health app to download. The Health app allows the owner of the device to see their health data that's being collected by multiple applications across their entire device aggregated in one location.
+  Perhaps one of the most exciting updates with the upcoming release of iOS 8 is HealthKit API and associated Health app from Apple. With the HealthKit API, developers now have a way to pour health data into a centralized location on each device and access data stored in HealthKit created by a multitude of apps and devices. This opens the door for a tremendous amount of possibilities. First of all, Apple takes away one of the biggest hurdles with its Health app pre packaged on every device running iOS 8, deciding which health app to download. The Health app allows the owner of the device to see their health data that's being collected by multiple applications across their entire device aggregated in one location.
 
 Tags: healthkit, api, iOS
 Fullname: Josh Ault

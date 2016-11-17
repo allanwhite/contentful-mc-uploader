@@ -6,7 +6,7 @@ Fullname: Marcia Noyes
 Date: 10/27/2015
 Summary: 
 Lead: |
-> America’s health care system is neither healthy, caring, nor a system.
+  > America’s health care system is neither healthy, caring, nor a system.
 
 Tags: value-based care
 ---

@@ -5,7 +5,7 @@ Author: mike
 Date: 09/25/2014
 Summary: 
 Lead: |
-The need for configuration and system management is well known. Since shortly after the dawn of time, when the first caveman got his second mainframe, managing configuration across multiple hosts has been a daunting task.
+  The need for configuration and system management is well known. Since shortly after the dawn of time, when the first caveman got his second mainframe, managing configuration across multiple hosts has been a daunting task.
 
 Tags: docker, paas, salt, configuration management, aws
 Fullname: Mike Ortiz

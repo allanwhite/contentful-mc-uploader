@@ -6,7 +6,7 @@ Fullname: Travis Good, MD
 Date: 04/21/2015
 Summary: 
 Lead: |
-Our team is still recovering from HIMSS. Each year the event gets larger (I read attendance was just north of 40, 000 this year) and longer (starting on Saturday this year and running until Thursday). It's an exhausting event but also **the** conference for connecting with anybody in health tech, be they vendors, enterprises, government officials, consultants, or investors.
+  Our team is still recovering from HIMSS. Each year the event gets larger (I read attendance was just north of 40, 000 this year) and longer (starting on Saturday this year and running until Thursday). It's an exhausting event but also **the** conference for connecting with anybody in health tech, be they vendors, enterprises, government officials, consultants, or investors.
 
 Tags: himss, care coordination, interoperability, watson, Apple, conferences
 ---

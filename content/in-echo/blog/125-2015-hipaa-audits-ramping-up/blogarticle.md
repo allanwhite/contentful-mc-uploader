@@ -6,7 +6,7 @@ Fullname: Travis Good, MD
 Date: 07/10/2015
 Summary: 
 Lead: |
-The HIPAA audit program is gearing up in 2015 to unpredictably assess healthcare covered entities and business associates for compliance with the HIPAA security, privacy, and breach notification rules set forth by the Office for Civil Rights.
+  The HIPAA audit program is gearing up in 2015 to unpredictably assess healthcare covered entities and business associates for compliance with the HIPAA security, privacy, and breach notification rules set forth by the Office for Civil Rights.
 
 Tags: hipaa, audit
 ---

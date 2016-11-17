@@ -5,7 +5,7 @@ Author: travis
 Date: 03/21/2014
 Summary: The HIPAA Omnibus Rule accounted for the paradigm shift in technology development and cloud computing.
 Lead: |
-The HIPAA Omnibus Rule that went into effect in 2013 changed the landscape of HIPAA. It created a new name for business associate called a "subcontractor". In much the same way a business associate processes, transmits, or stores ePHI for a [covered entities](http://catalyze.io/blog/compliance/hipaa-101-a-primer/), a subcontractor processes, transmits, or stores ePHI for a business associate.
+  The HIPAA Omnibus Rule that went into effect in 2013 changed the landscape of HIPAA. It created a new name for business associate called a "subcontractor". In much the same way a business associate processes, transmits, or stores ePHI for a [covered entities](http://catalyze.io/blog/compliance/hipaa-101-a-primer/), a subcontractor processes, transmits, or stores ePHI for a business associate.
 
 Tags: hipaa, compliance, risk, subcontractors
 Fullname: Travis Good, MD

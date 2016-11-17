@@ -5,7 +5,7 @@ Author: sarah
 Date: 09/02/2014
 Summary: 
 Lead: |
-Ybrain, MyDoc, AirStrip, uBiome, and more...
+  Ybrain, MyDoc, AirStrip, uBiome, and more...
 
 Tags: healthit, funding
 Fullname: Sarah Nettie

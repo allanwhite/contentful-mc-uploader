@@ -5,7 +5,7 @@ Author: travis
 Date: 01/13/2014
 Summary: Why do focusing on niche offerings make so much sense in health and wellness? 
 Lead: |
-2013, and to a lesser extent 2012, saw the growth and success of niche-based health IT offerings. Both on the provider side, with specialty specific EHRs like those from Modernizing Medicine, and on the patient side, with apps and services like [Telcare](http://www.telcare.com/), [Propellor Health](http://propellerhealth.com/), [Ovuline](http://www.ovuline.com/), [Direct Dermatology](http://directdermatology.com/), and now [Kurbo Health](http://www.datrihealth.com/).
+  2013, and to a lesser extent 2012, saw the growth and success of niche-based health IT offerings. Both on the provider side, with specialty specific EHRs like those from Modernizing Medicine, and on the patient side, with apps and services like [Telcare](http://www.telcare.com/), [Propellor Health](http://propellerhealth.com/), [Ovuline](http://www.ovuline.com/), [Direct Dermatology](http://directdermatology.com/), and now [Kurbo Health](http://www.datrihealth.com/).
 
 Tags: hipaa, mobile, trends
 Fullname: Travis Good, MD

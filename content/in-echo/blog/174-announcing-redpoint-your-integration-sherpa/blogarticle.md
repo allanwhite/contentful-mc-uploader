@@ -6,7 +6,7 @@ Fullname: Mohan Balachandran
 Date: 12/02/2015
 Summary:  If there is one guiding belief which drives Catalyze, it's the view that healthcare integration is a process. It's not an API, it's not knowing someone at Epic. It's a journey fraught with misinformation and pitfalls. This journey needs a guide.  
 Lead: |
-> Every mountain top is within reach if you just keep climbing. – Barry Finlay, *Kilimanjaro and Beyond*
+  > Every mountain top is within reach if you just keep climbing. – Barry Finlay, *Kilimanjaro and Beyond*
 
 Tags: redpoint, integration
 

@@ -6,7 +6,7 @@ Fullname: Travis Good, MD
 Date: 12/15/2015
 Summary: There is a significant need for tools that improve communication and data exchange in healthcare.
 Lead: |
-### Where are we today?
+  ### Where are we today?
 
 Tags: health tech
 

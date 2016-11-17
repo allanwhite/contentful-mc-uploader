@@ -5,7 +5,7 @@ Author: mark
 Date: 09/26/2014
 Summary: 
 Lead: |
-As you're likely aware, [CVE-2014-6271](http://www.troyhunt.com/2014/09/everything-you-need-to-know-about.html) or "Shellshock" was made public in the last 24 hours. Considered by many to be a vulnerability of Heartbleed proportions or greater, security analysts and programmers sprung into action to begin to fix the problem. Here's what we know and how it affects your usage of BaaS:
+  As you're likely aware, [CVE-2014-6271](http://www.troyhunt.com/2014/09/everything-you-need-to-know-about.html) or "Shellshock" was made public in the last 24 hours. Considered by many to be a vulnerability of Heartbleed proportions or greater, security analysts and programmers sprung into action to begin to fix the problem. Here's what we know and how it affects your usage of BaaS:
 
 Tags: shellshock, security
 Fullname: Mark Olschesky

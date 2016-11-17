@@ -6,7 +6,7 @@ Fullname: Travis Good, MD
 Date: 06/24/2015
 Summary: 
 Lead: |
-HIPAA compliance is an ongoing challenge for healthcare enterprises, so the HIPAA Compliance Assessment was created to help meet the objectives of HIPAA while also providing insights into possibilities for streamlining processes and lowering costs.
+  HIPAA compliance is an ongoing challenge for healthcare enterprises, so the HIPAA Compliance Assessment was created to help meet the objectives of HIPAA while also providing insights into possibilities for streamlining processes and lowering costs.
 
 Tags: compliance assessment, compliance
 ---

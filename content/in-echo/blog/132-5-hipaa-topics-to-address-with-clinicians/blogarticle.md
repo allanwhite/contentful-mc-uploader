@@ -6,7 +6,7 @@ Fullname: Kenny Stark
 Date: 07/29/2015
 Summary: 
 Lead: |
-HIPAA regulations outline IT compliance in high-level detail but  does not specify methods for true compliance. This lack of a guided approach can prove to be an obstacle for healthcare clinician managers seeking concrete methods to train personnel, especially in regards to technology.
+  HIPAA regulations outline IT compliance in high-level detail but  does not specify methods for true compliance. This lack of a guided approach can prove to be an obstacle for healthcare clinician managers seeking concrete methods to train personnel, especially in regards to technology.
 
 Tags: hipaa, clinical
 ---

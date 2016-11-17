@@ -6,7 +6,7 @@ Fullname: Kenny Stark
 Date: 06/18/2015
 Summary: 
 Lead: |
-Yesterday, Wednesday, June 17, Catalyze proudly attended the first annual Open mHealth Summit 2015 hosted in San Francisco. The conference was sold out and our very own [Travis Good](https://catalyze.io/travis), [Mohan Balachandran](https://catalyze.io/mohan), and [Mark Olschesky](https://twitter.com/markolschesky) were among the IT executives to attend. The audience was suffused with energy from persons bursting with creative intentions as the power-packed speakers, including Mark Olschesky, spoke their expertise on topics ranging from [FHIR](https://fhir.catalyze.io/) to bringing down the barriers of integration. 
+  Yesterday, Wednesday, June 17, Catalyze proudly attended the first annual Open mHealth Summit 2015 hosted in San Francisco. The conference was sold out and our very own [Travis Good](https://catalyze.io/travis), [Mohan Balachandran](https://catalyze.io/mohan), and [Mark Olschesky](https://twitter.com/markolschesky) were among the IT executives to attend. The audience was suffused with energy from persons bursting with creative intentions as the power-packed speakers, including Mark Olschesky, spoke their expertise on topics ranging from [FHIR](https://fhir.catalyze.io/) to bringing down the barriers of integration. 
 
 Tags: open mhealth
 ---

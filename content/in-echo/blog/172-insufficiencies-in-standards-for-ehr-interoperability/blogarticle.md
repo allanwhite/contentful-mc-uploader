@@ -6,7 +6,7 @@ Fullname: Mark Olschesky
 Date: 11/24/2015
 Summary: A recent GAO report found five preeminent challenges the industry faces with achieving true interoperability.
 Lead: |
-> The good people in Congress recently asked ONC: When it comes to the nationwide roll-out of a connected health IT system, are we getting our 28 billion dollars’ worth? - HealthBlawg: [Locked Down or Blocked Up? ONC Report on Health Information Blocking](http://healthblawg.com/2015/05/onc-report-health-information-blocking.html)
+  > The good people in Congress recently asked ONC: When it comes to the nationwide roll-out of a connected health IT system, are we getting our 28 billion dollars’ worth? - HealthBlawg: [Locked Down or Blocked Up? ONC Report on Health Information Blocking](http://healthblawg.com/2015/05/onc-report-health-information-blocking.html)
 
 Tags: interoperability
 

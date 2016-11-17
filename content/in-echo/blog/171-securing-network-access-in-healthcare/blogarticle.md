@@ -6,7 +6,7 @@ Fullname: Mohan Balachandran
 Date: 11/23/2015
 Summary: The cost of data breaches on providers as a whole is estimated to be at an astounding seven billion dollars. Here are a few key points for securing network access.
 Lead: |
-> The mantra of any good security engineer is: ‘**Security is not a product, but a process**.’ It’s more than designing strong cryptography into a system; it’s designing the entire system such that all security measures, including cryptography, work together. – Bruce Schneier
+  > The mantra of any good security engineer is: ‘**Security is not a product, but a process**.’ It’s more than designing strong cryptography into a system; it’s designing the entire system such that all security measures, including cryptography, work together. – Bruce Schneier
 
 Tags: security
 

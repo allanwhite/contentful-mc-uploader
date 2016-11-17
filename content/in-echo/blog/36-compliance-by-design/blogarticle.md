@@ -5,7 +5,7 @@ Author: travis
 Date: 05/26/2014
 Summary: 
 Lead: |
-There's a principle in engineering called security through obscurity, which is in contrast to security by design. Security by design is how we build technology at catalyze. Security through obscurity takes the premise that if you don't provide any information and you essentially keep the way that you do security, and the types of systems that you use, a secret, then people are less likely to find vulnerabilities and ultimately compromise your systems.
+  There's a principle in engineering called security through obscurity, which is in contrast to security by design. Security by design is how we build technology at catalyze. Security through obscurity takes the premise that if you don't provide any information and you essentially keep the way that you do security, and the types of systems that you use, a secret, then people are less likely to find vulnerabilities and ultimately compromise your systems.
 
 Tags: hipaa, compliance, security, architecture, process
 Fullname: Travis Good, MD

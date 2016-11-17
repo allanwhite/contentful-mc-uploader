@@ -6,7 +6,7 @@ Fullname: Kenny Stark
 Date: 06/04/2015
 Summary: 
 Lead: |
-In a world where technology, healthcare, and business are all integrated, a thorough understanding of semantics is critical, especially when [PHI (protected health information)](https://catalyze.io/learn/what-is-protected-health-information-or-phi) is at risk. No matter what your relationship with HIPAA may be, knowing the difference between being HIPAA ready and HIPAA compliant could save you some big risks and some even bigger costs.
+  In a world where technology, healthcare, and business are all integrated, a thorough understanding of semantics is critical, especially when [PHI (protected health information)](https://catalyze.io/learn/what-is-protected-health-information-or-phi) is at risk. No matter what your relationship with HIPAA may be, knowing the difference between being HIPAA ready and HIPAA compliant could save you some big risks and some even bigger costs.
 
 Tags: hipaa ready, compliance
 ---

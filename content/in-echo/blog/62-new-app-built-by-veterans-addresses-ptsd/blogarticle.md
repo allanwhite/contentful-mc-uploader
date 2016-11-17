@@ -5,7 +5,7 @@ Author: kris
 Date: 09/05/2014
 Summary: 
 Lead: |
-As the nation has learned more about the challenges faced by veterans easing back into civilian life, Post-traumatic Stress Disorder (PTSD) has gained the attention of the healthcare world. But it’s not just healthcare professionals putting in the effort to address PTSD. Veterans themselves are teaming up to support the lives of one another.
+  As the nation has learned more about the challenges faced by veterans easing back into civilian life, Post-traumatic Stress Disorder (PTSD) has gained the attention of the healthcare world. But it’s not just healthcare professionals putting in the effort to address PTSD. Veterans themselves are teaming up to support the lives of one another.
 
 Tags: ptsd, VA
 Fullname: Kris Gösser

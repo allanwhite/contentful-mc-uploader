@@ -5,7 +5,7 @@ Author: travis
 Date: 04/11/2014
 Summary: 
 Lead: |
-Medicare [released](https://www.cms.gov/Research-Statistics-Data-and-Systems/Statistics-Trends-and-Reports/Medicare-Provider-Charge-Data/Physician-and-Other-Supplier.html) billing and payment data this week on individual providers. The data shows the number of billing codes each provider hit in 2012 and how much each provider collected from Medicare. The media is running with stories, and the press is not good for doctors. A small subset of doctors account for a large percentage of overall Medicare payments, but I think the overall impression the public is getting is that doctors bill Medicare a lot for their services. While there are definitely some bad apples, overall most doctors are not abusing the system.
+  Medicare [released](https://www.cms.gov/Research-Statistics-Data-and-Systems/Statistics-Trends-and-Reports/Medicare-Provider-Charge-Data/Physician-and-Other-Supplier.html) billing and payment data this week on individual providers. The data shows the number of billing codes each provider hit in 2012 and how much each provider collected from Medicare. The media is running with stories, and the press is not good for doctors. A small subset of doctors account for a large percentage of overall Medicare payments, but I think the overall impression the public is getting is that doctors bill Medicare a lot for their services. While there are definitely some bad apples, overall most doctors are not abusing the system.
 
 Tags: reimbursement, medicare, billing, reform
 Fullname: Travis Good, MD

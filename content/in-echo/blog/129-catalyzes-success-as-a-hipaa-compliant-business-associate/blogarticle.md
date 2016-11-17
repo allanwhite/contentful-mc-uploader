@@ -6,7 +6,7 @@ Fullname: Mohan Balachandran
 Date: 07/22/2015
 Summary: 
 Lead: |
-Nowadays in the healthcare industry everyone must be aware of their roles in regards to data privacy and security because accountability risk from consumers, moderators, officials, covered entities, and their business associates is higher than ever before. Business associates, due to the HIPAA Final Rule, are now being audited and held liable for enforcing and following privacy HIPAA regulations.
+  Nowadays in the healthcare industry everyone must be aware of their roles in regards to data privacy and security because accountability risk from consumers, moderators, officials, covered entities, and their business associates is higher than ever before. Business associates, due to the HIPAA Final Rule, are now being audited and held liable for enforcing and following privacy HIPAA regulations.
 
 Tags: business associates
 ---

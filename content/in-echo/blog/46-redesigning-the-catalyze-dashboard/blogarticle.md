@@ -5,7 +5,7 @@ Author: ryan
 Date: 06/23/2014
 Summary: 
 Lead: |
-At Catalyze we pride ourselves on moving our products forward through attention to detail and always listening to our users. A big part of that is having the capacity to learn and grow our products quickly. We recently redesigned our user dashboard to help them manage applications and messaging instances better.
+  At Catalyze we pride ourselves on moving our products forward through attention to detail and always listening to our users. A big part of that is having the capacity to learn and grow our products quickly. We recently redesigned our user dashboard to help them manage applications and messaging instances better.
 
 Tags: design, product, interaction, redesign, dashboard, backend
 Fullname: Ryan Rich

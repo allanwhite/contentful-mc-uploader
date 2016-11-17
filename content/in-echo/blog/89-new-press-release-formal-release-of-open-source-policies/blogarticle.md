@@ -6,7 +6,7 @@ Fullname: Kris Gösser
 Date: 01/14/2015
 Summary: 
 Lead: |
-Several months ago we shared our company policies in hopes of helping other digital health startups and businesses get one step closer to HIPAA compliance without having to take on the burden of getting there. Since then we've been gathering feedback from the health tech community, and made several updates to the [policies](http://catalyzeio.github.io/policies/), with more updates in store.
+  Several months ago we shared our company policies in hopes of helping other digital health startups and businesses get one step closer to HIPAA compliance without having to take on the burden of getting there. Since then we've been gathering feedback from the health tech community, and made several updates to the [policies](http://catalyzeio.github.io/policies/), with more updates in store.
 
 Tags: policy, open source
 ---

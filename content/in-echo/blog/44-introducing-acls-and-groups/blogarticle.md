@@ -5,7 +5,7 @@ Author: ben
 Date: 06/19/2014
 Summary: 
 Lead: |
-Building mobile and web applications in Health Care IT presents many risks and challenges to developers due to the need protect sensitive user information. Protected Health Information (PHI) must be protected or developers will expose themselves to potential litigation and fines. In the US, HIPAA defines the penalties for developers who's apps leak PHI. Other countries have similar rules and regulations, for example PIPEDA in Canada and DPA in the UK.
+  Building mobile and web applications in Health Care IT presents many risks and challenges to developers due to the need protect sensitive user information. Protected Health Information (PHI) must be protected or developers will expose themselves to potential litigation and fines. In the US, HIPAA defines the penalties for developers who's apps leak PHI. Other countries have similar rules and regulations, for example PIPEDA in Canada and DPA in the UK.
 
 Tags: phi, security
 Fullname: Ben Uphoff, PhD

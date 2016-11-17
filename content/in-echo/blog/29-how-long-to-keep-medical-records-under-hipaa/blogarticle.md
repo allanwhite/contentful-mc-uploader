@@ -5,7 +5,7 @@ Author: travis
 Date: 04/17/2014
 Summary: 
 Lead: |
-It may come as a surprise, but you don't have to retain medical records according to HIPAA rules. This is a very common misconception with HIPAA. Medical records means electronic protected health information (ePHI) in this case. HIPAA does not have any rules that require covered entities or business associates to retain ePHI. I assume this is a common question for HHS as they have it listed in a [FAQ](http://www.hhs.gov/ocr/privacy/hipaa/enforcement/examples/disposalfaqs.pdf).
+  It may come as a surprise, but you don't have to retain medical records according to HIPAA rules. This is a very common misconception with HIPAA. Medical records means electronic protected health information (ePHI) in this case. HIPAA does not have any rules that require covered entities or business associates to retain ePHI. I assume this is a common question for HHS as they have it listed in a [FAQ](http://www.hhs.gov/ocr/privacy/hipaa/enforcement/examples/disposalfaqs.pdf).
 
 Tags: hipaa, data, ephi, policy
 Fullname: Travis Good, MD

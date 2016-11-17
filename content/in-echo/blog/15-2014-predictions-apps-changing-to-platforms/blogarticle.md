@@ -5,7 +5,7 @@ Author: travis
 Date: 01/08/2014
 Summary: This post covers the not-so-new trend of successful apps evolving into platforms.
 Lead: |
-I covered an overview of trends for 2014 in my last post. I hedged a bit because there are some very broad trends on that list. Hopefully this series of posts will add additional detail to what we're betting on for 2014. This post covers the not-so-new trend of successful apps evolving into platforms.
+  I covered an overview of trends for 2014 in my last post. I hedged a bit because there are some very broad trends on that list. Hopefully this series of posts will add additional detail to what we're betting on for 2014. This post covers the not-so-new trend of successful apps evolving into platforms.
 
 Tags: apps, hipaa, platform
 Fullname: Travis Good, MD

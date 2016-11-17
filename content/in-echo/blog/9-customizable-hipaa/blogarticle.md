@@ -5,7 +5,7 @@ Author: travis
 Date: 10/21/2013
 Summary: Minimizing risk and maximizing protections for patient data.
 Lead: |
-It might seem strange but communicating directly with individuals about their health is a pretty new concept. It's part of larger trends in healthcare that put the patient in more control of their data, and make the patient a more informed and active member of the care team. Patient activation and engagement are not the subjects of this post, though they are near and dear to our hearts at Catalyze.
+  It might seem strange but communicating directly with individuals about their health is a pretty new concept. It's part of larger trends in healthcare that put the patient in more control of their data, and make the patient a more informed and active member of the care team. Patient activation and engagement are not the subjects of this post, though they are near and dear to our hearts at Catalyze.
 
 Tags: engagement, hipaa, sms, learn
 Fullname: Travis Good, MD

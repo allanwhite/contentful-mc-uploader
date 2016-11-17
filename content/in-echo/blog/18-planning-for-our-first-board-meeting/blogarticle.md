@@ -5,7 +5,7 @@ Author: travis
 Date: 01/27/2014
 Summary: We're excited for our first real board meeting and will report back on how it fit our expectations.
 Lead: |
-We're prepping for our first real board meeting. I say "real" because we've done the founders-only board meeting before, which was just the 2 founders and our lawyer. When you raise money, as everybody will tell you, the company you founded does not belong to you anymore. We're completely happy with that outcome though we put a slightly different spin on it - the company we founded is growing with the addition of new valuable partners that can help us maximize our chances of success and accelerate our growth. We raised money both for the capital as well as for the strategic assistance.
+  We're prepping for our first real board meeting. I say "real" because we've done the founders-only board meeting before, which was just the 2 founders and our lawyer. When you raise money, as everybody will tell you, the company you founded does not belong to you anymore. We're completely happy with that outcome though we put a slightly different spin on it - the company we founded is growing with the addition of new valuable partners that can help us maximize our chances of success and accelerate our growth. We raised money both for the capital as well as for the strategic assistance.
 
 Tags: founders, board
 Fullname: Travis Good, MD

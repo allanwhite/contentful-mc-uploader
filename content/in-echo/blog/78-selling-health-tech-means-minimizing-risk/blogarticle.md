@@ -6,7 +6,7 @@ Fullname: Travis Good, MD
 Date: 11/19/2014
 Summary: 
 Lead: |
-> Trust is the glue of life. It's the most essential ingredient in effective communication. It's the foundational principle that holds all relationships. - Steven Covey
+  > Trust is the glue of life. It's the most essential ingredient in effective communication. It's the foundational principle that holds all relationships. - Steven Covey
 
 Tags: trust, health tech, sales
 ---

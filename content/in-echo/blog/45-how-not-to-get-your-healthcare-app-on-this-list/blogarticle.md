@@ -5,7 +5,7 @@ Author: ben
 Date: 06/23/2014
 Summary: 
 Lead: |
-As a startup, we of course follow [Hacker News](https://news.ycombinator.com/) religiously. Over the weekend, [Plain Text Offenders](http://plaintextoffenders.com/) (PTO) made the top slot. You can follow the discussion [here](https://news.ycombinator.com/item?id=7927123).
+  As a startup, we of course follow [Hacker News](https://news.ycombinator.com/) religiously. Over the weekend, [Plain Text Offenders](http://plaintextoffenders.com/) (PTO) made the top slot. You can follow the discussion [here](https://news.ycombinator.com/item?id=7927123).
 
 Tags: hipaa, security, privacy, api, baas
 Fullname: Ben Uphoff, PhD

@@ -6,7 +6,7 @@ Fullname: Marcia Noyes
 Date: 09/28/2015
 Summary: 
 Lead: |
-*There is no time like the present.*
+  *There is no time like the present.*
 
 Tags: medx, innovation
 ---

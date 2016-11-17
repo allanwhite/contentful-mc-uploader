@@ -6,7 +6,7 @@ Fullname: Travis Good, MD
 Date: 06/16/2015
 Summary: 
 Lead: |
-In this second entry of our Assessment Series we explore what  a HIPAA Risk Assessment is and why it is crucial in ensuring the safe-handling of protected health information (PHI) with the growing dependency on information technology in the Healthcare Industry and the implementation of electronic medical records (EMR).
+  In this second entry of our Assessment Series we explore what  a HIPAA Risk Assessment is and why it is crucial in ensuring the safe-handling of protected health information (PHI) with the growing dependency on information technology in the Healthcare Industry and the implementation of electronic medical records (EMR).
 
 Tags: hipaa, security assessment
 ---

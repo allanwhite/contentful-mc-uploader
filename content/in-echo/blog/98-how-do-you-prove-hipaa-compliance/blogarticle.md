@@ -6,7 +6,7 @@ Fullname: Travis Good, MD
 Date: 03/06/2015
 Summary: 
 Lead: |
-Without a doubt, this is one of the most important questions healthcare companies need to ask themselves and their partners: _How to prove HIPAA compliance?_
+  Without a doubt, this is one of the most important questions healthcare companies need to ask themselves and their partners: _How to prove HIPAA compliance?_
 
 Tags: compliance, audit
 ---

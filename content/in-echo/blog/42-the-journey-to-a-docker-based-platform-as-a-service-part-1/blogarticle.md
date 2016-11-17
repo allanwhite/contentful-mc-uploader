@@ -5,7 +5,7 @@ Author: mohan
 Date: 06/16/2014
 Summary: 
 Lead: |
-The idea came to us around October of last year. What if we could provide a platform such that we ourselves had no access to our customers data? The more we thought about it, the more sense it made. One of the primary business reasons was that such an approach would limit any additional liability that we would incur. This wouldn't obviate the need for a BAA of course. From an overall security and privacy perspective, such an approach would almost guarantee that the core encryption requirements imposed by HIPAA and the segregation requirements imposed by enterprises and the needs of private clouds would be easily addressed.The main challenge was how to go about doing this from a technical perspective. The service we most wanted to emulate was [Heroku](http://www.heroku.com).
+  The idea came to us around October of last year. What if we could provide a platform such that we ourselves had no access to our customers data? The more we thought about it, the more sense it made. One of the primary business reasons was that such an approach would limit any additional liability that we would incur. This wouldn't obviate the need for a BAA of course. From an overall security and privacy perspective, such an approach would almost guarantee that the core encryption requirements imposed by HIPAA and the segregation requirements imposed by enterprises and the needs of private clouds would be easily addressed.The main challenge was how to go about doing this from a technical perspective. The service we most wanted to emulate was [Heroku](http://www.heroku.com).
 
 Tags: docker, paas, platform, hosting, compliance, hipaa
 Fullname: Mohan Balachandran

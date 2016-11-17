@@ -6,7 +6,7 @@ Fullname: Travis Good, MD
 Date: 01/15/2015
 Summary: 
 Lead: |
-> Judge a man by his questions rather than his answers. - Voltaire
+  > Judge a man by his questions rather than his answers. - Voltaire
 
 Tags: predictions
 ---

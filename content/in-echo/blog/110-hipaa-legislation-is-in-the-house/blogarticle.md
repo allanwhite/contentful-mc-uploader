@@ -6,7 +6,7 @@ Fullname: Kenny Stark
 Date: 06/02/2015
 Summary: 
 Lead: |
-As of May 21, 2015, the House Committee on Energy and Commerce has officially pushed forward the bill calling for the Secretary of Health and Human Services to “revise and clarify” the HIPAA Privacy Rule’s contingencies on the application and release of [PHI](https://catalyze.io/learn/what-is-protected-health-information-or-phi) (protected health information) for research purposes. Next, the legislation is on its way to meet the full House of Representatives. We wanted to use our expertise in the situation to briefly explain what this means for digital health companies.
+  As of May 21, 2015, the House Committee on Energy and Commerce has officially pushed forward the bill calling for the Secretary of Health and Human Services to “revise and clarify” the HIPAA Privacy Rule’s contingencies on the application and release of [PHI](https://catalyze.io/learn/what-is-protected-health-information-or-phi) (protected health information) for research purposes. Next, the legislation is on its way to meet the full House of Representatives. We wanted to use our expertise in the situation to briefly explain what this means for digital health companies.
 
 Tags: hipaa, government, privacy
 ---

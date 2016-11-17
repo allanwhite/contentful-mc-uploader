@@ -6,7 +6,7 @@ Fullname: Kenny Stark
 Date: 05/28/2015
 Summary: 
 Lead: |
-As you may have heard, FHIR (Fast Healthcare Interoperability Resources) is the new and emerging standard being developed under the [Health Language 7](https://hl7.org/) (HL7) organization and Catalyze has just released THREE new Academy articles so you can stay ahead of the curve on all things FHIR related. 
+  As you may have heard, FHIR (Fast Healthcare Interoperability Resources) is the new and emerging standard being developed under the [Health Language 7](https://hl7.org/) (HL7) organization and Catalyze has just released THREE new Academy articles so you can stay ahead of the curve on all things FHIR related. 
 
 Tags: hl7 integration, FHIR
 ---

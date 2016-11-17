@@ -6,7 +6,7 @@ Fullname: Mark Olschesky
 Date: 03/18/2015
 Summary: 
 Lead: |
-I was setting up our alerter to send email through our mailgun account. I encountered a problem that I needed to handle for the first time using Mirth Connect: sending a multi-part message using Mirth Connect.
+  I was setting up our alerter to send email through our mailgun account. I encountered a problem that I needed to handle for the first time using Mirth Connect: sending a multi-part message using Mirth Connect.
 
 Tags: Mirth, Apache, Rhino
 ---
@@ -74,7 +74,7 @@ new BasicNameValuePair("text",  "There is a Mirth Error on appServer X. Please l
 
 This is like a breath of fresh air. From here, just add the form elements as an entity, execute and read the Summary: 
 Lead: |
-
+  
 
 Body: |
 ```

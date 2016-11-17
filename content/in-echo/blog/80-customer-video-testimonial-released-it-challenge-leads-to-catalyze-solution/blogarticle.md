@@ -6,7 +6,7 @@ Fullname: Marcia Noyes
 Date: 12/05/2014
 Summary: 
 Lead: |
->"They didn’t try to oversell us; they spelled out the technical approach to a level that was completely clear and that I could understand. Also the chemistry was really great with their team. They are great people to work with." – Mayank Thanawala, HealthLoop
+  >"They didn’t try to oversell us; they spelled out the technical approach to a level that was completely clear and that I could understand. Also the chemistry was really great with their team. They are great people to work with." – Mayank Thanawala, HealthLoop
 
 Tags: healthloop, customer video
 ---

@@ -5,7 +5,7 @@ Author: alex
 Date: 08/05/2014
 Summary: 
 Lead: |
-We're happy to announce the release of the [Catalyze API v2 Javascript SDK](https://github.com/catalyzeio/catalyze-js-sdk), supporting Node.js, jQuery, and Angular. This makes it easier to integrate our backend into your web applications and node-based server applications.
+  We're happy to announce the release of the [Catalyze API v2 Javascript SDK](https://github.com/catalyzeio/catalyze-js-sdk), supporting Node.js, jQuery, and Angular. This makes it easier to integrate our backend into your web applications and node-based server applications.
 
 Tags: javascript, jQuery, Node.js, node, angular, SDK, BaaS, backend, backend as a service, compliance, code
 Fullname: Alex Foran

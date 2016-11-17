@@ -5,7 +5,7 @@ Author: mohan
 Date: 04/22/2014
 Summary: 
 Lead: |
-How does one go about defining a product? What constitutes a product? Some musings on the topic and approaches that we like to take with some examples from other domains.
+  How does one go about defining a product? What constitutes a product? Some musings on the topic and approaches that we like to take with some examples from other domains.
 
 Tags: product requirements, definition
 Fullname: Mohan Balachandran

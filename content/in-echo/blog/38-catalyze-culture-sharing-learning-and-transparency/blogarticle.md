@@ -5,7 +5,7 @@ Author: mohan
 Date: 06/04/2014
 Summary: 
 Lead: |
-Managing distributed teams and ensuring ongoing communication between them is hard. This is especially so at Catalyze since we have a *very* distributed team and two very distinct product offerings. The choice of allowing the development teams to be distributed was something that we thought about hard but felt that the challenges were well worth it because of the caliber of people that we could attract. However, communication and sharing was something that we felt we had to foster and encourage. Especially because we dogfood everything that we sell.
+  Managing distributed teams and ensuring ongoing communication between them is hard. This is especially so at Catalyze since we have a *very* distributed team and two very distinct product offerings. The choice of allowing the development teams to be distributed was something that we thought about hard but felt that the challenges were well worth it because of the caliber of people that we could attract. However, communication and sharing was something that we felt we had to foster and encourage. Especially because we dogfood everything that we sell.
 
 Tags: founders, company culture, sharing, transparency
 Fullname: Mohan Balachandran

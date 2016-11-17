@@ -5,7 +5,7 @@ Author: travis
 Date: 05/15/2013
 Summary: Our mission is to make it easier to build, test and scale secure, interoperable, and effective apps for healthcare.
 Lead: |
-Modular technology, or services that developers can plug into for various features or function, is here. There seems to be almost a limitless number of possible **BLANK-as-a-Service** offerings these days. Amazon and Rackspace offer Infrastructure-as-a-Service (IaaS). Heroku offers a Platform-as-a-Service (PaaS). Kinvey, Parse, and Stackmob offer Backend-as-a-Service (BaaS). Context.io offers Email-as-a-Service.
+  Modular technology, or services that developers can plug into for various features or function, is here. There seems to be almost a limitless number of possible **BLANK-as-a-Service** offerings these days. Amazon and Rackspace offer Infrastructure-as-a-Service (IaaS). Heroku offers a Platform-as-a-Service (PaaS). Kinvey, Parse, and Stackmob offer Backend-as-a-Service (BaaS). Context.io offers Email-as-a-Service.
 
 Tags: baas, backend as a service, mission
 Fullname: Travis Good, MD

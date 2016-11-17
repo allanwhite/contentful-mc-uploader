@@ -6,7 +6,7 @@ Fullname: Mohan Balachandran
 Date: 08/05/2015
 Summary: 
 Lead: |
-Mobile health applications, wearable technology, and remote patient monitoring devices all present exemplary options for meeting patient engagement goals. Since HITECH passed in 2009, more providers have narrowed their focus on improving patient engagement in their practices, especially since meaningful use requires patients to view, download, and access their health information. All of these solutions can help minimize costs and increase improved care results, but the leaders in the industry recognize that increased patient engagement and maximized interoperability will most likely be the ultimate solution for long-term sustainability of the advantages seen.
+  Mobile health applications, wearable technology, and remote patient monitoring devices all present exemplary options for meeting patient engagement goals. Since HITECH passed in 2009, more providers have narrowed their focus on improving patient engagement in their practices, especially since meaningful use requires patients to view, download, and access their health information. All of these solutions can help minimize costs and increase improved care results, but the leaders in the industry recognize that increased patient engagement and maximized interoperability will most likely be the ultimate solution for long-term sustainability of the advantages seen.
 
 Tags: interoperability, patient engagement, mhealth
 ---

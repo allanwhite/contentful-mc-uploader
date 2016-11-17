@@ -6,7 +6,7 @@ Fullname: Mohan Balachandran
 Date: 12/11/2014
 Summary: 
 Lead: |
-HIPAA guidelines define the safeguards for protected health information (PHI). Business Associate Agreements (BAAs) are contracts that outline how different organizations will handle electronic protected health information (ePHI) and the types of responsibilities that each organization assumes.  Simply put, a BAA defines responsibility, and thus liability, with respect to the handling of PHI data.
+  HIPAA guidelines define the safeguards for protected health information (PHI). Business Associate Agreements (BAAs) are contracts that outline how different organizations will handle electronic protected health information (ePHI) and the types of responsibilities that each organization assumes.  Simply put, a BAA defines responsibility, and thus liability, with respect to the handling of PHI data.
 
 Tags: business associates
 ---

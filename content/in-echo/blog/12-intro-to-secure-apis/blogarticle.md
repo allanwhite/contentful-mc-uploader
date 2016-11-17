@@ -5,7 +5,7 @@ Author: travis
 Date: 11/27/2013
 Summary: Tips for helping prevent attacks on your APIs and make your data, as well as your customer’s data, more secure.
 Lead: |
-Over the weekend I had the privilege of attending a YCombinator conference in San Francisco covering best practices for web security. A number of topics were discussed including securing APIs, incident responses and responsible disclosure, proper backup techniques, how to handle customer secrets, and when to pay for pen testing. Over the next few blog posts I’ll outline these topics in detail. We’ll start off with securing APIs.
+  Over the weekend I had the privilege of attending a YCombinator conference in San Francisco covering best practices for web security. A number of topics were discussed including securing APIs, incident responses and responsible disclosure, proper backup techniques, how to handle customer secrets, and when to pay for pen testing. Over the next few blog posts I’ll outline these topics in detail. We’ll start off with securing APIs.
 
 Tags: api, hipaa
 Fullname: Travis Good, MD

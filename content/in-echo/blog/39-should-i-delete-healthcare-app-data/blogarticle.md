@@ -5,7 +5,7 @@ Author: mark
 Date: 06/09/2014
 Summary: 
 Lead: |
-If you're flipping through the Catalyze compliant API [documentation](https://docs.catalyze.io/), one of the things that you'll notice is that we've given you the ability to delete any data that you wish to delete. We advise you that the deletion is permanent; **you know that we mean it because we put the font in all bold at that part**. However, at the end of the day, you're the boss. You're building your own product and we've given you the means to manage your data as you wish.
+  If you're flipping through the Catalyze compliant API [documentation](https://docs.catalyze.io/), one of the things that you'll notice is that we've given you the ability to delete any data that you wish to delete. We advise you that the deletion is permanent; **you know that we mean it because we put the font in all bold at that part**. However, at the end of the day, you're the boss. You're building your own product and we've given you the means to manage your data as you wish.
 
 Tags: hipaa, Legal medical record, standards, app design, api
 Fullname: Mark Olschesky

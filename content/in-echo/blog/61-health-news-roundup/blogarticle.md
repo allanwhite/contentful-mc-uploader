@@ -5,7 +5,7 @@ Author: sarah
 Date: 09/02/2014
 Summary: 
 Lead: |
-Breaches, new health data privacy requirements, a pharma accelerator, HealthKit, and new apps for veterans...
+  Breaches, new health data privacy requirements, a pharma accelerator, HealthKit, and new apps for veterans...
 
 Tags: healthit, trends, news
 Fullname: Sarah Nettie

@@ -6,7 +6,7 @@ Fullname: Mark Olschesky
 Date: 03/10/2015
 Summary: 
 Lead: |
-We are often asked about integrating with Epic, Cerner, Allscripts and every other EHR big or small. The people asking us for help range from digital health rookies to industry leaders. The process of setting up an integration, from security to management, can be tricky, time consuming and expensive.
+  We are often asked about integrating with Epic, Cerner, Allscripts and every other EHR big or small. The people asking us for help range from digital health rookies to industry leaders. The process of setting up an integration, from security to management, can be tricky, time consuming and expensive.
 
 Tags: hl7 integration, epic, ehr
 ---

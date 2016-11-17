@@ -5,7 +5,7 @@ Author: travis
 Date: 04/29/2014
 Summary: 
 Lead: |
-Board meetings and board management are pretty new to us. Our board is valuable to us. Our goal is to leverage our board as much as we can to help us grow Catalyze. We [discussed](https://catalyze.io/blog/founders/planning-for-our-first-board-meeting/) our process of getting ready for our first board meeting back in January (we do board meetings quarterly), but we didn't get into any detail on the process and materials for the meeting. Now we're prepping for our second board meeting, and we're trying to improve our process based on the experience of the last board meeting.
+  Board meetings and board management are pretty new to us. Our board is valuable to us. Our goal is to leverage our board as much as we can to help us grow Catalyze. We [discussed](https://catalyze.io/blog/founders/planning-for-our-first-board-meeting/) our process of getting ready for our first board meeting back in January (we do board meetings quarterly), but we didn't get into any detail on the process and materials for the meeting. Now we're prepping for our second board meeting, and we're trying to improve our process based on the experience of the last board meeting.
 
 Tags: board
 Fullname: Travis Good, MD

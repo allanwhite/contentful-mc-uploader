@@ -5,7 +5,7 @@ Author: mike
 Date: 11/03/2014
 Summary: 
 Lead: |
-So you're a DevOps engineer or, should I say, master of all things infrastructure related in your kingdom. You have many minions at your beck and call. Some may bring  your mail, others may serve as the interface to your kingdom from the outside world. Still others might store the data for your secret proven cheese recipe.
+  So you're a DevOps engineer or, should I say, master of all things infrastructure related in your kingdom. You have many minions at your beck and call. Some may bring  your mail, others may serve as the interface to your kingdom from the outside world. Still others might store the data for your secret proven cheese recipe.
 
 Tags: configuration management, salt, IaaS, aws, rackspace, minions, automation
 Fullname: Mike Ortiz

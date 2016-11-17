@@ -5,7 +5,7 @@ Author: alex
 Date: 06/30/2014
 Summary: 
 Lead: |
-When you create a web application, you generally end up writing two parts - the web frontend, and a backend to power it. The backend is responsible for storing data and authenticating users, and can be quite a pain to put together and maintain. We have good news - **the Catalyze HIPAA compliant API can serve as your entire backend**. It's a REST API, meaning that it's quite painless for you to use.
+  When you create a web application, you generally end up writing two parts - the web frontend, and a backend to power it. The backend is responsible for storing data and authenticating users, and can be quite a pain to put together and maintain. We have good news - **the Catalyze HIPAA compliant API can serve as your entire backend**. It's a REST API, meaning that it's quite painless for you to use.
 
 Tags: hipaa, api, example, sample, tutorial, integration, javascript, code
 Fullname: Alex Foran

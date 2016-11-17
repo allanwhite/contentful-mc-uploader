@@ -6,7 +6,7 @@ Fullname: Travis Good, MD
 Date: 10/23/2015
 Summary: 
 Lead: |
-> Few will have the greatness to bend history itself, but each of us can work to change a small portion of events, and in the total of all those acts will be written the history of this generation. - Robert Kennedy
+  > Few will have the greatness to bend history itself, but each of us can work to change a small portion of events, and in the total of all those acts will be written the history of this generation. - Robert Kennedy
 
 Tags: epic, healthkit, Apple
 ---
