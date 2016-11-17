@@ -17,7 +17,6 @@ The concept of a backend as a service (BaaS) is simple. All application develope
 The goal of every BaaS provider is to simplify:
 
 - **Implementation**: through an SDK (software development kit) which provides a way to reduce the code required to implement all the features required to a few lines;
-
 - **Access**: through a defined set of interfaces (APIs) that allow data to be easily accessed, manipulated and stored.
 
 With a BaaS, every app developer need not code a similar or identical set of features to manage their own backend to handle user management, data storage and the like. Enabling this is a major task for BaaS platforms. It means being everything to everybody.
@@ -31,15 +30,10 @@ This is where the need for a **healthcare specific** backend-as-a-service surfac
 As we built healthcare apps and talked to other healthcare app developers and enterprises, we uncovered a core list of features that each one of us was building over and over again. Namely,
 
 - **Security**: this includes identification of PHI (personally identifiable health information), encryption of PHI at rest and in transit with associated audit logs. There are some additional nuances when it comes to cloud computing and we will go into this in more detail in the subsequent blog post on security.
-
 - **User Authentication & Management**: this is core to any app on any environment. The nuance in the healthcare context is to handle this efficiently given the security constraints.
-
 - **Logging and auditing**: Given HIPAA's requirements to ensure appropriate access, logging and audit trails are essential for ongoing and historical compliance reporting and alerting.
-
 - **Validation**: data created on the app needs to be standardized and follow terminology guidelines specified in HIPAA, HITECH, and MU2 regulations such as ICD-9, ICD-10, SNOMED, RxNORM, LOINC, and so on. This is again something we'll spend some time on in a subsequent blog post.
-
 - **Transaction support**: incoming data from EMRs, PHRs, and financial transactions follow standards as well (or will need to shortly). These include transaction sets such as EDI (X12) transaction sets (NCPDP, 5010), CCDA, HL7 3.0, and must include some legacy transaction set support for CCD, BlueButton (and BB+) and earlier HL7 versions. Additionally, transactional data in healthcare is being extended to include self-reported, ongoing wellness information (more on this in later posts about extending our view of patients). This is again worthy of a more detailed description which we will delve into in a subsequent post.
-
 - **Comprehensive Patient Model**: while enforcing a standard data model is not possible nor would it be well received, allowing access to a broad list of recommended data elements (what data elements are needed to fully capture a diabetic patient's clinical and health data?) would be welcomed. This is where we spent and are spending a lot of time to define data elements needed to capture a holistic picture of a patient. This is divided into eight categories - clinical, financial, vitals, activities, diet/nutrition, genetics, medications, and social. We will spend more time in this in a subsequent post as well.
 
 Our mission at catalyze.io is not just to securely support these data types and transactions but also simplify their use.
