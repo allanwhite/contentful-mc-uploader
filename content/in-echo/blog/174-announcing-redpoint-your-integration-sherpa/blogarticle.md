@@ -8,12 +8,13 @@ Summary:  If there is one guiding belief which drives Catalyze, it's the view th
 Lead: |
   > Every mountain top is within reach if you just keep climbing. – Barry Finlay, *Kilimanjaro and Beyond*
 
+  Today we are proud to announce the immediate availability of our integration solution product – **Redpoint**.
+
 Tags: redpoint, integration
 
 ---
-Today we are proud to announce the immediate availability of our integration solution product – **Redpoint**.
 
-## Redpoint? What’s that? What does that mean?
+### Redpoint? What’s that? What does that mean?
 
 We’re glad you asked. The term *redpoint* is a climbing term which describes a clean ascent made after previously unsuccessful trial attempts. Much like climbers, we strive to reach the top. A redpoint can be achieved successfully nearly every time because all the quick draws have already been put into place so climbers can simply clip their ropes and go. Equivalently in healthcare, our product Redpoint will deliver the same successful result for our customer’s integrations.
 

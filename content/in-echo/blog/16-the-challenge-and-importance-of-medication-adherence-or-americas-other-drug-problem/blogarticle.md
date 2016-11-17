@@ -28,9 +28,8 @@ All of which begs the questions - if the value (cost, health, life, quality of l
 
 The causes of non-adherence are complex, and multifactorial. Non-adherence is broken down into two types:
 
-1 - Primary non-adherence i.e. not initially filling the prescription written;
-
-2 - Secondary non-adherence i.e. not taking as prescribed or not refilling the prescription.
+1. - Primary non-adherence i.e. not initially filling the prescription written;
+2. - Secondary non-adherence i.e. not taking as prescribed or not refilling the prescription.
 
 Net net, the reasons for non-adherence can be traced back to multiple root causes but the ones that are addressable are as follows:
 
@@ -41,7 +40,7 @@ So how does one go about addressing this problem? The real challenge is the need
 
 ### Approaches to improve medication adherence
 
-###Analytics
+#### Analytics
 
 Data in healthcare is not, and to some extent cannot, be shared easily. This makes discovering patterns in data and mining data difficult since the data required to truly understand medication adherence comes from multiple sources and is in multiple formats. So analytics on medication adherence requires the following sets of data - each of which is owned by a different entity.
 

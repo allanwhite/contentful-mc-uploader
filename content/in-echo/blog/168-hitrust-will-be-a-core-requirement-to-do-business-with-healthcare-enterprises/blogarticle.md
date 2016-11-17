@@ -10,7 +10,6 @@ Lead: |
 
 Tags: hitrust
 ---
-
 Major organizations in healthcare, currently [United Healthcare](http://www.uhc.com/), [HCSC](http://www.hcsc.com/), [Highmark](https://www.highmark.com/hmk2/index.shtml), [Anthem](https://www.anthem.com/health-insurance/home/overview), and [Humana](https://www.humana.com/) will require HITRUST CSF Certification in all business associate and partner agreements. Those requirements apply to both new and existing contracts. In addition, ten pediatric hospitals are strongly encouraging all of their vendors to become HITRUST CSF Certified. This is a major shift that was done in an effort to reduce the exceptional redundancy and flawed-fraught current process of doing one-off reviews for every vendor.
 
 Many may be asking themselves what HITRUST is and what this means exactly, and as [HIPAA compliance](https://catalyze.io/learn/hipaa-101-a-primer) experts, we’re here to answer your questions since we have achieved HITRUST CSF Certification. And as [Dr. Good](https://catalyze.io/travis) says:
@@ -20,9 +19,7 @@ Many may be asking themselves what HITRUST is and what this means exactly, and a
 ### 3 HITRUST Facts to Get You Started
 
 - HITRUST, or the Health Information Trust Alliance, is actually not a framework at all, but the organization that created and maintains the Common Security Framework, or CSF.
-
 - The CSF, currently in version 7, is a certifiable framework that brings together, or harmonizes, several other compliance frameworks and standards including HIPAA, PCI, ISO, and NIST. By “harmonize” the CSF maps all of those standards together, with the CSF as the central mapping key.
-
 - According to its website, HITRUST, and its corresponding CSF, “was born out of the belief that information security should be a core pillar of, rather than an obstacle to, the broad adoption of health information systems and exchanges.” Security and compliance are a key part of the success of health technology; they cannot be ignored or treated as an afterthought. Without a standardized framework, process, and certifying body, HIPAA is often an obstacle for healthcare technology. HITRUST is an attempt to help vendors better prove their security and to help covered entities streamline security and compliance reviews of vendors. In that attempt, HITRUST is succeeding.
 
 What do you think about this news? We want to hear! [Tweet](https://twitter.com/catalyzeio) or [email](hello@catalyze.io) us!
@@ -30,7 +27,5 @@ What do you think about this news? We want to hear! [Tweet](https://twitter.com/
 ### Further Reading:
 
 1. [Catalyze is HITRUST CSF Certified](https://catalyze.io/blog/catalyze-is-hitrust-certified)
-
 2. [What is HITRUST?](https://catalyze.io/learn/what-is-hitrust)
-
 3. [Down the road to HITRUST](https://catalyze.io/blog/down-the-road-to-hitrust)

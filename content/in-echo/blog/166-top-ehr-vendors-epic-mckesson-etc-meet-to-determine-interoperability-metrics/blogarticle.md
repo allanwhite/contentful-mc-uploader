@@ -31,10 +31,8 @@ Once these reports become finalized, they will be presented to the policymakers 
 
 What do you think goes into measuring interoperability? [Tweet](https://twitter.com/catalyzeio) or [email](https://catalyze.io/blog/hello@catalyze.io) us your thoughts!
 
-**To brush up on other industry topics, check out these articles**:
+### To brush up on other industry topics, check out these articles:
 
 1. [Frugal Innovation in Healthcare](https://catalyze.io/blog/frugal-innovation-in-healthcare)
-
 2. [Difficulties of Clinically Testing Health Apps](https://catalyze.io/blog/difficulties-of-clinically-testing-health-apps)
-
 3. [Engaging the Millennial Generation](https://catalyze.io/blog/engaging-the-millennial-generation)

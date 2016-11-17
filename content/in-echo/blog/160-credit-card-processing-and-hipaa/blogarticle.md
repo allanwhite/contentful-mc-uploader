@@ -4,7 +4,7 @@ SeoTitle: Credit Card Processing & HIPAA
 Author: mohan
 Fullname: Mohan Balachandran
 Date: 10/14/2015
-Summary: 
+Summary: Do I need a business associate agreement to work with payment providers and services to comply with HIPAA?
 Lead: |
   Credit card processing is one of the most common payment methods in healthcare, especially as the American economy becomes growingly paperless. The information transmitted when processing a credit card is often unconsidered, as well as the potential repercussions of a privacy breach, because many are unaware that this data is [protected health information](https://catalyze.io/learn/what-is-protected-health-information-or-phi) (PHI). The data components in this transaction include the processor’s information (primary care giver), name of credit card owner (patient), and specified time of transaction. Knowing just this much could allow data hackers to target specific patients, therefore classifying credit card data as ePHI (electronic protected health information). 
 
@@ -21,9 +21,7 @@ Have more questions on HIPAA compliance and payment methods? Email me directly [
 For further reading, check out these other posts:
 
 1. [BAA isn’t a Checkbox for HIPAA Compliance](https://catalyze.io/blog/baa-isn-t-a-checkbox-for-hipaa-compliance)
- 
 2. [Top 5 Things You Find In An Ideal Business Associate Agreement](https://catalyze.io/blog/top-5-things-you-find-in-an-ideal-business-associate-agreement)
-
 3. [If a vendor won’t sign a BAA, they aren’t “HIPAA Compliant”](https://catalyze.io/blog/if-a-vendor-won-t-sign-a-baa-they-aren-t-hipaa-compliant)
 
 If you want to read what the healthcare industry thought leaders have to say about healthcare innovation, you can check out our [annual report](https://catalyze.io/innovation/2015) that looks at the most sweeping insights going in this ever evolving industry.

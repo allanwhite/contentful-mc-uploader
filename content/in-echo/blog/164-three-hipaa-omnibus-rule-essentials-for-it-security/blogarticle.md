@@ -24,7 +24,5 @@ What are your thoughts around the HIPAA Omnibus Rules? We would love to hear you
 Check out these other articles to brush up on what you need to know about HIPAA:
 
 1. [Fifty States of HIPAA](https://catalyze.io/blog/fifty-states-of-hipaa)
-
 2. [What is the cost of a HIPAA audit?](https://catalyze.io/blog/what-is-the-cost-of-a-hipaa-audit)
-
 3. [Beware of HIPAA Ready Vendors!](https://catalyze.io/blog/beware-of-hipaa-ready-vendors)

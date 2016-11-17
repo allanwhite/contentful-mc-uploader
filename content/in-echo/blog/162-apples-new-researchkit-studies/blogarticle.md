@@ -25,7 +25,7 @@ Lastly, another ResearchKit app, [Mole Mapper](https://itunes.apple.com/us/app/m
 
 Apple’s ResearchKit has created a lot of excitement and energy that the industry has never seen before. Healthcare innovation is taking center stage and the world is reaping the benefits. Continue to check back regularly as we will be tracking the progress of these studies and others similar.
 
-For further reading on Apple’s ResearchKit:
+### sFor further reading on Apple’s ResearchKit:
 
 1. [Apple’s ResearchKit and Clinical Research: Opportunities and Challenges](https://catalyze.io/blog/apple-s-researchkit-and-clinical-research-opportunities-and-challenges)
 2. [Getting started with Apple HealthKit - Part 1](https://catalyze.io/blog/getting-started-with-apple-healthkit-part-1)

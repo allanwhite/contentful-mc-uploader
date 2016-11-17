@@ -35,7 +35,7 @@ What has been reported by the [Michigan Center for Effective IT Adoption](https:
 
 For such a feat to be achieved, one necessary cost is EHR customization. Initiative representatives reported that many EHR systems require many customized interfaces, which are specially designed connections to other health IT systems, in order to facilitate interoperability with other providers and organizations. That sentence has a lot of buzzwords in it, so allow me to simplify: it takes a lot of work to make the data gleaned from interoperability useful. These fees are ones the buyers of the EHR systems (i.e., providers) are responsible for. The overall cost to getting this type of work done is not always transparent.
 
-So what does this mean?
+### So what does this mean?
 
 We're stuck between a rock and a hard place. Value-based care finally provides the incentives for enhanced interoperability, but who is going to pay the up front bill to get started? Vendors? Doctors? Healthcare organizations? Payers? It's hard to say. We'll find our more on how this will shake out in 2016.
 

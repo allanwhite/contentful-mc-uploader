@@ -21,7 +21,5 @@ Thoughts on interoperability and how the industry is going to make it happen? [T
 Want to learn more? Check out these other posts:
 
 1. [Increased Interoperability Will Lead to Increased Patient Engagement](https://catalyze.io/blog/increased-interoperability-will-lead-to-increased-patient-engagement)
-
 2. [Open APIs Solve Lack of EHR Interoperability](https://catalyze.io/blog/open-apis-solve-lack-of-ehr-interoperability)
-
 3. [3 Key Focuses for Healthcare CIOs](https://catalyze.io/blog/three-key-focuses-for-healthcare-cios)

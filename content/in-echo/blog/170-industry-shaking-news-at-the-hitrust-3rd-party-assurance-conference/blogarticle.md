@@ -35,7 +35,7 @@ This is another question that came down to “it depends”. The answer is large
 
 We hope this summary of the HITRUST Third Party Assurance Summit was helpful. As always, we’re [available][3] if you have additional questions for us, either from the conference or from our experience becoming HITRUST CSF Certified. Stay tuned for more HITRUST-related content leading up to the next official HITRUST event in April.
 
-[1]:	https://catalyze.io/blog/hitrust-will-be-a-core-requirement-to-do-business-with-healthcare-enterprises
-[2]:	https://hitrustalliance.net/soc2/
-[3]:	mailto:hello@catalyze.io
+[1]: https://catalyze.io/blog/hitrust-will-be-a-core-requirement-to-do-business-with-healthcare-enterprises
+[2]: https://hitrustalliance.net/soc2/
+[3]: mailto:hello@catalyze.io
 

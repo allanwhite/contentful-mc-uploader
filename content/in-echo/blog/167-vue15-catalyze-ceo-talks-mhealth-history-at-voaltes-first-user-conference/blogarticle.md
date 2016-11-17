@@ -25,7 +25,5 @@ Have any other interesting healthcare history facts? We’d love to hear them! [
 For further reading:
 
 1. [2015 Stanford Medicine X Conference Ignites a Revolution](https://catalyze.io/blog/stanford-medicine-x-conference-ignites-a-revolution)
-
 2. [Healthcare Innovation: What is it solving?](https://catalyze.io/blog/healthcare-innovation-what-is-it-solving)
-
 3. [IT Executives and Clinicians Collaborate at Sold Out Open mHealth Summit 2015](https://catalyze.io/blog/it-executives-and-clinicians-collaborate-at-sold-out-open-mhealth-summit-2015)
