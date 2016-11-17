@@ -5,7 +5,6 @@ Author: travis
 Date: 04/08/2014
 Summary: 
 Body: |
----
 Catalyze is focused on compliance, specifically compliant hosting and backend services. Hopefully that's obvious or we're doing very badly with marketing and messaging. We typically don't add "HIPAA" in front of "compliance" because we think of compliance more broadly and there is a stigma in the healthcare industry attached to "HIPAA Compliance". But, our technology and organizational structure was built with information security at its core, and aspects of HIPAA have driven our policies - especially as it relates to training and educating our team members about the privacy and security of ePHI.
 
 

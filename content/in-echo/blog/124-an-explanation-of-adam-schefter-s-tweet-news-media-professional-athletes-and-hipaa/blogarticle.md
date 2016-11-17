@@ -6,7 +6,6 @@ Fullname: Kenny Stark
 Date: 07/09/2015
 Summary: 
 Body: |
----
 With over 7, 000 retweets and 3, 000 favorites in mere hours, ESPN reporter Adam Schefter’s [tweet](https://twitter.com/adamschefter/status/618918579770146816) has prompted a backlash about personal privacy. Many are asking if the content is considered [PHI](https://catalyze.io/learn/what-is-protected-health-information-or-phi) and covered under HIPAA. Many believe the ethics of the tweet are questionable regardless. We felt it helpful to explain the situation through the lens of our HIPAA expertise. Spoiler: This is most likely _not_ a breach of HIPAA regulations.
 
 ### HIPAA Does NOT Apply to the News Media

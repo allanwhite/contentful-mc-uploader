@@ -5,7 +5,6 @@ Author: mike
 Date: 09/25/2014
 Summary: 
 Body: |
----
 The need for configuration and system management is well known. Since shortly after the dawn of time, when the first caveman got his second mainframe, managing configuration across multiple hosts has been a daunting task.
 
 In the era of cloud computing, with ever more complex applications and infrastructure, this task is considerably more involved than it was for our caveman ancestor. Many hosts need be provisioned with all of their associated configurations. Those hosts then need to be managed.  Automation is essential.

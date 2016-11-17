@@ -6,7 +6,6 @@ Fullname: Travis Good, MD
 Date: 09/08/2015
 Summary: 
 Body: |
----
 Healthcare systems are currently presented with the opportunity to contribute towards worthwhile innovations. The intersection currently happening between domains is disrupting the industry, allowing healthcare enterprises to leverage their influence to control costs and quality of patient care. There are cogent forces driving these disruptive innovations such as the need for economical, intuitive, and automated products and services. One way that healthcare providers can drive this innovation is through strategic partnerships with vendors. 
 
 We at Catalyze salute those healthcare systems seeking to better the industry and would like to call attention to two transformative partnerships.

@@ -6,7 +6,6 @@ Fullname: Mark Olschesky
 Date: 11/24/2015
 Summary: A recent GAO report found five preeminent challenges the industry faces with achieving true interoperability.
 Body: |
----
 > The good people in Congress recently asked ONC: When it comes to the nationwide roll-out of a connected health IT system, are we getting our 28 billion dollars’ worth? - HealthBlawg: [Locked Down or Blocked Up? ONC Report on Health Information Blocking](http://healthblawg.com/2015/05/onc-report-health-information-blocking.html)
 
 Last month, at the request of Congressional leaders, the Government Accountability Office (GAO) released the report *[Electronic Health Records: Nonfederal Efforts to Help Achieve Health Information Interoperability](http://www.gao.gov/assets/680/672585.pdf)*, which reviews the attempts of non-federal entities to design an infrastructure that could lead to national interoperability for [health data](https://catalyze.io/solutions/data-integration-control). The GAO report, based upon interviews with representatives of eighteen interoperability initiatives, found five preeminent challenges the industry faces with achieving true interoperability:

@@ -6,7 +6,6 @@ Fullname: Travis Good, MD
 Date: 10/06/2015
 Summary: 
 Body: |
----
 There are nearly 70, 000 digital health apps available on your mobile device right now. Would it shock you to discover that there is no [clinical validation](http://www.ofnisystems.com/clinical-data-validation/) to back up most of them? Would it deter you from downloading them knowing they were created by developers exploiting the healthy lifestyle trends in America? Hopefully, like myself, your answer is yes.
 
 Though as easy as it would be to disparage these developers, they are not necessarily the culprit. Upon recognizing multiple disparities in the creation, invention, and utilization of mobile health apps, a lack of clinical infrastructure can be discerned. And without a base research framework, developers cannot easily access patients and their data, leading to the notable lack of validation to potential disruptive solutions. 

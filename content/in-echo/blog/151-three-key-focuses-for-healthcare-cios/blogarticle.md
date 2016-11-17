@@ -6,7 +6,6 @@ Fullname: Mark Olschesky
 Date: 09/10/2015
 Summary: 
 Body: |
----
 Taking an inside look at the United States healthcare systems can reveal key insights for chief information officers (CIOs) as the industry goes through epic transformations. Today’s healthcare CIO can come from a myriad of backgrounds since IT is no longer a prerequisite for the position. Rather than a technical nature, a business-oriented mindset is crucial in order for healthcare CIOs to be strategic and manage the system’s financial metrics. With the healthcare industry shifting gears and the CIOs no longer narrowly focusing on the technology, what is included in the scope of work for the modern healthcare CIO?
 
 ### Population Health Management

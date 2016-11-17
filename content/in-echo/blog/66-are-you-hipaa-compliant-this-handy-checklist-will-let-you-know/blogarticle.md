@@ -5,7 +5,6 @@ Author: kris
 Date: 09/16/2014
 Summary: 
 Body: |
----
 When we talk to companies who handle Protected Health Information (PHI), often the first topic of discussion is simply understanding what it takes to be HIPAA compliant.
 
 "Am I HIPAA compliant? I don't even know."

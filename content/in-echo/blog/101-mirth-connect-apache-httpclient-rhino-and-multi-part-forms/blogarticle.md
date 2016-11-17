@@ -6,7 +6,6 @@ Fullname: Mark Olschesky
 Date: 03/18/2015
 Summary: 
 Body: |
----
 I was setting up our alerter to send email through our mailgun account. I encountered a problem that I needed to handle for the first time using Mirth Connect: sending a multi-part message using Mirth Connect.
 
 While this would be simpler to do with the HTTPS plugin provided by Mirth, it doesn't seem like you're given a great programatic way to do it even with the Mirth utils within the JavaScript Writer. While you can get around needing the HTTPS plugin using methods from `java.net.URL`, if you haven't started allow me to give you a tip.
@@ -73,7 +72,6 @@ new BasicNameValuePair("text",  "There is a Mirth Error on appServer X. Please l
 
 This is like a breath of fresh air. From here, just add the form elements as an entity, execute and read the Summary: 
 Body: |
----
 
 
 ```

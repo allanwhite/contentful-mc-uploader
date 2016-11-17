@@ -5,7 +5,6 @@ Author: alex
 Date: 08/28/2014
 Summary: 
 Body: |
----
 (We've decided we're going to make blog posts about changes and enhancements to the Catalyze v2 API when we release them, starting today.)
 
 #### Enhancements

@@ -6,7 +6,6 @@ Fullname: Marcia Noyes
 Date: 12/05/2014
 Summary: 
 Body: |
----
 >"They didn’t try to oversell us; they spelled out the technical approach to a level that was completely clear and that I could understand. Also the chemistry was really great with their team. They are great people to work with." – Mayank Thanawala, HealthLoop
 
 We think the words of our clients say more about Catalyze than our own. Tha'’s why when one of our clients has a challenge that Catalyze can meet and exceed we let them tell you about it.

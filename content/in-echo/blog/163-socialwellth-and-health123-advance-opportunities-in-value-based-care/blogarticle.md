@@ -6,7 +6,6 @@ Fullname: Marcia Noyes
 Date: 10/27/2015
 Summary: 
 Body: |
----
 > America’s health care system is neither healthy, caring, nor a system.
 > —Walter Cronkite
 

@@ -5,7 +5,6 @@ Author: travis
 Date: 05/15/2013
 Summary: Our mission is to make it easier to build, test and scale secure, interoperable, and effective apps for healthcare.
 Body: |
----
   Modular technology, or services that developers can plug into for various features or function, is here. There seems to be almost a limitless number of possible **BLANK-as-a-Service** offerings these days. Amazon and Rackspace offer Infrastructure-as-a-Service (IaaS). Heroku offers a Platform-as-a-Service (PaaS). Kinvey, Parse, and Stackmob offer Backend-as-a-Service (BaaS). Context.io offers Email-as-a-Service.
 
   MongoLab and MongoHQ offer Database-as-a-Service. Desk.com, ZenDesk, UserVoice and a host of others offer the equivalent of Helpdesk-as-a-Service. Google, Swiftype, and Searchify offer Search-as-a-Service. Stripe offers Payment-as-a-Service. And then some others, like Singly, offer niche solutions like Social-as-a-Service.

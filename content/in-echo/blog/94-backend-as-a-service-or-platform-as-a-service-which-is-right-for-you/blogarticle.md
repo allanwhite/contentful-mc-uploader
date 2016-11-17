@@ -6,7 +6,6 @@ Fullname: Kris Gösser
 Date: 02/06/2015
 Summary: 
 Body: |
----
 Navigating the As-A-Service waters can be a choppy adventure. Different service flavors exist up and down the entire technology spectrum, starting as low as Infrastructure as a Service (IaaS) — access to physical hardware — all the way up to Software as a Service (SaaS) — what most people utilize daily, like Salesforce and Gmail. We've written before about [different forms of cloud delivery](https://catalyze.io/blog/what-is-cloud-computing-and-why-it-matters-for-compliance).
 
 Two options that sit near the middle of the spectrum are Backend as a Service (BaaS for short) and Platform as a Service (PaaS). While close cousins, they are ultimately two very different services. Catalyze provides both a [Backend as a Service](https://catalyze.io/baas) and [Platform as a Service](https://catalyze.io/paas), and we often find customers aren't entirely sure which is the best fit for them. Today we want to briefly explain the difference.

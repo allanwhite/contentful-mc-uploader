@@ -6,7 +6,6 @@ Fullname: Mark Olschesky
 Date: 01/07/2015
 Summary: 
 Body: |
----
 We have [Business Associate Agreements (BAAs)](/learn/business-associate-agreements) with all vendors that are partners to deliver our services which we pass through to our customers through our BAAs. It certainly simplifies things for our customers.
 
 I was talking with a customer the other day about integrating with a service they used for real-time data processing. I first looked to see if this vendor would sign a BAA. I received this from their support staff:

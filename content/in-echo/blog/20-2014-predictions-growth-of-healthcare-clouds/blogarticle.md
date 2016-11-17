@@ -5,7 +5,6 @@ Author: travis
 Date: 02/04/2014
 Summary: In healthcare, the biggest drivers of cloud-based technologies have been the small, but fast growing, number hosted EHR and PM vendors. 
 Body: |
----
 Continuing well into 2014 with more detailed discussion of our predicted trends for the year. Increasingly technology vendors are looking to move applications and resources to cloud-based technologies. The reasons for cloud are well established:
 
 - Low capital spend

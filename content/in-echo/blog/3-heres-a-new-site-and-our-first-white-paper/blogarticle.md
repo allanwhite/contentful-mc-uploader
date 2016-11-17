@@ -5,7 +5,6 @@ Author: travis
 Date: 06/03/2013
 Summary: We're aannouncing our new website, and our first white paper.
 Body: |
----
 We're really, really excited to be launching our new website! We'll be growing our content over time with additional tools to help people learn about and build technology for health and wellness.
 
 As if the new website wasn't enough to get us excited, we're also announcing our first white paper, titled **Technology Driven Trends in Health**. You can find and download the white paper here.

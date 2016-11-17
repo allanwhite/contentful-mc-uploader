@@ -5,7 +5,6 @@ Author: travis
 Date: 05/26/2014
 Summary: 
 Body: |
----
 There's a principle in engineering called security through obscurity, which is in contrast to security by design. Security by design is how we build technology at catalyze. Security through obscurity takes the premise that if you don't provide any information and you essentially keep the way that you do security, and the types of systems that you use, a secret, then people are less likely to find vulnerabilities and ultimately compromise your systems.
 
 There are theoretical reasons for this approach. A lot of the time, one of the first steps that a malicious attacker will take would be going through the process of network and information discovery. Learning the types of network that you're using, network technologies that you're running, ports that you have opened, operating system versions, application and database server types, all of these various pieces of your technology, is the first step for most malicious hackers. Security by obscurity relies on people not discovering the types of things you're running in your environment.

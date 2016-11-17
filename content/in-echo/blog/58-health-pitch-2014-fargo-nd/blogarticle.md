@@ -5,7 +5,6 @@ Author: sarah
 Date: 08/28/2014
 Summary: 
 Body: |
----
 ##### “Showcasing our region’s innovators that are creating a healthier world”
 
 If you’re like me, the town of Fargo does not conjure up much aside from the 1996 Coen brothers film. Luckily, I got to experience much more on a recent trip to Fargo, ND for Health Pitch 2014. Travis Good, co-founder of Catalyze, pitched for Catalyze alongside 13 other innovators and organizations.

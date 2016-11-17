@@ -6,7 +6,6 @@ Fullname: Mohan Balachandran
 Date: 06/12/2015
 Summary: 
 Body: |
----
 Standing for Fast Healthcare Interoperability Resources, FHIR, originally inspired by [Graham Grieve](http://www.healthintersections.com.au/), is the latest touchstone to be developed under the HL7 conglomerate. And, in popular opinion, is the most likely of all HL7 standards to be embraced as a widely implemented solution. That is why Catalyze is proud to bring you our new [FHIR Documentation](https://fhir.catalyze.io) as your #1 FHIR resource  as we remain an industry leader on HIPAA compliant integration.
 
 In our documentation we discuss what makes FHIR so promising—starting with what makes its foundation solid:

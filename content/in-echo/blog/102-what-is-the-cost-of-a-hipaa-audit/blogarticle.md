@@ -6,7 +6,6 @@ Fullname: Travis Good, MD
 Date: 03/19/2015
 Summary: 
 Body: |
----
 > You must pay the price if you wish to secure the blessing. — Andrew Jackson
 
 

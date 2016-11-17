@@ -6,7 +6,6 @@ Fullname: Marcia Noyes
 Date: 09/16/2015
 Summary: 
 Body: |
----
 In a digitally interconnected world, people with behavioral health conditions consult their technologies long before approaching healthcare providers for further diagnosis and treatment. What would be the benefit in approaching a healthcare provider immediately anyways? Behavioral healthcare is insufficient in assisting diagnosis, overseeing treatment response, and evaluating disease acuity. In contrast to other healthcare fields, psychiatric care is founded on a conversational Q&A model, rather than physical exams, clinical trials, or laboratory testing.
 
 As a result, behavioral healthcare is a rapidly growing, but often a neglected sector in the healthcare industry. This specialty presents both many opportunities and challenges; inadequate funding being one of those challenges. Sadly, behavioral healthcare remains the proverbial stepchild, never seeing the therapeutic breakthroughs or [innovation](https://catalyze.io/solutions/enterprise-innovation) necessary to be in the spotlight. However, the opportunities remain. The health economic burden is massive and the life expectancy of patients is considerably less, due to their conditions being difficult to treat, an overwhelming challenge in patient monitoring and overall subpar patient care. Innovative behavioral health technologies have a great opportunity to contribute to change in this area.

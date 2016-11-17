@@ -6,7 +6,6 @@ Fullname: Kenny Stark
 Date: 11/13/2015
 Summary: 
 Body: |
----
 Today, November 13, 2015, our very own [Dr. Travis Good](https://catalyze.io/travis), CEO & Co-founder of Catalyze, is speaking at the [Health Industry Third Party Assurance Summit](https://hitrustalliance.net/third-party-assurance-summit/) and some industry shaking news has just been announced:
 
 

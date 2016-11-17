@@ -6,7 +6,6 @@ Fullname: Kris Gösser
 Date: 12/02/2014
 Summary: 
 Body: |
----
 When we started working with [PACT](http://www.gym-pact.com/) on a tailored compliant environment for their growing platform, we were impressed. First, their [product video](https://www.youtube.com/watch?v=VsGJsMLTmiA) brought a smile to our faces. But more importantly their vision and the talented team behind it reminded us again why we love working with digital health companies trying to innovate within healthcare.
 
 Recently [David Ahn reviewed PACT for iMedicalApps](http://www.imedicalapps.com/2014/11/health-app-pact-saves-hundreds-insurance/) and came away with the same gushing impression as us. He claims to have been using it for over three years with success!

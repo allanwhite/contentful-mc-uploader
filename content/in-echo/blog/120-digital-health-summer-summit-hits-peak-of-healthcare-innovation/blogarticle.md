@@ -6,7 +6,6 @@ Fullname: Kenny Stark
 Date: 06/22/2015
 Summary: 
 Body: |
----
 Going into the 2015 Digital Health Summer Summit this past week, we at Catalyze knew that we were in for an exhilarating time amongst our healthcare confreres, but we had no conception as to the impression we would be leaving the event with. And there’s only one word to put it simply — Wow! 
 
 ### UCSF Innovation Lab Tours

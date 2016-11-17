@@ -5,7 +5,6 @@ Author: alex
 Date: 06/30/2014
 Summary: 
 Body: |
----
 When you create a web application, you generally end up writing two parts - the web frontend, and a backend to power it. The backend is responsible for storing data and authenticating users, and can be quite a pain to put together and maintain. We have good news - **the Catalyze HIPAA compliant API can serve as your entire backend**. It's a REST API, meaning that it's quite painless for you to use.
 
 To show that off, I created a quick, simple web application - an interactive version of the [PHQ-9 Depression Questionnaire](http://www.integration.samhsa.gov/images/res/PHQ%20-%20Questions.pdf), designed to help detect and track depressive disorders.

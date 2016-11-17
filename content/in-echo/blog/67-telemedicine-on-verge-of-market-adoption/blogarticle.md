@@ -5,7 +5,6 @@ Author: kris
 Date: 09/24/2014
 Summary: 
 Body: |
----
 A group of researchers from the Mayo Clinic in Rochester, MN, set out to determine patient desirability, feasibility, and viability with modern telemedicine options. [The results were surprising](http://online.liebertpub.com/doi/pdfplus/10.1089/tmj.2014.0037).
 
 A sample size of 301 survey respondents yielded a few insightful statistical points. First, researchers found out that 84% of respondents had a usable endpoint device, meaning a phone, tablet, or computer with a working microphone and camera. Most were on broadband. Those with technology concerns should be relieved — adoption issues will not stem from technical inability.

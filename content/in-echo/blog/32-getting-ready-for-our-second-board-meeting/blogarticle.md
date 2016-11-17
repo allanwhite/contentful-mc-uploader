@@ -5,7 +5,6 @@ Author: travis
 Date: 04/29/2014
 Summary: 
 Body: |
----
 Board meetings and board management are pretty new to us. Our board is valuable to us. Our goal is to leverage our board as much as we can to help us grow Catalyze. We [discussed](https://catalyze.io/blog/founders/planning-for-our-first-board-meeting/) our process of getting ready for our first board meeting back in January (we do board meetings quarterly), but we didn't get into any detail on the process and materials for the meeting. Now we're prepping for our second board meeting, and we're trying to improve our process based on the experience of the last board meeting.
 
 In getting ready for our first board meeting and preparing our first official board packet, like lots of good founders, we Googled around for good resources. There isn't a *Board Packet for Dummies* but if you look around you'll find lots of good guidance from founders and VCs, including most of the usual suspects like Brad Feld and Mark Suster. I ended up buying and reading Feld's book on Startup Boards, and that has good guidance on how to prepare and distribute a board packet. The book also covers lots of other areas related to startup boards, and is to startup boards what Venture Deals is to raising venture capital; basically it brings you from newbie to nearly intermediate.

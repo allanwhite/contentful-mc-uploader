@@ -6,7 +6,6 @@ Fullname: Kris Gösser
 Date: 04/23/2015
 Summary: 
 Body: |
----
 One interesting tidbit to come out of HIMSS 2015 was an interview with Adam Greene, who formally worked out of the Department of Health and Human Services' Office for Civil Rights (OCR). Initially covered by [GovInfoSecurity](http://www.govinfosecurity.com/interviews/could-big-hipaa-settlements-be-coming-i-2633), Mr. Greene hinted that the **largest HIPAA violation settlements we've ever seen could emerge later this year**. The interview was recorded, and is worth a listen for those interested.
 
 The increasing financial liability of insecure or noncompliant systems is a major concern for healthcare institutions and digital health startups alike. For entrepreneurs, the threat is existential—one slip and the business is likely over. For healthcare institutions, the threat, while not quite as existential, is equally feared.

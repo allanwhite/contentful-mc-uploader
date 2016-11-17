@@ -6,7 +6,6 @@ Fullname: Kenny Stark
 Date: 09/24/2015
 Summary: 
 Body: |
----
 Achieving a higher quality of patient care for more of the population at a significantly reduced cost is the ultimate dream of most healthcare systems. [Innovation](https://catalyze.io/solutions/enterprise-innovation) is the key to being able to provide that healthcare excellence but there are socioeconomic needs that need to be addressed first. The healthcare innovation model has been largely driven by copious amounts of research and development to construct new technologies and processes, which can prove to be very costly. Healthcare spending is already skyrocketing as more Americans are getting sicker, so just as there is a desire for disruptive technologies, a disruptive approach to innovation is warranted. Frugal innovation will be the approach that delivers more social and economic benefits while utilizing fewer resources and promoting affordability, sustainability, accessibility, and quality. 
 
 

@@ -6,7 +6,6 @@ Fullname: Mohan Balachandran
 Date: 04/06/2015
 Summary: 
 Body: |
----
 > "Thar's gold in them thar hills!"
 > — Mulberry Sellers, Mark Twain's A Gilded Age.
 

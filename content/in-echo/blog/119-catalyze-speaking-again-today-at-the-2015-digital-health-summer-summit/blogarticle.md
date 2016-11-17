@@ -6,7 +6,6 @@ Fullname: Marcia Noyes
 Date: 06/19/2015
 Summary: 
 Body: |
----
 Right after a wildly successful presentation at Open mHealth earlier this week, Catalyze’s very own [Dr. Travis Good](https://catalyze.io/travis), CEO and Co-Founder, is back on stage in the spotlight at the [Fourth Annual Digital Health Summer Summit](http://summersummit.digitalhealthsummit.com/2015-agenda/), co-hosted by the Center for Digital Health Innovation at UCSF! The two-day conference began yesterday, June 18, at the Mission Bay Conference Center in San Francisco and Dr. Good’s panel, titled “Dealmaking, Piloting, and Scaling: Do you have what it takes?” begins today, June 19, at 2:05p.m. Panelists for the event include:
 
 - Travis Good, M.D., Catalyze Inc. CEO and Co-Founder (moderator)

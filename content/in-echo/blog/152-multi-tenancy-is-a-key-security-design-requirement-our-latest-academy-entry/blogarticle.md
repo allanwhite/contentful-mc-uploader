@@ -6,7 +6,6 @@ Fullname: Mohan Balachandran
 Date: 09/14/2015
 Summary: 
 Body: |
----
 Announcing the latest Catalyze Academy entry, [HIPAA and Multi Tenancy](https://catalyze.io/learn/hipaa-and-multi-tenancy)! As Catalyze continues to scale, we are regularly approached about our multi-tenant solution and the possible security challenges that could arise. In that spirit, [this post](https://catalyze.io/learn/hipaa-and-multi-tenancy) is meant to clarify Catalyze’s security position and provide others with a few tips on best security practices.
 
 ### Is the cloud multi tenant?

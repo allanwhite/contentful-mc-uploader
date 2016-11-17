@@ -6,7 +6,6 @@ Fullname: Travis Good, MD
 Date: 07/23/2015
 Summary: 
 Body: |
----
 # False Claims Act
 
 First, what is the False Claims Act? 

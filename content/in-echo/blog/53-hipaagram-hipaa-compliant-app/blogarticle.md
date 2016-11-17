@@ -5,7 +5,6 @@ Author: josh
 Date: 07/22/2014
 Summary: 
 Body: |
----
 ##Initial Planning
 
 We recently had an internal hackathon here at Catalyze. We were trying to accomplish things we didn't think were possible on our HIPAA compliant APIs as well as try to break everything that we could. And of course, we succeeded in doing both. But don't worry, everything we broke is now fixed. But it's what we tried to accomplish that we didn't think was possible that turned out to be the most interesting. One of our projects involved creating a fully HIPAA compliant messaging app.

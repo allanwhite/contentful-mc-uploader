@@ -5,7 +5,6 @@ Author: ben
 Date: 06/19/2014
 Summary: 
 Body: |
----
 Building mobile and web applications in Health Care IT presents many risks and challenges to developers due to the need protect sensitive user information. Protected Health Information (PHI) must be protected or developers will expose themselves to potential litigation and fines. In the US, HIPAA defines the penalties for developers who's apps leak PHI. Other countries have similar rules and regulations, for example PIPEDA in Canada and DPA in the UK.
 
 Catalyze HIPAA Compliant [Mobile Backend as a Service](/baas) (Baas) helps mitigate risks to developers by providing a HIPAA-compliant datastore and infrastructure. Catalyze's compliant API handles critical details like managing secure servers, providing end-to-end encryption, encrypting data at rest, logging, disaster recovery and, of course, controlling access to users' PHI.

@@ -6,7 +6,6 @@ Fullname: Kenny Stark
 Date: 09/04/2015
 Summary: 
 Body: |
----
 Innovation in healthcare starts with the reputable intent to promote optimal quality and value of care to patients, providers, insurers, and employers. A few macro level initiatives of [innovation](https://catalyze.io/solutions/enterprise-innovation) include being able to scale the business by creating constant opportunity, shifting from a fee-for-service model, managing cost of care, and providing a framework needed to support the operational and legal backends. These innovative measures face many challenges though. The core two being: 1) Managing the total cost of care budgets by managing risk contracts and delivering the right care at the right time; and 2) Improving quality while effectively earning revenue.
 
 Even today’s healthcare technology has challenges to effectively assist in innovation. There are intrinsic complexities of sharing data in a system of minimal interoperability, such as the limitations in progressing information through the care process. Clinical integration also becomes a matter in question when limited access to data (EHRs) is provided, the user experience for care management is incommodious, or there is inadequate access to the claims data. 

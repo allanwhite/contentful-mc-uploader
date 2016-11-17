@@ -6,7 +6,6 @@ Fullname: Kenny Stark
 Date: 07/01/2015
 Summary: 
 Body: |
----
 ### Catalyze Compliance Experts MythBust HIPAA 
 
 As HIPAA experts, we at Catalyze are constantly approached for our advice on all aspects in relation to compliance, and in these discussions we are perpetually astonished by the myriad of misconceptions that surround HIPAA. So in the spirit of benefiting general digital and healthcare literacy, let us shed some light on some common myths and fallacies that you may have.

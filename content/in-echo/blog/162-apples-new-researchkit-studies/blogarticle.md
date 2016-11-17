@@ -6,7 +6,6 @@ Fullname: Travis Good, MD
 Date: 10/23/2015
 Summary: 
 Body: |
----
 > Few will have the greatness to bend history itself, but each of us can work to change a small portion of events, and in the total of all those acts will be written the history of this generation. - Robert Kennedy
 
 Back in March, Apple released their iOS open-source clinical research platform, ResearchKit, that focused on health conditions, such as breast cancer and diabetes, leading to over 100, 000 participants contributing their health data. Now, not even a year later, the mogul tech giant has released three new trials geared towards epilepsy, melanoma, and autism. Until recently, clinical trials could only extend as far as researchers could demographically and geographically recruit, but by moving clinical trials to a mobile based platform, like the iPhone or Apple Watch, researchers can now get exponentially more valuable data sets that can potentially accelerate medical research. 

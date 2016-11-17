@@ -6,7 +6,6 @@ Fullname: Kris Gösser
 Date: 03/30/2015
 Summary: 
 Body: |
----
 SXSW was a blast. Catalyze had the chance to participate in a panel discussion for digital health startups. Our CEO [Travis Good](https://catalyze.io/travis) answered tough questions around HIPAA and regulation.
 
 (image: sxsw1.png)

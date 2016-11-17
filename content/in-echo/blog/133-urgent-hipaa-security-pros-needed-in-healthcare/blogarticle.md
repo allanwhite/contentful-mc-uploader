@@ -6,7 +6,6 @@ Fullname: Kenny Stark
 Date: 07/30/2015
 Summary: 
 Body: |
----
 The increase in technological innovation is bringing rapid changes to the healthcare industry as a whole but it’s also bringing a need for more IT security professionals. What is causing the lack of talent and what do you need to know to be considered a professional?
 
 Healthcare entities are struggling to keep up with the demand for a growing personnel to manage and support the technological advances to electronic medical records, electronic health records, data analytics, wearable technologies, and health-monitoring devices. While this technology is streamlining healthcare to deliver more effective results, it is also increasing the need for scrutinizing HIPAA privacy and security measures.

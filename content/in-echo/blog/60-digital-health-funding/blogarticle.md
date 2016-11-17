@@ -5,7 +5,6 @@ Author: sarah
 Date: 09/02/2014
 Summary: 
 Body: |
----
 Ybrain, MyDoc, AirStrip, uBiome, and more...
 
 #### Healthcare wearable Ybrain raises US$3.5M in Series A funding

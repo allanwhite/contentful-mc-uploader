@@ -6,7 +6,6 @@ Fullname: Kenny Stark
 Date: 07/27/2015
 Summary: 
 Body: |
----
 Earlier this month, an act with the intent to lighten restrictions on the use and exposure of protected health information for research motivations was passed through the United States House of Representatives called the 21st Century Cures Act.
 
 Presently, the HIPAA Privacy Rule allows the use and exposure of protected health information for research purposes without the necessity of authorization from the patient but does mandate any waiver of the authorization stipulation be approved by an institutional review or privacy board.

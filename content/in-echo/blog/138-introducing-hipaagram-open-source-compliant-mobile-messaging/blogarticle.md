@@ -6,7 +6,6 @@ Fullname: Travis Good, MD
 Date: 08/07/2015
 Summary: 
 Body: |
----
 > Mobile is eating the world. - Benedict Evans
 
 We often write about [healthcare trends][1], healthcare technology, healthcare data, and healthcare innovation. Some trends are more hype than maturity. This is in large part because healthcare, despite recent transformational accelerations driven by government intervention, moves slowly and requires time to change course. Some trends, however, are being fully realized today by necessity. One realization of trends in healthcare is the requirement for secure mobile messaging. Mobile messaging is being driven to adoption in healthcare by what seems like a perfect storm of trends.

@@ -6,7 +6,6 @@ Fullname: Kris Gösser
 Date: 05/11/2015
 Summary: 
 Body: |
----
 We recently sat down with R "Ray" Wang to chat about the disruption of healthcare business models. Ray was gracious enough to offer his time and insights—even while conducting the interview from Dubai! [You can read the transcript and watch the videos here](https://catalyze.io/innovation/r-ray-wang) or view a preview:
 
 <iframe src="//fast.wistia.net/embed/iframe/l7k0claacb" allowtransparency="true" frameborder="0" scrolling="no" class="wistia_embed" name="wistia_embed" allowfullscreen mozallowfullscreen webkitallowfullscreen oallowfullscreen msallowfullscreen width="500" height="312"></iframe>

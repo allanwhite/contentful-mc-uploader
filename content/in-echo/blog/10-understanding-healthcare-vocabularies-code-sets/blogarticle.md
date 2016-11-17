@@ -5,7 +5,6 @@ Author: mohan
 Date: 11/18/2013
 Summary: Developers coming into healthcare are often confused as to why it's so difficult to get data in and out of backend "systems of record" like EMRs.
 Body: |
----
 
 #### What are they, why they're important and how they're used
 

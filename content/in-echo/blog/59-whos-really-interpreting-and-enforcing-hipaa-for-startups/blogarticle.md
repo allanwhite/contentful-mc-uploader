@@ -5,7 +5,6 @@ Author: travis
 Date: 08/30/2014
 Summary: 
 Body: |
----
 > You have to learn the rules of the game. And then you have to play better than anyone else. **- Albert Einstein**
 
 We've covered HIPAA from almost all angles, including interpretation and [enforcement](/learn/hipaa/the-who-and-how-of-hipaa-enforcement/). When most people think about enforcement and HIPAA, they think about [breaches](/learn/hipaa/hipaa-and-data-breaches/), fines, and potential jail time. All of those areas of enforcement are officially carried out by the [Office of Civil Rights](http://www.hhs.gov/ocr/office/) (OCR), which is part of Health and Human Services (HHS). But that's not the practical side of enforcement for many of our customers.
