@@ -4,7 +4,7 @@ SeoTitle: Variation in State Privacy Laws
 Author: travis
 Fullname: Travis Good, MD
 Date: 12/01/2015
-Summary: 
+Summary: With the topic of interoperability resurfacing, a strong argument towards this standardization can be made when considering the national interoperability initiative.
 Body: |
 ---
 Now that the turkeys have been stuffed and our shopping bags have been filled, it’s back to business and time to continue the conversation from our last post, [Insufficiencies in Standards for EHR Interoperability](https://catalyze.io/blog/insufficiencies-in-standards-for-ehr-interoperability). Moving on to the next item on [GAO’s list](http://www.gao.gov/assets/680/672585.pdf), we tackle the second preeminent challenge the industry faces to achieving true interoperability – variation in state privacy laws. You actually may recall a post done back in July titled [Fifty States of HIPAA](https://catalyze.io/blog/fifty-states-of-hipaa) that discusses what may be advantageous to the standardization of HIPAA in response to [Chilmark Research’s](http://www.chilmarkresearch.com/) post [HIPAA Must Die](http://www.chilmarkresearch.com/2015/06/18/hipaa-must-die/). With the topic now resurfacing, a strong argument towards this standardization can be made when considering the national interoperability initiative.
@@ -27,11 +27,9 @@ Look for future posts exploring the other three initiatives coming in the near f
 
 What are your thoughts on the barriers to interoperability? Share them with us by sending us a [tweet](https://twitter.com/catalyzeio) or [email](https://catalyze.io/blog/hello@catalyze.io).
 
-**Further Reading**:
+### Further Reading:
 
 1. [Why Interoperability?](https://catalyze.io/blog/why-interoperability)
-
 2. [What is the cost of a HIPAA audit?](https://catalyze.io/blog/what-is-the-cost-of-a-hipaa-audit)
-
 3. [Top EHR Vendors (Epic, McKesson, etc.) Meet to Determine Interoperability Metrics](https://catalyze.io/blog/top-ehr-vendors-epic-mckesson-etc-meet-to-determine-interoperability-metrics)
 Tags: interoperability

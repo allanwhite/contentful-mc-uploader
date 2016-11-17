@@ -4,7 +4,7 @@ SeoTitle: Securing Network Access in Healthcare
 Author: mohan
 Fullname: Mohan Balachandran
 Date: 11/23/2015
-Summary: 
+Summary: The cost of data breaches on providers as a whole is estimated to be at an astounding seven billion dollars. Here are a few key points for securing network access.
 Body: |
 ---
 > The mantra of any good security engineer is: ‘**Security is not a product, but a process**.’ It’s more than designing strong cryptography into a system; it’s designing the entire system such that all security measures, including cryptography, work together. – Bruce Schneier
@@ -21,11 +21,10 @@ A sundry population exists that accesses a healthcare network – visiting physi
 
 There are many more methods of securing network access so look out for future publications directing how to do so. Do you know of any yourself? Tell us by sending us a [tweet](https://twitter.com/catalyzeio) or [email](hello@catalyze.io).
 
-For further reading:
+### For further reading:
 
 1. [Data Security & Patient Engagement](https://catalyze.io/blog/data-security-patient-engagement)
-
 2. [VPNs, Security and Healthcare Integration](https://catalyze.io/blog/vpn-security-healthcare-integration)
-
 3. [3 HIPAA Omnibus Rule Essentials for IT/Security](https://catalyze.io/blog/three-hipaa-omnibus-rule-essentials-for-it-security)
+
 Tags: security
