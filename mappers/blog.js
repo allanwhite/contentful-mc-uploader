@@ -13,7 +13,8 @@ module.exports = function(file) {
     //Replace "Title" with "title", "SeoTitle" with "seoTitle", etc.
     keys.forEach(function(key) {
         var field = file.content.fields[key];
-        var newKey = key.charAt(0).toLowerCase() + key.slice(1);
+        // var newKey = key.charAt(0).toLowerCase() + key.slice(1);
+        var newKey = key.toLowerCase();
         delete file.content.fields[key];
         file.content.fields[newKey] = field;
     });
@@ -45,7 +46,6 @@ module.exports = function(file) {
     //Custom mappings
     var dateArray = file.content.fields.date['en-US'].split('/');
     var isoDate = dateArray[2]+'-'+dateArray[0]+'-'+dateArray[1];
-    console.log(isoDate);
     file.content.fields.pubDate = {
         'en-US': isoDate
     };
