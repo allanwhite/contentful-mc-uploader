@@ -8,7 +8,8 @@ Summary:
 Lead: |
 Today Ionic [officially launched](//blog.ionic.io/introducing-the-ionic-market-buy-and-sell-ionic-starters-plugins-and-themes/) their new [market](//market.ionic.io) which gives developers the opportunity to buy and sell Ionic goods such as, plugins, templates and starter projects.
 
-Body: |
+Tags: ionic, BaaS
+---
 Since Catalyze and Ionic share [_The City of Four Lakes_](https://en.wikipedia.org/wiki/Madison, _Wisconsin) as a headquarters we're always interested in what the other is doing. A few months ago we were contacted by Ionic to see if we'd be interested in featuring a product on their upcoming market. We were delighted to collaborate.
 
 #### Deciding on a product
@@ -33,4 +34,3 @@ We're excited to see Ionic Market grow and we'll continue helping them along the
 
 Don't forget to pick up your copy of the [Catalyze BaaS Seed Starter](//market.ionic.io/starters/catalyze-baas-seed) and as always, don't hesitate to [email us](mailto:hello@catalyze.io) with any questions/feedback.
 
-Tags: ionic, BaaS

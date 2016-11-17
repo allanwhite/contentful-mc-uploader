@@ -7,7 +7,9 @@ Summary:
 Lead: |
 There are great backend services, APIs, and SDKs that make it easy to build mobile apps. The problem is they aren't made for healthcare, and don't provide you with what you need to be HIPAA compliant, either in terms of technology or with a business associate agreement (BAA). If you want to store health information, or maybe transmit health information to a healthcare provider through something like HealthKit from Apple, and sell your app to healthcare organizations, you can't use these non-health backend services.
 
-Body: |
+Tags: hipaa, baas, tutorial, iOS, compliance
+Fullname: Josh Ault
+---
 We created the Catalyze HIPAA compliant API to make it simpler, faster, and cheaper for developers to build compliant apps without having to become HIPAA experts, spend $1000s a month for dedicated infrastructure, and spend tons of time setting up a compliant hosted environment.
 
 This post is an example of how you can use our healthcare API to build a compliant mobile app in under a day, without touching a server or database, and without dealing with the myriad of technology [requirements](https://catalyze.io/hipaa/) that exist within HIPAA.
@@ -158,6 +160,3 @@ Our free plan lets you get started. We sign BAAs once you upgrade to a [paid pla
 
 We hope this was helpful. Please [email us](mailto:hello@catalyze.io) if you have any questions about the guide or about getting started with Catalyze.
 
-Tags: hipaa, baas, tutorial, iOS, compliance
-Fullname: Josh Ault
----

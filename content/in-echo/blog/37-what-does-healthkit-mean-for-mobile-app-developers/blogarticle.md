@@ -7,7 +7,9 @@ Summary:
 Lead: |
 Apple WWDC was today. The buildup, as always, has been massive. It's always a surprise what will be unveiled, though some sources seem to get reliable info ahead of time. I wrote a [post](http://histalkmobile.com/what-could-healthbook-be/) last week on Healthbook. That post was largely speculative, as everything is before Apple formally announces it. In that post, I described Healthbook as the new app that is very likely going to be a part of the new version of iOS, iOS 8, from Apple.
 
-Body: |
+Tags: apple, mhealth, data, healthkit
+Fullname: Travis Good, MD
+---
 At that time the speculation, which I delve into much deeper in the post mentioned above, is that Healthbook would be basically Passbook but for health- and wellness-related cards. There are some major differences I thought would exist between Healthbook and Passbook. I speculated that Apple would take structured health and wellness data for Healthbook cards, not just blobs of data and images like Passbook. This is a major difference from Passbook and opens up Apple as a potential aggregator and hub of health and wellness data.
 
 Additionally, Apple has sensors built into its hardware, and these sensors are getting better with each new hardware release. These sensors can can track activity data on people. If Apple ever releases an iWatch, which it didn't announce at WWDC today, that may add to the set of data Apple is able to collect itself without 3rd party apps and sensors.
@@ -36,6 +38,3 @@ The major things I wonder about with HealthKit relate to privacy, security, and 
 
 As part of our HIPAA-compliant backend-as-a-service (BaaS), we'll be integrating our [iOS SDK](https://github.com/catalyzeio/catalyze-ios-sdk) with iOS 8, and building some cool samples to help you get started connecting to HealthKit. With very limited information on structured data in HealthKit, we're uncertain how our structured data [models](https://docs.catalyze.io/) will map to HealthKit, but our [custom classes](https://docs.catalyze.io/#custom-classes) support unstructured data in any case. Signup for a BaaS account [here](https://devportal.catalyze.io/) today or signup for our newsletter on the right to stay informed of updates.
 
-Tags: apple, mhealth, data, healthkit
-Fullname: Travis Good, MD
----

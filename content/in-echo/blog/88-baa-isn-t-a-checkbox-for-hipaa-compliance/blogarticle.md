@@ -8,7 +8,8 @@ Summary:
 Lead: |
 We get asked a lot about business associate agreements (BAAs). As you can see from the content on our blog [here](https://catalyze.io/blog/if-a-vendor-won-t-sign-a-baa-they-aren-t-hipaa-compliant), [here](https://catalyze.io/blog/top-5-things-you-find-in-an-ideal-business-associate-agreement), and [here](https://catalyze.io/blog/the-importance-of-business-associate-agreements), as well as our Learn entry [here](https://catalyze.io/learn/business-associate-agreements), we lay out the specific HIPAA rules for BAAs. We do this because BAAs are one of the most misunderstood and misinterpreted aspects of HIPAA. To be clear, BAAs are required to be signed by business associates (most of our customers) and subcontracts ([business associates of a business associate](https://catalyze.io/learn/hipaa-subcontractors-and-baas)). BAAs can't be avoided, whether you cleanly fit into a bucket of customers or technologies defined by HHS (you store, transmit, and/or process PHI) or your hospital and payer customers determine you have to follow HIPAA (even if you don't think so).
 
-Body: |
+Tags: business associates
+---
 A major issue with BAAs is the perception that, as a tech vendor, signing a BAA with your "compliant" hosting provider makes you HIPAA compliant. ("Compliant" is in quotes because we've seen a rash of hosting providers claim HIPAA compliance when they are far from it. Presently there is no penalty for marketing yourself as HIPAA compliant—the real punishment comes financially to its customers when it's too late.)
 
 While **HIPAA compliant** is a loaded term, simply signing a BAA in no way makes you compliant. [Complying with HIPAA](https://hipaa.catalyze.io/) requires many things, and signing BAAs is only one of them.
@@ -25,4 +26,3 @@ We debated about our BAA approach early on at Catalyze, but eventually settled o
 
 We're proud of where we landed with our BAA, and, while simply signing a BAA with us doesn't make you completely HIPAA compliant, it does relieve much of your technological and legal burden so you can focus on changing healthcare for the better.
 
-Tags: business associates

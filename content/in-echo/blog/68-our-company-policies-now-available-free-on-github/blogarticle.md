@@ -7,7 +7,9 @@ Summary:
 Lead: |
 Today is a big day for us, and for those businesses striving for HIPAA compliance. [Starting today, we are open sourcing all our company policies.](http://catalyzeio.github.io/policies/) Are you a company who handles PHI and trying to achieve HIPAA compliance? Then you'll find what we are about to share compelling and useful.
 
-Body: |
+Tags: compliance, policy, open source
+Fullname: Kris Gösser
+---
 Achieving HIPAA compliance generally has two halves. The first half includes all technical guidelines, both physical and digital. Encryption, logging, monitoring, backup—these are just a few examples. Since the beginning, Catalyze has worked every day to take on these technical burdens for our customers.
 
 The second half of HIPAA is focused on administrative and organizational activities, and these are where _your_ company policies come into play. Non-technical guidelines include signing Business Associate Agreements (BAAs), risk management procedures, and policies for training, among many other things. Crafting company policies that align with HIPAA administrative guidelines are straightforward, but an immense burden.
@@ -19,6 +21,3 @@ By open sourcing our own company policies, we hope other healthcare companies wi
 The policies are hosted on GitHub, the premier public platform for open-sourced content. [To read more, head over to the project's homepage.](http://catalyzeio.github.io/policies/)
 
 Let us know if you find these useful!
-Tags: compliance, policy, open source
-Fullname: Kris Gösser
----

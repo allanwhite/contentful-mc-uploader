@@ -7,7 +7,9 @@ Summary:
 Lead: |
 Building mobile and web applications in Health Care IT presents many risks and challenges to developers due to the need protect sensitive user information. Protected Health Information (PHI) must be protected or developers will expose themselves to potential litigation and fines. In the US, HIPAA defines the penalties for developers who's apps leak PHI. Other countries have similar rules and regulations, for example PIPEDA in Canada and DPA in the UK.
 
-Body: |
+Tags: phi, security
+Fullname: Ben Uphoff, PhD
+---
 Catalyze HIPAA Compliant [Mobile Backend as a Service](/baas) (Baas) helps mitigate risks to developers by providing a HIPAA-compliant datastore and infrastructure. Catalyze's compliant API handles critical details like managing secure servers, providing end-to-end encryption, encrypting data at rest, logging, disaster recovery and, of course, controlling access to users' PHI.
 
 Up until now, the permission model has been very simple: users are the only ones that can access their data. This **default deny** policy is important for protecting PHI, but limits the types of apps that can be built on the platform. With our latest release we have enabled Access Control Lists (ACLs) and Groups to provide developers with a more flexible permissions model that is easy to work with and still provides a great deal of power in enabling various data access scenarios.
@@ -40,6 +42,3 @@ Here is a list of features on our roadmap:
 
 If you have any questions or suggestions, please [email](mailto:support@catalyze.io) us.
 
-Tags: phi, security
-Fullname: Ben Uphoff, PhD
----

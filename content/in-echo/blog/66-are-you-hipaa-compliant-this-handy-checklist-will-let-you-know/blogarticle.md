@@ -7,7 +7,9 @@ Summary:
 Lead: |
 When we talk to companies who handle Protected Health Information (PHI), often the first topic of discussion is simply understanding what it takes to be HIPAA compliant.
 
-Body: |
+Tags: hipaa, self-assessment, checklist
+Fullname: Kris Gösser
+---
 "Am I HIPAA compliant? I don't even know."
 
 This is by far the question we're asked most often. HIPAA is so complex, people usually aren't even sure how it applies to them.
@@ -16,6 +18,3 @@ HIPAA doesn't have to be complicated. So we took this queue and simplified compl
 
 So far it has been helpful to those wondering how HIPAA applies to them. If you're in a similar position, take a few minutes and [give it a try](https://catalyze.io/hipaa-self-assessment-checklist).
 
-Tags: hipaa, self-assessment, checklist
-Fullname: Kris Gösser
----

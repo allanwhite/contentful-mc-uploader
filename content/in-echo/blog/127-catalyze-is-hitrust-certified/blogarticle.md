@@ -8,7 +8,8 @@ Summary:
 Lead: |
 > The reward of suffering is experience - Harry S. Truman
 
-Body: |
+Tags: hitrust, audit
+---
 
 When we founded Catalyze, our goal was to leverage the experience we had building and selling health technology into a product that would help other people more easily build and scale their own technology in healthcare. We essentially wanted to productize our previous work and experience in the industry. Our focus from inception has been on taking the compliance burden off the shoulders of our customers. We’re proud that our customers are [experiencing](https://catalyze.io/proof) that value. That’s why we’re incredibly excited to announce that the [Catalyze Platform](https://catalyze.io/products) is now fully HITRUST CSF Certified. You can read the official announcement [here](http://www.prweb.com/releases/2015/07/prweb12851981.htm).
 
@@ -24,4 +25,3 @@ But, that’s all the more reason to be excited about this announcement! HITRUST
 
 If you’re already a Catalyze customer, there’s nothing you need to do; the infrastructure you’re hosting on is now HITRUST CSF Certified. If you’re not a Catalyze customer and want to learn why this is so valuable, or you just have questions about what it takes to complete a HIPAA audit or HITRUST assessment, please don’t hesitate to [reach out](mailto:sales@catalyze.io).
 
-Tags: hitrust, audit

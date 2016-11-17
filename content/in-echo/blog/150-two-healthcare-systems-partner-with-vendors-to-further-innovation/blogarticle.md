@@ -8,7 +8,8 @@ Summary:
 Lead: |
 Healthcare systems are currently presented with the opportunity to contribute towards worthwhile innovations. The intersection currently happening between domains is disrupting the industry, allowing healthcare enterprises to leverage their influence to control costs and quality of patient care. There are cogent forces driving these disruptive innovations such as the need for economical, intuitive, and automated products and services. One way that healthcare providers can drive this innovation is through strategic partnerships with vendors. 
 
-Body: |
+Tags: innovation
+---
 We at Catalyze salute those healthcare systems seeking to better the industry and would like to call attention to two transformative partnerships.
 
 ### Cleveland Clinic & HealthSpot
@@ -19,4 +20,3 @@ Back in 2014, [Cleveland Clinic](http://my.clevelandclinic.org/), ranked a top f
 
 We look forward to following the positive results of these partnerships and many more like them. Do you know of any partnerships that are transforming the healthcare industry? Tell us by [tweeting us](https://twitter.com/catalyzeio)! And if you want to hear about what other industry leaders have to say, read our annual [Healthcare Innovation Series Report](https://catalyze.io/innovation/2015).
 
-Tags: innovation

@@ -7,7 +7,9 @@ Summary:
 Lead: |
 When we set out to build Catalyze, the one thing that kept cropping up as we talked to potential users, a lot of whom were coming from outside healthcare, was a lack of knowledge about all the complexities of healthcare data and standards. I wrote about [this](/blog/understanding-healthcare-vocabularies-code-sets/) a while back trying to summarize all the key standards and code sets that are most relevant for a healthcare developer. What I had also mentioned in that post was that v2 of the Catalyze HIPAA compliant API, what we sometimes refer to as [backend as a service](/baas), would be released shortly and include associated healthcare data models. We went live with v2 of the API a while back and have successfully tested it with lots of customers, from independent developers building mobile apps all the way up to multi-billion dollar enterprises building multiple apps as part of large scale innovation initiatives. In this post, which is long overdue, I outline the process that we went through in coming up with the data models and the routes for those healthcare specific APIs.
 
-Body: |
+Tags: hipaa, api, mhealth, healthcare data models, platform
+Fullname: Mohan Balachandran
+---
 ##Base the data models on messaging standards
 
 We researched healthcare data models extensively. Starting with a search on Google you get a whole bunch of proprietary content which isn't useful at all. After wasting a lot of time on those links, the realization that I came to was that we weren't trying to create a full fledged data model with a lot of relationships and dependencies. Instead, the goal from our end was to ensure that developers would have a great starting point which would / should cover most of their compliant data storage and use case needs.
@@ -63,6 +65,3 @@ This should give you an idea of the thought process that went into the overall s
 
 If you'd like to start playing around with what we already have, signup for a BaaS account [here](https://devportal.catalyze.io/) today, check out our documentation [here](https://docs.catalyze.io/), check out the guide we're writing on how to use the APIs [here](https://docs.catalyze.io/guides/api/latest/) (this is a work in progress) or signup for our newsletter on the right to stay informed of updates.
 
-Tags: hipaa, api, mhealth, healthcare data models, platform
-Fullname: Mohan Balachandran
----

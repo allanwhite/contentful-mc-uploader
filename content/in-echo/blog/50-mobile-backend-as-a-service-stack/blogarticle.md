@@ -7,7 +7,9 @@ Summary:
 Lead: |
 Welcome to our engineering blog. We intend for this section to cover in-depth technical content that is of interest to developers and ops folks. For a first post we are covering our Mobile Backend as a Service's stack. Future posts will drill down into the specifics of some of the more interesting pieces.
 
-Body: |
+Tags: hipaa, api, backend, BaaS, REST
+Fullname: Ben Uphoff, PhD
+---
 ### REST API
 
 Our REST API is written in Java using the [Dropwizard](https://dropwizard.github.io/dropwizard/) framework. Dropwizard bundles - among other things - strong [gradle](http://www.gradle.org/) support, [Jersey](https://jersey.java.net/), [Jackson](http://jackson.codehaus.org/) for JSON processing and a bunch of handy features like integrated metrics and YML configuration files.
@@ -28,6 +30,3 @@ To make the end-to-end tests easy to run, we have built out a development enviro
 
 We use [Jenkins](http://jenkins-ci.org/) and [Artifactory](http://www.jfrog.com/home/v_artifactory_opensource_overview) as our primary CI/CD tools. All commits to mainline branches trigger a build which will run through the test suite. Successful builds from release branches are packaged and shipped to Artifactory to be deployed.
 
-Tags: hipaa, api, backend, BaaS, REST
-Fullname: Ben Uphoff, PhD
----

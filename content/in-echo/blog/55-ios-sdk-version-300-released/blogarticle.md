@@ -7,7 +7,9 @@ Summary:
 Lead: |
 We've just released version 3.0.0 of the Catalyze iOS SDK! There are tons of new resources in the SDK to help you build HIPAA compliant mobile apps that will change healthcare. Head on over to the [github repo](https://github.com/catalyzeio/catalyze-ios-sdk) to get started.  The README has tons of examples and details on how to install the SDK.
 
-Body: |
+Tags: iOS, SDK, BaaS, mobile
+Fullname: Josh Ault
+---
 If you're upgrading from a previous SDK version check out the [migration guide](https://github.com/catalyzeio/catalyze-ios-sdk/wiki/ios-3.0-migration-guide) to see what's changed and how you can quickly bring your app up to speed with the latest version. Here's a quick list of what's changed:
 
 * File management has been added
@@ -23,6 +25,3 @@ If you're upgrading from a previous SDK version check out the [migration guide](
 
 New to Catalyze? [Signup](https://dashboard.catalyze.io/signup) for a free trial account or check out our [documentation](https://dashboard.catalyze.io/resources) for information about our HIPAA compliant API and SDKs. Feel free to [email us](mailto:hello@catalyze.io) if you have any questions or feedback. You can also send us a support request at [support@catalyze.io](mailto:support@catalyze.io) if you get stuck.
 
-Tags: iOS, SDK, BaaS, mobile
-Fullname: Josh Ault
----

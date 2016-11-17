@@ -7,7 +7,9 @@ Summary: Developers coming into healthcare are often confused as to why it's so 
 Lead: |
 
 
-Body: |
+Tags: codeset, icd10, icd9, loinc, snomed-ct, vocabularies
+Fullname: Mohan Balachandran
+---
 #### What are they, why they're important and how they're used
 
 Things have been really hectic with fund raising, working with our initial customers (enterprises and developers / agencies), writing requirements, testing... It's not that these are slowing down, it's just that I've decided to set myself a goal of writing at least one blog post every week and ideally move to a goal of 500 words a day.
@@ -56,6 +58,3 @@ And lastly, in the next version of the API that we're working on (v2.x), you wil
 
 Building compliant apps is hard, and that's where we started at Catalyze; but, adding interoperability and meaning to data collected, imported, or exchanged is also a huge challenge when building health apps. We have a lot more coming to simplify working with health data so stay tuned, or register and start building today!
 
-Tags: codeset, icd10, icd9, loinc, snomed-ct, vocabularies
-Fullname: Mohan Balachandran
----

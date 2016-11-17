@@ -8,7 +8,9 @@ Summary:  If there is one guiding belief which drives Catalyze, it's the view th
 Lead: |
 > Every mountain top is within reach if you just keep climbing. – Barry Finlay, *Kilimanjaro and Beyond*
 
-Body: |
+Tags: redpoint, integration
+
+---
 Today we are proud to announce the immediate availability of our integration solution product – **Redpoint**.
 
 ## Redpoint? What’s that? What does that mean?
@@ -41,4 +43,3 @@ By providing the industry’s leading integration services, Redpoint was inspire
 2. [Industry Shaking News at the HITRUST 3rd Party Assurance Conference](https://catalyze.io/blog/industry-shaking-news-at-the-hitrust-3rd-party-assurance-conference)
 3. [HITRUST will be a core requirement to do business with healthcare enterprises](https://catalyze.io/blog/hitrust-will-be-a-core-requirement-to-do-business-with-healthcare-enterprises)
 
-Tags: redpoint, integration

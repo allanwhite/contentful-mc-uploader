@@ -7,7 +7,9 @@ Summary:
 Lead: |
 So you're a DevOps engineer or, should I say, master of all things infrastructure related in your kingdom. You have many minions at your beck and call. Some may bring  your mail, others may serve as the interface to your kingdom from the outside world. Still others might store the data for your secret proven cheese recipe.
 
-Body: |
+Tags: configuration management, salt, IaaS, aws, rackspace, minions, automation
+Fullname: Mike Ortiz
+---
 With all of those minions running around, it can be like herding cats. Some running from village to village doing as they please, and others needing a lot of hand-holding just to get that one task you give them daily done.
 
 What ever is a master to do?
@@ -152,6 +154,3 @@ You can now sit back and watch salt-cloud setup your minions for you! In the nex
 It's important to note that many of these configuration directives are portable between providers, profiles and the map files. In other words, you can make a lot of these configurations happen at any level in the stack. That's useful if say, for example, you have multiple providers. You can set a "grains" list at the provider level that indicates to salt that servers on Amazon, for example, need to have their hostnames reconfigured and the ones on Rackspace don't. If you run a big flat network topology, for example, you can put the "networks" list at the provider level as well, or move it into the map file if you have a bunch of different networks. Really quite flexible!
 
 I'll cover these topics and more in the next post in the series, so stay tuned and happy mastering!
-Tags: configuration management, salt, IaaS, aws, rackspace, minions, automation
-Fullname: Mike Ortiz
----

@@ -8,7 +8,9 @@ Summary: Most people probably do not realize that traditional data management an
 Lead: |
 If you haven’t been following along on our blog, we have been taking a dive into the Government Accountability Office’s (GAO) recently released report, [Nonfederal Effort to Help Achieve Health Information Interoperability](http://www.gao.gov/assets/680/672585.pdf). Specifically, we have been exploring the five barriers this report found to achieving true nation-wide interoperability:
 
-Body: |
+Tags: privacy, interoperability
+
+---
 1. Insufficiencies in health data standards
 2. Variation in state privacy rules
 3. Accurately matching patients’ health records
@@ -36,4 +38,3 @@ Know of any other solutions on the market that can accurately match patient reco
 1. [Why Interoperability?](https://catalyze.io/blog/why-interoperability)
 2. [Need for Governance and Trust Among Entities](https://catalyze.io/blog/need-for-governance-and-trust-among-entities)
 3. [Variation in State Privacy Laws](https://catalyze.io/blog/variation-in-state-privacy-laws)
-Tags: privacy, interoperability

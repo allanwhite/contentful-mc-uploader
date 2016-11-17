@@ -8,7 +8,8 @@ Summary:
 Lead: |
 We recently sat down with R "Ray" Wang to chat about the disruption of healthcare business models. Ray was gracious enough to offer his time and insights—even while conducting the interview from Dubai! [You can read the transcript and watch the videos here](https://catalyze.io/innovation/r-ray-wang) or view a preview:
 
-Body: |
+Tags: innovation, business models
+---
 <iframe src="//fast.wistia.net/embed/iframe/l7k0claacb" allowtransparency="true" frameborder="0" scrolling="no" class="wistia_embed" name="wistia_embed" allowfullscreen mozallowfullscreen webkitallowfullscreen oallowfullscreen msallowfullscreen width="500" height="312"></iframe>
 
 This was a particularly special interview for us because of Ray's experience with healthcare _and_ business models. Business models are often a root instigator for innovation, regardless of industry. That healthcare is presently going through a shift makes the relationship between business models and innovation especially timely. His breadth and depth of knowledge made for an exciting interview with [Travis](https://catalyze.io/). The two of them spanned from the transitioning business models to Big Pharma to EHRs and back.
@@ -23,4 +24,3 @@ Anyone who retweets the tweet will be eligible to win a free copy of Ray's lates
 If you would like to simply purchase a copy of Ray's book, you can [find it on Amazon here](http://www.amazon.com/Disrupting-Digital-Business-Peer---Peer/dp/1422142019/ref=@rwang0). Many at Catalyze have read it already—it's a good read.
 
 Thanks again for the great conversation, Ray!
-Tags: innovation, business models

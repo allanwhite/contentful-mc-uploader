@@ -7,7 +7,9 @@ Summary:
 Lead: |
 There's a principle in engineering called security through obscurity, which is in contrast to security by design. Security by design is how we build technology at catalyze. Security through obscurity takes the premise that if you don't provide any information and you essentially keep the way that you do security, and the types of systems that you use, a secret, then people are less likely to find vulnerabilities and ultimately compromise your systems.
 
-Body: |
+Tags: hipaa, compliance, security, architecture, process
+Fullname: Travis Good, MD
+---
 There are theoretical reasons for this approach. A lot of the time, one of the first steps that a malicious attacker will take would be going through the process of network and information discovery. Learning the types of network that you're using, network technologies that you're running, ports that you have opened, operating system versions, application and database server types, all of these various pieces of your technology, is the first step for most malicious hackers. Security by obscurity relies on people not discovering the types of things you're running in your environment.
 
 This is in contrast to security by design, which is very upfront and well-documented in how things are made secure, relying on a proactive approach to security and patching as well as risk mitigation. Security through obscurity is not commonly accepted as a best practice in the industry. NIST specifically speaks against security through obscurity as not an effective way to do information security, or create information security program for an organization.
@@ -26,6 +28,3 @@ At Catalyze we take a radically different approach. We open up all of our [polic
 
 Our ultimate goal, through transparency - hopefully for us, as well as our customers - is to make it easier to sell into healthcare organizations. For us, customer data must be protected, privacy is paramount, and there's pretty clear and transparent mappings to all the different requirements that exist within HIPAA. We take the approach of compliance by design and compliance through transparency, and we think it's something that as an industry would help increase the pace of adoption of modern cloud-based technologies - not just for us, not just for our customers - but more broadly speaking, for all of the industry.
 
-Tags: hipaa, compliance, security, architecture, process
-Fullname: Travis Good, MD
----

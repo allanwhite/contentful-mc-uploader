@@ -8,7 +8,8 @@ Summary:
 Lead: |
 All organizations that are responsible for PHI, which includes hosting providers like [Catalyze](https://catalyze.io/), are mandated to conduct a HIPAA risk assessment as the first step toward integrating preventatives stipulated in the [HIPAA Security Rule](https://catalyze.io/learn/the-hipaa-security-rule) by The Department of Health and Human Services, and ultimately attaining true HIPAA compliance.
 
-Body: |
+Tags: risk assessment
+---
 ### So what does a HIPAA Risk Assessment require?
 
 The Department of Health and Human Services has defined nine necessary constituents of a HIPAA risk assessment that all healthcare and healthcare-related organizations that store or share ePHI must include in their assessment document:
@@ -35,4 +36,3 @@ Curious how we at Catalyze do our HIPAA Risk Assessment?
 
 Check out our [Catalyze HIPAA Docs](https://hipaa.catalyze.io/#catalyze-hipaa-compliance) for further detail on how we ensure HIPAA compliance.
 
-Tags: risk assessment

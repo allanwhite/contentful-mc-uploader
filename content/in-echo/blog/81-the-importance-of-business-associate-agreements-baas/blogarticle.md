@@ -8,7 +8,8 @@ Summary:
 Lead: |
 HIPAA guidelines define the safeguards for protected health information (PHI). Business Associate Agreements (BAAs) are contracts that outline how different organizations will handle electronic protected health information (ePHI) and the types of responsibilities that each organization assumes.  Simply put, a BAA defines responsibility, and thus liability, with respect to the handling of PHI data.
 
-Body: |
+Tags: business associates
+---
 We've written about BAAs [before](https://catalyze.io/learn/business-associate-agreements). Start there for a general understanding. The rest of this article, as well as a [Part 2 that talks about the top 5 things to look for in a business associate agreement](/blog/top-5-things-you-find-in-an-ideal-business-associate-agreement), will dive into why selecting a BAA is important, and give guidance when doing so.
 
 ### It's not just a checkbox
@@ -40,4 +41,3 @@ That leaves you with an intriguing proposition. By choosing Catalyze, you only e
 
 In our next article, we will take a look at the top things you should look for in a BAA. If you have any BAA questions, feel free to [email us](mailto:hello@catayze.io), we're always happy to help.
 
-Tags: business associates

@@ -7,7 +7,9 @@ Summary:
 Lead: |
 ##Initial Planning
 
-Body: |
+Tags: app, iOS, api, sms, messaging
+Fullname: Josh Ault
+---
 We recently had an internal hackathon here at Catalyze. We were trying to accomplish things we didn't think were possible on our HIPAA compliant APIs as well as try to break everything that we could. And of course, we succeeded in doing both. But don't worry, everything we broke is now fixed. But it's what we tried to accomplish that we didn't think was possible that turned out to be the most interesting. One of our projects involved creating a fully HIPAA compliant messaging app.
 
 Messaging apps are big in healthcare, and there's tons of interest in these types of apps to replace the current tools in place - mainly SMS/iMessage, MMS, and email - none of which are HIPAA compliant. There are a lot of companies that have launched messaging solutions for healthcare, and there are many organizations piloting or fulling replacing pagers with modern messaging solutions. It's been one of the big use cases for mHealth. We thought it was an interesting use case to showcase what can be done with our APIs.
@@ -46,6 +48,3 @@ The last class holds all the messages for all users titled `messages`. Much like
 
 You can check out the source code for HipaaGram on github [here](https://github.com/catalyzeio/HipaaGram). Be sure to put in your own API Key and app ID. To get started, [signup](https://dashboard.catalyze.io/signup) for a free Catalyze trial account or check out our [documentation](https://dashboard.catalyze.io/resources). Feel free to [email us](mailto:hello@catalyze.io) if you have any questions or feedback.
 
-Tags: app, iOS, api, sms, messaging
-Fullname: Josh Ault
----

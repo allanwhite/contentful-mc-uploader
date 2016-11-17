@@ -7,7 +7,9 @@ Summary:
 Lead: |
 Perhaps one of the most exciting updates with the upcoming release of iOS 8 is HealthKit API and associated Health app from Apple. With the HealthKit API, developers now have a way to pour health data into a centralized location on each device and access data stored in HealthKit created by a multitude of apps and devices. This opens the door for a tremendous amount of possibilities. First of all, Apple takes away one of the biggest hurdles with its Health app pre packaged on every device running iOS 8, deciding which health app to download. The Health app allows the owner of the device to see their health data that's being collected by multiple applications across their entire device aggregated in one location.
 
-Body: |
+Tags: healthkit, api, iOS
+Fullname: Josh Ault
+---
 This is great news for end users as they don't have to change which apps they are using to collect their health data and developers don't have to worry about talking directly with other apps. Everything deals directly with HealthKit. In the next couple posts we'll talk about some of the great features HealthKit offers and how you can leverage those to build an iOS health application. This post is going to primarily give a broader overview of HealthKit with shorter code snippets while the second will go into more detail with full code examples.
 
 ##Permissions
@@ -118,6 +120,3 @@ At Catalyze we can help you get started with HealthKit. We have begun developing
 
 Be on the lookout for another blog post announcing the release of this tool so you can start developing with HealthKit and Catalyze! We're excited to see the applications you come up with and would love to hear about them. Feel free to [email us](mailto:hello@catalyze.io) with any feedback or questions you might have.
 
-Tags: healthkit, api, iOS
-Fullname: Josh Ault
----

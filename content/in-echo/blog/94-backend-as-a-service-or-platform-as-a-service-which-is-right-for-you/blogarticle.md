@@ -8,7 +8,8 @@ Summary:
 Lead: |
 Navigating the As-A-Service waters can be a choppy adventure. Different service flavors exist up and down the entire technology spectrum, starting as low as Infrastructure as a Service (IaaS) — access to physical hardware — all the way up to Software as a Service (SaaS) — what most people utilize daily, like Salesforce and Gmail. We've written before about [different forms of cloud delivery](https://catalyze.io/blog/what-is-cloud-computing-and-why-it-matters-for-compliance).
 
-Body: |
+Tags: baas, backend as a service, paas, platform as a service
+---
 Two options that sit near the middle of the spectrum are Backend as a Service (BaaS for short) and Platform as a Service (PaaS). While close cousins, they are ultimately two very different services. Catalyze provides both a [Backend as a Service](https://catalyze.io/baas) and [Platform as a Service](https://catalyze.io/paas), and we often find customers aren't entirely sure which is the best fit for them. Today we want to briefly explain the difference.
 
 ### The Backend As A Service (BaaS)
@@ -39,4 +40,3 @@ Otherwise if you plan on interacting with PHI in any other way beyond simply sto
 
 If you have any additional questions, feel free to ping us on our Olark site chat, where we rotate team members to help with questions just like this, or send us an email at [hello@catalyze.io](mailto:hello@catalyze.io).
 
-Tags: baas, backend as a service, paas, platform as a service

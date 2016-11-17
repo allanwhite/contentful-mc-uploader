@@ -8,7 +8,9 @@ Summary: Questions From the HITRUST Third Party Assurance Summit
 Lead: |
 Last week we [posted][1] about the big news from the HITRUST Third Party Assurance Summit, namely that several huge organizations including United Healthcare, Humana, and Anthem, are requiring all business associates and partners to become HITRUST CSF Certified. Existing vendors will have contracts negotiated to come in line with this new requirement. In addition to the group of large payers requiring HITRUST CSF Certification, ten pediatric hospitals are also sending letters to all business associates and partners that they strongly encourage them to become HITRUST CSF Certified.
 
-Body: |
+Tags: hitrust, audit
+
+---
 This was very big news, and the reaction at the conference was fitting the announcement. Almost every session saw audience members waiting in line to ask questions of speakers. And the general sentiment was could be described as “shocked”. It made for a lively and fruitful conference. I think a lot of people were candid in their reactions and the speakers were truthful and accurate in responses. There were several themes that popped up in audience questions that we’ve covered below.
 
 ### Why is the industry forcing its business associates and partners to be HITRUST CSF Certified?
@@ -37,4 +39,3 @@ We hope this summary of the HITRUST Third Party Assurance Summit was helpful. As
 [2]:	https://hitrustalliance.net/soc2/
 [3]:	mailto:hello@catalyze.io
 
-Tags: hitrust, audit

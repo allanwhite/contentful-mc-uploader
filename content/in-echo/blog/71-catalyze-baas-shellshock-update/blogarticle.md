@@ -7,7 +7,9 @@ Summary:
 Lead: |
 As you're likely aware, [CVE-2014-6271](http://www.troyhunt.com/2014/09/everything-you-need-to-know-about.html) or "Shellshock" was made public in the last 24 hours. Considered by many to be a vulnerability of Heartbleed proportions or greater, security analysts and programmers sprung into action to begin to fix the problem. Here's what we know and how it affects your usage of BaaS:
 
-Body: |
+Tags: shellshock, security
+Fullname: Mark Olschesky
+---
 1. **No piece of code which operates BaaS has access to bash or can possibly run bash.** No CGI Scripts. Nothing.
 
 2. This doesn't mean that we aren't still cautious. We applied current system updates to BaaS servers for both Ubuntu and bash, but while this prevented certain Shellshock exploit user cases, it did not prevent all of them. *Again, this doesn't affect BaaS.* However, for other software which you might be running this might not necessarily be true. Upstream developers from bash have not yet published a patch, so be wary as a developer: there is no definitive fix to Shellshock just yet.
@@ -23,6 +25,3 @@ Thanks for sticking with us. Since PHI is stored on BaaS, it is our responsibili
 Thank you, 
 
 The Catalyze Team
-Tags: shellshock, security
-Fullname: Mark Olschesky
----

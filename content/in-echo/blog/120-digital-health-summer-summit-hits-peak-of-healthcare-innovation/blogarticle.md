@@ -8,7 +8,8 @@ Summary:
 Lead: |
 Going into the 2015 Digital Health Summer Summit this past week, we at Catalyze knew that we were in for an exhilarating time amongst our healthcare confreres, but we had no conception as to the impression we would be leaving the event with. And there’s only one word to put it simply — Wow! 
 
-Body: |
+Tags: digital health summit
+---
 ### UCSF Innovation Lab Tours
 
 The two-day gathering began Thursday, June 18, with an extraordinary tour through three leading innovations centers at UCSF - The Gazzaley Lab, UCSF Human Performance Center at the Orthopedic Institute, and the UCSF Medical Center at Mission Bay. There we got to take an unparalleled glimpse into these state-of-the-art digital health facilities and witness their inner functionalities. Starting with the Human Performance Center, launched in 2014, we got to better understand how this innovative organization helps athletes better understand how they perform and what they can do to prevent and work around injuries while simultaneously optimizing efficiency. This lab is also a joint innovation UCSF has with Samsung, being the first-of-its-kind, where innovators and entrepreneurs can validate their technologies and accelerate the adoption of new preventative health solutions. Next up, The Gazzaley Lab, where we witnessed some of the latest and greatest happenings in modern cognitive neuroscience from the neural mechanics of memory to the possibilities of therapeutic intervention to alleviate cognitive deficits. And finally as the last stop on our tour, an up-close and personal look at the brand new UCSF Medical Center at Mission Bay. When they say that this hospital was built with “a focus on the patient’s experience every step of the way, ” they weren’t kidding. Walk inside and you’ll find state-of-the-art, cutting-edge technology including personalized robotics and telemedicine that concurrently produces the highest merits of patient safety, energy efficiency, seismic readiness and environmental sustainability. 
@@ -31,4 +32,3 @@ In part three, our very own CEO and Co-Founder, Travis Good, got to speak on a p
 
 At the end of it all, our minds were overloaded with context into our growing profession and popularity. The insights we gained will guide us to continue to better healthcare and how we should adjust and maneuver our approach. We were proud to be in attendance and a sponsor of such an incredible event and look forward to returning in years to come. A huge thank you to everyone who made the event possible. We are truly diffident by all that is happening but are filled with triumph and rejoice in seeing such a magnificent impact that we, as an industry, continue to make daily.
 
-Tags: digital health summit

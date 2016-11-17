@@ -7,7 +7,9 @@ Summary: We're working on taking much of the discovery and drudgery out of build
 Lead: |
 [Wikipedia](http://en.wikipedia.org/wiki/Backend_as_a_service) summarizes it best (as always)
 
-Body: |
+Tags: baas, backend as a service, blue button, hipaa, icd10, icd9, loinc, rxnorm
+Fullname: Mohan Balachandran
+---
 > Although similar to other cloud computing developer tools, such as software as a service(SaaS), infrastructure as a service (IaaS), and platform as a service (PaaS), BaaS is distinct from these other services in that it specifically addresses the cloud computing needs of web and mobile app developers by providing a unified means of connecting their apps to cloud services.
 
 The concept of a backend as a service (BaaS) is simple. All application developers (web or mobile) require a core set of features that need to be incorporated into every app. Examples of these features include user management, push notifications, integration with Facebook, Google+ etc., and cloud based data/file/image/video storage. These backend features take about 50% of overall app development time and cost.
@@ -58,6 +60,3 @@ We will accomplish this through a growing set of RESTful APIs and a set of SDKs 
 
 Our mission is to become the defacto standard to build, test and deploy healthcare apps.
 
-Tags: baas, backend as a service, blue button, hipaa, icd10, icd9, loinc, rxnorm
-Fullname: Mohan Balachandran
----

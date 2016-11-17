@@ -8,7 +8,8 @@ Summary:
 Lead: |
 Healthcare enterprises are striving to achieve the “triple threat of patient engagement":
 
-Body: |
+Tags: patient engagement
+---
 -  Enhance the patient care experience (quality and gratification)
 -  Improve the general population health
 -  Minimize cost of care
@@ -39,4 +40,3 @@ When a subset of the populace is identified in care, messages must be delivered 
 
 What do you think are key criterion for a successful patient engagement strategy? Keep the conversation going by sending us an [email](hello@catalyze.io) or [tweeting us](https://twitter.com/catalyzeio).
 
-Tags: patient engagement

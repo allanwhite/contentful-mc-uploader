@@ -8,7 +8,9 @@ Summary: The cost of data breaches on providers as a whole is estimated to be at
 Lead: |
 > The mantra of any good security engineer is: ‘**Security is not a product, but a process**.’ It’s more than designing strong cryptography into a system; it’s designing the entire system such that all security measures, including cryptography, work together. – Bruce Schneier
 
-Body: |
+Tags: security
+
+---
 Healthcare professionals have been tasked with achieving the fine balance between the need to ensure [data security](https://catalyze.io/solutions/data-integration-control) and the demand for complete access to information. Though with the incursion of medical and mobile devices – consumer, doctor and hospital – security needs must become top priority. Failure to implement proper access controls in the United States is one of the largest attributors to compromising healthcare organizations’ [patient data](https://catalyze.io/learn/what-is-protected-health-information-or-phi) security. The cost of data breaches on providers as a whole is estimated to be at an astounding total of seven billion dollars. With a precarious price point like that, here are a few key points into securing network access:
 
 ### Network Access Control (NAC) Solutions
@@ -27,4 +29,3 @@ There are many more methods of securing network access so look out for future pu
 2. [VPNs, Security and Healthcare Integration](https://catalyze.io/blog/vpn-security-healthcare-integration)
 3. [3 HIPAA Omnibus Rule Essentials for IT/Security](https://catalyze.io/blog/three-hipaa-omnibus-rule-essentials-for-it-security)
 
-Tags: security

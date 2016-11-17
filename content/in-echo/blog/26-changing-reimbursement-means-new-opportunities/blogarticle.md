@@ -7,7 +7,9 @@ Summary:
 Lead: |
 Health technology is hot. Entrepreneurs are flocking to it and it's becoming a lot more attractive to [investors](http://rockhealth.com/2014/01/2013-digital-health-funding-report/). A big area of interest, one we are betting on as well, is the power of mobile technology to reshape all aspects of healthcare. Mobile health, or mHealth, isn't a panacea, but it is a catalyst for new processes, workflows, data collections, and ultimately care, whether that's self care or clinician-provided care. When we say "mHealth", we're speaking to more than apps but also sensors, messaging services, and other connected devices.
 
-Body: |
+Tags: mhealth, reimbursement, reform
+Fullname: Travis Good, MD
+---
 What are the hurdles for mobile health? It's healthcare, a highly regulated industry with payment complexity that's hard to fathom. Lots of people, and [studies](http://www.brookings.edu/~/media/research/files/reports/2014/03/12%20mhealth%20china%20united%20states%20health%20care/mhealth_finalx.pdf), cite payment reimbursement as a major hurdle. Healthcare today is still largely based on delivering care, getting people in the door, and poking and prodding; that's what keeps the lights on today. Here's a simple example - getting people to send you a pain score through SMS or a mobile app isn't reimbursable directly (there aren't billings codes or modifiers for billing codes for these things). It's a lot harder to make a convincing ROI argument for mHealth apps and services without reimbursement.
 
 But there are several changes coming to healthcare, some of which are already here but not at scale, that make mHealth more attractive with a more clear ROI. Triple Tree has a good [post](http://www.triple-tree.com/blog/2014/04/08/four-cms-initiatives-that-may-reshape-hospital-reimbursement/) on four major CMS initiatives that are changing reimbursement.
@@ -26,6 +28,3 @@ Mobile health has huge potential but also large challenges to overcome. These re
 
 Catalyze is supporting some of these companies, both with technology as well as with overcoming compliance hurdles when they sell to hospitals. To learn more about how we can help you, email [us](mailto:hello@catalyze.io) today.
 
-Tags: mhealth, reimbursement, reform
-Fullname: Travis Good, MD
----

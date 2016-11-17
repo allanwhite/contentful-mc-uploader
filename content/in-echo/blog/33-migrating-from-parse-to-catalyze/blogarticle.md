@@ -7,7 +7,9 @@ Summary:
 Lead: |
 [Parse](http://www.parse.com) is a popular platform, allowing for data to be easily stored and retrieved. But, what happens if you need to store PHI (protected health information)? Bad news - [Parse isn't HIPAA-compliant](https://www.parse.com/questions/hipaa-compliance). Storing such data in the Parse platform would put you in hot water. Good news - [Catalyze is a fully compliant environment](https://catalyze.io/compliance/), and migrating from Parse (or even starting fresh) isn't hard. This post will go over migrating a small app.
 
-Body: |
+Tags: code, tutorial, example, javascript, api, compliance, hipaa, guide
+Fullname: Alex Foran
+---
 Parse modified the backbone [TodoMVC](http://todomvc.com/) example to show how to use their Javascript SDK - we'll base our example migration off of that. Their code for that example is [here](https://github.com/ParsePlatform/Todo).
 
 # Models
@@ -19,7 +21,7 @@ The Todo app makes use of two Parse data types - Users and Collections. We need 
 A Parse user is pretty basic - it requires a username and password to sign up, and allows for an optional email address - which this app doesn't use. The choice of corresponding Catalyze model here is pretty easy - the [User model](http://docs.catalyze.io/api/latest/#users) even has the same name. Let's map out the required fields for both:
 
 |Parse.User|Catalyze.User|
-|----------|-------------|
+|-------|-------|
 |username|username|
 |password|password|
 |email (optional)|email.primary|
@@ -174,7 +176,7 @@ this.updateUser = function(token, userId, user) {
 ##### Sign In and Sign Up
 
 |Parse|Catalyze|
-|-----|--------|
+|-----|-----|
 |![Parse Todo](http://catalyzeio.github.io/Todo/images/parse-signin.png)|![Catalyze Todo](http://catalyzeio.github.io/Todo/images/catalyze-signin.png)|
 
 Aside from changing the title and footer, you can see that we've also added an email field. As discussed in the User model, Catalyze requires an email address for user activation, so we need a place to enter that.
@@ -215,6 +217,3 @@ There's some extra angular fiddling done for the filters, and some additional CS
 
 Thanks for reading! We hope you enjoy working with the Catalyze v2 API. If you have any problems, please contact us at [support@catalyze.io](mailto:support@catalyze.io).
 
-Tags: code, tutorial, example, javascript, api, compliance, hipaa, guide
-Fullname: Alex Foran
----

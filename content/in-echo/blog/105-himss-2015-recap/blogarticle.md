@@ -8,7 +8,8 @@ Summary:
 Lead: |
 Our team is still recovering from HIMSS. Each year the event gets larger (I read attendance was just north of 40, 000 this year) and longer (starting on Saturday this year and running until Thursday). It's an exhausting event but also **the** conference for connecting with anybody in health tech, be they vendors, enterprises, government officials, consultants, or investors.
 
-Body: |
+Tags: himss, care coordination, interoperability, watson, Apple, conferences
+---
 I think this is my 6th HIMSS and each year I'm shocked by the size of the exhibitor hall. The floor seems to go on forever. What's most surprising is not the over-the-top mega booths for major vendors like Microsoft, Optum, and Epic, but the endless sea of booths with names and logos you don't know. It speaks to the size of the healthcare technology market. If you pay attention, you quickly see seemingly "small" niches in healthcare can create large companies.
 
 It's always hard to summarize HIMSS. It's like summarizing the industry generally. With that grain of salt, a few of the things we noticed consistently coming up are listed below.
@@ -37,4 +38,3 @@ Maybe it's just our lens, but we're very excited about the trends we saw. As a c
 
 In terms of location, and having now been to all of the 4 venues that have been deemed large enough to host HIMSS (Chicago, New Orleans, Las Vegas, and Orlando), Chicago is by far the best. We may have lucked out with the weather, which is always a curve ball in Chicago, but the comparative ease of finding lodging, transportation (Uber surge pricing was in effect all week I think), and restaurants makes Chicago a better place for a conference this size. Next year the conference is in Las Vegas. We'll see you there.
 
-Tags: himss, care coordination, interoperability, watson, Apple, conferences

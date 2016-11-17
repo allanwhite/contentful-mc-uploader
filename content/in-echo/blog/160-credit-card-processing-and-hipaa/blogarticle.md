@@ -8,7 +8,8 @@ Summary:
 Lead: |
 Credit card processing is one of the most common payment methods in healthcare, especially as the American economy becomes growingly paperless. The information transmitted when processing a credit card is often unconsidered, as well as the potential repercussions of a privacy breach, because many are unaware that this data is [protected health information](https://catalyze.io/learn/what-is-protected-health-information-or-phi) (PHI). The data components in this transaction include the processor’s information (primary care giver), name of credit card owner (patient), and specified time of transaction. Knowing just this much could allow data hackers to target specific patients, therefore classifying credit card data as ePHI (electronic protected health information). 
 
-Body: |
+Tags: credit cards, pci, business associates
+---
 ### Credit Card Processors and Business Associate Agreements (BAAs)
 
 Many wonder if they need a [business associate agreement](https://catalyze.io/blog/the-importance-of-business-associate-agreements-baas/) with payment providers and services to comply with HIPAA. Although processing payments through a credit-card processor generates PHI, [Health and Human Services (HHS)](http://www.hhs.gov/) has stated that this process is specifically excluded from certain HIPAA mandates, as well as BAA requirements - the key word here being ‘certain’. 
@@ -27,4 +28,3 @@ For further reading, check out these other posts:
 
 If you want to read what the healthcare industry thought leaders have to say about healthcare innovation, you can check out our [annual report](https://catalyze.io/innovation/2015) that looks at the most sweeping insights going in this ever evolving industry.
 
-Tags: credit cards, pci, business associates

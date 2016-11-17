@@ -7,7 +7,9 @@ Summary:
 Lead: |
 In [part 1](/blog/how-to-design-a-hipaa-compliant-healthcare-api) we discussed why we structured our backend as its built. Now in part two we'll discuss how to get started with building out your apps.
 
-Body: |
+Tags: hipaa, design, custom classes, data, api
+Fullname: Mark Olschesky
+---
 ##Step 1: Develop your application's data models##
 Now that you know a bit more about the data structures that comprise standard Catalyze data models, decide which models you will need to use. Not sure where to start? Let me ask you some questions to help you hone in on what you need.
 
@@ -86,6 +88,3 @@ PUT /classes/EncounterNote
 
 Overall, the best piece of advice that I can give you getting started is to not create two data models where one will suffice. In healthcare, it's not uncommon to have an app that operates in various contexts with variations on use cases.  Your ED docs may want something different than Family Medicine doctors in an office, who may want something different than an attending on the Hospital floor. Just because you have three different care settings doesn't mean that you should have three different data models for each care setting for a similar object. Instead, create a custom class with a type or location modifier that allows you to differentiate functionality and usage upon querying the API for that data type. It's much harder to merge data back together in the future than it is to separate it out if you decide that that is prudent at a later date.
 
-Tags: hipaa, design, custom classes, data, api
-Fullname: Mark Olschesky
----

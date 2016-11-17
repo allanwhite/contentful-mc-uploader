@@ -7,7 +7,9 @@ Summary:
 Lead: |
 If you're flipping through the Catalyze compliant API [documentation](https://docs.catalyze.io/), one of the things that you'll notice is that we've given you the ability to delete any data that you wish to delete. We advise you that the deletion is permanent; **you know that we mean it because we put the font in all bold at that part**. However, at the end of the day, you're the boss. You're building your own product and we've given you the means to manage your data as you wish.
 
-Body: |
+Tags: hipaa, Legal medical record, standards, app design, api
+Fullname: Mark Olschesky
+---
 But, if this is your first time building a healthcare application, or maybe if you're looking for a refresher, you might be asking yourself "How long am I (and my customers) actually required to maintain PHI? Do we have to maintain PHI at all?". The answer isn't necessarily straightforward, but I'll try to walk you through some basic rules and thought processes on the topic. We'll hit some jargon along the way, and I'll try to explain things as I go along.
 
 The first thing to understand when discussing the longevity of PHI is to understand that most of the rules that govern the maintenance of PHI were written before the prevalence of Electronic Medical Records and computers. It wasn't that long ago that thick paper charts were the norm instead of the outlier. Paper degrades over time and requires a massive amount of space to store. Paper records went from being in the office, to being in some storage facility, to generally discarded after they had outlived their usefulness. It was much more expensive to store paper than files on a server, so laws and regulation are generally empathetic to this problem.
@@ -39,6 +41,3 @@ Advice contained within this article should not be construed as legal advice. We
 [^3]: Texas Medical Board here: http://www.texmed.org/template.aspx?id=1556
 
 [^4]: New York State: http://www.health.ny.gov/professionals/doctors/conduct/frequently_asked_questions.htm#retention_of_medical_records
-Tags: hipaa, Legal medical record, standards, app design, api
-Fullname: Mark Olschesky
----

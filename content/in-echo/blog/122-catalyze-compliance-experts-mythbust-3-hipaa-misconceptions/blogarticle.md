@@ -8,7 +8,8 @@ Summary:
 Lead: |
 ### Catalyze Compliance Experts MythBust HIPAA 
 
-Body: |
+Tags: compliance, hipaa
+---
 As HIPAA experts, we at Catalyze are constantly approached for our advice on all aspects in relation to compliance, and in these discussions we are perpetually astonished by the myriad of misconceptions that surround HIPAA. So in the spirit of benefiting general digital and healthcare literacy, let us shed some light on some common myths and fallacies that you may have.
 
 ### *HIPAA Requires Data Destruction of PHI*
@@ -25,4 +26,3 @@ In the complicated world that is HIPAA, misconceptions run rampant as it is easy
 
 Check back on our [Blog](https://catalyze.io/blog) regularly to stay up to date on what you need to know and follow our [Twitter ](https://twitter.com/catalyzeio)for a live feed on what’s going on in the industry and how Catalyze is making strides to improve healthcare.
 
-Tags: compliance, hipaa

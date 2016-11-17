@@ -8,7 +8,8 @@ Summary:
 Lead: |
 We recently published the third installment in our [Innovation Series](https://catalyze.io/innovation), and couldn't be more thrilled to share the insights the participant, Chris Belmont from MD Anderson Cancer Center, shared with us.
 
-Body: |
+Tags: innovation
+---
 As the CIO of MD Anderson, Mr. Belmont has many responsibilities, but currently one of the biggest is managing the new Epic install. In this interview, we talked about implementations such as this, important metrics for CIOs to track, and how to manage transformation and change.
 
 [Read the interview or watch the video recordings here.](https://catalyze.io/innovation/chris-belmont)
@@ -17,4 +18,3 @@ This is our third interview. Previously we interviewed [Dr. Marc Chasin](https:/
 
 We have many more interviews with some of healthcare's best innovators and leading CIOs lined up throughout 2015. More information about the series, as well as a phenomenal discussion with Dr. Molly Coye from UCLA health, will be published in March. If you want to subscribe for email updates when new interviews are published, check out the [Innovation Series front page](https://catalyze.io/innovation).
 
-Tags: innovation

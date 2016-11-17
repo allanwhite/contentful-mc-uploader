@@ -8,7 +8,8 @@ Summary:
 Lead: |
 _This entry was taken and adapted from an original article published on [HIStalk](http://histalkmobile.com/) on August 18, 2014 by [Travis Good](https://catalyze.io/travis), MD, Catalyze Co-Founder & CEO. You can read the original [here](http://histalkmobile.com/whats-your-patient-engagement-strategy/)._
 
-Body: |
+Tags: patient engagement
+---
 I like to ask people from health systems, most of them from the IT side, about their [patient engagement](https://catalyze.io/solutions/patient-engagement) or digital engagement strategy. It’s interesting to hear how systems think about digital engagement considering the buzz and hype it is getting from vendors and pundits.
 
 My unscientific opinion is that very few systems have anything resembling a patient engagement strategy. Despite getting so much attention, most healthcare delivery organizations aren’t preparing for patient engagement.
@@ -44,4 +45,3 @@ This is not a knock against the EHR vendors or a reference to the intuitiveness 
 Where does that leave all of the developers and startups that are building technology to engage patients? One of the major challenges for them is overcoming the stopgap PHR objections from enterprises. They can certainly go directly to consumers, and many of them are. The data silos opening up are helping those engagement startups populate their apps without having to rely on manual entry. 
 
 It’s easier to get patients to adopt something when the provider and health system buy in. That’s why MyChart is the most popular PHR. But is MyChart what people want, or rather is it what people get?
-Tags: patient engagement

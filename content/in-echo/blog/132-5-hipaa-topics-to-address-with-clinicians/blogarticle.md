@@ -8,7 +8,8 @@ Summary:
 Lead: |
 HIPAA regulations outline IT compliance in high-level detail but  does not specify methods for true compliance. This lack of a guided approach can prove to be an obstacle for healthcare clinician managers seeking concrete methods to train personnel, especially in regards to technology.
 
-Body: |
+Tags: hipaa, clinical
+---
 Fortunately, Catalyze is here to help you by making sure your training focuses solely on what clinicians need to know, which will save time and increase engagement. Here are the five key topics we suggest you focus on in your HIPAA training sessions:
 
 ### 1) Remote Access to the Electronic Health Record (EHR)
@@ -38,4 +39,3 @@ In the modern day, most clinicians are somehow involved with at least one social
 
 All in all, HIPAA compliance training should be very thorough but still direct with your clinicians. These are points to be treated as critical training areas for your organization. Have questions? Reach out to us by sending us an email at [hello@catalyze.io](hello@catalyze.io). And if you want a complete summary on HIPAA, check out our [HIPAA compliance guide ](https://catalyze.io/hipaa-compliance/) written by our team of experts.
 
-Tags: hipaa, clinical

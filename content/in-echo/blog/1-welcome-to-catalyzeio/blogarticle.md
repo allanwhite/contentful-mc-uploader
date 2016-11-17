@@ -7,7 +7,9 @@ Summary: We’re on a mission to democratize health app development, ahead of ou
 Lead: |
 We’re on a mission to **democratize health app development**. We’re just getting started and have a long way to go, but we’ve got a great start because we’ve developed, and are still developing, apps for health and fitness. We also eat, drink, and sleep health tech so we know much of what’s missing, what’s hard, and what should be easier.
 
-Body: |
+Tags: mission, values, welcome
+Fullname: Travis Good, MD
+---
 A few tenants that help us stay the course:
 
 - Health app development **shouldn’t be harder** than other verticals. Health tech has both technology challenges and a distribution challenges to overcome before it realizes it’s potential.
@@ -20,6 +22,3 @@ A few tenants that help us stay the course:
 
 Please stay tuned as we move closer to our public launch. If you’re interested in being a part of our private beta, please drop us an email.
 
-Tags: mission, values, welcome
-Fullname: Travis Good, MD
----

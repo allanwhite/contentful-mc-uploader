@@ -8,7 +8,8 @@ Summary:
 Lead: |
 > You must pay the price if you wish to secure the blessing. — Andrew Jackson
 
-Body: |
+Tags: audit, hitrust
+---
 
 At Catalyze we've been through three external audits conducted by a large, national auditing firm. In all three cases, I've personally led the efforts from our side, coordinating our internal resources as needed. I wouldn't call it a fun process, but it has helped add rigor to our internal security and compliance programs. It validated the hard work we've done to build a fully HIPAA-compliant platform, and associated organization, that exceeds the HIPAA rules. We've also learned what does and does not meet HIPAA standards from an external or auditor perspective.
 
@@ -53,4 +54,3 @@ If you are considering an audit, cost is only one consideration. Audits are time
 
 It's also important to understand that the cost of an audit is not simply a cost at one point in time. Audits are typically followed by annual reviews, sort of like miniature audits. These too cost money, eat time, and can be a distraction. We're working on calculating the overall cost of being HIPAA compliant so stay tuned for more soon. Also, if you have audit insights you can share, [we'd love to hear them](mailto:hello@catalyze.io).
 
-Tags: audit, hitrust

@@ -7,7 +7,9 @@ Summary:
 Lead: |
 Medicare [released](https://www.cms.gov/Research-Statistics-Data-and-Systems/Statistics-Trends-and-Reports/Medicare-Provider-Charge-Data/Physician-and-Other-Supplier.html) billing and payment data this week on individual providers. The data shows the number of billing codes each provider hit in 2012 and how much each provider collected from Medicare. The media is running with stories, and the press is not good for doctors. A small subset of doctors account for a large percentage of overall Medicare payments, but I think the overall impression the public is getting is that doctors bill Medicare a lot for their services. While there are definitely some bad apples, overall most doctors are not abusing the system.
 
-Body: |
+Tags: reimbursement, medicare, billing, reform
+Fullname: Travis Good, MD
+---
 There are lots of variables that determine how physicians bill. One, relevant to this data, is the percent of patients in a practice that are on Medicare. It's hard to compare a practice with 20% Medicare patients to a practice with 80% Medicare patients.
 
 Another variable is the amount of expensive medications used in outpatient settings. Some specialties, like ophthalmology and oncology-related specialties, use a lot of these expensive medications. These specialties, not surprisingly, happen to be the top 4 specialties that [bill](http://www.marketplace.org/topics/health-care/these-are-highest-paid-doctors-medicare) Medicare over $3 million a year. Because of this, they bill a lot, but much of what they bill is a direct pass through to the drug companies that make the drugs they are using. The Wall Street Journal did a good job with this graphic that shows the percent of billing that is actually expenses.
@@ -22,6 +24,3 @@ The point is only that healthcare is exceptionally expensive, and doctors are no
 
 The system is setup to be complex. And it's only getting worse with ICD-10. Today, providers will usually bill multiple codes per patient visit. It's usually an office visit code (which can be a new or existing patient and can be at different levels depending on complexity - time spent, questions asked, etc) + some type of procedure (biopsy, for example) or order code (lab test, for example). That's an easy example, they get a lot more complex. You can see if you look at the newly released provider data that Medicare only pays $3-5 for some of those add-on visit codes. Does it really seem like a good use of time to have docs, and billers, hitting all these extra codes to collect little bits here and there? It's like a game, and it's easily manipulated even while staying within the rules. It's ripe for fraud, and error, and hopefully that's more of the message with this data release than anything else. Aspects of billing and reimbursement are [changing](/blog/changing-reimbursement-means-new-opportunities/), but it's slow and not widespread.
 
-Tags: reimbursement, medicare, billing, reform
-Fullname: Travis Good, MD
----

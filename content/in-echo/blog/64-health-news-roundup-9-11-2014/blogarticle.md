@@ -7,7 +7,9 @@ Summary:
 Lead: |
 CVS, Hospital Hacks, VA, Obamacare, Interoperability
 
-Body: |
+Tags: healthit, trends, news
+Fullname: Sarah Nettie
+---
 #### [CVS Stops Tobacco Sales Today, Changes Name To Reflect New Era](http://getprismatic.com/story/1409719091444?share=MTIxOTI3.MTQwOTcxOTA5MTQ0NA.QZrzXW76j3Ful1WmpeUx9U0VIVI&utm_content=buffer2151f&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
 CVS, the giant drugstore chain that shocked the U.S. public health community and Wall Street with its decision earlier this year to remove tobacco products from its shelves by October, said cigarettes are officially no longer on store shelves a month ahead of schedule.
 
@@ -31,6 +33,3 @@ For data and systems interoperability to become widespread, both government and 
 As we approach National Health IT Week, it is a good time to take into consideration how we, as active members within our own healthcare organizations, can help forge a path that results in true healthcare interoperability.
 
 The healthcare industry is at a critical point -- although interoperability is poised to radically transform the healthcare system, achieving it poses unique challenges and barriers to success that are problematic around the world. Will true healthcare interoperability ever happen? I think it will. But first, key industry players must collaborate -- not simply rely on our national agenda -- to achieve it. <br>source: Prismatic
-Tags: healthit, trends, news
-Fullname: Sarah Nettie
----

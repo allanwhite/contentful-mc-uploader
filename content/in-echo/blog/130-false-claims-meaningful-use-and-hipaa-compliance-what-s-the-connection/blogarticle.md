@@ -8,7 +8,8 @@ Summary:
 Lead: |
 # False Claims Act
 
-Body: |
+Tags: hipaa, false claims, meaningful use
+---
 First, what is the False Claims Act? 
 
 The False Claims Act inflicts forfeitures on anyone and everyone who knowingly forges, alters, falsifies, or demolishes documents to protected payment. The repercussions for each civil penalty if found in violation are:
@@ -40,4 +41,3 @@ This part is simple. Conduct a risk assessment. Not performing one has the poten
 
 Learn all you need to learn about HIPAA from our [free compliance guide](https://catalyze.io/hipaa-compliance/) to become a compliance expert in a single coffee break. And, as always, please reach out to us directly with any questions you may have by emailing us at [hello@catalyze.io](hello@catalyze.io) or tweeting us at [@catalyzeio](https://twitter.com/catalyzeio).
 
-Tags: hipaa, false claims, meaningful use

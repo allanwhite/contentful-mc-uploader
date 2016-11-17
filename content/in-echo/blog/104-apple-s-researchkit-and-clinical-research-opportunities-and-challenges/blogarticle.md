@@ -8,7 +8,8 @@ Summary:
 Lead: |
 > "Thar's gold in them thar hills!"
 
-Body: |
+Tags: Research, ResearchKit, Apple
+---
 > — Mulberry Sellers, Mark Twain's A Gilded Age.
 
 Apple [announced](https://www.apple.com/pr/library/2015/03/09Apple-Introduces-ResearchKit-Giving-Medical-Researchers-the-Tools-to-Revolutionize-Medical-Studies.html) ResearchKit on March 9. Since then, there has been a flurry of blog posts and discussions around its value and impact. I'll go into more detail on that below but the main thing is that this is the first time a **significant** player in the consumer ecosystem has stepped into the esoteric world of clinical research. The product being offered does have limitations around code, technology and liability—all of which can be addressed. That Apple is willing to step up and help improve medical research, an area desperately in need of change, is heartening and will, I'm willing to bet, cause Google and others to step up as well.
@@ -97,4 +98,3 @@ But—and yes, there's always a but—apart from the business challenges outline
 
 Apple's announcement around ResearchKit has generated a lot of [buzz and excitement](http://fortune.com/2015/03/15/apples-researchkit-is-a-big-hit-at-sxsw/) for good reason. The combination of HealthKit, Core Motion and ResearchKit is a potent combination. Hopefully, since two of three already exist in the Android world, the third should follow quickly. Which, from a patient and researcher perspective, is a good thing. While there are significant positives, there still remain several challenges that need to be resolved but it is our firm belief at Catalyze that existing solutions from vendors (such as Catalyze) and other open source contributions will see these addressed shortly.
 
-Tags: Research, ResearchKit, Apple

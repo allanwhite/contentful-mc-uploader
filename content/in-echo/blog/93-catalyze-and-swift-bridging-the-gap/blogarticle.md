@@ -8,7 +8,8 @@ Summary:
 Lead: |
 Swift has been gaining a lot of traction lately. Whenever possible, all of our new iOS projects at Catalyze are written in Swift. We're embracing the change and have been enjoying the experience so far! But not all those trusted Objective-C libraries have been ported to Swift yet. Thankfully Swift is backwards compatible with Objective-C. I'll walk you through how to use the [Catalyze iOS SDK](https://github.com/catalyzeio/catalyze-ios-sdk) with a Swift project.
 
-Body: |
+Tags: Objective-C, iOS, Swift
+---
 ### Create the Bridging Header File
 
 First thing you need to do is open up your project and create a new file (`⌘+N`). Choose a new iOS Header file. We suggest following the naming convention `{MyAppName}-Bridging-Header-File.h` because you can only have one bridging header file per project. After you create your header file it should look something like this
@@ -63,4 +64,3 @@ Catalyze.setApiKey("myApiKey", applicationId: "myAppId")
 ```
 
 Now you're all set to go with the Catalyze iOS SDK and your new Swift project. Please [email us](mailto:hello@catalyze.io) if you have any questions about the guide or about getting started with Catalyze and Swift. Happy coding!
-Tags: Objective-C, iOS, Swift

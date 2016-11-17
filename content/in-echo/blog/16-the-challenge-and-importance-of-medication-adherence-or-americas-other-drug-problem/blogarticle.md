@@ -7,7 +7,9 @@ Summary:
 Lead: |
 In business school, as we discussed the problems of accurate forecasting, one of my professors joked that "the fundamental problem is that consumers don't buy what they're supposed to." In a way, the problem of medication adherence is just that, patients don't do what they're supposed to do, or what we think is the logical thing to do. There are various reasons for this of course, ranging from the inability to purchase medications, physical disability, complicated medication regimens, real or perceived side effects, and so on. Lack of medication adherence has a significant cost associated with it as well causing it to be also called **America's other drug problem**. And therein lie the challenge and the opportunity - how do you get patients to do what they're supposed to, given their constraints?
 
-Body: |
+Tags: adherence, apps, compliance, data analytics, devices, medication, smart pills
+Fullname: Mohan Balachandran
+---
 ### Is this really that big a problem?
 
 In the US, at least 50% of the population (133 million people) live with at least one chronic condition [1]. Since lack of medication adherence invariably leads to problems such as unnecessary disease progression, disease complications, reduced functional abilities, a lower quality of life, and even premature death, poor adherence has been estimated to cost up to $177 billion annually in total direct and indirect health care costs. In a more recent report by the IMS Institute on avoidable healthcare costs in the U.S., it was demonstrated that six disease areas (congestive heart failure, HIV, osteoporosis, hypertension, diabetes and hypercholesterolemia) accounted for $105 billion in annual avoidable costs from non-adherence to medication treatment.
@@ -88,6 +90,3 @@ We, at Catalyze, are very interested and passionate about this area and do know 
 
 As always, please do comment and let us know what you think.
 
-Tags: adherence, apps, compliance, data analytics, devices, medication, smart pills
-Fullname: Mohan Balachandran
----

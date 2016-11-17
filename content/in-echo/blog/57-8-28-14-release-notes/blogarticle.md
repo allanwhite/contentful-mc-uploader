@@ -7,7 +7,9 @@ Summary:
 Lead: |
 (We've decided we're going to make blog posts about changes and enhancements to the Catalyze v2 API when we release them, starting today.)
 
-Body: |
+Tags: api, release notes, BaaS, backend
+Fullname: Alex Foran
+---
 #### Enhancements
 
 * Applications can now be set as invite-only in the dashboard, requiring users to be sent an invite code via email and sign up with it. [Read more about it on the Catalyze blog](https://catalyze.io/blog/invite-only-applications/).
@@ -25,6 +27,3 @@ Body: |
 
 As always, if you run into a problem, please [let us know](https://catalyzeio.zendesk.com/).
 
-Tags: api, release notes, BaaS, backend
-Fullname: Alex Foran
----

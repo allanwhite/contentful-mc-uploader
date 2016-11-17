@@ -7,7 +7,9 @@ Summary:
 Lead: |
 Remote work as a designer is both greatly rewarding and somewhat challenging. Add working for a startup into the mix and things can get a bit tricky. When I joined Catalyze it was my first time working remotely and I was extremely excited to get started. I began reading [blog posts](http://blog.stackoverflow.com/2013/02/why-we-still-believe-in-working-remotely/) and [books](http://37signals.com/remote/) about how to take make remote working work for me. If you're a developer or software engineer, working remotely is probably something you've done at least once. Maybe you didn't feel like trekking into the office one day or perhaps felt a little under the weather and worked from home. This isn't uncommon. In fact, almost [30 million Americans](http://www.boltinsurance.com/news/miscellaneous/benefits-of-employee-telecommuting-infographic/) work from home at least one day per week.
 
-Body: |
+Tags: remote, design, collaboration, tools
+Fullname: Ryan Rich
+---
 Though as a designer, working from home can be a bit at odds with how traditional collaboration typically works. In a physical setting there are other designers and project managers around you - asking questions, giving feedback, conversing throughout the day. When working remotely, especially when first starting out, that physical connection and energy is absent. To supplement that connection we, at Catalyze, use a variety of tools to help collaborate on design and development projects.
 
 **Here's a short list of the collaboration tools we use (not contained to design):**
@@ -34,6 +36,3 @@ That comprises most of the collaboration tools we use on a daily basis. Since Ca
 
 Our process is not perfect and we continue to improve it everyday. It's my hope that this post inspires a reader to consider working remotely as a designer, because it can work. Keeping things simple is key.
 
-Tags: remote, design, collaboration, tools
-Fullname: Ryan Rich
----

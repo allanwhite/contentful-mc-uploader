@@ -7,7 +7,9 @@ Summary:
 Lead: |
 There's a new research [report](http://research.gigaom.com/report/the-internet-of-things-and-the-future-of-health-care/) by GigaOM about what they call the "health internet of things" (health IoT), which is essentially what most people in the industry today describe as "connected health". It's inclusive of devices, sensors, apps and other tools that can track an individual's activity and the other data on that individual. The report delves into the potential and power of that data, specifically the power of that data as it relates to health and wellness and the healthcare industry more broadly. The report's worth reading if you haven't see it.
 
-Body: |
+Tags: data, ehr, quantified, sensors
+Fullname: Travis Good, MD
+---
 The author [Jody Ranck](https://twitter.com/jranck) is well respected in the industry and he did a very nice job with the report, laying out in pretty good detail the case for the health IoT and connected health. It includes a lot of good case studies in it. To me, there are several key things which Jody calls out in the report that are worth highlighting.
 
 The first insight is obvious, namely that sensors and individual tracking present huge opportunities in terms of the volume and the value of data on individuals. Connected sensors and devices will dramatically expand data points and dimensions on individuals, providing more value than what has traditionally been captured and used in healthcare.
@@ -24,6 +26,3 @@ We firmly agree with the report that there are paradigm shifts coming to healthc
 
 This security and transparency is in the [core](https://catalyze.io/compliance/) of how we build our technology at Catalyze. It's in our DNA. It's the compliance and security layer that we want to help vendors, enterprises, and developers address so that they can focus on creating meaningful health IoT applications or the actionable insights or algorithms based on health IoT data. Whether you're building a mobile app using our compliant [backend](https://catalyze.io/backend-as-a-service/) or deploying a custom application on our compliant [platform](https://catalyze.io/platform-as-a-service/), we want to help you build and sell the future of healthcare.
 
-Tags: data, ehr, quantified, sensors
-Fullname: Travis Good, MD
----

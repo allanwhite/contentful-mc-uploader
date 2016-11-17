@@ -8,7 +8,8 @@ Summary:
 Lead: |
 If you're used to a world of OAuth handshakes, Pub/Sub and HTTPS for authorization and enabling data transfer, you'll find yourself somewhat disoriented with healthcare data integration. While outdated it has worked up to this point and helped healthcare organizations keep the "bad guys" out while letting the business associates in. We'll talk about what's common and how we help our customers setup secure, redundant integration with clients.
 
-Body: |
+Tags: vpn, hl7 integration
+---
 ### Let's talk about networking
 
 (image: zdt7agj.gif)
@@ -34,4 +35,3 @@ That's correct. What drives most real-time data sharing within healthcare organi
 VPN setup is a first class citizen in our architecture setup. After you engage with an organization and discuss data integration, we work with you to complete security documentation. We lean heavily on our [policies](https://policy.catalyze.io/) and [audits](https://catalyze.io/compliance) to speed up the paperwork. We're also happy to provide information to you and your potential customers through the sales process. Once we've completed the paperwork, we have a standard questionnaire for our customers that discusses our standard VPN setup and begins the process to exchange the necessary data to setup the VPN connection. Once this is done, we setup our VPN for the customer, exchange keys and secret data and our VPN connection should be up and running. As we need to connect to new IPs and new ports, we continue the process and spin these up. Usually, it takes us about an hour to make a change to your setup and to test something out. 
 
 Each hospital handles VPNs slightly differently, so it's great to work with a team with experience setting up secure networks. With a certified CCNA and a pedigree managing large systems at Rackspace, we have the sophistication and expertise to setup a secure, redundant integration engine in days instead of weeks or months. Need help with integration? [We've got you covered from HL7 to CCDAs to FHIR.](/hl7)
-Tags: vpn, hl7 integration

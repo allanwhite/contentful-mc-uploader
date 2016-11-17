@@ -8,7 +8,8 @@ Summary:
 Lead: |
 >   I wish I could, I wish I might, have the wish I wish tonight
 
-Body: |
+Tags: business associates
+---
 >   — _I wish I knew_
 
 Previously we talked about [the importance of business associate agreements](/blog/the-importance-of-business-associate-agreements). But is there an ideal version everyone should pursue?
@@ -37,4 +38,3 @@ This is primarily targeted at IaaS (infrastructure as a service) providers. AWS 
 ### Summary: TL;DR
 Please pay attention to the BAA. It is used as a mechanism to transfer responsibility and associated risk and liability. Look for specific caveats around covered services and encryption responsibilities. Logging especially can significantly increase costs. There is a difference between "HIPAA ready" and "HIPAA compliant". Look for more detail on this topic shortly from us. Catalyze provides an out-of-the-box solution to make your infrastructure HIPAA compliant.
 
-Tags: business associates

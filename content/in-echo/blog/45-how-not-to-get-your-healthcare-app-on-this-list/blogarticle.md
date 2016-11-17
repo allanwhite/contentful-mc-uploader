@@ -7,7 +7,9 @@ Summary:
 Lead: |
 As a startup, we of course follow [Hacker News](https://news.ycombinator.com/) religiously. Over the weekend, [Plain Text Offenders](http://plaintextoffenders.com/) (PTO) made the top slot. You can follow the discussion [here](https://news.ycombinator.com/item?id=7927123).
 
-Body: |
+Tags: hipaa, security, privacy, api, baas
+Fullname: Ben Uphoff, PhD
+---
 Essentially it is a Internet shaming site that shines light on companies that store users' passwords in plaintext (i.e. not hashed using secure hashes and salts, leaving the passwords easy to obtain by attackers).
 Here I use the term "shaming" in a positive context, as security lapses like storing passwords in plaintext, should be called out. Further more, PTO provides recourse for sites that clean up their password management practices under the [Reformed Offenders](http://plaintextoffenders.com/reformed) section of the site.
 
@@ -39,6 +41,3 @@ None of these things are hard to implement technically but Catalyze's [API](http
 
 If you are interested in getting started with Catalyze BaaS, please take a look at our [API Guide](https://docs.catalyze.io/guides/api/latest/).
 
-Tags: hipaa, security, privacy, api, baas
-Fullname: Ben Uphoff, PhD
----

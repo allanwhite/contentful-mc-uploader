@@ -8,7 +8,8 @@ Summary:
 Lead: |
 > Interoperability may not have gotten enough attention in the early days of Meaningful Use’s electronic health records (EHR) gold rush, but it’s now taking center stage as healthcare providers, government agencies, vendors, and committees consider how to support the exchange of data easily and securely. People underestimate how challenging this work is. Vendors are being cautious before spending lots of research and development money before a standard is more clearly defined. - [Alison Diana](http://www.informationweek.com/author-bio.asp?author_id=495), [Information Week](http://www.informationweek.com/), [Healthcare Interoperability: Who’s the Tortoise?](http://www.informationweek.com/healthcare/electronic-health-records/healthcare-interoperability-whos-the-tortoise/d/d-id/1317627)
 
-Body: |
+Tags: interoperability, hl7 integration
+---
 Last month on October 02, 2015 at the KLAS Keystone Summit in Midway, Utah, the top EHR vendor and provider executives and stakeholders gathered by consensus in an attempt to bring objectivity to the metrics of interoperability. Along with collaboration efforts from informatics specialists and provider organizations, the following twelve corporations were involved:
 
 1. Allscripts (Assaf Halevy, VP of business development, solutions management)
@@ -37,4 +38,3 @@ What do you think goes into measuring interoperability? [Tweet](https://twitter.
 2. [Difficulties of Clinically Testing Health Apps](https://catalyze.io/blog/difficulties-of-clinically-testing-health-apps)
 
 3. [Engaging the Millennial Generation](https://catalyze.io/blog/engaging-the-millennial-generation)
-Tags: interoperability, hl7 integration

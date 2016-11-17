@@ -8,7 +8,8 @@ Summary:
 Lead: |
 Recently, [Brian Murphy](http://www.chilmarkresearch.com/about/team/), analyst for [Chilmark Research](http://www.chilmarkresearch.com/), released a post titled “[HIPAA Must Die](http://www.chilmarkresearch.com/2015/06/18/hipaa-must-die/)” pertaining to the complex nexus of federal and state HIPAA healthcare regulations for patient privacy and security.
 
-Body: |
+Tags: hipaa, privacy, security
+---
 Murphy states “the time has come for healthcare providers and other stakeholders to call for a harmonized regulatory regime for a tangle of issues in healthcare.” I am a major fan of the work Chilmark publishes, but had questions arise soon after a review of Murphy’s statements.
 
 ### Are the differences between federal and state HIPAA regulations affecting the quality of patient privacy and security?
@@ -33,4 +34,3 @@ HIPAA is not perfect, nor a golden standard, so changes will need to be made to 
 
 Do you think the American healthcare system would benefit from a single administrative standard HIPAA approach? Tweet us at [@catalyzeio](https://twitter.com/catalyzeio) and [@chilmarkhit](https://twitter.com/chilmarkhit) to continue the discussion.
 
-Tags: hipaa, privacy, security

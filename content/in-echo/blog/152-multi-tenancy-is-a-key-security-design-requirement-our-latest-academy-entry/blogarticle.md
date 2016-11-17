@@ -8,7 +8,8 @@ Summary:
 Lead: |
 Announcing the latest Catalyze Academy entry, [HIPAA and Multi Tenancy](https://catalyze.io/learn/hipaa-and-multi-tenancy)! As Catalyze continues to scale, we are regularly approached about our multi-tenant solution and the possible security challenges that could arise. In that spirit, [this post](https://catalyze.io/learn/hipaa-and-multi-tenancy) is meant to clarify Catalyze’s security position and provide others with a few tips on best security practices.
 
-Body: |
+Tags: multi tenancy, security, cloud
+---
 ### Is the cloud multi tenant?
 
 The cloud by very definition is multi tenant. Multi tenancy is in referral to the means of operation of software where various independent occurrences of one or more applications operate in a shared environment. The occurrences (tenants) are cordoned off logically, yet still physically integrated; logical isolation must be complete to satisfy HIPAA compliance.
@@ -23,4 +24,3 @@ At Catalyze, we go several steps further than simply ensuring security and isola
 
 We believe understanding the relationship between multi tenancy, security, privacy, and HIPAA compliance is important. We are excited to offer a deeper technical explanation in [this latest Academy entry on HIPAA and multi tenancy](https://catalyze.io/learn/hipaa-and-multi-tenancy) among our growing list of  other essential topics in our [Catalyze Academy](https://catalyze.io/learn).
 
-Tags: multi tenancy, security, cloud

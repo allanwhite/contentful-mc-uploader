@@ -7,7 +7,9 @@ Summary: What are the essential characteristics** of cloud computing?
 Lead: |
 Reading this [commentary](http://readwrite.com/2014/01/27/private-public-cloud-cloudwashing#awesm=~ouLFi5BDMHpcmd) on recent Forrester data, and writing this [post](blog/2014-predictions-growth-of-healthcare-clouds) on 2014 trends around cloud computing in healthcare, got us thinking more about the definition of cloud computing, and different options in cloud computing.
 
-Body: |
+Tags: hipaa, security, paas, cloud
+Fullname: Travis Good, MD
+---
 As we work with cloud-based vendors and enterprises in healthcare, we're constantly fielding questions related to cloud deployments and models. This is our attempt to summarize what we've learned.
 
 I think we all *know* what cloud computing is, or at least we have certain associations and benefits that come to mind for the term “cloud computing”. NIST has a formal definition of cloud computing. NIST breaks down cloud computing into 5 essential characteristics, 3 service models, and 4 deployment models.
@@ -37,6 +39,3 @@ In addition to service models, which basically define the level of control custo
 
 The reason we care about cloud computing, including the definition and characteristics of it, is that we firmly believe the benefits of cloud computing have not been realized in healthcare. And we believe much of that relates to a lack of understanding of what cloud computing is, and how cloud computing can be both compliant and secure. Current compliant offerings in healthcare, especially when you look at compliant cloud computing service models, sorely miss the needs of modern app app developers and the industry as a whole; we make the important distinction between PaaS and IaaS, and believe PaaS is the necessary approach to be compliant because of the myriad of compliance requirements beyond dedicated infrastructure. More to come on service models and compliance in a future post.
 
-Tags: hipaa, security, paas, cloud
-Fullname: Travis Good, MD
----

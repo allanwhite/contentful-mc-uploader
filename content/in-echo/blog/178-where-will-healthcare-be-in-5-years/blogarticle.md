@@ -8,7 +8,9 @@ Summary: There is a significant need for tools that improve communication and da
 Lead: |
 ### Where are we today?
 
-Body: |
+Tags: health tech
+
+---
 Healthcare is in the midst of a paradigm shift. Our system has evolved to a point where it is not sustainable. People, both in the general public and amongst elected officials, have now concluded we don’t get substantial returns on our healthcare spending. The general sentiment is that our system is too expensive and spending is not tied to the value of care delivered or to the outcomes of care delivered. Those are both very fair conclusions.
 
 Our current system is built with providers at the center of care and payers as the financial instrument obscuring the cost of healthcare from both providers and patients. Because providers are at the center of care, care is delivered sporadically in episodes when patients are sitting in front of providers - in an office, ER, hospital room, etc.
@@ -51,4 +53,3 @@ What are your thoughts? [Tweet us](https://twitter.com/catalyzeio) or email <hel
 2. [Securing Network Access in Healthcare](https://catalyze.io/blog/securing-network-access-in-healthcare)
 3. [Apple’s New ResearchKit Studies](https://catalyze.io/blog/apples-new-researchkit-studies)
 
-Tags: health tech

@@ -8,7 +8,8 @@ Summary:
 Lead: |
 Innovation in healthcare starts with the reputable intent to promote optimal quality and value of care to patients, providers, insurers, and employers. A few macro level initiatives of [innovation](https://catalyze.io/solutions/enterprise-innovation) include being able to scale the business by creating constant opportunity, shifting from a fee-for-service model, managing cost of care, and providing a framework needed to support the operational and legal backends. These innovative measures face many challenges though. The core two being: 1) Managing the total cost of care budgets by managing risk contracts and delivering the right care at the right time; and 2) Improving quality while effectively earning revenue.
 
-Body: |
+Tags: innovation, patient engagement
+---
 Even today’s healthcare technology has challenges to effectively assist in innovation. There are intrinsic complexities of sharing data in a system of minimal interoperability, such as the limitations in progressing information through the care process. Clinical integration also becomes a matter in question when limited access to data (EHRs) is provided, the user experience for care management is incommodious, or there is inadequate access to the claims data. 
 
 With these limitations on the business and technology factions of healthcare systems, there are new **call to actions (CTA)** that [healthcare innovation](https://catalyze.io/solutions/enterprise-innovation) and new technologies are aiming to solve.
@@ -21,4 +22,3 @@ Physicians and healthcare providers are immersed in patient care but cannot do i
 
 What other needs can new healthcare technologies solve? Send us an [email](hello@catalyze.io) or [tweet us](https://twitter.com/catalyzeio) with your ideas or questions. And speaking of great ideas, don’t forget to check out **4 Big Ideas** in our annual [Healthcare Innovation Series Report](https://catalyze.io/innovation/2015).
 
-Tags: innovation, patient engagement

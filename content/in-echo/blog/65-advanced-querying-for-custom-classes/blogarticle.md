@@ -7,7 +7,9 @@ Summary:
 Lead: |
 We mentioned new querying abilities for custom classes in the [8/28/14 Release Notes](https://catalyze.io/blog/8-28-14-release-notes/), but it's a topic that deserves expansion and examples. The ability to perform custom, multiple-field queries on your entries is immensely powerful.
 
-Body: |
+Tags: api, backend, BaaS, custom classes, guide, example
+Fullname: Alex Foran
+---
 The docs for this are [in our resources](https://resources.catalyze.io/#custom-classes), but an example might be a better explanation.
 
 ### An Example
@@ -211,6 +213,3 @@ The routes that do take a user ID (`/v2/classes/{name}/query/{usersId}`), the sa
 
 Thank you for reading - if you run into issues using any of this, need help, or think we should add new functionality to it, please [let us know](mailto:support@catalyze.io).
 
-Tags: api, backend, BaaS, custom classes, guide, example
-Fullname: Alex Foran
----

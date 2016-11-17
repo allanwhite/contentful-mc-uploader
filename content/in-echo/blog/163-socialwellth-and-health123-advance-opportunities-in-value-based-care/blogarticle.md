@@ -8,7 +8,8 @@ Summary:
 Lead: |
 > America’s health care system is neither healthy, caring, nor a system.
 
-Body: |
+Tags: value-based care
+---
 > —Walter Cronkite
 
 $125 billion is wasted every year on nearly one billion doctors’ visits that Americans take that could simply be solved with a bit of education. The efforts to solve this problem is rapidly becoming the fastest growing market in healthcare. It’s a race that's promoted by the massive shift in the healthcare industry’s economics, mandated by the Affordable Care Act, also known as Obamacare. Because of this shift, an immense opportunity rests in the hands of healthcare entrepreneurs. Among these aspiring go-getters slashing away at healthcare’s frivolous spending are [Health123](http://www.health123.com/) and [SocialWellth](http://socialwellth.com/). 
@@ -32,4 +33,3 @@ For further reading, check out:
 2. [Two Healthcare Systems Partner with Vendors to Further Innovation](https://catalyze.io/blog/two-healthcare-systems-partner-with-vendors-to-further-innovation)
 
 3. [Marketing Value-Based Care Will Generate Desired Patient Engagement Results](https://catalyze.io/blog/marketing-value-based-care-will-generate-desired-patient-engagement-results)
-Tags: value-based care

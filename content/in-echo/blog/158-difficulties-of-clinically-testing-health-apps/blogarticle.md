@@ -8,7 +8,8 @@ Summary:
 Lead: |
 There are nearly 70, 000 digital health apps available on your mobile device right now. Would it shock you to discover that there is no [clinical validation](http://www.ofnisystems.com/clinical-data-validation/) to back up most of them? Would it deter you from downloading them knowing they were created by developers exploiting the healthy lifestyle trends in America? Hopefully, like myself, your answer is yes.
 
-Body: |
+Tags: clinical trials
+---
 Though as easy as it would be to disparage these developers, they are not necessarily the culprit. Upon recognizing multiple disparities in the creation, invention, and utilization of mobile health apps, a lack of clinical infrastructure can be discerned. And without a base research framework, developers cannot easily access patients and their data, leading to the notable lack of validation to potential disruptive solutions. 
 
 What most developers fail to recognize though is that healthcare technology is different because it involves patients. This means a necessity to comply with human research stipulations, data confidentiality, security, and privacy sanctions exists. Even greater than market validation, proper healthcare business requires proven, repeatable results. 
@@ -23,4 +24,3 @@ Clinical trials are expensive and the costs of these trials fall into two bucket
 
 Do you have an application in need of clinical validation? Tell us about it by [tweeting](https://twitter.com/catalyzeio) or [emailing](hello@catalyze.io) us.
 
-Tags: clinical trials

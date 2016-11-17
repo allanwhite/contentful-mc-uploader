@@ -8,7 +8,8 @@ Summary:
 Lead: |
 _*This entry was taken and adapted from an original article published on [HIStalk](http://histalkmobile.com/) on May 13, 2014 by [Travis Good, MD](https://catalyze.io/travis), Catalyze Co-Founder & CEO. You can read the original [here](http://histalkmobile.com/guiding-patient-engagement/)*._
 
-Body: |
+Tags: patient engagement, meaningful use
+---
 There are limited resources to create and implement engagement programs, especially in light of the recent hefty investments most organizations have made in EHRs. Assessing effectiveness is crucial to assure proper allocation of limited resources.
 
 The current best way to assess (or at least to categorize) [patient engagement](https://catalyze.io/solutions/patient-engagement) programs, activities, and maturity is to use the [Patient Engagement Framework](http://himss.files.cms-plus.com/HIMSSorg/NEHCLibrary/HIMSS_Foundation_Patient_Engagement_Framework.pdf) developed by the National eHealth Collaborative and HIMSS. The framework lays out stages of engagement, and progression of individuals through those stages. It aligns at a high level  with Meaningful Use stages (and projections of future stages).
@@ -41,4 +42,3 @@ It seems backwards to map it all out now. Maybe patients just want to be able to
 
 Speaking of that, why is data interoperability a part of patient engagement? Why is Meaningful Use driving — or defining, in this case — [patient engagement](https://catalyze.io/solutions/patient-engagement)? Maybe patient engagement shouldn’t be part of Meaningful Use. The expression “When all you have is a hammer, everything looks like a nail” is often used as an argument against the super-specialized nature of practice.
 
-Tags: patient engagement, meaningful use

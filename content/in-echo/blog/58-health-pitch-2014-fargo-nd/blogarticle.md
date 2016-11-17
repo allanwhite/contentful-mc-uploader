@@ -7,7 +7,9 @@ Summary:
 Lead: |
 ##### “Showcasing our region’s innovators that are creating a healthier world”
 
-Body: |
+Tags: events, arthur, swipesense, startups
+Fullname: Sarah Nettie
+---
 If you’re like me, the town of Fargo does not conjure up much aside from the 1996 Coen brothers film. Luckily, I got to experience much more on a recent trip to Fargo, ND for Health Pitch 2014. Travis Good, co-founder of Catalyze, pitched for Catalyze alongside 13 other innovators and organizations.
 
 Shane Waslaski (President and CEO of [Intelligent InSites](http://intelligentinsites.com)) was the keynote speaker for this event. He gave an encouraging introduction, stating how the best days in healthcare are ahead of us, and our focus should be on attitude, optimism, and determination.
@@ -84,6 +86,3 @@ ___
 
 This event was put on by [Emerging Prairie](http://www.emergingprairie.com/), and was hosted by [Family Healthcare](http://famhealthcarefargo.org/). Videos of the pitches can be viewed [here](https://www.youtube.com/channel/UCMo25uE7hoUWG_15lm1sQTQ). After attending this event, and another Emerging Prairie event the next day, it was clear to see how much Fargo believes not only in health startups, but entrepreneurship in general. Their energy and enthusiastic spirit was palpable. This a community who wholeheartedly invests their time and resources into each other. I could not help but draw a parallel between Fargo and the Rosetans - people taking care of people.
 
-Tags: events, arthur, swipesense, startups
-Fullname: Sarah Nettie
----

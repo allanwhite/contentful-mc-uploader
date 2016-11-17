@@ -8,7 +8,8 @@ Summary:
 Lead: |
 > Judge a man by his questions rather than his answers. - Voltaire
 
-Body: |
+Tags: predictions
+---
 We're fans of Benedict Evans. He's got an exceptional sense of current events and future trends for mobile and general technology. While not specific to healthcare, his analysis and commentary are fantastic and important signals for us. We loved his recent post [20 questions for 2015](http://ben-evans.com/benedictevans/2015/1/1/20-questions-for-2015). Being fans of yearly predictions, we took Evans' approach and applied it to healthcare. We added our own opinions throughout. We would love to hear your questions for 2015 or reactions to our questions below!
 
 1. **Will Epic [open up access](https://catalyze.io/blog/how-the-epic-healthkit-integration-actually-works/) to MyChart and its EHR for vendors other than Apple?** You have to imagine Epic customers would like to get data from the majority of the population that doesn't have iOS devices.
@@ -51,4 +52,3 @@ We're fans of Benedict Evans. He's got an exceptional sense of current events an
 
 20. **Can the pace of moving traditional technology to the cloud accelerate?** We've had several discussions with healthcare CIOs about cloud computing and they often cite EHRs and financial systems, like Lawson, as the main drivers of cost in IT infrastructure. Those systems won't be moving in 2015, though Epic may finally launch it's first hosted customer at its Verona data center. Much more likely is we'll continue to see health systems and payers integrate, develop, and adopt new technology that leverages cloud computing in a secure and HIPAA compliant way. In other words, we're betting on ourselves in 2015.
 
-Tags: predictions

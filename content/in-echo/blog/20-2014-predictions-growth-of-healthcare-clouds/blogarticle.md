@@ -7,7 +7,9 @@ Summary: In healthcare, the biggest drivers of cloud-based technologies have bee
 Lead: |
 Continuing well into 2014 with more detailed discussion of our predicted trends for the year. Increasingly technology vendors are looking to move applications and resources to cloud-based technologies. The reasons for cloud are well established:
 
-Body: |
+Tags: cloud, hipaa, iaas, paas, trends
+Fullname: Travis Good, MD
+---
 - Low capital spend
 - Flexible capacity scale up and down as needed
 - More time on apps and less on ops
@@ -27,6 +29,3 @@ Above are findings from a recent Forrester report on the growth of different sec
 
 But that's not to say that other vendors won't bring cloud computing to healthcare; it simply means do not believe everything you read about private clouds and enterprises. We predict there will be tremendous growth in 2014 of newer, non-EHR cloud-based tools, many of which will continue to grow beyond 2014 as healthcare evolves to meet growing demands on providers to manage risk.
 
-Tags: cloud, hipaa, iaas, paas, trends
-Fullname: Travis Good, MD
----

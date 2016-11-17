@@ -8,7 +8,8 @@ Summary:
 Lead: |
 We have [Business Associate Agreements (BAAs)](/learn/business-associate-agreements) with all vendors that are partners to deliver our services which we pass through to our customers through our BAAs. It certainly simplifies things for our customers.
 
-Body: |
+Tags: compliance, legalities, business associates
+---
 I was talking with a customer the other day about integrating with a service they used for real-time data processing. I first looked to see if this vendor would sign a BAA. I received this from their support staff:
 
 - The vendor in question doesn't necessarily need to be HIPAA-compliant because they aren't storing data.
@@ -27,4 +28,3 @@ Parts of this are true, and it's good the vendor is encrypting data passing thro
 
 I'm always wary of companies that claim to be HIPAA-compliant that don't have clear BAAs or policies. HIPAA compliance isn't a sticker that you put on servers that wards off hackers and HHS. It's a dedication to doing the right thing for users and their PHI every day. There's no HIPAA police or mandated marketing policies, so there's nothing to stop companies from claiming HIPAA compliance by providing you zero or minimal reasonable safeguards of PHI. The bad news is that the moment you'd find out that you weren't covered under HIPAA, barring it didn't prevent a sale, would be at the worst possible moment of a breach or an audit. We can help you avoid this, and in addition to a BAA, you'll get superb service and ops support too.
 
-Tags: compliance, legalities, business associates

@@ -7,7 +7,9 @@ Summary:
 Lead: |
 Ybrain, MyDoc, AirStrip, uBiome, and more...
 
-Body: |
+Tags: healthit, funding
+Fullname: Sarah Nettie
+---
 #### Healthcare wearable Ybrain raises US$3.5M in Series A funding
 The Korea-based startup, founded in Feb 2013 by a Caltech neuroscientist and Samsung engineers, [has raised](http://e27.co/healthcare-wearables-startup-ybrain-from-seoul-raises-3-5m-in-series-a-funding-20140828/?utm_content=buffer787ff&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer) a total of US$4.2 million. <br>_source: e27_
 
@@ -22,6 +24,3 @@ Y Combinator-backed biotech startup [uBiome](http://getprismatic.com/story/14083
 
 #### [Ten biggest digital health investments of 2014 so far](http://getprismatic.com/story/1408048289522?share=MTIxOTI3.MTQwODA0ODI4OTUyMg.RSA8QJvDGbKm4lU5gNXAx3RffGM&utm_content=buffer8ef12&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
 *source: Prismatic*
-Tags: healthit, funding
-Fullname: Sarah Nettie
----

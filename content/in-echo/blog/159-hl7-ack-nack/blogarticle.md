@@ -8,7 +8,8 @@ Summary:
 Lead: |
 In a two-way communication system that is properly using the HL7 standards, a receiving system will send an HL7 ACK (acknowledgement) message to the sending system to notify that the message was effectively received. In an archetypal HL7 environment, the sending system will presume the message was not received up until the delivery of an ACK message is made from the receiving system. By way of explanation, if the receiver does not return the ACK message, the sender may safely assume there is an error and halt message transmissions. 
 
-Body: |
+Tags: hl7 integration
+---
 ### ACK Message Anatomy
 
 Here is an example of an HL7 ACK message:
@@ -44,4 +45,3 @@ In short, standard HL7 protocol calls for ACKnowledgment protocol. Each time a s
 
 Questions? Thoughts? Anything related to HL7 integration on your mind? [Tweet us](https://twitter.com/catalyzeio) or shoot us an [email](hello@catalyze.io). If you want to read more about HL7, check out some of our [HL7](https://catalyze.io/learn/hl7-101-a-primer) resources freely available in our [Academy](https://catalyze.io/learn).
 
-Tags: hl7 integration

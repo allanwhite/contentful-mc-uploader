@@ -8,7 +8,8 @@ Summary:
 Lead: |
 Earlier this month, an act with the intent to lighten restrictions on the use and exposure of protected health information for research motivations was passed through the United States House of Representatives called the 21st Century Cures Act.
 
-Body: |
+Tags: hipaa, legislation
+---
 Presently, the HIPAA Privacy Rule allows the use and exposure of protected health information for research purposes without the necessity of authorization from the patient but does mandate any waiver of the authorization stipulation be approved by an institutional review or privacy board.
 
 This amendment to the Health Information Technology for Economic and Clinical Health (HITECH) obligates the Secretary of the Department of Health and Human Services to revise/elucidate the HIPAA Privacy Rule to:
@@ -23,4 +24,3 @@ This Act is on its way to the Senate, which is presumed to take the legislation 
 
 Are you a HIPAA expert? Want to be one? Find out all you need to know from our [guide](https://catalyze.io/hipaa-compliance/) written by the team of HIPAA compliance experts here at Catalyze.
 
-Tags: hipaa, legislation
