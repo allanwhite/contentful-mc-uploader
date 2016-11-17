@@ -5,12 +5,11 @@ Author: mohan
 Date: 02/03/2014
 Summary: Look for partnerships and potentially mergers and acquisition activities as vendors look to get an edge in this burgeoning market.
 Lead: |
-  ---
+  I read [this](http://www.triple-tree.com/blog/2014/01/08/provider-based-population-health-management-who-is-going-to-manage-the-population/) post by [Jason Grais](http://www.triple-tree.com/our_team/professionals/jason-grais) over at [Triple Tree](http://www.triple-tree.com/) a few days ago and was really struck by it. So much so, that I wanted to expound on it some more. The key points in there that really struck me were that (and I'm paraphrasing here):
 
 Tags: accountable care, health systems, population health, risk software
 Fullname: Mohan Balachandran
 ---
-I read [this](http://www.triple-tree.com/blog/2014/01/08/provider-based-population-health-management-who-is-going-to-manage-the-population/) post by [Jason Grais](http://www.triple-tree.com/our_team/professionals/jason-grais) over at [Triple Tree](http://www.triple-tree.com/) a few days ago and was really struck by it. So much so, that I wanted to expound on it some more. The key points in there that really struck me were that (and I'm paraphrasing here):
 
 - Provider organizations have the knowledge and experience to manage downside risk i.e. to manage "not-to-exceed" risk contracts or cost control. This would be done as much as possible via legal means (contract exceptions etc.), guidelines definitions and adherence, case management etc.
 - The flip side - maximizing profit while ensuring population health is **not** something that most providers in healthcare have any significant experience with. This combination of risk management, patient engagement, wellness management and adherence (guidelines, medications) is a difficult effort and needs (that overused maxim of) "a combination of people, process and technology".
