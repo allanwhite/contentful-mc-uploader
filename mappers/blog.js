@@ -41,6 +41,9 @@ module.exports = function(file) {
 
     file.content.fields.seoTitle = file.content.fields.seotitle;
     delete file.content.fields.seotitle;
+    
+    file.content.fields.blogLead = file.content.fields.lead;
+    delete file.content.fields.lead;
 
     file.content.fields.post = file.content.fields.body;
     delete file.content.fields.body;
