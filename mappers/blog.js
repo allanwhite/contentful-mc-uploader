@@ -7,7 +7,7 @@ module.exports = function(file) {
         "mohan": "3VJKuWDfPak8w26k0g0Kw0",
         "travis": "1gpUmvd6yuOKUIUIY620i0"
     };
-    // console.log(file.content);
+
     var keys = Object.keys(file.content.fields);
 
     //Replace "Title" with "title", "SeoTitle" with "seoTitle", etc.
@@ -30,18 +30,12 @@ module.exports = function(file) {
     delete file.content.fields.fullname;
 
     //Field renaming
-    file.content.fields.dateString = file.content.fields.date;
-    delete file.content.fields.date;
-
     file.content.fields.tagString = file.content.fields.tags;
     delete file.content.fields.tags;
 
-    file.content.fields.pubDate = file.content.fields.date;
-    delete file.content.fields.date;
-
     file.content.fields.seoTitle = file.content.fields.seotitle;
     delete file.content.fields.seotitle;
-    
+
     file.content.fields.blogLead = file.content.fields.lead;
     delete file.content.fields.lead;
 
@@ -49,6 +43,14 @@ module.exports = function(file) {
     delete file.content.fields.body;
 
     //Custom mappings
+    var dateArray = file.content.fields.date['en-US'].split('/');
+    var isoDate = dateArray[2]+'-'+dateArray[0]+'-'+dateArray[1];
+    console.log(isoDate);
+    file.content.fields.pubDate = {
+        'en-US': isoDate
+    };
+    delete file.content.fields.date;
+
     var pathParts = file.path.split('/');
     var slugParts = pathParts[pathParts.length-2].split('-');
     var slug = slugParts.slice(1).join('-');
