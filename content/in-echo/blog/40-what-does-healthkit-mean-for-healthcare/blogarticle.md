@@ -3,7 +3,7 @@ Title: What does HealthKit mean for healthcare?
 SeoTitle: What does HealthKit mean for healthcare?
 Author: mohan
 Date: 06/10/2014
-Summary: 
+Summary: Great journeys begin with a single step. Is Apple putting its considerable weight behind helping people take more control of their health?
 Lead: |
   The world has been mesmerized (as always) by the Apple WWDC. One of the areas which is generating a lot of interest and excitement is Healthkit. Heck, we [wrote](https://catalyze.io/blog/what-does-healthkit-mean-for-mobile-app-developers/) about it as well.  Healthkit's [website](https://developer.apple.com/healthkit/) describes it as something that "*allows apps that provide health and fitness services to share their data with the new Health app and with each other. A user’s health information is stored in a centralized and secure location and the user decides which data should be shared with your app.*"  Words like "game changing" and "revolutionary" are being thrown around. But I'm not so sure if those are the words I would use.
 
@@ -13,14 +13,13 @@ Fullname: Mohan Balachandran
 I informally polled a cross section of physician friends of mine about it - ranging from direct primary care physicians, family practitioners, concierge physicians and so on to get some feedback on it. And it was very illuminating:
 
 - The direct primary care and concierge physicians were all for it. Why? Because most of their patients (and they themselves) were iPhone users. They could also see how this would allow them to provide a higher level of service to their clients.
-
 - Almost every other physician felt it would have almost zero impact on their patient population.
 
 What is challenging to me is how to say what I want to say without getting into a flamewar. So let me set the baseline - I have an iPhone (have had every alternate year's model), own a Mac or two, own an iPad or two. So I do like Apple products. This post is **not about Apple or its products**. This post is about trying to provide some opinions on the likely impact of Healthkit and the quantified self movement in general.
 
 So here are a few facts:
 
-##1. The majority of healthcare costs are due to chronic diseases
+### 1. The majority of healthcare costs are due to chronic diseases
 
 (image: healthkit-chart-1.png)
 
@@ -53,4 +52,3 @@ Great journeys begin with a single step. I'm a big fan of the quantified self mo
 Great journeys also begin with a destination in mind - and that is what I want to call attention to. The destination for us, if we're serious about impacting healthcare costs, is figuring out how to engage the low income, 60 year old with COPD and diabetes or preventing the 40 year old smoker with poor diet and exercise habits from turning into that 60 year old. Is the answer to that a $600 phone with an additional couple of hundred on additional devices? If you're really serious about this, focus on the lower end of the market - dumb phones, cheap smartphones. This has proved very profitable for [some](http://techcrunch.com/2014/02/19/facebook-buying-whatsapp-for-16b-in-cash-and-stock-plus-3b-in-rsus/) and my contention is that because it was not focused just on one platform - Whatsapp is [available](http://en.wikipedia.org/wiki/WhatsApp) on "*The client software is available for Google Android, BlackBerry OS, Apple iOS, selected Nokia Series 40, Symbian, selected Nokia Asha platform, and BlackBerry 10.*"
 
 So, to answer the question I posed in the title, "What does HealthKit mean for healthcare?" - not much in the in the immediate term.
-
