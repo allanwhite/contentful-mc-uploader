@@ -21,23 +21,23 @@ So here are a few facts:
 
 ### 1. The majority of healthcare costs are due to chronic diseases
 
-(image: healthkit-chart-1.png)
+![blog-main-healthkit-chart-1](//images.contentful.com/189dvqdsjh46/5H6hsz6AVii0W8EOEEm4OS/3228fc5b37fe71dcdc103a97e91b6e67/blog-main-healthkit-chart-1.png)
 
 This has been written up about quite a bit. We all know this so I won't belabor the point. However, the key point to note here is that....
 
 ### 2. The majority of these patients are not quantified self-ers
 
-(image: healthkit-chart-2.png)
+![blog-main-healthkit-chart-2](//images.contentful.com/189dvqdsjh46/5xp627eiVG0I04k8kUC4c4/bac60d527234daa3def0a6f0b7bdbd4a/blog-main-healthkit-chart-2.png)
 
 People with chronic diseases do track some of their activity per [this](http://www.pewinternet.org/2013/01/28/tracking-for-health/) Pew report. A closer look at the data, shows this set of data.
 
-(image: healthkit-chart-3.png)
+![blog-main-healthkit-chart-3](//images.contentful.com/189dvqdsjh46/3cpQaxYpdmwY2AWgkWWygk/72aca186b2658a1bb978ecb33e3f81b3/blog-main-healthkit-chart-3.png)
 
 Basically indicating that the populations most in need of tracking health don't do it as much nor do they use electronic means to do so.
 
 Let's add one more factoid to this set of data - the distribution of iPhone and Android across income levels.
 
-(image: healthkit-chart-4.png)
+![blog-main-healthkit-chart-4](//images.contentful.com/189dvqdsjh46/16OHSkLimCkUYEQAkUaGmS/7d02eb2beb6929b18fd341076a523cbe/blog-main-healthkit-chart-4.png)
 
 Put all that together and we realize that the population most in need of tracking tools are barely using or impacted by Healthkit. My physician friends were right - Healthkit is likely to have little to no impact on actually addressing the key challenges around chronic disease.
 
