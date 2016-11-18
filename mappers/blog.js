@@ -7,6 +7,10 @@ module.exports = function(file) {
         "mohan": "3VJKuWDfPak8w26k0g0Kw0",
         "travis": "1gpUmvd6yuOKUIUIY620i0"
     };
+    // Start mapping calls-to-action. These are static, per-section for now.
+    var ctas = {
+        "blog": "wWsIbfCLjasGCy6cKeO86"
+    };
 
     var keys = Object.keys(file.content.fields);
 
@@ -71,6 +75,7 @@ module.exports = function(file) {
             // 'en-US': authorId
         }
     }
+    // To-do: write a function that will inject the CTA ID reference into ctaRef field.
     console.log(file);
     return file;
 };
