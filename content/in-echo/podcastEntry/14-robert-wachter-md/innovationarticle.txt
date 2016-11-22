@@ -1,54 +1,30 @@
+---
 Title: Robert Wachter, MD
-
-----
-
 Seotitle: Robert Wachter, MD - Professor and Interim Chair of the Department of Medicine at the University of California, San Francisco
-
-----
 
 Author: travis
 
-----
-
 Guest: Robert Wachter, MD
-
-----
 
 Fullname: Travis Good, MD
 
-----
-
 HostURL: /travis
-
-----
 
 HostAvatar: /assets/img/profiles/prof-travis.jpg
 
-----
-
 HostTitle: Co-founder, CEO & Chief Privacy Officer
 
-----
-
 Date: 12/01/2015
-
-----
 
 Postmedia: <div class="wistia_responsive_padding" style="padding:61.2% 0 0 0;position:relative;"><div class="wistia_responsive_wrapper" style="height:100%;left:0;position:absolute;top:0;width:100%;"><iframe src="//fast.wistia.net/embed/iframe/gdbq1lu7g8?seo=false&videoFoam=true" allowtransparency="true" frameborder="0" scrolling="no" class="wistia_embed" name="wistia_embed" allowfullscreen mozallowfullscreen webkitallowfullscreen oallowfullscreen msallowfullscreen width="100%" height="100%"></iframe></div></div>
 <script src="//fast.wistia.net/assets/external/E-v1.js" async></script>
 
-----
-
 Summary: Robert Wachter, MD, coined the term "Hospitalist" in the 90s. He's since moved onto examine the role of technology in healthcare organizations, and now sits as the Chair of the Department of Medicine at University of California, San Francisco. He took time out of his day to talk about innovation, digitization, and what healthcare will look like in the near future.
-
-----
 
 Bio: Robert M. Wachter, MD is Professor and Interim Chair of the Department of Medicine at the University of California, San Francisco, where he also directs the 60-physician Division of Hospital Medicine. Author of 250 articles and 6 books, he coined the term “hospitalist” in 1996 and is generally considered the “father” of the hospitalist field, the fastest growing specialty in the history of modern medicine. He is past president of the Society of Hospital Medicine, and the immediate past chair of the American Board of Internal Medicine.
 
 
 In the safety and quality arenas, he edits the US government’s two leading websites on safety (they receive about one million yearly visits). In 2004, he received the John M. Eisenberg Award, the nation’s top honor in patient safety. For the past eight years, Modern Healthcare magazine has named him one of the 50 most influential physician-executives in the U.S.; in 2015, he was first on the list. He has served on the healthcare advisory boards of several companies, including Google. His blog, www.wachtersworld.org, is one of the nation’s most popular healthcare blogs. His 2015 book, "The Digital Doctor: Hope, Hype, and Harm at the Dawn of Medicine's Computer Age," received stellar reviews and was a New York Times science bestseller.
-
-----
 
 Keys: 1. We will look back at the digitization of healthcare as one of the crucial inflection points of the industry.
 
@@ -56,13 +32,10 @@ Keys: 1. We will look back at the digitization of healthcare as one of the cruci
 
 3. The most exciting new technologies are the ones that sit at the interface of patients and the health systems.
 
-----
-
 Tags:
 
-----
-
-Post: <div class="cf ctz-wang-top-ad">
+---
+<div class="cf ctz-wang-top-ad">
 	<div class="col-2-3">
 		<p>Dr. Robert Wachter is the author of <em>The Digital Doctor: Hope, Hype, and Harm at the Dawn of Medicine's Computer Age </em>. Our interview expanded on many thought Dr. Wachter communicates in his book.</p>
 		<h5><a href="http://www.amazon.com/The-Digital-Doctor-Medicines-Computer/dp/0071849467" target="_blank">Read more about the book</a></h5>

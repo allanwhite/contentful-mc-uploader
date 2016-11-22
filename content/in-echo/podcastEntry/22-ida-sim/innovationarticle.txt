@@ -1,5 +1,5 @@
-Title: Ida Sim, MD
-----
+---
+Title: Ida Sim, MD----
 Seotitle: Ida Sim, MD: Physician, Researcher, and Entrepreneur
 ----
 Author: travis
@@ -16,8 +16,8 @@ HostURL: /travis
 ----
 HostAvatar: /assets/img/profiles/prof-travis.jpg
 ----
-HostTitle: Catalyze Co-founder, CEO & Chief Privacy Officer
-----
+HostTitle: Catalyze Co-founder, CEO & Chief Privacy Officer----
+
 Date: 08/26/2016
 ----
 Postmedia: <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/284762149&amp;color=1055ff&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
@@ -35,7 +35,8 @@ Keys: 1. Discover why doctors don’t want your patient-generated data yet
 ----
 Tags: technology, leadership, EHRs
 ----
-Post: **On chronic disease and who is in control:** "Chronic disease is going to be improved and managed by people themselves; it is not the healthcare system that's going to help people manage their chronic disease or prevent them. It is people themselves."
+---
+**On chronic disease and who is in control:** "Chronic disease is going to be improved and managed by people themselves; it is not the healthcare system that's going to help people manage their chronic disease or prevent them. It is people themselves."
 
 "Data that gives us a view into people's daily lives and how they are living their lives and how they can manage their chronic disease – those are the datasets that are going to be incredibly important. That's a very new dataset for healthcare. We haven't had that kind of data before."
 

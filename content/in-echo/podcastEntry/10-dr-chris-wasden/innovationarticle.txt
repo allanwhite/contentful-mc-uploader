@@ -1,50 +1,26 @@
+---
 Title: Dr. Chris Wasden
-
-----
-
 Seotitle: Dr. Chris Wasden, Executive Director, Sorenson Center for Discovery and Innovation at the University of Utah
-
-----
 
 Author: travis
 
-----
-
 Guest: Dr. Chris Wadsen
-
-----
 
 Fullname: Travis Good, MD
 
-----
-
 HostURL: /travis
-
-----
 
 HostAvatar: /assets/img/profiles/prof-travis.jpg
 
-----
-
 HostTitle: Co-founder, CEO & Chief Privacy Officer
-
-----
 
 Date: 10/28/2015
 
-----
-
 Postmedia: <iframe src="//fast.wistia.net/embed/iframe/fe0mfrg8ac" allowtransparency="true" frameborder="0" scrolling="no" class="wistia_embed" name="wistia_embed" allowfullscreen mozallowfullscreen webkitallowfullscreen oallowfullscreen msallowfullscreen width="500" height="300"></iframe>
-
-----
 
 Summary: Dr. Chris Wadsen discussed the types of tensions found in organizations, and which can be found in healthcare. This interview is packed full of insight and thoughtful discussion!
 
-----
-
 Bio: Dr. Chris Wasden is the Executive Director of the Sorenson Center for Discovery and Innovation at the David Eccles School of Business at the University of Utah. He is also an Associated Executive director at the Center for Medical Innovation at the medical school, and a professor in the Entrepreneurship and Strategy Department. He also continues to work with PwC where he was the Global Healthcare Innovation Leader. As a global thought leader on Digital Health and the role that Social, Mobile, Analytic and Cloud technologies are transforming healthcare and other industries he has written and published over 60 articles and reports on the topic, and he speaks at over 30 events each year on how Digital Health is transforming the practice of medicine, the delivery of care, and the creation of an entirely new wellness paradigm based upon objective measures that lead to greater engagement and changes in human behavior.
-
-----
 
 Keys: 1. Failure should be separated into two types: "mindless" and "mindful" failures. You want the latter.
 
@@ -52,13 +28,10 @@ Keys: 1. Failure should be separated into two types: "mindless" and "mindful" fa
 
 3. New data being created from wearables and other sensors are a major area of future innovation.
 
-----
-
 Tags:
 
-----
-
-Post: <div class="cf ctz-wang-top-ad">
+---
+<div class="cf ctz-wang-top-ad">
 	<div class="col-2-3">
 		<p>Dr. Wasden is the author of <em>Tension: The Energy of Innovation</em>. Part of this interview discusses the three different types of tensions found in organizations, in particular healthcare, which he discusses in the book.</p>
 		<h5><a href="https://www.facebook.com/tensioninnovation/" target="_blank">Read more about the book</a></h5>

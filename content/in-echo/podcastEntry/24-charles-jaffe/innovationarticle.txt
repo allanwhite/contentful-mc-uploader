@@ -1,5 +1,5 @@
-Title: Charles Jaffe, MD, PhD
-----
+---
+Title: Charles Jaffe, MD, PhD----
 Seotitle: Charles Jaffe, MD: Why Healthcare Should Expand its View of FHIR
 ----
 Author: mohan
@@ -16,8 +16,8 @@ HostURL: /mohan
 ----
 HostAvatar: /assets/img/profiles/prof-mohan.jpg
 ----
-HostTitle: Catalyze Co-Founder & President
-----
+HostTitle: Catalyze Co-Founder & President----
+
 Date: 10/18/2016
 ----
 Postmedia: <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/294158312&amp;color=1055ff&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
@@ -35,7 +35,8 @@ Keys: 1. Learn about the three products of the FHIR Foundation
 ----
 Tags: technology, leadership, EHRs
 ----
-Post: **On the origination of FHIR:** "Five years ago, as part of the HL7 Fresh Look initiative, we developed the FHIR standard. And that standard has evolved so that we are about to emerge as a normative standard in the spring. By normative standard I mean one that has been validated and approved by the American National Standards Institute, or ANSI."
+---
+**On the origination of FHIR:** "Five years ago, as part of the HL7 Fresh Look initiative, we developed the FHIR standard. And that standard has evolved so that we are about to emerge as a normative standard in the spring. By normative standard I mean one that has been validated and approved by the American National Standards Institute, or ANSI."
 
 **On the future promise of FHIR:** "I think as we move forward, we'll see more and more applications suited to healthcare literacy, so patients aren't confronted with their lab results but have access to explanations of their procedures, lab tests, results, diagnosis and the medications they take, all on a convenient single interface."
 

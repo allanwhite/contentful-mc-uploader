@@ -1,46 +1,24 @@
+---
 Title: R Ray Wang
-
-----
-
 Seotitle: R "Ray" Wang, Founder and Chairman of Constellation Research
-
-----
 
 Author: travis
 
-----
-
 Guest: R "Ray" Wang
-
-----
 
 Fullname: Travis Good, MD
 
-----
-
 HostURL: /travis
-
-----
 
 HostAvatar: /assets/img/profiles/prof-travis.jpg
 
-----
-
 HostTitle: Co-founder, CEO & Chief Privacy Officer
-
-----
 
 Date: 05/08/2015
 
-----
-
 Postmedia: <iframe src="//fast.wistia.net/embed/iframe/l7k0claacb" allowtransparency="true" frameborder="0" scrolling="no" class="wistia_embed" name="wistia_embed" allowfullscreen mozallowfullscreen webkitallowfullscreen oallowfullscreen msallowfullscreen width="500" height="312"></iframe>
 
-----
-
 Summary: R "Ray" Wang chatted with Travis about the digital transformation of healthcare. Many of Ray's insights were pulled from his new book _Disrupting Digital Business: Creating an Authentic Experience in the Peer-to-Peer Economy_ which published May 5th. We were impressed by his varied background, and engaged in a conversation about business models, culture, and EHRs.
-
-----
 
 Bio: R “Ray” Wang is the Principal Analyst, Founder, and Chairman of Silicon Valley based Constellation Research, Inc.  He’s also the author of the popular business strategy and technology  blog “A Software Insider’s Point of View,” where he provides insight into how disruptive technologies and new business models impact brands, enterprises, and organizations. Ray has held executive roles in product, marketing, strategy, and consulting at companies such as Forrester Research, Oracle, PeopleSoft, Deloitte, Ernst & Young, and Johns Hopkins Hospital.
 
@@ -50,20 +28,15 @@ His new book [_Disrupting Digital Business_](http://www.amazon.com/Disrupting-Di
 
 Wang is a three time winner of the Analyst of the Year Award given by the Institute of Industry Analyst Relations.
 
-----
-
 Keys: 1. The main disruption caused by digital transformation isn't the technology or care delivery, but the business model. That disruption, though, will trigger massive, positive shifts in patient outcomes.
 
 
 2. Transforming organizational culture is just as important to the business models or care delivery. Culture is really the root of sustained innovation.
 
-----
-
 Tags: innovation,business models,culture
 
-----
-
-Post: <div class="cf ctz-wang-top-ad">
+---
+<div class="cf ctz-wang-top-ad">
 	<div class="col-2-3">
 		<p>Ray is the author of <em>Disrupting Digital Business: Creating an Authentic Experience in the Peer-to-Peer Economy</em> which published May 5th. He stopped by to chat about healthcare's business model disruption in the modern digital age. We were thrilled with his insights.</p>
 		<h5><a href="http://www.amazon.com/Disrupting-Digital-Business-Peer---Peer/dp/1422142019/ref=@rwang0" target="_blank">Purchase a copy here</a></h5>

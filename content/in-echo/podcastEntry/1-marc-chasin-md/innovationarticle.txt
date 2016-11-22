@@ -1,56 +1,30 @@
+---
 Title: Marc Chasin, MD
-
-----
-
 Seotitle: Marc Chasin, MD, MMM, CPE, CHCIO - St. Luke's Health System
-
-----
 
 Author: travis
 
-----
-
 Guest: Dr. Marc Chasin
-
-----
 
 Fullname: Travis Good, MD
 
-----
-
 HostURL: /travis
-
-----
 
 HostAvatar: /assets/img/profiles/prof-travis.jpg
 
-----
-
 HostTitle: Co-founder, CEO & Chief Privacy Officer
-
-----
 
 Date: 12/19/2014
 
-----
-
 Tags:
-
-----
 
 Postmedia: <iframe src="//fast.wistia.net/embed/iframe/uinuil0g5t" allowtransparency="true" frameborder="0" scrolling="no" class="wistia_embed" name="wistia_embed" allowfullscreen mozallowfullscreen webkitallowfullscreen oallowfullscreen msallowfullscreen width="500" height="312"></iframe>
 
-----
-
 Summary: Dr. Chasin is Vice President & Chief Information Officer of St. Luke's Health System in Boise, Idaho. He joined Travis to talk about where patients fit into innovation. The theme of the conversation was "Voice of a Patient: Why the front line should be involved in innovation." We were blown away by the insight Dr. Chasin gave in our inaugural interview.
-
-----
 
 Bio: Dr. Marc Chasin (MD, MMM, CPE, CHCIO), Vice President & Chief Information Officer of St. Luke’s Health System in Boise, Idaho has been with the health system since 2010 and now serves two roles as both the CIO and the CMIO. Additionally, he serves as a board member of the Idaho Health Data Exchange and chair of the Care Everywhere Network at Epic Systems. Dr. Chasin is also a CHIME-certified healthcare CIO and is chair of the CareQuality Trust Framework Committee.
 
 Dr. Chasin joined us to talk about the "Voice of a Patient: Why the front line should be involved in innovation."
-
-----
 
 Keys: 1. Data ownership is changing from physicians to patients. They expect to own their data, and the data should follow them everywhere.
 
@@ -58,9 +32,8 @@ Keys: 1. Data ownership is changing from physicians to patients. They expect to 
 
 3. If you want to introduce innovation to healthcare as a vendor, appeal to the reason the health system exists in the first place—to treat patients. Then, show how you can impact both value _and_ volume. Know the business model and outcomes. "I'm looking for partners," said Dr. Chasin.
 
-----
-
-Post: _Thank you for visiting our inaugural Healthcare Innovation Series interview. We've started out strong with an incredibly insightful participant in Dr. Chasin. We're excited to share this journey with you as we begin to dive deep into how healthcare innovates. Video recordings of the interview are available throughout the flow of the conversation. —Ed._
+---
+_Thank you for visiting our inaugural Healthcare Innovation Series interview. We've started out strong with an incredibly insightful participant in Dr. Chasin. We're excited to share this journey with you as we begin to dive deep into how healthcare innovates. Video recordings of the interview are available throughout the flow of the conversation. —Ed._
 
 <iframe src="//fast.wistia.net/embed/iframe/tsm4dv5310" allowtransparency="true" frameborder="0" scrolling="no" class="wistia_embed" name="wistia_embed" allowfullscreen mozallowfullscreen webkitallowfullscreen oallowfullscreen msallowfullscreen width="500" height="312"></iframe>
 

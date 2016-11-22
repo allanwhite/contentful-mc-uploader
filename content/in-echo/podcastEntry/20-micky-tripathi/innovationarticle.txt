@@ -1,5 +1,5 @@
-Title: Micky Tripathi: a FHIR-side Chat
-----
+---
+Title: Micky Tripathi: a FHIR-side Chat----
 Seotitle: Micky Tripathi: a FHIR-side Chat
 ----
 Author: travis
@@ -16,8 +16,8 @@ HostURL: /travis
 ----
 HostAvatar: /assets/img/profiles/prof-travis.jpg
 ----
-HostTitle: Catalyze Co-founder, CEO & Chief Privacy Officer
-----
+HostTitle: Catalyze Co-founder, CEO & Chief Privacy Officer----
+
 Date: 07/22/2016
 ----
 Postmedia: <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/275676666&amp;color=1055ff&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
@@ -38,7 +38,8 @@ Keys:
 ----
 Tags: interoperability, FHIR
 ----
-Post: **On why FHIR changes things for one developer outside of healthcare:** "THAT I can work with. I look at it and it’s a language I can read; it’s something that I’m happy to build to, because it makes complete sense with the way I’ve been doing internet technology in other sectors."
+---
+**On why FHIR changes things for one developer outside of healthcare:** "THAT I can work with. I look at it and it’s a language I can read; it’s something that I’m happy to build to, because it makes complete sense with the way I’ve been doing internet technology in other sectors."
 
 **On why those outside healthcare start with patient facing apps:** "They seem to approach it from the patient perspective, in part because they are not working from the inside out, so that’s their point of access in the healthcare system."
 
