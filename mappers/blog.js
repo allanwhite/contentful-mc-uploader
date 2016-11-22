@@ -7,6 +7,27 @@ module.exports = function(file) {
         'mohan': '3VJKuWDfPak8w26k0g0Kw0',
         'travis': '1gpUmvd6yuOKUIUIY620i0'
     };
+    // tags map to linked entries; using the tag 'slug' field as key
+    var tags = {
+        'compliance': '1wY9bJEWnCwCyqcE2kCiuy',
+        'telemedicine': '2ExI7snXjysKOqWqmwQwwU',
+        'hipaa': '3ebX0zrnVuYEQOuo2QSSuU',
+        'design': '3kOhUwDRkkc0qAuKYIoIIW',
+        'baas': '3NDyJqRTJYMwiU0SSwqagm',
+        'engagement': '3rO97bU0piC0CI0eOg6ksI',
+        'podcast': '4ABMNMPZaU68iucWYcEcIe',
+        'interoperability': '4HqJmCMdiwwiQuC8uUcCqo',
+        'fhir': '4WpqU1En6MsqmCEWweeCmO',
+        'security': '5Y8Z8rlBw4Ucuu8su4oCgC',
+        'resources': '6uZHqvyHMkO4eky0OwiWki',
+        'ehr': '6vv9sUZuiAs8yQ4cQqm86e',
+        'integration': '6wXXHIJfUsMg62Cuwquoa2',
+        'tutorials': '7FkInYPmxiG4QsiM60COos',
+        'hitrust': '9hLuri8gRGWUksIiIQg8y',
+        'api': '34a2ITeysg6eYauG028usg',
+        'medicare': 'hb3JCbHoOcImGmEMasYEC',
+        'healthcare-costs': 'muuTw36MCccawe428I8Oa'
+    }
     // Start mapping calls-to-action. These are static, per-section for now.
     // var ctas = {
     //     'blog': 'wWsIbfCLjasGCy6cKeO86'
@@ -47,8 +68,8 @@ module.exports = function(file) {
     file.content.fields.post = file.content.fields.body;
     delete file.content.fields.body;
 
-    // file.content.fields.ctaref = file.content.fields.ctaref;
-    // delete file.content.fields.ctaref;
+    file.content.fields.categoriesBlog = file.content.fields.category;
+    delete file.content.fields.category;
 
     //Custom mappings
     var dateArray = file.content.fields.date['en-US'].split('/');
@@ -78,6 +99,7 @@ module.exports = function(file) {
             // 'en-US': authorId
         }
     }
+
     // injecting CTA ref, all entries in this pool have this as default.
     file.content.fields.ctaRef = {
         'en-US': {
@@ -88,6 +110,7 @@ module.exports = function(file) {
             }
         }
     }
+
 
     // To-do: write a function that will inject the CTA ID reference into ctaRef field.
     console.log(file);
