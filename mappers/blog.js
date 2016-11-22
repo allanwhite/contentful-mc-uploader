@@ -73,13 +73,14 @@ module.exports = function(file) {
     delete file.content.fields.category;
 
     //Custom mappings
+
     console.log(file.content.fields.tags);
-    // var tagArray = file.content.fields.tags['en-us'].split(', ');
     var tagStr = file.content.fields.tags['en-US'];
     var tagArray = tagStr.split(', ');
     console.log('tagArray: ' + tagArray);
 
-    function logMapElements(value, key, map) {
+    function tagMapElements(value, key, map) {
+        // Need to iterate over tagArray.length, do an "if" check, and insert the mapped value. Else, tag = 'resources' ID (fallback)
         // console.log("tag." + key + " = id: " + value);
 
     }
@@ -102,7 +103,7 @@ module.exports = function(file) {
         ['api', '34a2ITeysg6eYauG028usg'],
         ['medicare', 'hb3JCbHoOcImGmEMasYEC'],
         ['healthcare-costs', 'muuTw36MCccawe428I8Oa']
-    ]).forEach(logMapElements);
+    ]).forEach(tagMapElements);
 
     var dateArray = file.content.fields.date['en-US'].split('/');
     var isoDate = dateArray[2]+'-'+dateArray[0]+'-'+dateArray[1];
