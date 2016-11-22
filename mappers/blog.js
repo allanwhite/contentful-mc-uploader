@@ -1,20 +1,20 @@
 module.exports = function(file) {
     var authors = {
-        "casey": "7aMAu7W6K4M8S0eCuIyCCM",
-        "marcia": "6NxyE8vlfOqMOkkGsCSusA",
-        "marko": "5dsPZqJr4Qu2uww6KgYO0G",
-        "heath": "2jePzhmtig2QCaYwucYuuy",
-        "mohan": "3VJKuWDfPak8w26k0g0Kw0",
-        "travis": "1gpUmvd6yuOKUIUIY620i0"
+        'casey': '7aMAu7W6K4M8S0eCuIyCCM',
+        'marcia': '6NxyE8vlfOqMOkkGsCSusA',
+        'marko': '5dsPZqJr4Qu2uww6KgYO0G',
+        'heath': '2jePzhmtig2QCaYwucYuuy',
+        'mohan': '3VJKuWDfPak8w26k0g0Kw0',
+        'travis': '1gpUmvd6yuOKUIUIY620i0'
     };
     // Start mapping calls-to-action. These are static, per-section for now.
-    var ctas = {
-        "blog": "wWsIbfCLjasGCy6cKeO86"
-    };
+    // var ctas = {
+    //     'blog': 'wWsIbfCLjasGCy6cKeO86'
+    // };
 
     var keys = Object.keys(file.content.fields);
 
-    //Replace "Title" with "title", "SeoTitle" with "seoTitle", etc.
+    //Replace 'Title' with 'title', 'SeoTitle' with 'seoTitle', etc.
     keys.forEach(function(key) {
         var field = file.content.fields[key];
         // var newKey = key.charAt(0).toLowerCase() + key.slice(1);
@@ -23,11 +23,11 @@ module.exports = function(file) {
         file.content.fields[newKey] = field;
     });
 
-    //For errors like so: Error: validation against content type failed - invalid field "seotitle"
+    //For errors like so: Error: validation against content type failed - invalid field 'seotitle'
     //  Contentful is not expecting to get the field name, so we can remove it, or rename it
     //  To remove it:
     //delete file.content.fields.seotitle;
-    //  To rename it (renaming to "seoTitle" in this example):
+    //  To rename it (renaming to 'seoTitle' in this example):
     //file.content.fields.seoTitle = file.content.fields.seotitle;
     //delete file.content.fields.seotitle;
 
@@ -65,23 +65,30 @@ module.exports = function(file) {
         'en-US': slug
     };
 
-    // injecting CTA ref, all entries in this pool have this as default. 
-    file.content.fields.ctaRef = {
-        "id": "wWsIbfCLjasGCy6cKeO86"
-    }
     var authorId = authors[file.content.fields.author['en-US']];
     if(authorId) {
         file.content.fields.author = {
             'en-US': {
-                "sys": {
-                    "type": "Link",
-                    "linkType": "Entry",
-                    "id": authorId
+                'sys': {
+                    'type': 'Link',
+                    'linkType': 'Entry',
+                    'id': authorId
                 }
             }
             // 'en-US': authorId
         }
     }
+    // injecting CTA ref, all entries in this pool have this as default.
+    file.content.fields.ctaRef = {
+        'en-US': {
+            'sys': {
+                'type': 'Link',
+                'linkType': 'Entry',
+                'id': 'wWsIbfCLjasGCy6cKeO86'
+            }
+        }
+    }
+
     // To-do: write a function that will inject the CTA ID reference into ctaRef field.
     console.log(file);
     return file;
