@@ -47,6 +47,9 @@ module.exports = function(file) {
     file.content.fields.post = file.content.fields.body;
     delete file.content.fields.body;
 
+    // file.content.fields.ctaref = file.content.fields.ctaref;
+    // delete file.content.fields.ctaref;
+
     //Custom mappings
     var dateArray = file.content.fields.date['en-US'].split('/');
     var isoDate = dateArray[2]+'-'+dateArray[0]+'-'+dateArray[1];
@@ -62,6 +65,10 @@ module.exports = function(file) {
         'en-US': slug
     };
 
+    // injecting CTA ref, all entries in this pool have this as default. 
+    file.content.fields.ctaRef = {
+        "id": "wWsIbfCLjasGCy6cKeO86"
+    }
     var authorId = authors[file.content.fields.author['en-US']];
     if(authorId) {
         file.content.fields.author = {
