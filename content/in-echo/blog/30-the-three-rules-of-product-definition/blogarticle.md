@@ -8,6 +8,7 @@ Lead: |
   How does one go about defining a product? What constitutes a product? Some musings on the topic and approaches that we like to take with some examples from other domains.
 
 Tags: product requirements, definition
+Category: company
 Fullname: Mohan Balachandran
 ---
 I've always been interested in how a product is defined. How does one go about defining a solution to meet a market need that may or may not be perceived by the market in general? In the enterprise context, you need to spend time with the appropriate business personnel to define what problem they expect the solution to solve. Contrast that with the stories of how the iPod would never have existed if anyone asked a user (consumer in this case) what it is they wanted from a portable music player. And perhaps, that delta is the nuance - enterprise vs. consumer?

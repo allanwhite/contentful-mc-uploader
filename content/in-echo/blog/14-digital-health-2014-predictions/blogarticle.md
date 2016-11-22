@@ -8,6 +8,7 @@ Lead: |
   Welcome to 2014! 2013 was another big year for digital health on all fronts. While widespread disruption didn't happened in healthcare in 2013, we did see lots of great progress on technology and business fronts, and we're starting to see more concrete evidence around new and emerging models of care, many of which rely highly on new, modern technologies. It takes time for change to take hold in an industry as large as healthcare, but talking to people inside and outside of the industry gives us the sense that we're past the tipping point.
 
 Tags: engagement, hipaa, mhealth
+Category: company
 Fullname: Travis Good, MD
 ---
 For a look back at 2013, check out this post on digital health trends in 2013 and this great Rock Health [deck](http://www.slideshare.net/RockHealth/digital-health-funding-2013-year-in-review-by-rockhealth) on funding trends in 2013.

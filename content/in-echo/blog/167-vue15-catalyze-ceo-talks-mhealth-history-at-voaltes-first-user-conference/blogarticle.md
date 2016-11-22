@@ -9,6 +9,7 @@ Lead: |
   > If you don’t know history, then you don’t know anything. You are a leaf that doesn’t know it is part of a tree. - Michael Crichton
 
 Tags: conferences, mhealth
+Category: company
 ---
 This week on Thursday, November 12, Catalyze CEO and Co-founder, Travis Good, will be moderating a panel discussion on “Lessons from mHealth History” starting at 10:45am EST. [VUE15](http://www.voalte.com/vue15/) is [Voalte](http://www.voalte.com/)’s first User Experience conference designed to be a collaborative endeavor with some of healthcare’s brightest minds together in one room. Founded with the intent to lead future mobile initiatives, VUE15 is geared toward innovative [mHealth](https://catalyze.io/solutions/mhealth) solutions. CEO of [Voalte](http://www.voalte.com/), [Trey Lauderdale](http://www.voalte.com/about-us/trey-lauderdale/), who gave us the pleasure of being one of the newest additions to our [Innovation series](https://catalyze.io/innovation) roster last week, was quoted saying:
 

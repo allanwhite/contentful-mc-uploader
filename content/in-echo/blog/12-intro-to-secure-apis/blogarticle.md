@@ -8,6 +8,7 @@ Lead: |
   Over the weekend I had the privilege of attending a YCombinator conference in San Francisco covering best practices for web security. A number of topics were discussed including securing APIs, incident responses and responsible disclosure, proper backup techniques, how to handle customer secrets, and when to pay for pen testing. Over the next few blog posts I’ll outline these topics in detail. We’ll start off with securing APIs.
 
 Tags: api, hipaa
+Category: company
 Fullname: Travis Good, MD
 ---
 One of the most important things to remember about security is that in order to protect your APIs, you must have the mindset of an attacker. If you know how to break into your own API you can easily secure it. It’s always been said that security is easy, but easy to get wrong.

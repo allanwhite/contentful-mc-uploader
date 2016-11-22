@@ -9,6 +9,7 @@ Lead: |
   Here at Catalyze, we have many customers and [business associates](https://catalyze.io/learn/business-associate-agreements) that utilize our products, services, and expertise with applications that employ telecommunication technology with means of improving healthcare, collective well-being, and health education remittance and assistance — put simply in layman’s terms, Catalyze serves as a great technology partner to telehealth apps. 
 
 Tags: telemedicine, telehealth
+Category: company
 ---
 ### What is **telehealth**?
 

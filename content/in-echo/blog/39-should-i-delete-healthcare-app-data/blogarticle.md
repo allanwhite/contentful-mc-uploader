@@ -8,6 +8,7 @@ Lead: |
   If you're flipping through the Catalyze compliant API [documentation](https://docs.catalyze.io/), one of the things that you'll notice is that we've given you the ability to delete any data that you wish to delete. We advise you that the deletion is permanent; **you know that we mean it because we put the font in all bold at that part**. However, at the end of the day, you're the boss. You're building your own product and we've given you the means to manage your data as you wish.
 
 Tags: hipaa, Legal medical record, standards, app design, api
+Category: company
 Fullname: Mark Olschesky
 ---
 But, if this is your first time building a healthcare application, or maybe if you're looking for a refresher, you might be asking yourself "How long am I (and my customers) actually required to maintain PHI? Do we have to maintain PHI at all?". The answer isn't necessarily straightforward, but I'll try to walk you through some basic rules and thought processes on the topic. We'll hit some jargon along the way, and I'll try to explain things as I go along.

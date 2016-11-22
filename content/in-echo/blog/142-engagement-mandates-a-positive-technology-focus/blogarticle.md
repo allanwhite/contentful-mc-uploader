@@ -9,6 +9,7 @@ Lead: |
   The utility of healthcare technologies is exceedingly pertinent for lively and continual [patient engagement](https://catalyze.io/solutions/patient-engagement), but individual preferences and conjectures must be taken into consideration when design decisions are made. There have been no specific criterion released to offer support to the [patient engagement](https://catalyze.io/solutions/patient-engagement) process but there are emerging directions seen across the industry. But first, to thoroughly understand these disciplines, the purpose of health information technologies must be understood as it relates to [patient engagement](https://catalyze.io/solutions/patient-engagement). 
 
 Tags: patient engagement, security
+Category: company
 ---
 The roles of these technologies in promoting the inherent engagement process can be broken down into two objectives:
 

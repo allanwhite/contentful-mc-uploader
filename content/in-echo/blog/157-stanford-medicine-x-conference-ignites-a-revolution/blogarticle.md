@@ -9,6 +9,7 @@ Lead: |
   *There is no time like the present.*
 
 Tags: medx, innovation
+Category: company
 ---
 A message that rang clear at the [2015 Stanford Medicine X Conference](http://medicinex.stanford.edu/), which transpired Sept. 23-27, bringing together the most innovative and thought-provoking leaders from far and wide. The conglomerate that ensued has commanded a full industry shift to improve healthcare. The opportunities are endless and the advancements on the horizon are revolutionary to making this transformation a reality. New technologies are allowing for this change towards increased patient engagement and interaction, while reducing resilience and reservations, leading towards a more involved and educated general populace. 
 

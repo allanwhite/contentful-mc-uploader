@@ -9,6 +9,7 @@ Lead: |
   > Judge a man by his questions rather than his answers. - Voltaire
 
 Tags: predictions
+Category: company
 ---
 We're fans of Benedict Evans. He's got an exceptional sense of current events and future trends for mobile and general technology. While not specific to healthcare, his analysis and commentary are fantastic and important signals for us. We loved his recent post [20 questions for 2015](http://ben-evans.com/benedictevans/2015/1/1/20-questions-for-2015). Being fans of yearly predictions, we took Evans' approach and applied it to healthcare. We added our own opinions throughout. We would love to hear your questions for 2015 or reactions to our questions below!
 

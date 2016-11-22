@@ -8,6 +8,7 @@ Lead: |
   As the nation has learned more about the challenges faced by veterans easing back into civilian life, Post-traumatic Stress Disorder (PTSD) has gained the attention of the healthcare world. But it’s not just healthcare professionals putting in the effort to address PTSD. Veterans themselves are teaming up to support the lives of one another.
 
 Tags: ptsd, VA
+Category: company
 Fullname: Kris Gösser
 ---
 A group of LA-based veterans have created a mobile application called [Position Report](http://pos-rep.com/), or POS REP for short. The app is meant to link veterans suffering from PTSD up with nearby veterans for support.

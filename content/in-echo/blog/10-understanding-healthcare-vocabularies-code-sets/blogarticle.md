@@ -8,6 +8,7 @@ Lead: |
   
 
 Tags: codeset, icd10, icd9, loinc, snomed-ct, vocabularies
+Category: company
 Fullname: Mohan Balachandran
 ---
 #### What are they, why they're important and how they're used

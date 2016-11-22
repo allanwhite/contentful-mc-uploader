@@ -9,6 +9,7 @@ Lead: |
   In a two-way communication system that is properly using the HL7 standards, a receiving system will send an HL7 ACK (acknowledgement) message to the sending system to notify that the message was effectively received. In an archetypal HL7 environment, the sending system will presume the message was not received up until the delivery of an ACK message is made from the receiving system. By way of explanation, if the receiver does not return the ACK message, the sender may safely assume there is an error and halt message transmissions. 
 
 Tags: hl7 integration
+Category: company
 ---
 ### ACK Message Anatomy
 

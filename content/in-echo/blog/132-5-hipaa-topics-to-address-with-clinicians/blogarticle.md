@@ -9,6 +9,7 @@ Lead: |
   HIPAA regulations outline IT compliance in high-level detail but  does not specify methods for true compliance. This lack of a guided approach can prove to be an obstacle for healthcare clinician managers seeking concrete methods to train personnel, especially in regards to technology.
 
 Tags: hipaa, clinical
+Category: company
 ---
 Fortunately, Catalyze is here to help you by making sure your training focuses solely on what clinicians need to know, which will save time and increase engagement. Here are the five key topics we suggest you focus on in your HIPAA training sessions:
 

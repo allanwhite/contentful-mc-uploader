@@ -9,6 +9,7 @@ Lead: |
   ### “Catalyze has gone above and beyond in the exceptional requests that we’ve made, making it easy for us to feed the medical information to our customers.” - [Jon Pearce](https://zipnosis.com/about-us), Founder & CEO
 
 Tags: zipnosis, hl7 integration
+Category: company
 ---
 If you haven’t heard of [Zipnosis, Inc.](https://zipnosis.com/) yet, you’re missing out on some of the latest, greatest, and most convenient innovations to modern mainstream medicine. Here at Catalyze, not only do we love their services, but we love their business partnership. Zipnosis turned to Catalyze when searching for a HIPAA compliant technology partner to handle their hosting, and then later on, all of their [HL7 integration](https://catalyze.io/hl7) necessities. Want to know why? Read all about it in our [Zipnosis Case Study](https://catalyze.io/customers/zipnosis). 
 

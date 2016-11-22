@@ -9,6 +9,7 @@ Lead: |
   I was setting up our alerter to send email through our mailgun account. I encountered a problem that I needed to handle for the first time using Mirth Connect: sending a multi-part message using Mirth Connect.
 
 Tags: Mirth, Apache, Rhino
+Category: company
 ---
 While this would be simpler to do with the HTTPS plugin provided by Mirth, it doesn't seem like you're given a great programatic way to do it even with the Mirth utils within the JavaScript Writer. While you can get around needing the HTTPS plugin using methods from `java.net.URL`, if you haven't started allow me to give you a tip.
 

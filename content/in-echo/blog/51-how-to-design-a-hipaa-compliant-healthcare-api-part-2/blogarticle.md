@@ -8,6 +8,7 @@ Lead: |
   In [part 1](/blog/how-to-design-a-hipaa-compliant-healthcare-api) we discussed why we structured our backend as its built. Now in part two we'll discuss how to get started with building out your apps.
 
 Tags: hipaa, design, custom classes, data, api
+Category: company
 Fullname: Mark Olschesky
 ---
 ##Step 1: Develop your application's data models##

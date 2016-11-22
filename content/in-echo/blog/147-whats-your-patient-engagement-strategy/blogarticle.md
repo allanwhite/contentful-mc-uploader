@@ -9,6 +9,7 @@ Lead: |
   _This entry was taken and adapted from an original article published on [HIStalk](http://histalkmobile.com/) on August 18, 2014 by [Travis Good](https://catalyze.io/travis), MD, Catalyze Co-Founder & CEO. You can read the original [here](http://histalkmobile.com/whats-your-patient-engagement-strategy/)._
 
 Tags: patient engagement
+Category: company
 ---
 I like to ask people from health systems, most of them from the IT side, about their [patient engagement](https://catalyze.io/solutions/patient-engagement) or digital engagement strategy. It’s interesting to hear how systems think about digital engagement considering the buzz and hype it is getting from vendors and pundits.
 

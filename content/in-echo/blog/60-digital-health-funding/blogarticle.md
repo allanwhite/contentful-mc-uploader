@@ -8,6 +8,7 @@ Lead: |
   Ybrain, MyDoc, AirStrip, uBiome, and more...
 
 Tags: healthit, funding
+Category: company
 Fullname: Sarah Nettie
 ---
 #### Healthcare wearable Ybrain raises US$3.5M in Series A funding

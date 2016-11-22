@@ -9,6 +9,7 @@ Lead: |
   We've been busy behind the scenes continuing to build out the Catalyze [Mobile Backend as a Service](https://catalyze.io/baas) (BaaS). Catalyze BaaS is geared towards developers who want to build a HIPAA-compliant mobile application without the need of managing servers or dealing with database backend administration tasks. We provide a REST API focused on storing [Protected Health Information](https://catalyze.io/learn/what-is-protected-health-information-or-phi) along with giving you all the data and user management tools you need to build your app. 
 
 Tags: BaaS, mobile, product
+Category: company
 ---
 Since Fall our primary focus areas have been speed, stability and architectural improvements. We are very happy with where BaaS is headed and look forward to new releases in future months which will introduce new features like auto-indexing of custom classes to improve query performance for critical tasks, more insight into application usage, and tighter integration with our [Platform as a Service](https://catalyze.io/paas). 
 

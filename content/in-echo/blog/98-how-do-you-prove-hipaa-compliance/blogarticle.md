@@ -9,6 +9,7 @@ Lead: |
   Without a doubt, this is one of the most important questions healthcare companies need to ask themselves and their partners: _How to prove HIPAA compliance?_
 
 Tags: compliance, audit
+Category: company
 ---
 Unlike other government regulations, it is not illegal for a company to slap a "HIPAA Compliant" tagline, which means we've seen an explosion in companies claiming some variance of compliance. The sneakiest marketing cons are the ones claiming to be "HIPAA Ready" — a deflection away from the fact that they aren't compliant, but could be. The murky messaging found in the marketplace would prompt anyone to stop and ask again: **How do you prove HIPAA compliance?**
 

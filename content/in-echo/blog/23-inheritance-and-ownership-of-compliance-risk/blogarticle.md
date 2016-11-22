@@ -8,6 +8,7 @@ Lead: |
   The HIPAA Omnibus Rule that went into effect in 2013 changed the landscape of HIPAA. It created a new name for business associate called a "subcontractor". In much the same way a business associate processes, transmits, or stores ePHI for a [covered entities](http://catalyze.io/blog/compliance/hipaa-101-a-primer/), a subcontractor processes, transmits, or stores ePHI for a business associate.
 
 Tags: hipaa, compliance, risk, subcontractors
+Category: company
 Fullname: Travis Good, MD
 ---
 It's easier to just consider them a business associate of a business associate. And subcontractors are required to sign business associate agreements (BAAs). We get asked a lot about subcontractors and BAAs by customers and prospects.

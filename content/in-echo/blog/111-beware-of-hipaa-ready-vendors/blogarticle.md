@@ -9,6 +9,7 @@ Lead: |
   In a world where technology, healthcare, and business are all integrated, a thorough understanding of semantics is critical, especially when [PHI (protected health information)](https://catalyze.io/learn/what-is-protected-health-information-or-phi) is at risk. No matter what your relationship with HIPAA may be, knowing the difference between being HIPAA ready and HIPAA compliant could save you some big risks and some even bigger costs.
 
 Tags: hipaa ready, compliance
+Category: company
 ---
 A general rule of thumb is to be very chary when providers of hosting platforms are claiming to be “HIPAA ready” or “HIPAA certified”; preferably target potential business partners that are “HIPAA audited” or “HIPAA compliant.” Just about any technology can be considered HIPAA ready but what do vendors really mean when they say that? All that being “ready” affirms is that the scope of your audit is extended to include those components. This will require your internal information security team to approve the system architecture in comprehensive detail prior to commencement, which will lengthen or even prevent you from launching your program.
 

@@ -9,6 +9,7 @@ Lead: |
   As of May 21, 2015, the House Committee on Energy and Commerce has officially pushed forward the bill calling for the Secretary of Health and Human Services to “revise and clarify” the HIPAA Privacy Rule’s contingencies on the application and release of [PHI](https://catalyze.io/learn/what-is-protected-health-information-or-phi) (protected health information) for research purposes. Next, the legislation is on its way to meet the full House of Representatives. We wanted to use our expertise in the situation to briefly explain what this means for digital health companies.
 
 Tags: hipaa, government, privacy
+Category: company
 ---
 Under present [HIPAA Privacy Rule](https://catalyze.io/learn/the-hipaa-privacy-rule) standards, PHI can be used and shared by covered entities for healthcare payment, treatment, and operations without the need for patient consent. But if this legislation is to be passed, patient authorization will not be needed for the disclosure of PHI for research intents as well if business associates or covered entities are involved. This modern provision aims to accelerate the rate of research, which could lead to breakthroughs in modern medicine, devices, and treatments by removing previous hindrances. But there are those in opposition to these HIPAA proposals voicing their concern for the relaxed direction and feel this could pose concerning patient data. 
 

@@ -9,6 +9,7 @@ Lead: |
   Someone the other day told us that they didn't trust us because we didn't have up front pricing on our website. It's the only thing we heard from them before they walked out the virtual door of our website. I'm sorry we didn't get a good chance to engage, because I would have loved to talk about why we do this.
 
 Tags: pricing
+Category: company
 ---
 The [common startup zeitgeist](https://al3x.net/2012/02/29/how-not-to-sell-software-in-2012.html) suggests human interaction between prospect and customer is a failure. We strongly believe this isn't a global maxim, at least for early-stage companies. For Catalyze, we've found greater success in being human-centric, sales-orientated, and would like to share our insight.
 

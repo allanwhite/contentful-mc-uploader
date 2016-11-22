@@ -9,6 +9,7 @@ Lead: |
   Coming to the end of our analysis of the five major barriers to interoperability is a look at the costs involved with this initiative. The [GAO report](http://www.gao.gov/assets/680/672585.pdf) took such a comprehensive view into EHR interoperability that one has to wonder where the funds are coming from. Seventeen of the eighteen representatives in the study were actually from non-profit efforts or part of non-profit organizations – so, again, where did the money come from? Well the eighteen initiatives cited a variety of sources, including grants, a cornucopia of fees, charitable donations and funding from private organizations. If you’re wondering why so many origin points, the answer is quite simple – EHRs are expensive. Or, rather, HIT has always been expensive and an EHR is simply a bigger target for cost vs. the 30 legacy systems which handled what the EHR does now.
 
 Tags: interoperability, ehr
+Category: company
 
 ---
 Have doubts? Take a look at this (incomplete) list of cost area considerations:

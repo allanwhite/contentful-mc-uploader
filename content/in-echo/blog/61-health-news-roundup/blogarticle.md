@@ -8,6 +8,7 @@ Lead: |
   Breaches, new health data privacy requirements, a pharma accelerator, HealthKit, and new apps for veterans...
 
 Tags: healthit, trends, news
+Category: company
 Fullname: Sarah Nettie
 ---
 #### [Mac McMillan: 'Disparate' health privacy requirements overwhelming for providers](http://www.fiercehealthit.com/story/privacy-mac-mcmillan-hipaa-ocr-hhs-healthcare-himss/2014-08-22?page=full&utm_content=bufferc254f&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)

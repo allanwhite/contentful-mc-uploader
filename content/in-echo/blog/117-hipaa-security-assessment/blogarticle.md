@@ -9,6 +9,7 @@ Lead: |
   In this second entry of our Assessment Series we explore what  a HIPAA Risk Assessment is and why it is crucial in ensuring the safe-handling of protected health information (PHI) with the growing dependency on information technology in the Healthcare Industry and the implementation of electronic medical records (EMR).
 
 Tags: hipaa, security assessment
+Category: company
 ---
 Back in February of 2009 the HITECH (Health Information Technology for Economic and Clinical Health) Act was passed as an element of the American Recovery and Reinvestment Act to fortify the privacy and safety of PHI by including provisions to the HIPAA Standards. Among the stipulations in HITECH was the HIPAA Security Rule which has requirements organized into three classifications, and within each classification are 18 standards and 36 implementation specifications that are categorized as “Required” or “Addressable”. The **Required** specifications are crucial and necessities to be implemented; whereas, **Addressable** specifications are meant for scalable consideration based on individual and entity needs and best practices. 
 

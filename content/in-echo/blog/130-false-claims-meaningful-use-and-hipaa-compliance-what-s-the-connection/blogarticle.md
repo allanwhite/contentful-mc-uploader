@@ -9,6 +9,7 @@ Lead: |
   # False Claims Act
 
 Tags: hipaa, false claims, meaningful use
+Category: company
 ---
 First, what is the False Claims Act? 
 

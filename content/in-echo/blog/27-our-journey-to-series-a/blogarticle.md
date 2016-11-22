@@ -8,6 +8,7 @@ Lead: |
   Catalyze is the 3rd startup this founding team has launched over the last several years. The first, AccessMobile, ended up focused on global health with paying customers in Africa but without a truly scalable business model. The second startup, Share.MD, was focused on physician collaboration, profiles, education, and communications; we pitched at Health 2.0, had pilots at 3 academic centers and many, many discussions on Sand Hill Road in Palo Alto with “interested” investors before ultimately deciding that we were creating something that we weren’t positioned to distribute and solving a problem we weren’t passionate enough about.
 
 Tags: funding
+Category: company
 Fullname: Travis Good, MD
 ---
 Catalyze, is really the product of what we learned over the last several years in our previous startups and through a countless number of discussions with people in the industry. Yes, Catalyze is a new venture; but, we started it with the benefit of learnings from an infinite number of mistakes over the last few years. I wouldn’t call it a pivot, but it’s not a totally “new” idea either. Ironically, many of the things we are building and selling now are things that we wish we had with our previous startups. They are the cloud-based services that would have made it much faster and easier to launch those other startups. We saw this opportunity, and discussed it, over the last several years but didn’t pursue it until last spring.

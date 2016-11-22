@@ -8,6 +8,7 @@ Lead: |
   [Parse](http://www.parse.com) is a popular platform, allowing for data to be easily stored and retrieved. But, what happens if you need to store PHI (protected health information)? Bad news - [Parse isn't HIPAA-compliant](https://www.parse.com/questions/hipaa-compliance). Storing such data in the Parse platform would put you in hot water. Good news - [Catalyze is a fully compliant environment](https://catalyze.io/compliance/), and migrating from Parse (or even starting fresh) isn't hard. This post will go over migrating a small app.
 
 Tags: code, tutorial, example, javascript, api, compliance, hipaa, guide
+Category: company
 Fullname: Alex Foran
 ---
 Parse modified the backbone [TodoMVC](http://todomvc.com/) example to show how to use their Javascript SDK - we'll base our example migration off of that. Their code for that example is [here](https://github.com/ParsePlatform/Todo).

@@ -8,6 +8,7 @@ Lead: |
   I covered an overview of trends for 2014 in my last post. I hedged a bit because there are some very broad trends on that list. Hopefully this series of posts will add additional detail to what we're betting on for 2014. This post covers the not-so-new trend of successful apps evolving into platforms.
 
 Tags: apps, hipaa, platform
+Category: company
 Fullname: Travis Good, MD
 ---
 Everybody loves platforms. We're a platform company too, a backend platform for health apps. Platforms can be very powerful and disruptive, but can also be challenging to sell without specific solutions pre-built on the platform. Also, as people build applications they may automate or create reusable components that will later turn into a platform offering. And dogfooding your own platform while building solutions is the best way to test and refine a platform.

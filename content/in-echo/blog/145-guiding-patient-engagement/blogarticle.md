@@ -9,6 +9,7 @@ Lead: |
   _*This entry was taken and adapted from an original article published on [HIStalk](http://histalkmobile.com/) on May 13, 2014 by [Travis Good, MD](https://catalyze.io/travis), Catalyze Co-Founder & CEO. You can read the original [here](http://histalkmobile.com/guiding-patient-engagement/)*._
 
 Tags: patient engagement, meaningful use
+Category: company
 ---
 There are limited resources to create and implement engagement programs, especially in light of the recent hefty investments most organizations have made in EHRs. Assessing effectiveness is crucial to assure proper allocation of limited resources.
 

@@ -9,6 +9,7 @@ Lead: |
   _*This entry was taken and adapted from an original article published on [HIStalk](http://histalkmobile.com/) on October 9, 2013 by [Travis Good, MD](https://catalyze.io/travis), Catalyze Co-Founder & CEO. You can read the original [here](http://histalkmobile.com/patient-engagement-marketing-value-based-care/)*._
 
 Tags: patient engagement
+Category: company
 ---
 One of the major problems with patient engagement is that it’s a buzzword. Like most buzzwords, it is often used without much thought going in to what it really means. I admit to being part of the problem. I’ve written about patient engagement without providing a real definition for it. I think I know what I mean by patient engagement, but my definition tends to be use case driven, meaning I have something very specific applications of engagement in mind when I write about it.
 

@@ -8,6 +8,7 @@ Lead: |
   We’re on a mission to **democratize health app development**. We’re just getting started and have a long way to go, but we’ve got a great start because we’ve developed, and are still developing, apps for health and fitness. We also eat, drink, and sleep health tech so we know much of what’s missing, what’s hard, and what should be easier.
 
 Tags: mission, values, welcome
+Category: company
 Fullname: Travis Good, MD
 ---
 A few tenants that help us stay the course:

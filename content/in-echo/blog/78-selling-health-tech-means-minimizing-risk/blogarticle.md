@@ -9,6 +9,7 @@ Lead: |
   > Trust is the glue of life. It's the most essential ingredient in effective communication. It's the foundational principle that holds all relationships. - Steven Covey
 
 Tags: trust, health tech, sales
+Category: company
 ---
 At Catalyze we most frequently work with B2B health technology companies. Those companies build and sell software to healthcare enterprises, most commonly health systems, insurance companies, and biopharma companies. As we detailed in our last [white paper](https://catalyze.io/whitepapers/making-enterprise-healthcare-sales-easier/), selling to those large healthcare enterprises is challenging, especially for modern, cloud-based companies. The major sales challenge in this space is [overcoming risk](http://www.verizonenterprise.com/resources/reports/rp_hbr-vertical-report-healthcare_en_xg.pdf); variability exists, but risk is the basis for exhaustive security and compliance review that is part of the sales cycle.
 

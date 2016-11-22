@@ -8,6 +8,7 @@ Lead: |
   We're prepping for our first real board meeting. I say "real" because we've done the founders-only board meeting before, which was just the 2 founders and our lawyer. When you raise money, as everybody will tell you, the company you founded does not belong to you anymore. We're completely happy with that outcome though we put a slightly different spin on it - the company we founded is growing with the addition of new valuable partners that can help us maximize our chances of success and accelerate our growth. We raised money both for the capital as well as for the strategic assistance.
 
 Tags: founders, board
+Category: company
 Fullname: Travis Good, MD
 ---
 And with our Series A our board grew from 2, just founders (me/Travis and Mohan), to 5. We, as the founders, kept 2 board seats and the Chairman position, while 2 seats were added for lead investors and one seat was added for an at-large seat; that at-large seat will be filled with a founder and CEO from another company, but that process is a post unto itself. We also have a couple board observers that attend, or call into, board meetings. We also have monthly status updates we need to send out to all investors. The point is we now have a larger board and more people that need to approve plans and assess our performance as management for the company. Since culturally feedback and accountability are important to us as a company, this fits well.

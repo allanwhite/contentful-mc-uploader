@@ -9,6 +9,7 @@ Lead: |
   SXSW was a blast. Catalyze had the chance to participate in a panel discussion for digital health startups. Our CEO [Travis Good](https://catalyze.io/travis) answered tough questions around HIPAA and regulation.
 
 Tags: sxsw, himss, events
+Category: company
 ---
 (image: sxsw1.png)
 

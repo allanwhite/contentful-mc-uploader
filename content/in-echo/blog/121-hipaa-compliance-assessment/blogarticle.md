@@ -9,6 +9,7 @@ Lead: |
   HIPAA compliance is an ongoing challenge for healthcare enterprises, so the HIPAA Compliance Assessment was created to help meet the objectives of HIPAA while also providing insights into possibilities for streamlining processes and lowering costs.
 
 Tags: compliance assessment, compliance
+Category: company
 ---
 With regulations that remain ongoing, convoluted, and potentially counter-intuitive, achieving HIPAA compliance at federally required measures is becoming more difficult in healthcare. Enterprise executive liability stipulates an ongoing effort for assessment to create a first-class compliance strategy. In the most minimum context, HIPAA has created complexities to the health insurance systemization that was already inundated with federal mandates. For example:
 

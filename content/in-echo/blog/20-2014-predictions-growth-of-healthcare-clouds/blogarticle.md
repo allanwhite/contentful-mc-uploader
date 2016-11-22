@@ -8,6 +8,7 @@ Lead: |
   Continuing well into 2014 with more detailed discussion of our predicted trends for the year. Increasingly technology vendors are looking to move applications and resources to cloud-based technologies. The reasons for cloud are well established:
 
 Tags: cloud, hipaa, iaas, paas, trends
+Category: company
 Fullname: Travis Good, MD
 ---
 - Low capital spend

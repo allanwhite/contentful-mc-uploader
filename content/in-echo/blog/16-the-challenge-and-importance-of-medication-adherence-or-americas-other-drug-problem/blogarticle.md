@@ -8,6 +8,7 @@ Lead: |
   In business school, as we discussed the problems of accurate forecasting, one of my professors joked that "the fundamental problem is that consumers don't buy what they're supposed to." In a way, the problem of medication adherence is just that, patients don't do what they're supposed to do, or what we think is the logical thing to do. There are various reasons for this of course, ranging from the inability to purchase medications, physical disability, complicated medication regimens, real or perceived side effects, and so on. Lack of medication adherence has a significant cost associated with it as well causing it to be also called **America's other drug problem**. And therein lie the challenge and the opportunity - how do you get patients to do what they're supposed to, given their constraints?
 
 Tags: adherence, apps, compliance, data analytics, devices, medication, smart pills
+Category: company
 Fullname: Mohan Balachandran
 ---
 ### Is this really that big a problem?

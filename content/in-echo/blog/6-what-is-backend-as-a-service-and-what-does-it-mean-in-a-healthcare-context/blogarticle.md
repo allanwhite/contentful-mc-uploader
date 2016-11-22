@@ -8,6 +8,7 @@ Lead: |
   [Wikipedia](http://en.wikipedia.org/wiki/Backend_as_a_service) summarizes it best (as always)
 
 Tags: baas, backend as a service, blue button, hipaa, icd10, icd9, loinc, rxnorm
+Category: company
 Fullname: Mohan Balachandran
 ---
 > Although similar to other cloud computing developer tools, such as software as a service(SaaS), infrastructure as a service (IaaS), and platform as a service (PaaS), BaaS is distinct from these other services in that it specifically addresses the cloud computing needs of web and mobile app developers by providing a unified means of connecting their apps to cloud services.

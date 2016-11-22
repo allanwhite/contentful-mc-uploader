@@ -8,6 +8,7 @@ Lead: |
   CVS, Hospital Hacks, VA, Obamacare, Interoperability
 
 Tags: healthit, trends, news
+Category: company
 Fullname: Sarah Nettie
 ---
 ### [CVS Stops Tobacco Sales Today, Changes Name To Reflect New Era](http://getprismatic.com/story/1409719091444?share=MTIxOTI3.MTQwOTcxOTA5MTQ0NA.QZrzXW76j3Ful1WmpeUx9U0VIVI&utm_content=buffer2151f&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)

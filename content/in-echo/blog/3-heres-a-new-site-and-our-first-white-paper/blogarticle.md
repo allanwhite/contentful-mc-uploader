@@ -8,6 +8,7 @@ Lead: |
   We're really, really excited to be launching our new website! We'll be growing our content over time with additional tools to help people learn about and build technology for health and wellness.
 
 Tags: redesign, whitepaper
+Category: company
 Fullname: Travis Good, MD
 ---
 As if the new website wasn't enough to get us excited, we're also announcing our first white paper, titled **Technology Driven Trends in Health**. You can find and download the white paper here.

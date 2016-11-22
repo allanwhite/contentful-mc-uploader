@@ -8,6 +8,7 @@ Lead: |
   As a startup, we of course follow [Hacker News](https://news.ycombinator.com/) religiously. Over the weekend, [Plain Text Offenders](http://plaintextoffenders.com/) (PTO) made the top slot. You can follow the discussion [here](https://news.ycombinator.com/item?id=7927123).
 
 Tags: hipaa, security, privacy, api, baas
+Category: company
 Fullname: Ben Uphoff, PhD
 ---
 Essentially it is a Internet shaming site that shines light on companies that store users' passwords in plaintext (i.e. not hashed using secure hashes and salts, leaving the passwords easy to obtain by attackers).

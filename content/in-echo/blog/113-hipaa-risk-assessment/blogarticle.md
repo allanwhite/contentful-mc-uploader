@@ -9,6 +9,7 @@ Lead: |
   All organizations that are responsible for PHI, which includes hosting providers like [Catalyze](https://catalyze.io/), are mandated to conduct a HIPAA risk assessment as the first step toward integrating preventatives stipulated in the [HIPAA Security Rule](https://catalyze.io/learn/the-hipaa-security-rule) by The Department of Health and Human Services, and ultimately attaining true HIPAA compliance.
 
 Tags: risk assessment
+Category: company
 ---
 ### So what does a HIPAA Risk Assessment require?
 

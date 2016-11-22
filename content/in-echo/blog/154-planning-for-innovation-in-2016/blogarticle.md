@@ -9,6 +9,7 @@ Lead: |
   Healthcare is ready—and in need—for [innovation](https://catalyze.io/innovation). Most innovation stems from academia, allowing data scientists, economists and medical professionals to collaborate more openly than in contrast to a corporate setting, but fresh ideas come from private sectors of healthcare as well. As workflow pressures increase, healthcare system executives are faced with a challenging decision of continuing to focus on regulatory burdens, security threats, and changing reimbursement models or to allocate the time and resources necessary for effective innovation amongst the myriad of mandated organizational projects.
 
 Tags: innovation
+Category: company
 ---
 As healthcare systems switch gears towards [innovation](https://catalyze.io/solutions/enterprise-innovation), leadership must ask themselves what is needed to enhance productivity, create generalized tools, and reduce niche systems within their organization. With 2016 rapidly approaching, here are a few desired innovations:
 

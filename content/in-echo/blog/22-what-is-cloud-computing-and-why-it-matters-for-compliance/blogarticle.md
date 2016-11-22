@@ -8,6 +8,7 @@ Lead: |
   Reading this [commentary](http://readwrite.com/2014/01/27/private-public-cloud-cloudwashing#awesm=~ouLFi5BDMHpcmd) on recent Forrester data, and writing this [post](blog/2014-predictions-growth-of-healthcare-clouds) on 2014 trends around cloud computing in healthcare, got us thinking more about the definition of cloud computing, and different options in cloud computing.
 
 Tags: hipaa, security, paas, cloud
+Category: company
 Fullname: Travis Good, MD
 ---
 As we work with cloud-based vendors and enterprises in healthcare, we're constantly fielding questions related to cloud deployments and models. This is our attempt to summarize what we've learned.

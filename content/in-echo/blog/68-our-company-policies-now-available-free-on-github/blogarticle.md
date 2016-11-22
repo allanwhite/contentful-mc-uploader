@@ -8,6 +8,7 @@ Lead: |
   Today is a big day for us, and for those businesses striving for HIPAA compliance. [Starting today, we are open sourcing all our company policies.](http://catalyzeio.github.io/policies/) Are you a company who handles PHI and trying to achieve HIPAA compliance? Then you'll find what we are about to share compelling and useful.
 
 Tags: compliance, policy, open source
+Category: company
 Fullname: Kris Gösser
 ---
 Achieving HIPAA compliance generally has two halves. The first half includes all technical guidelines, both physical and digital. Encryption, logging, monitoring, backup—these are just a few examples. Since the beginning, Catalyze has worked every day to take on these technical burdens for our customers.

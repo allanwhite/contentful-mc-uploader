@@ -9,6 +9,7 @@ Lead: |
   If you haven’t been following along on our blog, we have been taking a dive into the Government Accountability Office’s (GAO) recently released report, [Nonfederal Effort to Help Achieve Health Information Interoperability](http://www.gao.gov/assets/680/672585.pdf). Specifically, we have been exploring the five barriers this report found to achieving true nation-wide interoperability:
 
 Tags: privacy, interoperability
+Category: company
 
 ---
 1. Insufficiencies in health data standards

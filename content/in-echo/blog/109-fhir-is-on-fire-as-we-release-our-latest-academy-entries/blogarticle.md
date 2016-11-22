@@ -9,6 +9,7 @@ Lead: |
   As you may have heard, FHIR (Fast Healthcare Interoperability Resources) is the new and emerging standard being developed under the [Health Language 7](https://hl7.org/) (HL7) organization and Catalyze has just released THREE new Academy articles so you can stay ahead of the curve on all things FHIR related. 
 
 Tags: hl7 integration, FHIR
+Category: company
 ---
 Pronounced as ‘Fire’ (hopefully bringing clarity to the pun in the title), it was initially developed by [Graham Grieve](http://www.healthintersections.com.au/), who insisted upon FHIR being open sourced.
 

@@ -9,6 +9,7 @@ Lead: |
   Healthcare enterprises are striving to achieve the “triple threat of patient engagement":
 
 Tags: patient engagement
+Category: company
 ---
 -  Enhance the patient care experience (quality and gratification)
 -  Improve the general population health

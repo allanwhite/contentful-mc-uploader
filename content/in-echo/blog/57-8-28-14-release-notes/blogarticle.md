@@ -8,6 +8,7 @@ Lead: |
   (We've decided we're going to make blog posts about changes and enhancements to the Catalyze v2 API when we release them, starting today.)
 
 Tags: api, release notes, BaaS, backend
+Category: company
 Fullname: Alex Foran
 ---
 #### Enhancements

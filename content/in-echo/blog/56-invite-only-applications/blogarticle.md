@@ -8,6 +8,7 @@ Lead: |
   We are continually updating our services here at Catalyze and are excited to announce a new feature we just rolled out for our HIPAA compliant API, or mobile Backend as a Service - Invite only apps! Now after you create an application in the [dashboard](https://dashboard.catalyze.io/) you can check the `Invite-only` box by editing the app and you're all set.
 
 Tags: invite, api, BaaS, invite only, apps
+Category: company
 Fullname: Josh Ault
 ---
 This enables you to have control over who is using your application. Before invite-only apps, if anyone got a hold of your application they could sign up and start using your application. With our new invite-only feature, now your application is safe.  A rogue user could have pushed the boundaries of the free user limit or the Rate Limiter, but now you can control who you want to have access. This is especially helpful when developing beta only applications or testing out our service on the free tier. We've also discovered that some of our larger health system and payer customers want invite-only apps for certain groups of members/patients or providers.

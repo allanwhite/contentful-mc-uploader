@@ -8,6 +8,7 @@ Lead: |
   When we talk to companies who handle Protected Health Information (PHI), often the first topic of discussion is simply understanding what it takes to be HIPAA compliant.
 
 Tags: hipaa, self-assessment, checklist
+Category: company
 Fullname: Kris Gösser
 ---
 "Am I HIPAA compliant? I don't even know."

@@ -8,6 +8,7 @@ Lead: |
   At catalyze.io, we are passionate about healthcare and we are on a mission to bring positive macro and micro change to it. We believe in the power of intuitive technology, semantically meaningful data, targeted big and little data analytics, and intelligent augmentation of existing relationships to power the future of health. In that vein, we are enabling builders, both independent as well as within larger organizations, create solutions to achieve just that.
 
 Tags: baas, backend as a service, enterprise
+Category: company
 Fullname: Travis Good, MD
 ---
 Our healthcare backend-as-a-services can power an incredibly vast array of mobile and web applications in health and wellness.

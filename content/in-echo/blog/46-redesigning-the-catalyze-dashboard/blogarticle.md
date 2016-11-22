@@ -8,6 +8,7 @@ Lead: |
   At Catalyze we pride ourselves on moving our products forward through attention to detail and always listening to our users. A big part of that is having the capacity to learn and grow our products quickly. We recently redesigned our user dashboard to help them manage applications and messaging instances better.
 
 Tags: design, product, interaction, redesign, dashboard, backend
+Category: company
 Fullname: Ryan Rich
 ---
 One of the first orders of business was to rethink the structure and aesthetic of the user interface. We had been using bootstrap out of the box since the initial release and it was time to spend some effort on creating something more unique. If you've logged in recently the image below should look familiar.

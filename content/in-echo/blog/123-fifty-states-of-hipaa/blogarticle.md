@@ -9,6 +9,7 @@ Lead: |
   Recently, [Brian Murphy](http://www.chilmarkresearch.com/about/team/), analyst for [Chilmark Research](http://www.chilmarkresearch.com/), released a post titled “[HIPAA Must Die](http://www.chilmarkresearch.com/2015/06/18/hipaa-must-die/)” pertaining to the complex nexus of federal and state HIPAA healthcare regulations for patient privacy and security.
 
 Tags: hipaa, privacy, security
+Category: company
 ---
 Murphy states “the time has come for healthcare providers and other stakeholders to call for a harmonized regulatory regime for a tangle of issues in healthcare.” I am a major fan of the work Chilmark publishes, but had questions arise soon after a review of Murphy’s statements.
 

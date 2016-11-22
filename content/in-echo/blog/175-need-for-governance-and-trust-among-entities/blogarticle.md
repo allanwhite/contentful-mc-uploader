@@ -9,6 +9,7 @@ Lead: |
   > Trust each other again and again. When the trust level gets high enough, people transcend apparent limits, discovering new and awesome abilities of which they were previously unaware. – David Armistead
 
 Tags: interoperability
+Category: company
 
 ---
 In a day and age where data breaches and cyber terrorism are at an all time high, it is no surprise that our healthcare system lacks trust, especially when pertaining to [patient data](https://catalyze.io/learn/what-is-protected-health-information-or-phi). But EHR system wide interoperability is a necessity in the transformation of healthcare into a network that can achieve objectives of improved quality, efficiency and patient safety. With these exciting possibilities in reach once interoperability is achieved, it is frustrating that the third barrier to this initiative, according to the [GAO report](http://www.gao.gov/assets/680/672585.pdf), is the need for governance and trust among entities.

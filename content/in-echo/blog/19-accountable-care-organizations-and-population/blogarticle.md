@@ -8,6 +8,7 @@ Lead: |
   I read [this](http://www.triple-tree.com/blog/2014/01/08/provider-based-population-health-management-who-is-going-to-manage-the-population/) post by [Jason Grais](http://www.triple-tree.com/our_team/professionals/jason-grais) over at [Triple Tree](http://www.triple-tree.com/) a few days ago and was really struck by it. So much so, that I wanted to expound on it some more. The key points in there that really struck me were that (and I'm paraphrasing here):
 
 Tags: accountable care, health systems, population health, risk software
+Category: company
 Fullname: Mohan Balachandran
 ---
 

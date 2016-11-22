@@ -11,6 +11,7 @@ Lead: |
   Today we are proud to announce the immediate availability of our integration solution product – **Redpoint**.
 
 Tags: redpoint, integration
+Category: company
 
 ---
 

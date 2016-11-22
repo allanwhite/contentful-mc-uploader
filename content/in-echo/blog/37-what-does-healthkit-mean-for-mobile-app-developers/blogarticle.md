@@ -8,6 +8,7 @@ Lead: |
   Apple WWDC was today. The buildup, as always, has been massive. It's always a surprise what will be unveiled, though some sources seem to get reliable info ahead of time. I wrote a [post](http://histalkmobile.com/what-could-healthbook-be/) last week on Healthbook. That post was largely speculative, as everything is before Apple formally announces it. In that post, I described Healthbook as the new app that is very likely going to be a part of the new version of iOS, iOS 8, from Apple.
 
 Tags: apple, mhealth, data, healthkit
+Category: company
 Fullname: Travis Good, MD
 ---
 At that time the speculation, which I delve into much deeper in the post mentioned above, is that Healthbook would be basically Passbook but for health- and wellness-related cards. There are some major differences I thought would exist between Healthbook and Passbook. I speculated that Apple would take structured health and wellness data for Healthbook cards, not just blobs of data and images like Passbook. This is a major difference from Passbook and opens up Apple as a potential aggregator and hub of health and wellness data.

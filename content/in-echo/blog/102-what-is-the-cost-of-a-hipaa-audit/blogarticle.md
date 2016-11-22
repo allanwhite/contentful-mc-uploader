@@ -9,6 +9,7 @@ Lead: |
   > You must pay the price if you wish to secure the blessing. — Andrew Jackson
 
 Tags: audit, hitrust
+Category: company
 ---
 
 At Catalyze we've been through three external audits conducted by a large, national auditing firm. In all three cases, I've personally led the efforts from our side, coordinating our internal resources as needed. I wouldn't call it a fun process, but it has helped add rigor to our internal security and compliance programs. It validated the hard work we've done to build a fully HIPAA-compliant platform, and associated organization, that exceeds the HIPAA rules. We've also learned what does and does not meet HIPAA standards from an external or auditor perspective.

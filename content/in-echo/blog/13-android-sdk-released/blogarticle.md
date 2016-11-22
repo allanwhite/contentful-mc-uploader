@@ -8,6 +8,7 @@ Lead: |
   We are pleased to announce the release of the Catalyze [Android SDK](https://dashboard.catalyze.io/resources) and [example app](https://github.com/catalyzeio/ExampleAndroidApp). With this release, Catalyze is bringing the world of secure health care apps to Android (we have an [iOS SDK](https://github.com/catalyzeio/catalyze-ios-sdk) too). If you are an Android developer that has been waiting for the chance to build a HIPAA compliant Android app but haven't had the tools to make it both secure and cost effective, the time is now.
 
 Tags: android, sdk
+Category: company
 Fullname: Josh Ault
 ---
 The SDK is a JAR file that can be easily added to the classpath of your existing Android app. If you don't have an app built out, the example app is a great starting point with a lot of examples to get you started. The [SDK guide](https://github.com/catalyzeio/ExampleAndroidApp/blob/master/guide.md) will walk you through the basics of using the SDK.

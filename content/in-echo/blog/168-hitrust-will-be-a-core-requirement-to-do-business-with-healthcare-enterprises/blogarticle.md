@@ -9,6 +9,7 @@ Lead: |
   Today, November 13, 2015, our very own [Dr. Travis Good](https://catalyze.io/travis), CEO & Co-founder of Catalyze, is speaking at the [Health Industry Third Party Assurance Summit](https://hitrustalliance.net/third-party-assurance-summit/) and some industry shaking news has just been announced:
 
 Tags: hitrust
+Category: company
 ---
 Major organizations in healthcare, currently [United Healthcare](http://www.uhc.com/), [HCSC](http://www.hcsc.com/), [Highmark](https://www.highmark.com/hmk2/index.shtml), [Anthem](https://www.anthem.com/health-insurance/home/overview), and [Humana](https://www.humana.com/) will require HITRUST CSF Certification in all business associate and partner agreements. Those requirements apply to both new and existing contracts. In addition, ten pediatric hospitals are strongly encouraging all of their vendors to become HITRUST CSF Certified. This is a major shift that was done in an effort to reduce the exceptional redundancy and flawed-fraught current process of doing one-off reviews for every vendor.
 

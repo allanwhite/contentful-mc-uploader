@@ -8,6 +8,7 @@ Lead: |
   There's a recent report and [infographic](http://www.mobiquityinc.com/get-mobile-get-healthy-appification-health-fitness-infographic) that surveyed over a thousand consumers and asked them questions related to tracking their own health, searching for health information online, and about sharing health data about themselves with healthcare providers. The report found that an overwhelming majority are already sharing data or would be willing to share data with providers. That's fantastic! Motivated patients are a very good thing.
 
 Tags: hipaa, quantified, research, inforgraphic
+Category: company
 Fullname: Travis Good, MD
 ---
 (image: mobiquity_mhealth_final_1.jpg)

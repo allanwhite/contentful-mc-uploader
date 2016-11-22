@@ -9,6 +9,7 @@ Lead: |
   Integration is a buzzword in healthcare, and for good reason.
 
 Tags: hl7 integration, fhir
+Category: company
 ---
 As the healthcare industry transforms from the traditional model of volume-based care to new models of value-based care, there is heightened interest in patient outcomes, patient engagement in decision making, and patient satisfaction. Executives know aggressive inclusion of novel third party tools that solve real problems is paramount to meeting new metrics. Integrating several third party vendors is hard enough, while scaling a sea change is untenable. No one wants to do inefficient one-offs until the end of time.
 

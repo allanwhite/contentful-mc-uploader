@@ -9,6 +9,7 @@ Lead: |
   The HIPAA audit program is gearing up in 2015 to unpredictably assess healthcare covered entities and business associates for compliance with the HIPAA security, privacy, and breach notification rules set forth by the Office for Civil Rights.
 
 Tags: hipaa, audit
+Category: company
 ---
 Back in 2012, the HIPAA Compliance Audit program did a year of trial audits and now that the US Department of Health and Human Services has had sufficient time to analyze the results, the 2015 HIPAA Audit Program has been revealed. Most likely the key objectives for this round of audit questioning will be to focus on the inadequacies spotted in the 2012 trials. Requisitions for information have been consigned to near 1200 covered entities and business associates by the HHS to ascertain if it would be apropos to audit. Since new HIPAA rules enact higher fines - mandatory minimum fines of $10, 000 - for willful neglect of compliance, being sagacious and preconditioned for an unprecedented audit is more important than ever. Federal and private officials have openly and candidly stated that enforcement is a top priority of the HHS. So a message to non-compliant covered entities and business associates: Beware that there will be little to no leniency for non-compliance now and for many years to come. 
 

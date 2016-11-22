@@ -62,3 +62,4 @@ P.S. Here's the full version of the code that is generating the snowflakes.
 
 (gist: https://gist.github.com/anthonypleshek/22b4b49ed5175a1c2d41)
 Tags: Javascript, Holiday, Processing.js
+Category: company

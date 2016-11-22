@@ -8,6 +8,7 @@ Lead: |
   When we set out to build Catalyze, the one thing that kept cropping up as we talked to potential users, a lot of whom were coming from outside healthcare, was a lack of knowledge about all the complexities of healthcare data and standards. I wrote about [this](/blog/understanding-healthcare-vocabularies-code-sets/) a while back trying to summarize all the key standards and code sets that are most relevant for a healthcare developer. What I had also mentioned in that post was that v2 of the Catalyze HIPAA compliant API, what we sometimes refer to as [backend as a service](/baas), would be released shortly and include associated healthcare data models. We went live with v2 of the API a while back and have successfully tested it with lots of customers, from independent developers building mobile apps all the way up to multi-billion dollar enterprises building multiple apps as part of large scale innovation initiatives. In this post, which is long overdue, I outline the process that we went through in coming up with the data models and the routes for those healthcare specific APIs.
 
 Tags: hipaa, api, mhealth, healthcare data models, platform
+Category: company
 Fullname: Mohan Balachandran
 ---
 ##Base the data models on messaging standards
