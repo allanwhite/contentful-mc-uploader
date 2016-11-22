@@ -42,6 +42,7 @@ module.exports = function(file) {
         var newKey = key.toLowerCase();
         delete file.content.fields[key];
         file.content.fields[newKey] = field;
+        console.log('new field name: ' + newKey);
     });
 
     //For errors like so: Error: validation against content type failed - invalid field 'seotitle'
@@ -56,8 +57,8 @@ module.exports = function(file) {
     delete file.content.fields.fullname;
 
     //Field renaming
-    file.content.fields.tagString = file.content.fields.tags;
-    delete file.content.fields.tags;
+    // file.content.fields.tagString = file.content.fields.tags;
+    // delete file.content.fields.tags;
 
     file.content.fields.seoTitle = file.content.fields.seotitle;
     delete file.content.fields.seotitle;
@@ -72,6 +73,37 @@ module.exports = function(file) {
     delete file.content.fields.category;
 
     //Custom mappings
+    console.log(file.content.fields.tags);
+    // var tagArray = file.content.fields.tags['en-us'].split(', ');
+    var tagStr = file.content.fields.tags['en-US'];
+    var tagArray = tagStr.split(', ');
+    console.log('tagArray: ' + tagArray);
+
+    function logMapElements(value, key, map) {
+        // console.log("tag." + key + " = id: " + value);
+
+    }
+    new Map([
+        ['compliance', '1wY9bJEWnCwCyqcE2kCiuy'],
+        ['telemedicine', '2ExI7snXjysKOqWqmwQwwU'],
+        ['hipaa', '3ebX0zrnVuYEQOuo2QSSuU'],
+        ['design', '3kOhUwDRkkc0qAuKYIoIIW'],
+        ['baas', '3NDyJqRTJYMwiU0SSwqagm'],
+        ['engagement', '3rO97bU0piC0CI0eOg6ksI'],
+        ['podcast', '4ABMNMPZaU68iucWYcEcIe'],
+        ['interoperability', '4HqJmCMdiwwiQuC8uUcCqo'],
+        ['fhir', '4WpqU1En6MsqmCEWweeCmO'],
+        ['security', '5Y8Z8rlBw4Ucuu8su4oCgC'],
+        ['resources', '6uZHqvyHMkO4eky0OwiWki'],
+        ['ehr', '6vv9sUZuiAs8yQ4cQqm86e'],
+        ['integration', '6wXXHIJfUsMg62Cuwquoa2'],
+        ['tutorials', '7FkInYPmxiG4QsiM60COos'],
+        ['hitrust', '9hLuri8gRGWUksIiIQg8y'],
+        ['api', '34a2ITeysg6eYauG028usg'],
+        ['medicare', 'hb3JCbHoOcImGmEMasYEC'],
+        ['healthcare-costs', 'muuTw36MCccawe428I8Oa']
+    ]).forEach(logMapElements);
+
     var dateArray = file.content.fields.date['en-US'].split('/');
     var isoDate = dateArray[2]+'-'+dateArray[0]+'-'+dateArray[1];
     file.content.fields.pubDate = {
@@ -111,8 +143,7 @@ module.exports = function(file) {
         }
     }
 
+    // console.log(file);
 
-    // To-do: write a function that will inject the CTA ID reference into ctaRef field.
-    console.log(file);
     return file;
 };
