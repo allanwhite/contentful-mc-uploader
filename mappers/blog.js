@@ -1,6 +1,7 @@
 module.exports = function(file) {
     var authors = {
         'casey': '7aMAu7W6K4M8S0eCuIyCCM',
+        'catalyze': '3riALtpuXYeIaIGuaq8M4w',
         'marcia': '6NxyE8vlfOqMOkkGsCSusA',
         'marko': '5dsPZqJr4Qu2uww6KgYO0G',
         'heath': '2jePzhmtig2QCaYwucYuuy',
@@ -10,14 +11,17 @@ module.exports = function(file) {
     // tags map to linked entries; using the tag 'slug' field as key
     var tags = {
         'api': '34a2ITeysg6eYauG028usg',
+        'apps': '2gE9oPn2yUGEQEoGKEASUQ',
         'baas': '3NDyJqRTJYMwiU0SSwqagm',
         'company': '7befKoeN9uMUqUGYiKOaeO',
         'compliance': '1wY9bJEWnCwCyqcE2kCiuy',
+        'customers': '4GBG5tfx8k4yqy2C2y2MaS',
         'design': '3kOhUwDRkkc0qAuKYIoIIW',
         'ehr': '6vv9sUZuiAs8yQ4cQqm86e',
         'engagement': '3rO97bU0piC0CI0eOg6ksI',
         'fhir': '4WpqU1En6MsqmCEWweeCmO',
         'healthcare-costs': 'muuTw36MCccawe428I8Oa',
+        'healthcare-news': '6AZpnMPG2k8mk8gk2acYUI',
         'hipaa': '3ebX0zrnVuYEQOuo2QSSuU',
         'hitrust': '9hLuri8gRGWUksIiIQg8y',
         'integration': '6wXXHIJfUsMg62Cuwquoa2',

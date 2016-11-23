@@ -1,12 +1,9 @@
 ---
 Title: Health News Roundup - 9/2/2014
 SeoTitle: Health News Roundup - 9/2/2014
-Author: sarah
+Author: travis
 Date: 09/02/2014
-Summary: 
-Lead: |
-  Breaches, new health data privacy requirements, a pharma accelerator, HealthKit, and new apps for veterans...
-
+Summary: Breaches, new health data privacy requirements, a pharma accelerator, HealthKit, and new apps for veterans.
 Tags: healthit, trends, news
 Category: company
 Fullname: Sarah Nettie
