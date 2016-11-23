@@ -27,7 +27,8 @@ Summary: Travis Good, MD pulls up a virtual chair with Dr. Ida Sim in this podca
 ----
 Bio: Ida Sim, MD, PhD is a primary care physician, informatics researcher, and entrepreneur. She is a Professor of Medicine at the University of California, San Francisco, where she co-directs Biomedical Informatics at UCSF's Clinical and Translational Sciences Institute. Her current research focuses on the use of mobile apps and sensors to improve health and manage disease for populations and individuals, and to make clinical research faster and less expensive. She is a co-founder of Open mHealth, a non-profit organization that is breaking down barriers to mobile health app and data integration through an open software architecture. Dr. Sim is also a co-investigator and Consortium Core Lead with the Mobile Data to Knowledge NIH Center of Excellence.
 ----
-Keys: 1. Discover why doctors don’t want your patient-generated data yet
+Keys: |
+1. Discover why doctors don’t want your patient-generated data yet
 2. Obtain understanding around the differences between data for research and data for clinical use
 3. Get the inside clinical view of what doctors think about your sensor brand and why it would rarely matter
 4. Learn more about the Open mHealth organization and why it was formed

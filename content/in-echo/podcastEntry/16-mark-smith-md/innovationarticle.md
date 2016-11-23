@@ -34,7 +34,8 @@ Dr. Smith’s interests include digital health, data science, complex systems th
 
 Prior to his work at MI2, Dr. Smith was the co-founder of Project ER One, MedStar Washington Hospital Center's initiative to develop the design specifications for an all-risks ready emergency care facility for mass casualty incidents. He is the co-creator of MedStar Health's innovative Azyxxi / Amalga clinical information system, which has been in continuous use at MedStar hospitals for 18 years and is utilized in other hospitals in the United States. He has authored numerous journal articles and two textbooks in the field of emergency medicine; served on federal advisory groups in the fields of cardiac care, disaster response, and innovation; and helped to develop large programs in clinical simulation and human factors in healthcare.
 
-Keys: 1. The biggest spark for innovative thinking happens when two previously unrelated people meet and share ideas.
+Keys: |
+1. The biggest spark for innovative thinking happens when two previously unrelated people meet and share ideas.
 2. Incremental improvement is important, but it's not innovation.
 3. Startups need a sandbox.
 4. Having an Innovation Center report directly to the CEO makes a big difference.

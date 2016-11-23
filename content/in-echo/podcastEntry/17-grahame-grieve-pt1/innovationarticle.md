@@ -28,7 +28,8 @@ Bio: Grahame Grieve specializes in healthcare interoperability, balancing clinic
 
 Additionally, Grahame is involved in a variety of open source industry consortiums, such as Open Healthcare Framework, Open Health Tools and the Indy Project.
 
-Keys: 1. Discover what potential healthcare requirement would force everyone to re-engineer their interfaces
+Keys: |
+1. Discover what potential healthcare requirement would force everyone to re-engineer their interfaces
 2. Learn the architectural advantage of FHIR versus other data exchange standards
 3. Understand Grahame's thoughts around open-source and its importance
 4. Discover the unrealized dream for FHIR and why Grahame wants to eventually come back to it

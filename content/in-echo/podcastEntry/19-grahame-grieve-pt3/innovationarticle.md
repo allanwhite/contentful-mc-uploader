@@ -26,7 +26,8 @@ Bio: Grahame Grieve specializes in healthcare interoperability, balancing clinic
 
 Additionally, Grahame is involved in a variety of open source industry consortiums, such as Open Healthcare Framework, Open Health Tools and the Indy Project.
 
-Keys: 1. Learn how governance impacts standards and collaboration in healthcare
+Keys: |
+1. Learn how governance impacts standards and collaboration in healthcare
 2. Understand the complexity of integrations and the role of APIs
 3. Develop greater awareness for crowdsourcing related to FHIR and healthcare technology advancements
 4. Discover the realities of who should own healthcare data

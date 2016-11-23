@@ -26,7 +26,8 @@ Summary: It’s been a little over a year since we began examining innovation fr
 
 Bio: Dr. Mark Shapiro is a Baylor College of Medicine, Texas-trained hospitalist. He practices full-time in California and is also the host of the healthcare podcast "[Explore the Space](https://itunes.apple.com/us/podcast/explore-the-space/id993287419?mt=2)." He uses his podcast format to explore some incredibly exciting topics from how Abraham Lincoln is critical reading for all physicians to how we have much to learn from one of the decorated Navy Seals of all time. In addition to flexing his creative muscles in podcasting, he has also worked as a full-time sports writer.
 
-Keys: 1. Learn how doctors think about vetting technology and why some are slow to adopt
+Keys: |
+1. Learn how doctors think about vetting technology and why some are slow to adopt
 2. Get an inside view of the types of technologies doctors think will make huge inroads
 3. Discover what doctors think of all this patient generated data and whether it is useful or welcome by healthcare organizations
 4. Learn why medical schools need to make today’s technologies part of the curriculum to address future needs

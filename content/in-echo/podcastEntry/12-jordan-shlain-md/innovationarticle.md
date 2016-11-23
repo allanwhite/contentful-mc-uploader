@@ -29,10 +29,9 @@ Shlain is the founding chairman of the Institute for Responsible Nutrition, a wo
 
 After graduating from UC Berkeley and before attending Georgetown Medical School, Dr. Shlain spent a year teaching high school science in Western Kenya with Harvard affiliated WorldTeach.  He has spoken at The Economist Innovation conference, Stanford MedicineX, Health Evolution Partners, Harvard’s Center for Connected Health, VentureBeat and has posted a series of pithy articles on LinkedIn on the intersection of health, linguistics, data and humanity.
 
-Keys: 1. Exposure to ideas beyond your little corner of the world is the foundation of innovation, which was the inspiration for Tincture.
-
+Keys: |
+1. Exposure to ideas beyond your little corner of the world is the foundation of innovation, which was the inspiration for Tincture.
 2. Systems are easy to improve incrementally but hard to innovate. Often a complete redesign is needed for real innovation.
-
 3. Patients own their data and there needs to be new clarity around what will happen with their data when they give it up to someone else.
 
 Tags:

@@ -32,10 +32,9 @@ A graduate of Williams College, he received his M.D. from the University of Cinc
 
 Dr. Graham has been involved in multiple civic initiatives and organizations, especially those which advance innovation, community health and economic prosperity.  These include his Chairmanship of the Executive Advisory Board for the Global Center for Health Innovation and BioEnterprise in northwest Ohio. He also served as a Board Member of the Rock & Roll Hall of Fame and Museum.
 
-Keys: 1. Partnership is a critical component to innovation. Often, the most fruitful partnerships will come from outside your geography, expertise, or even industry.
-
+Keys: |
+1. Partnership is a critical component to innovation. Often, the most fruitful partnerships will come from outside your geography, expertise, or even industry.
 2. There is no failure with innovation, only feedback.
-
 3. Protecting intellectual property, while still maintaining the spirit of collaboration, is an intriguing and valuable incentive for innovators.
 
 Tags:

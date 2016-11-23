@@ -34,12 +34,9 @@ Under her leadership, BWH was presented with various prestigious recognitions in
 
 Schade holds an MBA degree from Illinois Benedictine College in Lisle, Illinois. She has achieved fellow status with both HIMSS and CHIME. Learn more from Sue Schade at [www.sueschade.com](http://www.sueschade.com) and read her blog “Health IT Connect.”
 
-Keys: 1. In order to sell into a hospital, your solution _must_ solve a real, important problem within the system. Entrepreneurs: start there!
-
-
+Keys: |
+1. In order to sell into a hospital, your solution _must_ solve a real, important problem within the system. Entrepreneurs: start there!
 2. Looking at core metrics with a balanced perspective allows you to spot innovation insight in more areas.
-
-
 3. Mobile computing is one of the hottest and most important areas for change and innovation within a healthcare setting.
 
 

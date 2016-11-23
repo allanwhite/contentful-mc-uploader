@@ -28,7 +28,8 @@ Bio: Dr. Jaffe is the CEO of the HL7 organization and serves as its global ambas
 
 Dr. Jaffe also  led an informatics consultancy, as InforMed’s president. Over the course of his career, he has been the principal investigator for more than 200 clinical trials, and has served in various leadership roles in the American Medical Informatics Association. He has been a board member on leading organizations for information technology standards, and served as the chair of a national institutional review board. Most recently, Penn State University appointed him to the Department of Engineering. Dr. Jaffe has also been the contributing editor for several journals and has published on a range of subjects, including clinical management, informatics deployment, and healthcare policy.
 ----
-Keys: 1. Learn about the three products of the FHIR Foundation
+Keys: |
+1. Learn about the three products of the FHIR Foundation
 2. Discover ways that FHIR can enable clinical decision support and personalized medicine
 3. Hear first hand when FHIR will become a normative standard
 4. Be directed to the face-to-face opportunities available with the HL7 organization

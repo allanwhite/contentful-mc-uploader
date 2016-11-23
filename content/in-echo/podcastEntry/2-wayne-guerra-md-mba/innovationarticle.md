@@ -22,10 +22,9 @@ Summary: Dr. Guerra is co-founder and Chief Medical Officer of iTriage, but also
 
 Bio: Wayne Guerra is not only the co-founder and former Chief Medical Officer of iTriage, but also an emergency physician and now, university guest lecturer on the topic of innovation. Dr. Guerra is a serial entrepreneur and has 20 years of emergency medicine clinical and academic practice experience and 15 years of risk management, quality assurance, third party contracting, practice management, and professional service contracting experience.  He earned his medical and undergraduate degrees from UCLA and his MBA from University of Denver. Dr. Guerra and his iTriage co-founder had the first exit of a mobile application in healthcare.
 
-Keys: 1. Within healthcare, potentially the most important plan of all the plans you'll make is how you intend to create awareness among large health institutions. Get the word out!
-
+Keys: |
+1. Within healthcare, potentially the most important plan of all the plans you'll make is how you intend to create awareness among large health institutions. Get the word out!
 2. Healthcare still has a lot of inefficiency and waste, so there is constant fertile opportunity for innovation. Chances are the idea is smart, but what matters is how you go about introducing that idea to healthcare institutions.
-
 3. Always think how your startup will affect the 3 P's: Patient, Provider, and Payor.
 
 Tags:

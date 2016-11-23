@@ -26,10 +26,9 @@ Bio: Robert M. Wachter, MD is Professor and Interim Chair of the Department of M
 
 In the safety and quality arenas, he edits the US government’s two leading websites on safety (they receive about one million yearly visits). In 2004, he received the John M. Eisenberg Award, the nation’s top honor in patient safety. For the past eight years, Modern Healthcare magazine has named him one of the 50 most influential physician-executives in the U.S.; in 2015, he was first on the list. He has served on the healthcare advisory boards of several companies, including Google. His blog, www.wachtersworld.org, is one of the nation’s most popular healthcare blogs. His 2015 book, "The Digital Doctor: Hope, Hype, and Harm at the Dawn of Medicine's Computer Age," received stellar reviews and was a New York Times science bestseller.
 
-Keys: 1. We will look back at the digitization of healthcare as one of the crucial inflection points of the industry.
-
+Keys: |
+1. We will look back at the digitization of healthcare as one of the crucial inflection points of the industry.
 2. Yet all data is not good data. We are getting to the point where actionable insights are difficult when much of new data being generated is presently useless—e.g. daily heart rate measurements for a healthy 28-year-old.
-
 3. The most exciting new technologies are the ones that sit at the interface of patients and the health systems.
 
 Tags:

@@ -25,12 +25,9 @@ Bio: Dr. Coye is the Chief Innovation Officer at UCLA Health and oversees the UC
 
 Dr. Coye received her M.D. and M.P.H. degrees from Johns Hopkins University and is board certified by the American College of Preventive Medicine.  A true Renaissance woman, Dr. Coye also has a M.A. degree in Chinese History from Stanford University and is the author of two books on Chinese history.
 
-Keys: 1. Innovations can come from within an organization, but often comes from outside. It is equally critical to create processes to discover innovations from both sources.
-
-
+Keys: |
+1. Innovations can come from within an organization, but often comes from outside. It is equally critical to create processes to discover innovations from both sources.
 2. Getting the word out organizationally has been important to UCLA's ongoing success. Several methods have lead to this, but two to highlight are broad organizational participation, and focused innovation owners sprinkled throughout the organization, whether MDs, MBAs, or otherwise.
-
-
 3. The fundability of a startup has a huge impact as to whether its innovation will be adopted by an academic medical center. Evaluators are thinking three years out, and if there isn't a high degree of certainty that company will be around, chances are the product or service won't be purchased.
 
 Tags:

@@ -36,7 +36,8 @@ Prior to joining Georgia Tech in 2007, he founded several successful health IT c
 He earned a BS degree from MIT in 1969, an MD degree from MUSC in 1974 and completed an internship in internal medicine at Washington University in 1975.
 
 ----
-Keys: 1. Learn what’s driving the adoption of FHIR
+Keys: |
+1. Learn what’s driving the adoption of FHIR
 2. Discover what is prompting explosive interest in Braunstein’s healthcare informatics courses
 3. Get the inside scoop on what Georgia Tech students are creating with the FHIR standard and access to local clinician researchers
 4. Explore the three areas that FHIR does not currently address or solve

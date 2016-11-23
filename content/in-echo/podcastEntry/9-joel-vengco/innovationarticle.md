@@ -25,10 +25,9 @@ Bio: As CIO & VP of Information & Technology, Vengco oversees the technology vis
 
 In 2010, Mr. Vengco was recognized by Modern Healthcare magazine as one of the Top 25 Clinical Informaticists in the country. That same year, he also received distinction from Information Management magazine as one of the Top 25 Information Managers in the country. He was also a recipient of the eHealth Initiative's Advocate of the Year for Business Process Improvement.
 
-Keys: 1. Know the strategic initiatives of the health system in which you are selling into. Align your idea with their problems!
-
+Keys: |
+1. Know the strategic initiatives of the health system in which you are selling into. Align your idea with their problems!
 2. Consumers now expect the experiences they have in retails etc.
-
 3. The most important criteria to get into Baystate is to have an organizational or clinical champion.
 
 Tags: innovation

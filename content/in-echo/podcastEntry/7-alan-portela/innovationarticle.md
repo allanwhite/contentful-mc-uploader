@@ -22,10 +22,9 @@ Summary: AirStrip is one of the most exciting up-and-coming healthcare vendors i
 
 Bio: With more than 25 years of healthcare industry experience and a passion to lead via disruptive and continuous innovation, Alan Portela is the CEO of AirStrip, a position he has held for more than four years. Before joining AirStrip, Mr. Portela was the President of CliniComp, Intl. and previously led the implementation of high-acuity EHR systems at the U.S. Military Health System, Veterans Health Administration (VA) and a number of prestigious healthcare organizations in the private sector. Mr. Portela has held senior executive roles with a number of innovative healthcare technology vendors and was among the leaders who pioneered Global Care Quest, an mHealth company that emerged from UCLA Medical Center Department of Neurosurgery more than a decade ago.
 
-Keys: 1. A key to continuous disruption is the proper investment in transformational ideas and technology.
-
+Keys: |
+1. A key to continuous disruption is the proper investment in transformational ideas and technology.
 2. The EHRs that don't open themselves up for interoperability are going to be history soon.
-
 3. The AirStrip Innovation Marketplace is built, among other things, to help academic medical centers translate their transformational ideas into market opportunities.
 
 Tags: vendor,airstrip,innovation

@@ -27,10 +27,9 @@ Bio: Aneesh Chopra is the former (and first) U.S. Chief Technology Officer. As a
 
 Chopra is currently the co-founder and executive vice president of Hunch Analytics, a technology firm focused on improving the productivity of public and regulated sectors of the economy through data analytics. He serves as a Member of the Council on Virginia’s Future and is an inaugural Walter Shorenstein Media and Democracy Fellow at Harvard’s Kennedy School of Government. In 2011, Chopra was named to _Modern Healthcare's_ list of the 100 Most Influential People in Healthcare and in 2008, to _Government Technology_ magazine's Top 25 in their _Doers, Dreamers, and Drivers_ issue. Chopra earned his master's degree in public policy from Harvard University in 1997 and his bachelor's degree from The Johns Hopkins University in 1994.
 
-Keys: 1. The government can play an important role with removing barriers to entry for entrepreneurs and the private sector.
-
+Keys: |
+1. The government can play an important role with removing barriers to entry for entrepreneurs and the private sector.
 2. Creating new culture, or new muscles, is critical to innovation, regardless if we're talking about the public or the private sector.
-
 3. To get interoperability right, we need to focus on three dimensions: demand, culture, and technology.
 
 Tags:

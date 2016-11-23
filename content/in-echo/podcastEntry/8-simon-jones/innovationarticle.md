@@ -22,10 +22,9 @@ Summary: Simon Jones sat down with Travis to discuss two big topics: how to affe
 
 Bio: With nearly 20 years in healthcare, Simon has focused much of his time on enabling both the business and clinical aspects of healthcare through the application of technology. Presently, he is the Vice President of HIT Product Strategy at Blue Shield of California. Simon has developed technology strategies and implemented solutions for health plans, provider organizations, disease management companies, and product/service providers to the industry. Simon holds a degree in Psychology from the University of California, Berkeley, and an MBA from USC.
 
-Keys: 1. There is no one-size-fits-all approach to bettering patient care. Instead, evolving patient care will consist of an innumerable amount of good ideas, which is why getting these systems to work together is key.
-
+Keys: |
+1. There is no one-size-fits-all approach to bettering patient care. Instead, evolving patient care will consist of an innumerable amount of good ideas, which is why getting these systems to work together is key.
 2. "If it doesn't change behavior, it doesn't count." The way in which health systems will evaluate innovations is by proving how behavior was changed for the better.
-
 3. Cal INDEX is a great example of the type of infrastructure healthcare needs to build to get to the speed and quality of innovations other industries like finance or retail have achieved.
 
 Tags: innovation,behavior change

@@ -26,10 +26,9 @@ Bio: Dr. Marc Chasin (MD, MMM, CPE, CHCIO), Vice President & Chief Information O
 
 Dr. Chasin joined us to talk about the "Voice of a Patient: Why the front line should be involved in innovation."
 
-Keys: 1. Data ownership is changing from physicians to patients. They expect to own their data, and the data should follow them everywhere.
-
+Keys: |
+1. Data ownership is changing from physicians to patients. They expect to own their data, and the data should follow them everywhere.
 2. For every 100 fantastic ideas presented to St. Luke's, 99 will likely fail at scaling for physicians, patients, or both. And that's ok: we must be comfortable with failure to find the successful innovations that will scale.
-
 3. If you want to introduce innovation to healthcare as a vendor, appeal to the reason the health system exists in the first place—to treat patients. Then, show how you can impact both value _and_ volume. Know the business model and outcomes. "I'm looking for partners," said Dr. Chasin.
 
 ---
