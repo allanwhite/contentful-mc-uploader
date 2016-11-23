@@ -4,6 +4,8 @@ Seotitle: Wayne Guerra, MD, MBA — Co-founder of iTriage and Lecturer at Univer
 
 Author: travis
 
+personType: Guest
+
 Guest: Wayne Guerra
 
 Fullname: Travis Good, MD

@@ -4,6 +4,8 @@ Seotitle: Sue Schade, Chief information Officer at University of Michigan Hospit
 
 Author: travis
 
+personType: Guest
+
 Guest: Sue Schade
 
 Fullname: Travis Good, MD

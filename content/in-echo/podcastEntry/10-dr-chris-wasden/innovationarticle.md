@@ -4,6 +4,8 @@ Seotitle: Dr. Chris Wasden, Executive Director, Sorenson Center for Discovery an
 
 Author: travis
 
+personType: Guest
+
 Guest: Dr. Chris Wadsen
 
 Fullname: Travis Good, MD

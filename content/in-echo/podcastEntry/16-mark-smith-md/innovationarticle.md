@@ -6,6 +6,8 @@ Author: travis
 
 Fullname: Travis Good, MD
 
+personType: Guest
+
 Guest: Mark Smith, MD
 
 GuestAvatar: /assets/img/podcast/portrait-mark-smith.jpg
@@ -41,6 +43,8 @@ Keys: |
 4. Having an Innovation Center report directly to the CEO makes a big difference.
 
 Tags:
+
+personType: Guest
 
 Guest: Mark Smith, MD
 

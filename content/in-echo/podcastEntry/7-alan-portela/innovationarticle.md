@@ -4,6 +4,8 @@ Seotitle: Alan Portela, CEO of AirStrip
 
 Author: travis
 
+personType: Guest
+
 Guest: Alan Portela
 
 Fullname: Travis Good, MD

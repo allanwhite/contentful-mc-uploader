@@ -4,6 +4,8 @@ Seotitle: R "Ray" Wang, Founder and Chairman of Constellation Research
 
 Author: travis
 
+personType: Guest
+
 Guest: R "Ray" Wang
 
 Fullname: Travis Good, MD

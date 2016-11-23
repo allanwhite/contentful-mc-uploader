@@ -4,6 +4,8 @@ Seotitle: Aneesh Chopra - Co-founder & CEO NavHealth; First U.S. CTO & Former Vi
 
 Author: marcia
 
+personType: Guest
+
 Guest: Aneesh Chopra
 
 GuestAvatar: /assets/img/podcast/portrait-aneesh-chopra.jpg

@@ -4,6 +4,8 @@ Seotitle: Robert Wachter, MD - Professor and Interim Chair of the Department of 
 
 Author: travis
 
+personType: Guest
+
 Guest: Robert Wachter, MD
 
 Fullname: Travis Good, MD

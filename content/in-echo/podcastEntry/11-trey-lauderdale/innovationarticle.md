@@ -4,6 +4,8 @@ Seotitle: Trey Lauderdale, CEO of Voalte
 
 Author: travis
 
+personType: Guest
+
 Guest: Trey Lauderdale
 
 Fullname: Travis Good, MD

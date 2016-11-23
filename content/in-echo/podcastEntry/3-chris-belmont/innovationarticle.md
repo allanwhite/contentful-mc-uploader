@@ -4,6 +4,8 @@ Seotitle: Chris Belmont, VP & CIO at the UT MD Anderson Cancer Center
 
 Author: travis
 
+personType: Guest
+
 Guest: Chris Belmont
 
 Fullname: Travis Good, MD

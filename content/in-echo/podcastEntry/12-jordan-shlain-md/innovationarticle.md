@@ -4,6 +4,8 @@ Seotitle: Jordan Shlain, MD - Founder Healthloop
 
 Author: travis
 
+personType: Guest
+
 Guest: Dr. Jordan Shlain
 
 GuestAvatar: /assets/img/podcast/portrait-shlain.jpg

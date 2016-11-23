@@ -4,6 +4,8 @@ Seotitle: Joel Vengco -  CIO and Vice President Information & Technology, Baysta
 
 Author: travis
 
+personType: Guest
+
 Guest: Joel Vengco
 
 Fullname: Travis Good, MD

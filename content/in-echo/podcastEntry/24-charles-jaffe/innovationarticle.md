@@ -4,6 +4,8 @@ Seotitle: Charles Jaffe, MD: Why Healthcare Should Expand its View of FHIR
 
 Author: mohan
 
+personType: Guest
+
 Guest: Charles Jaffe, MD, PhD
 
 GuestAvatar: /assets/img/podcast/portrait-charles-jaffe.jpg

@@ -4,6 +4,8 @@ Seotitle: Marc Chasin, MD, MMM, CPE, CHCIO - St. Luke's Health System
 
 Author: travis
 
+personType: Guest
+
 Guest: Dr. Marc Chasin
 
 Fullname: Travis Good, MD
