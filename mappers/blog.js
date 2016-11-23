@@ -144,6 +144,16 @@ module.exports = function(file) {
             }
             // 'en-US': authorId
         }
+    } else {
+        file.content.fields.author = {
+            'en-US': {
+                'sys': {
+                    'type': 'Link',
+                    'linkType': 'Entry',
+                    'id': '3riALtpuXYeIaIGuaq8M4w'
+                }
+            }
+        }
     }
 
     // injecting CTA ref, all entries in this pool have this as default.
