@@ -1,12 +1,4 @@
 module.exports = function(file) {
-    var authors = {
-        'casey': '7aMAu7W6K4M8S0eCuIyCCM',
-        'marcia': '6NxyE8vlfOqMOkkGsCSusA',
-        'marko': '5dsPZqJr4Qu2uww6KgYO0G',
-        'heath': '2jePzhmtig2QCaYwucYuuy',
-        'mohan': '3VJKuWDfPak8w26k0g0Kw0',
-        'travis': '1gpUmvd6yuOKUIUIY620i0'
-    };
 
     var keys = Object.keys(file.content.fields);
 
@@ -17,7 +9,7 @@ module.exports = function(file) {
         var newKey = key.toLowerCase();
         delete file.content.fields[key];
         file.content.fields[newKey] = field;
-        console.log('new field name: ' + newKey);
+        // console.log('new field name: ' + newKey);
     });
 
     //For errors like so: Error: validation against content type failed - invalid field 'seotitle'
@@ -36,63 +28,12 @@ module.exports = function(file) {
     // file.content.fields.tagString = file.content.fields.tags;
     // delete file.content.fields.tags;
 
-    file.content.fields.seoTitle = file.content.fields.seotitle;
-    delete file.content.fields.seotitle;
-
-    file.content.fields.blogLead = file.content.fields.lead;
-    delete file.content.fields.lead;
-
-    file.content.fields.post = file.content.fields.body;
-    delete file.content.fields.body;
-
-    file.content.fields.categoriesBlog = file.content.fields.category;
-    delete file.content.fields.category;
-
     //Custom mappings
 
     // console.log(file.content.fields.tags);
     // var tagStr = file.content.fields.tags['en-US'];
     // var tagArray = tagStr.split(', ');
     // console.log('tagArray: ' + tagArray);
-
-    var dateArray = file.content.fields.date['en-US'].split('/');
-    var isoDate = dateArray[2]+'-'+dateArray[0]+'-'+dateArray[1];
-    file.content.fields.pubDate = {
-        'en-US': isoDate
-    };
-    delete file.content.fields.date;
-
-    var pathParts = file.path.split('/');
-    var slugParts = pathParts[pathParts.length-2].split('-');
-    var slug = slugParts.slice(1).join('-');
-    file.content.fields.slug = {
-        'en-US': slug
-    };
-
-    var authorId = authors[file.content.fields.author['en-US']];
-    if(authorId) {
-        file.content.fields.author = {
-            'en-US': {
-                'sys': {
-                    'type': 'Link',
-                    'linkType': 'Entry',
-                    'id': authorId
-                }
-            }
-            // 'en-US': authorId
-        }
-    }
-
-    // // injecting CTA ref, all entries in this pool have this as default.
-    // file.content.fields.ctaRef = {
-    //     'en-US': {
-    //         'sys': {
-    //             'type': 'Link',
-    //             'linkType': 'Entry',
-    //             'id': 'wWsIbfCLjasGCy6cKeO86'
-    //         }
-    //     }
-    // }
 
     // console.log(file);
 
