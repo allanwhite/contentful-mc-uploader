@@ -1,12 +1,11 @@
 ---
 Title: Happy Holidays from Catalyze
 SeoTitle: Happy Holidays from Catalyze
-Author: anthony
+Author: catalyze
 Fullname: Anthony Pleshek
+Tags: company
 Date: 12/23/2014
-Post:
-
-### Happy Holidays!
+---
 
 <script src="/assets/js/processing.js" type="text/javascript"></script>
 <div>
@@ -27,7 +26,7 @@ Post:
   <p>NOTE: You can click to generate a new configuration.</p>
 </div>
 
-##How It Works
+### How It Works
 
 Developed using [processing.js](http://processingjs.org/), our holiday card automatically generates snowflakes in the shape of the Catalyze logo. The basics of the sketch are handled by the following code, which just draws a line a certain distance from a central point, rotates 60 degrees, draws another line of the same distance, and repeats for a full 360 degrees.
 ```
@@ -61,5 +60,3 @@ P.S. Here's the full version of the code that is generating the snowflakes.
 </style>
 
 (gist: https://gist.github.com/anthonypleshek/22b4b49ed5175a1c2d41)
-Tags: Javascript, Holiday, Processing.js
-Category: company

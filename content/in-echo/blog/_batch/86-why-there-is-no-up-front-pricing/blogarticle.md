@@ -24,11 +24,8 @@ Third, we saw that often prospects weren't entirely sure which one of our produc
 Fourth, we believe strongly in a core message of the Lean Startup movement: We want to talk to people. After several months, we can safely report back that it makes a huge difference. Four key observations came out of forcing conversations with prospects.
 
 - We honed in on how to best help startups. For newer startups, we know you might need to promise some infrastructure or get something started as you wait for your first contract to come through. We're willing to work with you so that you can deliver what you need while not breaking the bank up front.
-
 - We learned the Catalyze origin story is inspiring. I'd like to tell you about our story and our team. Why did we do this? What have we learned in the last few years? What benefits have our partners reaped from our products? We have years of healthcare and infrastructure experience at Catalyze, forged in the trenches on projects around the world. We built Catalyze's products based on what we've learned.
-
 - We're programmers building tools for programmers. If we don't do something that you want us to do, we'd like to know why so we can fix it or explain why we made a decision a certain way. It's hard to do that on one static web page.
-
 - We discovered Catalyze has a lot more to offer beyond just the technology. We're digital health geeks and are excited you want to build something to make a difference. If there's any way else we can help you through either introductions or sales support, we'd love to be there.  
 
 So give us a chance if you want to know more about pricing. Chat with us on Olark or shoot us an email. We'd love to help you out.

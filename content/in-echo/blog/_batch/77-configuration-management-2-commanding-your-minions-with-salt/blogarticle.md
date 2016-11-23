@@ -1,9 +1,9 @@
 ---
 Title: Configuration Management (Part 2) - Commanding your minions with Salt
 SeoTitle: Configuration Management (Part 2) - Commanding your minions with Salt
-Author: mike
+Author: catalyze
 Date: 11/03/2014
-Summary: 
+Summary: With all of those minions running around, it can be like herding cats. 
 Lead: |
   So you're a DevOps engineer or, should I say, master of all things infrastructure related in your kingdom. You have many minions at your beck and call. Some may bring  your mail, others may serve as the interface to your kingdom from the outside world. Still others might store the data for your secret proven cheese recipe.
 

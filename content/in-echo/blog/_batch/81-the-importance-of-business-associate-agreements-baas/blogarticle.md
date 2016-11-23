@@ -33,7 +33,6 @@ The effect has been increased chaining of responsibilities—a good thing in tod
 It is critical for you to remember that ultimately you, as the business associate signing a contract with a covered entity, are the one left holding the ball. It is your responsibility to ensure the following:
 
 - **Know your BAAs.** Since a chain of entities (like IaaS / hosting providers, APIs and SaaS) touch the ePHI, each must have BAAs in place with you that are consistent and not contradictory. For example, a business associate selling to Hospital ABC can't agree to a 24-hour breach notification policy if the hosting provider has a physical breach notification policy of 2 months.
-
 - **Meet your responsibilities.** If all the hosting provider gives you is VMs and VPN access, you are now responsible for everything else HIPAA demands. We're talking about encryption at-rest or in-transit (even within your dedicated environment), dedicated logging, and so on. Know what HIPAA requires and what you're left having to take care of yourself!
 
 ### The takeaway
