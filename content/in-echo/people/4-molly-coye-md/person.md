@@ -1,6 +1,8 @@
 ---
 Title: Molly Coye, MD
 
+personType: Guest
+
 role: Chief Innovation Officer, UCLA Health
 
 bioShort: |

@@ -1,6 +1,8 @@
 ---
 Title: Mark Shapiro, MD
 
+personType: Guest
+
 role: Host of the "Explore the Space" Podcast
 
 GuestAvatar: portrait-mark-shapiro.jpg

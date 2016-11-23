@@ -1,6 +1,8 @@
 ---
 Title: Jordan Shlain, MD
 
+personType: Guest
+
 role: Founder, Healthloop
 
 GuestAvatar: portrait-shlain.jpg

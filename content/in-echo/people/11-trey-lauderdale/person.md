@@ -1,6 +1,8 @@
 ---
 Title: Trey Lauderdale
 
+personType: Guest
+
 role: CEO, Voalte
 
 bioShort: |

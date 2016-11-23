@@ -1,6 +1,8 @@
 ---
 Title: Chris Belmont
 
+personType: Guest
+
 role: VP & CIO at the UT MD Anderson Cancer Center
 
 bioShort: |

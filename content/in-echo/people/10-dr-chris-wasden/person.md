@@ -1,6 +1,8 @@
 ---
 Title: Dr. Chris Wasden
 
+personType: Guest
+
 role: Executive Director, Sorenson Center for Discovery and Innovation at the University of Utah
 
 bioShort: |

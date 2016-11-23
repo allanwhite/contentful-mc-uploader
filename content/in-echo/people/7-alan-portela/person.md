@@ -1,6 +1,8 @@
 ---
 Title: Alan Portela
 
+personType: Guest
+
 role: CEO of AirStrip
 
 bioShort: |

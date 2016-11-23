@@ -1,6 +1,8 @@
 ---
 Title: Wayne Guerra, MD, MBA
 
+personType: Guest
+
 role: Co-founder of iTriage and Lecturer at University of Denver
 
 bioShort: |
