@@ -8,7 +8,7 @@ Guest: Dr. Marc Chasin
 
 Date: 12/19/2014
 
-Tags: innovation
+Tags: innovation, data
 
 Postmedia: |
 <iframe src="//fast.wistia.net/embed/iframe/uinuil0g5t" allowtransparency="true" frameborder="0" scrolling="no" class="wistia_embed" name="wistia_embed" allowfullscreen mozallowfullscreen webkitallowfullscreen oallowfullscreen msallowfullscreen width="500" height="312"></iframe>
