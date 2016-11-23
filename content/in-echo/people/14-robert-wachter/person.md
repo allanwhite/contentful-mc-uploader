@@ -4,7 +4,7 @@ Seotitle: Robert Wachter, MD - Professor and Interim Chair of the Department of 
 
 Author: travis
 
-Guest: Robert Wachter, MD
+fullname: Robert Wachter, MD
 
 Bio: |
 Robert M. Wachter, MD is Professor and Interim Chair of the Department of Medicine at the University of California, San Francisco, where he also directs the 60-physician Division of Hospital Medicine. Author of 250 articles and 6 books, he coined the term “hospitalist” in 1996 and is generally considered the “father” of the hospitalist field, the fastest growing specialty in the history of modern medicine. He is past president of the Society of Hospital Medicine, and the immediate past chair of the American Board of Internal Medicine.

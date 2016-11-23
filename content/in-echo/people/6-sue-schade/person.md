@@ -4,7 +4,7 @@ Seotitle: Sue Schade, Chief information Officer at University of Michigan Hospit
 
 Author: travis
 
-Guest: Sue Schade
+fullname: Sue Schade
 
 Bio: |
 Sue Schade serves as the Chief Information Officer for the University of Michigan Hospitals and Health Centers (UMHHC) having assumed this position in November, 2012. The UMHHC includes 3 hospitals totaling 990 beds and over 120 clinics throughout Michigan and beyond. The UMHHC along with the U-M Medical School, which comprises the University of Michigan Health System (UMHS), is committed to creating the future of health care through discovery and becoming the national leader in health care, health care reform, biomedical innovation and education. In her role, Schade provides direction and oversight to information technology initiatives at UMHHC and works closely with the CIO for the U-M Medical School and collaborates with the University of Michigan CIO on shared infrastructure initiatives.

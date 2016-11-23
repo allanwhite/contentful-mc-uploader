@@ -4,7 +4,7 @@ Seotitle: R "Ray" Wang, Founder and Chairman of Constellation Research
 
 Author: travis
 
-Guest: R "Ray" Wang
+fullname: R "Ray" Wang
 
 Bio: |
 R “Ray” Wang is the Principal Analyst, Founder, and Chairman of Silicon Valley based Constellation Research, Inc.  He’s also the author of the popular business strategy and technology  blog “A Software Insider’s Point of View,” where he provides insight into how disruptive technologies and new business models impact brands, enterprises, and organizations. Ray has held executive roles in product, marketing, strategy, and consulting at companies such as Forrester Research, Oracle, PeopleSoft, Deloitte, Ernst & Young, and Johns Hopkins Hospital.

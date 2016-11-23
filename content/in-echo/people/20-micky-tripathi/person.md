@@ -4,7 +4,7 @@ Seotitle: Micky Tripathi: a FHIR-side Chat
 ----
 Author: travis
 ----
-Guest: Micky Tripathi
+fullname: Micky Tripathi
 ----
 GuestAvatar: /assets/img/podcast/portrait-micky-tripathi.jpg
 ----

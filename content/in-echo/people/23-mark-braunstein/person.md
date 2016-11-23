@@ -4,7 +4,7 @@ Seotitle: Dr. Mark Braunstein: Healthcare in the Age of Interoperability
 ----
 Author: travis
 ----
-Guest: Dr. Mark Braunstein
+fullname: Dr. Mark Braunstein
 ----
 GuestAvatar: /assets/img/podcast/portrait-mark-braunstein.jpg
 ----

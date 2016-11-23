@@ -4,7 +4,7 @@ Seotitle: Ida Sim, MD: Physician, Researcher, and Entrepreneur
 ----
 Author: travis
 ----
-Guest: Ida Sim, MD
+fullname: Ida Sim, MD
 ----
 GuestAvatar: /assets/img/podcast/portrait-ida-sim.jpg
 ----
