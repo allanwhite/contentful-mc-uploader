@@ -11,6 +11,7 @@ module.exports = function(file) {
         'ben': '5dsPZqJr4Qu2uww6KgYO0G',
         'heath': '2jePzhmtig2QCaYwucYuuy',
         'mohan': '3VJKuWDfPak8w26k0g0Kw0',
+        'ryan': '2B98PdoITGQAYwcWk2muY4',
         'travis': '1gpUmvd6yuOKUIUIY620i0'
     };
     // tags map to linked entries; using the tag 'slug' field as key

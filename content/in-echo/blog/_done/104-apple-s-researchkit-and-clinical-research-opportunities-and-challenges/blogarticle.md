@@ -26,6 +26,7 @@ I won't cover what ResearchKit provides in detail. Although we're beginning work
 So let's jump right in...
 
 ### The world of clinical studies
+
 There are several *types* of clinical studies. [Clinicaltrials.gov](https://clinicaltrials.gov) categorizes them into three buckets:
 
 - [Observational Studies](https://clinicaltrials.gov/ct2/about-studies/glossary#observational-study): This is the *simplest* study (this is very relative - I do not intend to imply these studies are trivial by any means). The goal here is to collect data on effectiveness / outcomes related to a particular disease, intervention (use of a drug, life style changes such as exercise or diet etc.) or diagnostics (choice of screening method - e.g. BMI vs. blood test, frequency - e.g. every three months vs. annually and more). Patients **do not** get allocated to different groups, each with different interventions. Think of this more as a data collection exercise used to generate hypotheses which can be further tested and verified with stronger evidence. Which bring us to...
@@ -39,6 +40,7 @@ Let's talk a bit about the challenges in the observational studies space (some o
 ### Challenges
 
 #### Recruitment
+
 > "Join the army" they said, "it'll be FUN" they said.
 > — Engineers, Company of Heroes
 
@@ -46,18 +48,21 @@ Recruitment is **THE** major bane of all clinical studies. Observational studies
 
 The other aspect is reporting on outcomes. What is the impact of taking a particular medication vs others for the same condition, what is the impact of this amount of dosage vs. others? The more available data points, the more considered the hypothesis. And that is where HealthKit can play a significant role. Within a few hours of ResearchKit being announced, [multiple apps](http://www.bizjournals.com/boston/blog/health-care/2015/03/mgh-uses-apple-research-kit-to-redefine-research.html) reported thousands of sign ups, which has it's pros and cons:
 
-- Pros
+#### Pros
+
 	- *Easy to sign up*: [Thousands of people](http://www.macrumors.com/2015/03/11/researchkit-thousands-sign-up/) signed up within 24 hours of the announcement. Amazing. As a researcher notes in the [this](http://www.bloomberg.com/news/articles/2015-03-11/apple-researchkit-sees-thousands-sign-up-amid-bias-criticism) article, and I quote, "To get 10, 000 people enrolled in a medical study normally, it would take a year and 50 medical centers around the country...". That is astounding.
 	- Anyone with an iPhone can now join
 	- Some aspects of data gathering can be done passively (more in the next section)
 	- All aspects of permissions are taken care of in-app
 	- Various kinds of data gathering: voice, gait, entry etc. can all be addressed
 
-- Cons
+#### Cons
+
 	- *Verification & Matching*: Also a pro, anyone can sign up.  This ties to the aspect of data quality and reliability. Verification will remain an issue unless addressed explicitly. Lisa Schwartz, professor at the Dartmouth Institute for Health Policy and Clinical Practice, notes in the same Fortune article referenced earlier, "Just collecting lots of information about people—who may or may not have a particular disease, and may or may not represent the typical patient—could just add noise and distraction."
 	- *Selection bias*: The simplest bias is only iPhone users can participate, which is not a broad enough sample. But that's addressable as soon as the rest jump on the bandwagon and Apple open sources ResearchKit. For a more in depth chat about biases, see [this](https://statsdoc.wordpress.com/2015/03/10/apples-researchkit-is-not-yet-ready-for-primetime-a-medical-researchers-perspective/) post from someone who works in the field on a daily basis. Note that he too is optimistic about the opportunity.
 
 #### Gathering data
+
 > "Human beings were not meant to sit in little cubicles staring at computer screens all day, filling out useless forms..."
 > — Peter Gibbons, Office Space
 
@@ -68,6 +73,7 @@ And that is the second biggest innovation. The combination of HealthKit, Core Mo
 It is worthwhile to note that two of the three (apart from ResearchKit) have equivalents in the Android world as well. The selection bias problem is not a long lived one by any means.
 
 ### The promise of Apple ResearchKit
+
 > "Remember Red, hope is a good thing, maybe the best of things, and no good thing ever dies."
 > — Andy Dufresne, The Shawshank Redemption
 
@@ -81,6 +87,7 @@ While a lot can be said about the negatives, or rather, the areas of improvement
 - Significant academic institution participation: The starting line up includes Massachusetts General Hospital, Dana Farber Cancer Institute, Penn Medicine, University of Oxford, University of Rochester, Stanford Medicine, UCLA Jonsson Cancer Research Center and Weill Cornell Medical College. That is an impressive line up.
 
 ### The gaps to be addressed
+
 > "Hmmm, upgrades"
 > — Neo, The Matrix Reloaded
 
@@ -94,6 +101,7 @@ But—and yes, there's always a but—apart from the business challenges outline
 - Automatic compliance with international research regulations and HIPAA guidelines. These are the researcher's responsibility. Not to mention CFR21 Part 11 compliance. These are all the aspects that Catalyze deals with on an ongoing basis across a wide variety of customers.
 
 ### Summary
+
 > "I think all you need is a small taste of success, and you will find it suits you."
 > — Monique, Better Off Dead.
 

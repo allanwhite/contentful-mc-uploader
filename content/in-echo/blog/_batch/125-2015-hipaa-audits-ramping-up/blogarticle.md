@@ -4,7 +4,7 @@ SeoTitle: "2015 HIPAA Audits Ramping Up"
 Author: travis
 Fullname: Travis Good, MD
 Date: 07/10/2015
-Summary: 
+Summary: The HIPAA audit program is gearing up in 2015 to unpredictably assess healthcare covered entities and business associates for compliance with the HIPAA security, privacy, and breach notification rules set forth by the Office for Civil Rights.
 Lead: |
   The HIPAA audit program is gearing up in 2015 to unpredictably assess healthcare covered entities and business associates for compliance with the HIPAA security, privacy, and breach notification rules set forth by the Office for Civil Rights.
 

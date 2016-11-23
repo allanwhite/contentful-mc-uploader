@@ -4,7 +4,7 @@ SeoTitle: "Catalyze Policies - Ready For Deployment"
 Author: ryan
 Fullname: Ryan Rich
 Date: 07/15/2015
-Summary: 
+Summary: When we first open-sourced our policies we were not expecting to be enamored with such praise.
 Lead: |
   As a continuous effort in helping our loyal customers handle compliance with ease, we have created a deployable version of our widely popular open-source compliance policies. [Grab a copy for yourself here.](https://github.com/catalyzeio/policies-deployable)
 

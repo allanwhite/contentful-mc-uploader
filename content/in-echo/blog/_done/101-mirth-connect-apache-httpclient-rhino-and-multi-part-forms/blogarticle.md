@@ -4,7 +4,7 @@ SeoTitle: "Mirth Connect: Apache HTTPClient, Rhino and Multi-part forms"
 Author: mark
 Fullname: Mark Olschesky
 Date: 03/18/2015
-Summary: 
+Summary: "I was setting up our alerter to send email through our mailgun account. I encountered a problem that I needed to handle for the first time using Mirth Connect: sending a multi-part message using Mirth Connect. Here's how I solved it."
 Lead: |
   I was setting up our alerter to send email through our mailgun account. I encountered a problem that I needed to handle for the first time using Mirth Connect: sending a multi-part message using Mirth Connect.
 
