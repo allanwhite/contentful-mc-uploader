@@ -1,5 +1,6 @@
 ---
 Title: Marc Chasin, MD
+
 role: Vice President & Chief Information Officer, St. Luke's Health System
 
 bioShort: |

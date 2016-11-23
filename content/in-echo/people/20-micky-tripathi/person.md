@@ -1,5 +1,6 @@
 ---
 Title: Micky Tripathi: a FHIR-side Chat
+
 role: Micky Tripathi: Founding President and CEO, Massachusetts eHealth Collaborative
 
 GuestAvatar: portrait-micky-tripathi.jpg

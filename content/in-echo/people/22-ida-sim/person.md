@@ -1,5 +1,6 @@
 ---
 Title: Ida Sim, MD
+
 role: Physician, Researcher, and Entrepreneur
 
 GuestAvatar: portrait-ida-sim.jpg

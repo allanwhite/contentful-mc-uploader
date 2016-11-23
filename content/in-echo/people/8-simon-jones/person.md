@@ -1,5 +1,6 @@
 ---
 Title: Simon Jones
+
 role: Vice President of HIT Product Strategy at Blue Shield of California
 
 bioShort: |

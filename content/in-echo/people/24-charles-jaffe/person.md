@@ -1,5 +1,6 @@
 ---
 Title: Charles Jaffe, MD, PhD
+
 role: CEO, the HL7 organization
 
 GuestAvatar: portrait-charles-jaffe.jpg

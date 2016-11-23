@@ -1,5 +1,6 @@
 ---
 Title: Trey Lauderdale
+
 role: CEO, Voalte
 
 bioShort: |

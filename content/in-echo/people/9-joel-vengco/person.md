@@ -1,5 +1,6 @@
 ---
 Title: Joel Vengco
+
 role: CIO and Vice President Information & Technology, Baystate Health
 
 bioShort: |

@@ -1,5 +1,6 @@
 ---
 Title: R "Ray" Wang
+
 role: Founder and Chairman of Constellation Research
 
 bioShort: |
