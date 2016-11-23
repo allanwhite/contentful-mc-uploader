@@ -2,8 +2,6 @@
 Title: Marc Chasin, MD
 role: Vice President & Chief Information Officer, St. Luke's Health System
 
-fullname: Dr. Marc Chasin
-
 bioShort: |
 Dr. Marc Chasin (MD, MMM, CPE, CHCIO), Vice President & Chief Information Officer of St. Luke’s Health System in Boise, Idaho has been with the health system since 2010 and now serves two roles as both the CIO and the CMIO. 
 

@@ -2,8 +2,6 @@
 Title: R "Ray" Wang
 role: Founder and Chairman of Constellation Research
 
-fullname: R "Ray" Wang
-
 bioShort: |
 R “Ray” Wang is the Principal Analyst, Founder, and Chairman of Silicon Valley based Constellation Research, Inc.  
 

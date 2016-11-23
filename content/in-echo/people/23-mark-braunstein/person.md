@@ -2,8 +2,6 @@
 Title: Dr. Mark Braunstein
 role: Professor of Health Informatics, Georgia Tech University
 
-fullname: Dr. Mark Braunstein
-
 GuestAvatar: portrait-mark-braunstein.jpg
 
 bioShort: |

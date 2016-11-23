@@ -2,8 +2,6 @@
 Title: Alan Portela
 role: CEO of AirStrip
 
-fullname: Alan Portela
-
 bioShort: |
 With more than 25 years of healthcare industry experience and a passion to lead via disruptive and continuous innovation, Alan Portela is the CEO of AirStrip, a position he has held for more than four years. 
 

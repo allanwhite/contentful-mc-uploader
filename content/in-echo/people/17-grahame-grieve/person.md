@@ -2,8 +2,6 @@
 Title: Grahame Grieve - the future of healthcare interoperability (part 1)
 role: The "Father of FHIR"
 
-fullname: Grahame Grieve
-
 GuestAvatar: portrait-grahame-grieve.jpg
 
 bioShort: |

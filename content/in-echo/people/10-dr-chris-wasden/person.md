@@ -2,8 +2,6 @@
 Title: Dr. Chris Wasden
 role: Executive Director, Sorenson Center for Discovery and Innovation at the University of Utah
 
-fullname: Dr. Chris Wadsen
-
 bioShort: |
 Dr. Chris Wasden is the Executive Director of the Sorenson Center for Discovery and Innovation at the David Eccles School of Business at the University of Utah. 
 

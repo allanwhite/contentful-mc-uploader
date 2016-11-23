@@ -2,8 +2,6 @@
 Title: Robert Wachter, MD
 role: Professor and Interim Chair of the Department of Medicine at the University of California, San Francisco
 
-fullname: Robert Wachter, MD
-
 bioShort: |
 Robert M. Wachter, MD is Professor and Interim Chair of the Department of Medicine at the University of California, San Francisco, where he also directs the 60-physician Division of Hospital Medicine. 
 

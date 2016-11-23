@@ -2,8 +2,6 @@
 Title: Ida Sim, MD
 role: Physician, Researcher, and Entrepreneur
 
-fullname: Ida Sim, MD
-
 GuestAvatar: portrait-ida-sim.jpg
 
 bioShort: |

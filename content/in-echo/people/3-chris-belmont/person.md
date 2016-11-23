@@ -2,8 +2,6 @@
 Title: Chris Belmont
 role: VP & CIO at the UT MD Anderson Cancer Center
 
-fullname: Chris Belmont
-
 bioShort: |
 Chris Belmont is VP and Chief Information Officer at the University of Texas MD Anderson Cancer Center.
 

@@ -2,8 +2,6 @@
 Title: Trey Lauderdale
 role: CEO, Voalte
 
-fullname: Trey Lauderdale
-
 bioShort: |
 Trey is the visionary leader behind Voalte. He has helped grow the company since its inception in 2008, and led the sales organization in deploying thousands of smartphone solutions in some of the country’s top hospitals. 
 

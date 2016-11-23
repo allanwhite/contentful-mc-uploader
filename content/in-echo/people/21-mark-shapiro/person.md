@@ -2,8 +2,6 @@
 Title: Mark Shapiro, MD
 role: Host of the "Explore the Space" Podcast
 
-fullname: Mark Shapiro, MD
-
 GuestAvatar: portrait-mark-shapiro.jpg
 
 bioShort: |

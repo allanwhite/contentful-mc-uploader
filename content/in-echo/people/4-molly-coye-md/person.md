@@ -2,8 +2,6 @@
 Title: Molly Coye, MD
 role: Chief Innovation Officer, UCLA Health
 
-fullname: Dr. Molly Coye
-
 bioShort: |
 Dr. Coye is the Chief Innovation Officer at UCLA Health and oversees the UCLA Innovates HealthCare Initiative. 
 

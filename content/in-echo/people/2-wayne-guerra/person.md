@@ -2,8 +2,6 @@
 Title: Wayne Guerra, MD, MBA
 role: Co-founder of iTriage and Lecturer at University of Denver
 
-fullname: Wayne Guerra
-
 bioShort: |
 Wayne Guerra is not only the co-founder and former Chief Medical Officer of iTriage, but also an emergency physician and now, university guest lecturer on the topic of innovation. 
 
