@@ -1,50 +1,50 @@
 ---
-Title: Dr. Mark Braunstein
+Title: Dr. Mark Braunstein----
 Seotitle: Dr. Mark Braunstein: Healthcare in the Age of Interoperability
-
+----
 Author: travis
-
+----
 Guest: Dr. Mark Braunstein
-
+----
 GuestAvatar: /assets/img/podcast/portrait-mark-braunstein.jpg
-
+----
 Interviewers: Interviewed by Travis Good, MD
-
+----
 Fullname: Travis Good, MD
-
+----
 HostURL: /travis
-
+----
 HostAvatar: /assets/img/profiles/prof-travis.jpg
-
-HostTitle: Catalyze Co-founder, CEO & Chief Privacy Officer
+----
+HostTitle: Catalyze Co-founder, CEO & Chief Privacy Officer----
 
 Date: 11/15/2016
-
+----
 Postmedia: <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/293197570&amp;color=1055ff&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
-
+----
 Summary: Today Healthcare Innovators Podcast has a great conversation about "Healthcare in the Age of Interoperability" with Dr. Mark Braunstein, who teaches healthcare informatics at Georgia Tech. One of the Catalyze team members ran into Dr. Braunstein at an HL7 FHIR Applications roundtable at Harvard Medical School and brought his work to our attention. In this episode, Travis Good, MD finds out more about Braunstein and his work at the first US university to have a FHIR server for class work. Listeners will learn more about the FHIR-enabled projects that Georgia Tech master-level students are doing in conjunction with research physician clinicians in the Atlanta area.
 
 We also prod Braunstein for his personal insight about what is missing in today’s medical education. Listeners can gain deeper insight into this area, by ordering Braunstein’s latest book "[Practitioner’s Guide to Health Informatics](https://www.amazon.com/Practitioners-Guide-Health-Informatics-Braunstein/dp/3319176617)."
 
 After listening to today’s podcast, you may want to [learn more about FHIR](https://catalyze.io/fhir) from the Catalyze site, then check out Dr. Braunstein’s lectures on Udacity, or [Coursera](https://www.coursera.org/learn/fhir).
 
-
+----
 Bio: Dr. Braunstein teaches health informatics at Georgia Tech, and has written three books: _[Practitioners Guide to Health Informatics](http://www.springer.com/us/book/9783319176611)_, a guide to health informatics for physicians and other non-technical readers (published 2015); _[Contemporary Health Informatics](https://www.ahimastore.org/ProductDetailBooks.aspx?ProductID=17347) (published spring 2014)_; and _[Health Informatics in the Cloud](http://www.amazon.com/Health-Informatics-SpringerBriefs-Computer-Science/dp/1461456282)_, a brief guide to health informatics for non-technical readers (published 2012).
 
 Prior to joining Georgia Tech in 2007, he founded several successful health IT companies. Before that, he was on the faculty of the Medical University of South Carolina (MUSC) where he developed one of the first functional ambulatory electronic medical record system.
 
 He earned a BS degree from MIT in 1969, an MD degree from MUSC in 1974 and completed an internship in internal medicine at Washington University in 1975.
 
-
+----
 Keys: |
 1. Learn what’s driving the adoption of FHIR
 2. Discover what is prompting explosive interest in Braunstein’s healthcare informatics courses
 3. Get the inside scoop on what Georgia Tech students are creating with the FHIR standard and access to local clinician researchers
 4. Explore the three areas that FHIR does not currently address or solve
 
-
+----
 Tags: technology, leadership, FHIR, HL7, education
-
+----
 ---
 **On the latest interest in health information exchange:** "I’ve been in this field since 1970 and there have been "boomlets" around health information exchange. And they've all turned out to be just that -- "boomlets." I may live to eat these words, . . . but it really seems real this time."
 
