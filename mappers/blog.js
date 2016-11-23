@@ -50,7 +50,7 @@ module.exports = function(file) {
         file.content.fields[newKey] = field;
         console.log('new field name: ' + newKey);
     });
-
+    
     //For errors like so: Error: validation against content type failed - invalid field 'seotitle'
     //  Contentful is not expecting to get the field name, so we can remove it, or rename it
     //  To remove it:

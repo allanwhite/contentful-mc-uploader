@@ -38,9 +38,7 @@ If your kingdom is in the cloud like mine is, Salt can help streamline this as w
 There are three important parts to Salt-Cloud.
 
 1. Provider configuration: This provides the configuration for your service providers. This includes things like your username, API key and other data salt-cloud will need to spawn your minions.
-
 2. Profile configuration: This provides the configuration specific to your minions on they respective service providers. This includes things like flavor type, size and other configuration data.
-
 3. YAML map files: This ties in the above with any additional configuration information you may want to set and describes your environment.
 
 ### How does all of this even work?

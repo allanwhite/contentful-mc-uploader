@@ -3,13 +3,11 @@ Title: New White Paper: Making Enterprise Healthcare Sales Easier
 SeoTitle: New White Paper: Making Enterprise Healthcare Sales Easier
 Author: kris
 Date: 10/01/2014
-Summary: 
-Lead: |
-  Healthcare is complex, so it's no wonder the sales process proves overly complicated.
+Summary: Healthcare is complex, so it's no wonder the sales process proves overly complicated.
+Lead: Healthcare is complex, so it's no wonder the sales process proves overly complicated.
 
 Tags: whitepaper, announcement
 Category: company
-Fullname: Kris Gösser
 ---
 Believe us, we know. We've sold to large enterprise healthcare organizations who are now happy customers and important partners. But we also have an intimate understanding because of our role helping smaller customers sell into these same institutions. Part of what you buy with Catalyze is services to help you accelerate your sales process.
 
