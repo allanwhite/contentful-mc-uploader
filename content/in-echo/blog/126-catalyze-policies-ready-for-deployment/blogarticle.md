@@ -8,7 +8,7 @@ Summary:
 Lead: |
   As a continuous effort in helping our loyal customers handle compliance with ease, we have created a deployable version of our widely popular open-source compliance policies. [Grab a copy for yourself here.](https://github.com/catalyzeio/policies-deployable)
 
-Tags: policy, open source
+Tags: policy, open-source
 Category: company
 ---
 When we first open-sourced our policies we were not expecting to be enamored with such praise. It's not everyday that you woo the [hacker crowd](https://news.ycombinator.com/item?id=8461078) with a long list of markdown files. However we were excited when we started seeing the number of stars and forks on GitHub rise and rise. Today we're excited to announce a new step in bringing our policies to your compliance efforts. We've officially launched a deployable version of our compliance policies!

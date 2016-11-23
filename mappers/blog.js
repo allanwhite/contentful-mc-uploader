@@ -31,7 +31,7 @@ module.exports = function(file) {
         'interoperability': '4HqJmCMdiwwiQuC8uUcCqo',
         'medicare': 'hb3JCbHoOcImGmEMasYEC',
         'mhealth': '4TyZlvypiw6yMeuGG8W4mu',
-        'open-source': '1rsUh5OdtWEgi24qakiGO0';
+        'open-source': '1rsUh5OdtWEgi24qakiGO0',
         'podcast': '4ABMNMPZaU68iucWYcEcIe',
         'resources': '6uZHqvyHMkO4eky0OwiWki',
         'security': '5Y8Z8rlBw4Ucuu8su4oCgC',
