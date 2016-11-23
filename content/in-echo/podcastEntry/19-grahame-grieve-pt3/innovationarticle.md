@@ -11,22 +11,10 @@ GuestAvatar: /assets/img/podcast/portrait-grahame-grieve.jpg
 
 Interviewers: Interviewed by Mark Olschesky
 
-Fullname: Mark Olschesky
-
-HostURL: /marko
-
-HostAvatar: /assets/img/profiles/prof-mark.jpg
-
-HostTitle: Catalyze Chief Data Officer
-
 Date: 06/18/2016
 
 Postmedia: <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/274588784&amp;color=1055ff&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 Summary: In this episode, Grahame Grieve, Product Director of FHIR for HL7 continues his last interview in a three-part series with Catalyze. Mark Olschesky, Catalyze's Chief Data Officer questions Grieve about "The Economics of FHIR and Interoperability" for this last interview. The economics of FHIR is a passionate subject for Grieve for which he recognizes that no pat answers exist. In this interview, Grieve contextualizes the questions and provides possible answers that only time will prove out. After the interview, [read more about the FHIR standard](https://fhir.catalyze.io/) here.
-
-Bio: Grahame Grieve specializes in healthcare interoperability, balancing clinical, management and business perspectives, using his deep technical knowledge and capability. Prior to his Healthcare Intersections consultant business, he was the CTO for Kestral Computing P/L, where he provided leadership in development methodology, strategic technologies, enterprise architecture, standards and interoperability. Grahame also conceived, developed and sold interoperability and clinical document solutions and products. As part of his work, he became deeply involved in healthcare standards, principally HL7 and ISO. For nearly a decade, he has used committee chair positions and editorship of key structural standards to lead convergence between US and European standards organizations.
-
-Additionally, Grahame is involved in a variety of open source industry consortiums, such as Open Healthcare Framework, Open Health Tools and the Indy Project.
 
 Keys: |
 1. Learn how governance impacts standards and collaboration in healthcare

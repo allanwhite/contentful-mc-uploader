@@ -8,21 +8,11 @@ personType: Guest
 
 Guest: Wayne Guerra
 
-Fullname: Travis Good, MD
-
-HostURL: /travis
-
-HostAvatar: /assets/img/profiles/prof-travis.jpg
-
-HostTitle: Co-founder, CEO & Chief Privacy Officer
-
 Date: 01/23/2015
 
 Postmedia: <iframe src="//fast.wistia.net/embed/iframe/yv9vgtuigx" allowtransparency="true" frameborder="0" scrolling="no" class="wistia_embed" name="wistia_embed" allowfullscreen mozallowfullscreen webkitallowfullscreen oallowfullscreen msallowfullscreen width="500" height="312"></iframe>
 
 Summary: Dr. Guerra is co-founder and Chief Medical Officer of iTriage, but also an emergency physician and university lecturer on the topic of innovation. He joined us today to talk about ways to introduce your startup to healthcare organizations, culminating in a fantastic story about iTriage's origins. This is an interview you can't miss if you have ever wondered the best ways to sell into healthcare.
-
-Bio: Wayne Guerra is not only the co-founder and former Chief Medical Officer of iTriage, but also an emergency physician and now, university guest lecturer on the topic of innovation. Dr. Guerra is a serial entrepreneur and has 20 years of emergency medicine clinical and academic practice experience and 15 years of risk management, quality assurance, third party contracting, practice management, and professional service contracting experience.  He earned his medical and undergraduate degrees from UCLA and his MBA from University of Denver. Dr. Guerra and his iTriage co-founder had the first exit of a mobile application in healthcare.
 
 Keys: |
 1. Within healthcare, potentially the most important plan of all the plans you'll make is how you intend to create awareness among large health institutions. Get the word out!

@@ -10,24 +10,11 @@ Guest: Aneesh Chopra
 
 GuestAvatar: /assets/img/podcast/portrait-aneesh-chopra.jpg
 
-Fullname: Marcia Noyes
-
-HostURL: /leadership
-
-HostAvatar: /assets/img/profiles/prof-marcia.jpg
-
-HostTitle: Director of Communications
-
 Date: 11/06/2015
 
 Postmedia: <iframe src="//fast.wistia.net/embed/iframe/13uone5u3j" allowtransparency="true" frameborder="0" scrolling="no" class="wistia_embed" name="wistia_embed" allowfullscreen mozallowfullscreen webkitallowfullscreen oallowfullscreen msallowfullscreen width="500" height="318"></iframe><script src="//fast.wistia.net/assets/external/E-v1.js" async></script>
 
 Summary: It was with special pleasure that we welcomed Aneesh Chopra, America's first Chief Technology Officer, for a quick discussion around how the government plays a role with healthcare innovation. We learned how the public and private sectors can play together, about the importance of creating new muscles, and the importance of demand for interoperability.
-
-Bio: Aneesh Chopra is the former (and first) U.S. Chief Technology Officer. As an Assistant to the President, he designed the National Wireless Initiative, helped launch Startup America, and executed an "open innovation" strategy across the government built on private sector collaboration - opening up data, convening on standards and staffing "lean government startups." He is the author of the book, _Innovative State: How New Technologies can Transform Government_, focused on how we can tap entrepreneurial problem solvers to address challenges in health, energy and education markets among other public and regulated sectors.
-
-
-Chopra is currently the co-founder and executive vice president of Hunch Analytics, a technology firm focused on improving the productivity of public and regulated sectors of the economy through data analytics. He serves as a Member of the Council on Virginia’s Future and is an inaugural Walter Shorenstein Media and Democracy Fellow at Harvard’s Kennedy School of Government. In 2011, Chopra was named to _Modern Healthcare's_ list of the 100 Most Influential People in Healthcare and in 2008, to _Government Technology_ magazine's Top 25 in their _Doers, Dreamers, and Drivers_ issue. Chopra earned his master's degree in public policy from Harvard University in 1997 and his bachelor's degree from The Johns Hopkins University in 1994.
 
 Keys: |
 1. The government can play an important role with removing barriers to entry for entrepreneurs and the private sector.

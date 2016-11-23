@@ -12,21 +12,11 @@ Guest: Mark Shapiro, MD
 GuestAvatar: /assets/img/podcast/portrait-mark-shapiro.jpg
 Interviewers: Interviewed by Travis Good, MD
 
-Fullname: Travis Good, MD
-
-HostURL: /travis
-
-HostAvatar: /assets/img/profiles/prof-travis.jpg
-
-HostTitle: Catalyze Co-founder, CEO & Chief Privacy Officer
-
 Date: 08/18/2016
 
 Postmedia: <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/278832274&amp;color=1055ff&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 
 Summary: It’s been a little over a year since we began examining innovation from all its various aspects. We’ve covered every side, except for the physician side, so in today’s episode, Travis Good, MD gets the practicing physician’s stance on technology and how it is being incorporated into practices, or not. Mark Shapiro, MD, a hospitalist and host of Explore the Space podcast discusses the physician’s part in the development of these technologies and where they could play a more leading role. Additionally, Dr. Shapiro’s shares his favorite guest interviews, helping us to see how healthcare can leverage insights from other industries. Listen to today’s podcast, then pop over to [Explore the Space](https://itunes.apple.com/us/podcast/explore-the-space/id993287419?mt=2) to subscribe and catch a few of Dr. Shapiro’s latest episodes.
-
-Bio: Dr. Mark Shapiro is a Baylor College of Medicine, Texas-trained hospitalist. He practices full-time in California and is also the host of the healthcare podcast "[Explore the Space](https://itunes.apple.com/us/podcast/explore-the-space/id993287419?mt=2)." He uses his podcast format to explore some incredibly exciting topics from how Abraham Lincoln is critical reading for all physicians to how we have much to learn from one of the decorated Navy Seals of all time. In addition to flexing his creative muscles in podcasting, he has also worked as a full-time sports writer.
 
 Keys: |
 1. Learn how doctors think about vetting technology and why some are slow to adopt

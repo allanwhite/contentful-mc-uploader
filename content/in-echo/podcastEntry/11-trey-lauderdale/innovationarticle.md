@@ -8,21 +8,11 @@ personType: Guest
 
 Guest: Trey Lauderdale
 
-Fullname: Travis Good, MD
-
-HostURL: /travis
-
-HostAvatar: /assets/img/profiles/prof-travis.jpg
-
-HostTitle: Co-founder, CEO & Chief Privacy Officer
-
 Date: 11/23/2015
 
 Postmedia: <iframe src="//fast.wistia.net/embed/iframe/jhcb4ew74w" allowtransparency="true" frameborder="0" scrolling="no" class="wistia_embed" name="wistia_embed" allowfullscreen mozallowfullscreen webkitallowfullscreen oallowfullscreen msallowfullscreen width="500" height="318"></iframe>
 
 Summary: Trey Lauderdale stopped by to share Voalte's origin story and why he will not rest as CEO until every pager within healthcare has been replaced.
-
-Bio: Trey is the visionary leader behind Voalte. He has helped grow the company since its inception in 2008, and led the sales organization in deploying thousands of smartphone solutions in some of the country’s top hospitals. Trey’s healthcare industry knowledge stems from experience with leading companies such as Siemens and Emergin. He graduated from University of Florida with a Bachelor’s degree in Industrial Engineering, and Minors in Engineering Sales and Electrical Engineering. He earned his Master’s degree in Entrepreneurship from University of Florida Warrington College of Business.
 
 Keys: |
 1. Simple miscommunication is still a huge source of negative patient outcomes.

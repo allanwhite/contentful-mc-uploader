@@ -12,23 +12,11 @@ GuestAvatar: /assets/img/podcast/portrait-grahame-grieve.jpg
 
 Interviewers: Interviewed by Mohan Balachandran
 
-Fullname: Mohan Balachandran
-
-HostURL: /mohan
-
-HostAvatar: /assets/img/profiles/prof-mohan.jpg
-
-HostTitle: Catalyze Co-Founder & President
-
 Date: 04/29/2016
 
 Postmedia: <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/264637625&amp;color=1055ff&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 
 Summary: In part 2 of our healthcare innovators series, Catalyze co-founder & president Mohan Balachandran continues his conversations with Grahame Grieve ("The Father of FHIR"). Grahame specializes in healthcare interoperability, balancing clinical, management and business perspectives, using his deep technical knowledge and capability. Prior to his Healthcare Intersections consultant business, he was the CTO for Kestral Computing P/L, where he provided leadership in development methodology, strategic technologies, enterprise architecture, standards and interoperability.
-
-Additionally, Grahame is involved in a variety of open source industry consortiums, such as Open Healthcare Framework, Open Health Tools and the Indy Project.
-
-Bio: Grahame Grieve specializes in healthcare interoperability, balancing clinical, management and business perspectives, using his deep technical knowledge and capability. Prior to his Healthcare Intersections consultant business, he was the CTO for Kestral Computing P/L, where he provided leadership in development methodology, strategic technologies, enterprise architecture, standards and interoperability. Grahame also conceived, developed and sold interoperability and clinical document solutions and products. As part of his work, he became deeply involved in healthcare standards, principally HL7 and ISO. For nearly a decade, he has used committee chair positions and editorship of key structural standards to lead convergence between US and European standards organizations.
 
 Additionally, Grahame is involved in a variety of open source industry consortiums, such as Open Healthcare Framework, Open Health Tools and the Indy Project.
 

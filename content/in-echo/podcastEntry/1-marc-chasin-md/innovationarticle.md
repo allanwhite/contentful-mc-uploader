@@ -8,14 +8,6 @@ personType: Guest
 
 Guest: Dr. Marc Chasin
 
-Fullname: Travis Good, MD
-
-HostURL: /travis
-
-HostAvatar: /assets/img/profiles/prof-travis.jpg
-
-HostTitle: Co-founder, CEO & Chief Privacy Officer
-
 Date: 12/19/2014
 
 Tags:
@@ -23,10 +15,6 @@ Tags:
 Postmedia: <iframe src="//fast.wistia.net/embed/iframe/uinuil0g5t" allowtransparency="true" frameborder="0" scrolling="no" class="wistia_embed" name="wistia_embed" allowfullscreen mozallowfullscreen webkitallowfullscreen oallowfullscreen msallowfullscreen width="500" height="312"></iframe>
 
 Summary: Dr. Chasin is Vice President & Chief Information Officer of St. Luke's Health System in Boise, Idaho. He joined Travis to talk about where patients fit into innovation. The theme of the conversation was "Voice of a Patient: Why the front line should be involved in innovation." We were blown away by the insight Dr. Chasin gave in our inaugural interview.
-
-Bio: Dr. Marc Chasin (MD, MMM, CPE, CHCIO), Vice President & Chief Information Officer of St. Luke’s Health System in Boise, Idaho has been with the health system since 2010 and now serves two roles as both the CIO and the CMIO. Additionally, he serves as a board member of the Idaho Health Data Exchange and chair of the Care Everywhere Network at Epic Systems. Dr. Chasin is also a CHIME-certified healthcare CIO and is chair of the CareQuality Trust Framework Committee.
-
-Dr. Chasin joined us to talk about the "Voice of a Patient: Why the front line should be involved in innovation."
 
 Keys: |
 1. Data ownership is changing from physicians to patients. They expect to own their data, and the data should follow them everywhere.
