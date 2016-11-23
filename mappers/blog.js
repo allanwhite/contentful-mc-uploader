@@ -84,22 +84,18 @@ module.exports = function(file) {
     for(var i=0; i<tagArray.length; i++) {
         if(tags[tagArray[i]]) {
             cfTagArray.push({
-                'en-US': {
-                    'sys': {
-                        'type': 'Link',
-                        'linkType': 'Entry',
-                        'id': tags[tagArray[i]]
-                    }
+                'sys': {
+                    'type': 'Link',
+                    'linkType': 'Entry',
+                    'id': tags[tagArray[i]]
                 }
             });
         } else {
             cfTagArray.push({
-                'en-US': {
-                    'sys': {
-                        'type': 'Link',
-                        'linkType': 'Entry',
-                        'id': '1wY9bJEWnCwCyqcE2kCiuy' //TODO put actual id here if 'compliance' isn't default tag
-                    }
+                'sys': {
+                    'type': 'Link',
+                    'linkType': 'Entry',
+                    'id': '1wY9bJEWnCwCyqcE2kCiuy' //TODO put actual id here if 'compliance' isn't default tag
                 }
             });
         }
@@ -107,7 +103,9 @@ module.exports = function(file) {
 
     //I'm not sure how CF is expecting to receive an array of values.
     //If this isn't it, will have to check the docs and make any corresponding changes.
-    file.content.fields.tags = cfTagArray;
+    file.content.fields.tags = {
+        'en-US': cfTagArray
+    }
 
     // function tagMapElements(value, key, map) {
     //     // Need to iterate over tagArray.length, do an "if" check, and insert the mapped value. Else, tag = 'resources' ID (fallback)
