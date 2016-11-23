@@ -6,19 +6,8 @@ Author: travis
 
 Guest: Alan Portela
 
-Fullname: Travis Good, MD
-
-HostURL: /travis
-
-HostAvatar: /assets/img/profiles/prof-travis.jpg
-
-HostTitle: Co-founder, CEO & Chief Privacy Officer
-
-Date: 08/03/2015
-
-Summary: AirStrip is one of the most exciting up-and-coming healthcare vendors in the industry. Alan Portela, its CEO, was a natural first option to interview for the series. We discussed how to cultivate continuous disruption, the future of interoperability, real-time analytics, the AirStrip Innovation Marketplace, and a few tips for building a great company. What an interview!
-
-Bio: With more than 25 years of healthcare industry experience and a passion to lead via disruptive and continuous innovation, Alan Portela is the CEO of AirStrip, a position he has held for more than four years. Before joining AirStrip, Mr. Portela was the President of CliniComp, Intl. and previously led the implementation of high-acuity EHR systems at the U.S. Military Health System, Veterans Health Administration (VA) and a number of prestigious healthcare organizations in the private sector. Mr. Portela has held senior executive roles with a number of innovative healthcare technology vendors and was among the leaders who pioneered Global Care Quest, an mHealth company that emerged from UCLA Medical Center Department of Neurosurgery more than a decade ago.
+Bio: |
+With more than 25 years of healthcare industry experience and a passion to lead via disruptive and continuous innovation, Alan Portela is the CEO of AirStrip, a position he has held for more than four years. Before joining AirStrip, Mr. Portela was the President of CliniComp, Intl. and previously led the implementation of high-acuity EHR systems at the U.S. Military Health System, Veterans Health Administration (VA) and a number of prestigious healthcare organizations in the private sector. Mr. Portela has held senior executive roles with a number of innovative healthcare technology vendors and was among the leaders who pioneered Global Care Quest, an mHealth company that emerged from UCLA Medical Center Department of Neurosurgery more than a decade ago.
 
 ---
 <iframe src="//fast.wistia.net/embed/iframe/awnprtm6fb" allowtransparency="true" frameborder="0" scrolling="no" class="wistia_embed" name="wistia_embed" allowfullscreen mozallowfullscreen webkitallowfullscreen oallowfullscreen msallowfullscreen width="500" height="312"></iframe>

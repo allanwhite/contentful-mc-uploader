@@ -6,19 +6,8 @@ Author: travis
 
 Guest: Chris Belmont
 
-Fullname: Travis Good, MD
-
-HostURL: /travis
-
-HostAvatar: /assets/img/profiles/prof-travis.jpg
-
-HostTitle: Co-founder, CEO & Chief Privacy Officer
-
-Date: 02/20/2015
-
-Summary: Chris Belmont joined us to talk about how he uses metrics to define success and prove positive impact on healthcare innovations within MD Anderson, and healthcare more broadly. His insight to what metrics matter and how he structures his team was incredible.
-
-Bio: Chris Belmont is VP and Chief Information Officer at the University of Texas MD Anderson Cancer Center. He joined the system in September 2013 after serving in a similar role with Ochsner Health System in New Orleans for seven years. Chris has more than 30 years healthcare IT experience from various positions in IT leadership, sales and consulting with Siemens, Healthlink and IBM. Chris is now leading MD Anderson through a system wide Epic, EMR rollout.
+Bio: |
+Chris Belmont is VP and Chief Information Officer at the University of Texas MD Anderson Cancer Center. He joined the system in September 2013 after serving in a similar role with Ochsner Health System in New Orleans for seven years. Chris has more than 30 years healthcare IT experience from various positions in IT leadership, sales and consulting with Siemens, Healthlink and IBM. Chris is now leading MD Anderson through a system wide Epic, EMR rollout.
 
 ---
 **Catalyze:** I wanted to thank Chris Belmont for joining us today. Chris is the VP and CIO or chief information officer at University of Texas MD Anderson Cancer Center. He joined MD Anderson in September of 2013, after serving in a similar role at Ochsner Health System, also a very large system in New Orleans, where he was there for seven years.

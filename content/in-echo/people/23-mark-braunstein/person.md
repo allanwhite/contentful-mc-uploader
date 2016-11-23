@@ -10,22 +10,8 @@ GuestAvatar: /assets/img/podcast/portrait-mark-braunstein.jpg
 ----
 Interviewers: Interviewed by Travis Good, MD
 ----
-Fullname: Travis Good, MD
-----
-HostURL: /travis
-----
-HostAvatar: /assets/img/profiles/prof-travis.jpg
-----
-HostTitle: Catalyze Co-founder, CEO & Chief Privacy Officer----
-
-Date: 11/15/2016
-----
-We also prod Braunstein for his personal insight about what is missing in today’s medical education. Listeners can gain deeper insight into this area, by ordering Braunstein’s latest book "[Practitioner’s Guide to Health Informatics](https://www.amazon.com/Practitioners-Guide-Health-Informatics-Braunstein/dp/3319176617)."
-
-After listening to today’s podcast, you may want to [learn more about FHIR](https://catalyze.io/fhir) from the Catalyze site, then check out Dr. Braunstein’s lectures on Udacity, or [Coursera](https://www.coursera.org/learn/fhir).
-
-----
-Bio: Dr. Braunstein teaches health informatics at Georgia Tech, and has written three books: _[Practitioners Guide to Health Informatics](http://www.springer.com/us/book/9783319176611)_, a guide to health informatics for physicians and other non-technical readers (published 2015); _[Contemporary Health Informatics](https://www.ahimastore.org/ProductDetailBooks.aspx?ProductID=17347) (published spring 2014)_; and _[Health Informatics in the Cloud](http://www.amazon.com/Health-Informatics-SpringerBriefs-Computer-Science/dp/1461456282)_, a brief guide to health informatics for non-technical readers (published 2012).
+Bio: |
+Dr. Braunstein teaches health informatics at Georgia Tech, and has written three books: _[Practitioners Guide to Health Informatics](http://www.springer.com/us/book/9783319176611)_, a guide to health informatics for physicians and other non-technical readers (published 2015); _[Contemporary Health Informatics](https://www.ahimastore.org/ProductDetailBooks.aspx?ProductID=17347) (published spring 2014)_; and _[Health Informatics in the Cloud](http://www.amazon.com/Health-Informatics-SpringerBriefs-Computer-Science/dp/1461456282)_, a brief guide to health informatics for non-technical readers (published 2012).
 
 Prior to joining Georgia Tech in 2007, he founded several successful health IT companies. Before that, he was on the faculty of the Medical University of South Carolina (MUSC) where he developed one of the first functional ambulatory electronic medical record system.
 

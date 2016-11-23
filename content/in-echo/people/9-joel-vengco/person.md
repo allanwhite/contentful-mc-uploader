@@ -6,19 +6,8 @@ Author: travis
 
 Guest: Joel Vengco
 
-Fullname: Travis Good, MD
-
-HostURL: /travis
-
-HostAvatar: /assets/img/profiles/prof-travis.jpg
-
-HostTitle: Co-founder, CEO & Chief Privacy Officer
-
-Date: 08/27/2015
-
-Summary: Joel Vengco from Baystate Health joined us from the TechSpring facilities to talk about the many ways of bringing external innovation into a health system. This interview is jam-packed with a bountiful number of knowledge soundbites geared towards startups. Listen in to understand how Baystate sources, pilots, evaluates, and implements new ideas. What an interview!
-
-Bio: As CIO & VP of Information & Technology, Vengco oversees the technology vision, strategy, and operations of the entire Baystate Health system. In two and a half years with Baystate Health, Vengco founded and launched TechSpring, Baystate Health’s technology innovation center. Prior to Baystate, Vengco served as Vice-President and General Manager of one of the four global businesses that make up GE’s $1.58B Healthcare IT business unit. Mr. Vengco is a senior fellow at the Health Policy Institute at Boston University and has served as lecturer at universities including BU, Harvard, and MIT. He has been an advisor and director to healthcare technology start-ups, and has provided informatics consultancy to various large organizations throughout the healthcare industry. He holds an undergraduate degree from Boston College and has Masters degrees from Harvard University and Boston University School of Medicine.
+Bio: |
+As CIO & VP of Information & Technology, Vengco oversees the technology vision, strategy, and operations of the entire Baystate Health system. In two and a half years with Baystate Health, Vengco founded and launched TechSpring, Baystate Health’s technology innovation center. Prior to Baystate, Vengco served as Vice-President and General Manager of one of the four global businesses that make up GE’s $1.58B Healthcare IT business unit. Mr. Vengco is a senior fellow at the Health Policy Institute at Boston University and has served as lecturer at universities including BU, Harvard, and MIT. He has been an advisor and director to healthcare technology start-ups, and has provided informatics consultancy to various large organizations throughout the healthcare industry. He holds an undergraduate degree from Boston College and has Masters degrees from Harvard University and Boston University School of Medicine.
 
 In 2010, Mr. Vengco was recognized by Modern Healthcare magazine as one of the Top 25 Clinical Informaticists in the country. That same year, he also received distinction from Information Management magazine as one of the Top 25 Information Managers in the country. He was also a recipient of the eHealth Initiative's Advocate of the Year for Business Process Improvement.
 

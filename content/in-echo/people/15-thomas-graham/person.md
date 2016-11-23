@@ -8,19 +8,8 @@ Guest: Thomas J. Graham, MD
 
 GuestAvatar: /assets/img/podcast/portrait-thomas-graham.jpg
 
-Fullname: Travis Good, MD
-
-HostURL: /travis
-
-HostAvatar: /assets/img/profiles/prof-travis.jpg
-
-HostTitle: Co-founder, CEO & Chief Privacy Officer
-
-Date: 03/09/2016
-
-Summary: Dr. Thomas Graham spent time talking about his time leading innovation at the Cleveland Clinic and what he's up to now at the Tavistock Group. We came away with a newfound appreciation to the role of partnerships as critical components to innovation.
-
-Bio: Thomas J. Graham, MD, is a renowned surgeon, healthcare executive, inventor/entrepreneur and author. He is the Chief Health Strategy & Innovation Officer for Tavistock Group, the international private investment and real estate development conglomerate founded by Joe Lewis, with over 200 holdings in a dozen countries. Graham also serves as the Global Chairman of the Lake Nona Institute, the non-profit  organization that focuses on the development and sustainability of Lake Nona Medical City as the world's most connected, intelligent community and the "living laboratory" for healthcare transformation and medical innovation. Graham founded Global Hemisphere, LLC, with Tavistock and other strategic partners as a platform for advisory and intellectual property commercialization that stimulates community economic development.
+Bio: |
+Thomas J. Graham, MD, is a renowned surgeon, healthcare executive, inventor/entrepreneur and author. He is the Chief Health Strategy & Innovation Officer for Tavistock Group, the international private investment and real estate development conglomerate founded by Joe Lewis, with over 200 holdings in a dozen countries. Graham also serves as the Global Chairman of the Lake Nona Institute, the non-profit  organization that focuses on the development and sustainability of Lake Nona Medical City as the world's most connected, intelligent community and the "living laboratory" for healthcare transformation and medical innovation. Graham founded Global Hemisphere, LLC, with Tavistock and other strategic partners as a platform for advisory and intellectual property commercialization that stimulates community economic development.
 
 Formerly, Dr. Graham served as the first Chief Innovation Officer and Vice-Chairman of the Department of Orthopaedic Surgery of Cleveland Clinic in Cleveland, Ohio. Prior to returning to Cleveland, Graham was Chief of the Congressionally-designated National Hand Center in Baltimore, the largest specialty practice of its kind. His extensive clinical expertise in surgery of the hand, wrist and elbow with special concentration on complicated reconstruction after trauma, complex elbow disorders and congenital hand surgery is well-known. His practice is recognized as the premier destination for the care of the professional athlete’s hand and wrist, worldwide and he has served as the Hand Surgery Consultant or Team Physician for numerous teams in the NFL, MLB, NBA and NHL, as well as the PGA and LPGA.
 

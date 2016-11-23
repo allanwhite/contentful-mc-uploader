@@ -6,19 +6,8 @@ Author: travis
 
 Guest: Sue Schade
 
-Fullname: Travis Good, MD
-
-HostURL: /travis
-
-HostAvatar: /assets/img/profiles/prof-travis.jpg
-
-HostTitle: Co-founder, CEO & Chief Privacy Officer
-
-Date: 06/11/2015
-
-Summary: Sue Schade, who recently was awarded [CIO of the Year by CHIME and HIMSS](http://www.beckershospitalreview.com/healthcare-information-technology/u-of-michigan-s-sue-schade-named-cio-of-the-year-by-chime.html), joined us to talk about her experience with previously bringing new frameworks and programs into Brigham and Women's in Boston and what innovation looks like in her new post as CIO at University of Michigan Hospitals and Health Centers. We capped it off with some wonderful insight for startups looking to bring innovation into hospitals.
-
-Bio: Sue Schade serves as the Chief Information Officer for the University of Michigan Hospitals and Health Centers (UMHHC) having assumed this position in November, 2012. The UMHHC includes 3 hospitals totaling 990 beds and over 120 clinics throughout Michigan and beyond. The UMHHC along with the U-M Medical School, which comprises the University of Michigan Health System (UMHS), is committed to creating the future of health care through discovery and becoming the national leader in health care, health care reform, biomedical innovation and education. In her role, Schade provides direction and oversight to information technology initiatives at UMHHC and works closely with the CIO for the U-M Medical School and collaborates with the University of Michigan CIO on shared infrastructure initiatives.
+Bio: |
+Sue Schade serves as the Chief Information Officer for the University of Michigan Hospitals and Health Centers (UMHHC) having assumed this position in November, 2012. The UMHHC includes 3 hospitals totaling 990 beds and over 120 clinics throughout Michigan and beyond. The UMHHC along with the U-M Medical School, which comprises the University of Michigan Health System (UMHS), is committed to creating the future of health care through discovery and becoming the national leader in health care, health care reform, biomedical innovation and education. In her role, Schade provides direction and oversight to information technology initiatives at UMHHC and works closely with the CIO for the U-M Medical School and collaborates with the University of Michigan CIO on shared infrastructure initiatives.
 
 
 Schade has nearly 30 years’ experience in health care information technology management. Prior to joining UMHS, she served for over 12 years as the CIO for Brigham and Women’s Hospital, a founding member of the Partners HealthCare System in Boston, MA. Her previous experience includes 12 years in positions of increasing management responsibility at a large integrated delivery system in the Chicago area. She led the software division for a start-up healthcare software and outsourcing services vendor for several years and worked as a senior manager in the health care information technology practice at Ernst and Young.

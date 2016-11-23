@@ -10,19 +10,8 @@ GuestAvatar: /assets/img/podcast/portrait-grahame-grieve.jpg
 
 Interviewers: Interviewed by Mohan Balachandran
 
-Fullname: Mohan Balachandran
-
-HostURL: /mohan
-
-HostAvatar: /assets/img/profiles/prof-mohan.jpg
-
-HostTitle: Catalyze Co-Founder & President
-
-Date: 04/29/2016
-
-Summary: *The Healthcare Innovators Podcast* is proud to connect you with Grahame Grieve, Product Director of FHIR for HL7. Grahame hails from Melbourne, Australia and has come to be industry known as the "Father of FHIR." Before creating the Fast Healthcare Interoperability Resources, he spent years working with the HL7 standards that assist in transferring clinical and administrative data between software applications. Today, we'll learn a bit more about the background of FHIR and why healthcare subdomains are attracted to the FHIR standard. This is first in a three-part interview series around the FHIR standard and one that will leave you laughing as Grieve shares his favorite answer to what FHIR stands for. After the interview, [read more about the FHIR standard](https://fhir.catalyze.io/) here.
-
-Bio: Grahame Grieve specializes in healthcare interoperability, balancing clinical, management and business perspectives, using his deep technical knowledge and capability. Prior to his Healthcare Intersections consultant business, he was the CTO for Kestral Computing P/L, where he provided leadership in development methodology, strategic technologies, enterprise architecture, standards and interoperability. Grahame also conceived, developed and sold interoperability and clinical document solutions and products. As part of his work, he became deeply involved in healthcare standards, principally HL7 and ISO. For nearly a decade, he has used committee chair positions and editorship of key structural standards to lead convergence between US and European standards organizations.
+Bio: |
+Grahame Grieve specializes in healthcare interoperability, balancing clinical, management and business perspectives, using his deep technical knowledge and capability. Prior to his Healthcare Intersections consultant business, he was the CTO for Kestral Computing P/L, where he provided leadership in development methodology, strategic technologies, enterprise architecture, standards and interoperability. Grahame also conceived, developed and sold interoperability and clinical document solutions and products. As part of his work, he became deeply involved in healthcare standards, principally HL7 and ISO. For nearly a decade, he has used committee chair positions and editorship of key structural standards to lead convergence between US and European standards organizations.
 
 Additionally, Grahame is involved in a variety of open source industry consortiums, such as Open Healthcare Framework, Open Health Tools and the Indy Project.
 

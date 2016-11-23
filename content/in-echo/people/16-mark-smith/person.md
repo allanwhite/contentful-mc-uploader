@@ -4,23 +4,8 @@ Seotitle: Mark Smith, MD — Chief Innovation Officer of MedStar Health and the
 
 Author: travis
 
-Fullname: Travis Good, MD
-
-Guest: Mark Smith, MD
-
-GuestAvatar: /assets/img/podcast/portrait-mark-smith.jpg
-
-HostURL: /travis
-
-HostAvatar: /assets/img/profiles/prof-travis.jpg
-
-HostTitle: Co-founder, CEO & Chief Privacy Officer
-
-Date: 04/25/2016
-
-Summary: Dr. Mark Smith shared with us the genesis for the MedStar Institute for Innovation (MI2), which he leads. Change in healthcare requires human connection, opportunity, and open mindedness to respond to unexpected ideas. Learn more with us on the topic of innovation at MedStar.
-
-Bio: Mark S. Smith, MD, is Chief Innovation Officer of MedStar Health and the Director of the MedStar Institute for Innovation (MI2). In this role, Dr. Smith leads a system-wide initiative to catalyze and foster innovation at MedStar Health.
+Bio: |
+Mark S. Smith, MD, is Chief Innovation Officer of MedStar Health and the Director of the MedStar Institute for Innovation (MI2). In this role, Dr. Smith leads a system-wide initiative to catalyze and foster innovation at MedStar Health.
 
 Prior to his appointment as Director of MI2, Dr. Smith served as chair of the department of emergency medicine at MedStar Washington Hospital Center for 14 years and as founding chair of MedStar Emergency Physicians. Dr. Smith is also professor of emergency medicine at the Georgetown University School of Medicine, where he served as academic chair of emergency medicine from 2001-2015. Prior to that, he was chair of emergency medicine at the George Washington University Medical Center for 12 years and the director of its Ronald Reagan Institute of Emergency Medicine.
 

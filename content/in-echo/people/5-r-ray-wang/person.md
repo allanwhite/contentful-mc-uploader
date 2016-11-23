@@ -6,19 +6,8 @@ Author: travis
 
 Guest: R "Ray" Wang
 
-Fullname: Travis Good, MD
-
-HostURL: /travis
-
-HostAvatar: /assets/img/profiles/prof-travis.jpg
-
-HostTitle: Co-founder, CEO & Chief Privacy Officer
-
-Date: 05/08/2015
-
-Summary: R "Ray" Wang chatted with Travis about the digital transformation of healthcare. Many of Ray's insights were pulled from his new book _Disrupting Digital Business: Creating an Authentic Experience in the Peer-to-Peer Economy_ which published May 5th. We were impressed by his varied background, and engaged in a conversation about business models, culture, and EHRs.
-
-Bio: R “Ray” Wang is the Principal Analyst, Founder, and Chairman of Silicon Valley based Constellation Research, Inc.  He’s also the author of the popular business strategy and technology  blog “A Software Insider’s Point of View,” where he provides insight into how disruptive technologies and new business models impact brands, enterprises, and organizations. Ray has held executive roles in product, marketing, strategy, and consulting at companies such as Forrester Research, Oracle, PeopleSoft, Deloitte, Ernst & Young, and Johns Hopkins Hospital.
+Bio: |
+R “Ray” Wang is the Principal Analyst, Founder, and Chairman of Silicon Valley based Constellation Research, Inc.  He’s also the author of the popular business strategy and technology  blog “A Software Insider’s Point of View,” where he provides insight into how disruptive technologies and new business models impact brands, enterprises, and organizations. Ray has held executive roles in product, marketing, strategy, and consulting at companies such as Forrester Research, Oracle, PeopleSoft, Deloitte, Ernst & Young, and Johns Hopkins Hospital.
 
 
 His new book [_Disrupting Digital Business_](http://www.amazon.com/Disrupting-Digital-Business-Peer---Peer/dp/1422142019/ref=@rwang0) just hit the market and is published by Harvard Business Review Press. The book shares insights on why 52% of the Fortune 500 have been merged, acquired, gone bankrupt, or fallen off.
