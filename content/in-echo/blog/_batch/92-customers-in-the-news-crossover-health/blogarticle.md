@@ -1,6 +1,6 @@
 ---
-Title: Customers In The News: Crossover Health
-SeoTitle: Customers In The News: Crossover Health
+Title: "Customers In The News: Crossover Health"
+SeoTitle: "Customers In The News: Crossover Health"
 Author: kris
 Fullname: Kris Gösser
 Date: 01/30/2015

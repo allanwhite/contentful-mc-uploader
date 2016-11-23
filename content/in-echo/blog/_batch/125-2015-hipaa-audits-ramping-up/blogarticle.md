@@ -1,6 +1,6 @@
 ---
-Title: 2015 HIPAA Audits Ramping Up
-SeoTitle: 2015 HIPAA Audits Ramping Up
+Title: "2015 HIPAA Audits Ramping Up"
+SeoTitle: "2015 HIPAA Audits Ramping Up"
 Author: travis
 Fullname: Travis Good, MD
 Date: 07/10/2015

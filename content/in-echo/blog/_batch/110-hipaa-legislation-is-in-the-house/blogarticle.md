@@ -1,6 +1,6 @@
 ---
-Title: HIPAA Legislation is in The House
-SeoTitle: HIPAA Legislation is in The House
+Title: "HIPAA Legislation is in The House"
+SeoTitle: "HIPAA Legislation is in The House"
 Author: kenny
 Fullname: Kenny Stark
 Date: 06/02/2015

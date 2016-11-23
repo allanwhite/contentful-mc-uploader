@@ -1,6 +1,6 @@
 ---
-Title: Celebrate Patient Engagement Month with Catalyze!
-SeoTitle: Celebrate Patient Engagement Month with Catalyze!
+Title: "Celebrate Patient Engagement Month with Catalyze!"
+SeoTitle: "Celebrate Patient Engagement Month with Catalyze!"
 Author: kenny
 Fullname: Kenny Stark
 Date: 08/03/2015

@@ -1,6 +1,6 @@
 ---
-Title: Assessment Series: HIPAA Security Assessment
-SeoTitle: Assessment Series: HIPAA Security Assessment
+Title: "Assessment Series: HIPAA Security Assessment"
+SeoTitle: "Assessment Series: HIPAA Security Assessment"
 Author: travis
 Fullname: Travis Good, MD
 Date: 06/16/2015

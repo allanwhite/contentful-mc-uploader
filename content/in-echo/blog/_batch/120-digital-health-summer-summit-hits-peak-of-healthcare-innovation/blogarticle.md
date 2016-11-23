@@ -1,6 +1,6 @@
 ---
-Title: Digital Health Summer Summit Hits Peak of Healthcare Innovation
-SeoTitle: 2015 Digital Health Summer Summit Hits Peak of Healthcare Innovation
+Title: "Digital Health Summer Summit Hits Peak of Healthcare Innovation"
+SeoTitle: "2015 Digital Health Summer Summit Hits Peak of Healthcare Innovation"
 Author: kenny
 Fullname: Kenny Stark
 Date: 06/22/2015

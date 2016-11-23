@@ -1,6 +1,6 @@
 ---
-Title: Credit Card Processing & HIPAA
-SeoTitle: Credit Card Processing & HIPAA
+Title: "Credit Card Processing & HIPAA"
+SeoTitle: "Credit Card Processing & HIPAA"
 Author: mohan
 Fullname: Mohan Balachandran
 Date: 10/14/2015

@@ -1,6 +1,6 @@
 ---
-Title: Data Security & Patient Engagement
-SeoTitle: Data Security & Patient Engagement
+Title: "Data Security & Patient Engagement"
+SeoTitle: "Data Security & Patient Engagement"
 Author: mark
 Fullname: Mark Olschesky
 Date: 08/11/2015

@@ -1,6 +1,6 @@
 ---
-Title: Catalyze Compliance Experts MythBust 3 HIPAA Misconceptions
-SeoTitle: Catalyze Compliance Experts MythBust 3 HIPAA Misconceptions
+Title: "Catalyze Compliance Experts MythBust 3 HIPAA Misconceptions"
+SeoTitle: "Catalyze Compliance Experts MythBust 3 HIPAA Misconceptions"
 Author: kenny
 Fullname: Kenny Stark
 Date: 07/01/2015

@@ -1,6 +1,6 @@
 ---
-Title: Integrating with EPIC (or any EHR)
-SeoTitle: Integrating with EPIC (or any EHR)
+Title: "Integrating with EPIC (or any EHR)"
+SeoTitle: "Integrating with EPIC (or any EHR)"
 Author: mark
 Fullname: Mark Olschesky
 Date: 03/10/2015

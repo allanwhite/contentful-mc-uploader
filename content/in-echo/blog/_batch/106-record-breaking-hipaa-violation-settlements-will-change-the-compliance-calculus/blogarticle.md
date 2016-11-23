@@ -1,6 +1,6 @@
 ---
-Title: Record-breaking HIPAA violation settlements will change the compliance calculus
-SeoTitle: Record-breaking HIPAA violation settlements will change the compliance calculus
+Title: "Record-breaking HIPAA violation settlements will change the compliance calculus"
+SeoTitle: "Record-breaking HIPAA violation settlements will change the compliance calculus"
 Author: kris
 Fullname: Kris Gösser
 Date: 04/23/2015

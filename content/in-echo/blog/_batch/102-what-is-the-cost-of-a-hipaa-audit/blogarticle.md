@@ -1,6 +1,6 @@
 ---
-Title: What is the cost of a HIPAA audit?
-SeoTitle: What is the cost of a HIPAA audit?
+Title: "What is the cost of a HIPAA audit?"
+SeoTitle: "What is the cost of a HIPAA audit?"
 Author: travis
 Fullname: Travis Good, MD
 Date: 03/19/2015

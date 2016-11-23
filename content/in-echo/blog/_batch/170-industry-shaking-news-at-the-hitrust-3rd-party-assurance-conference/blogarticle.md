@@ -1,6 +1,6 @@
 ---
-Title: Industry Shaking News at the HITRUST 3rd Party Assurance Conference
-SeoTitle: Industry Shaking News at the HITRUST 3rd Party Assurance Conference
+Title: "Industry Shaking News at the HITRUST 3rd Party Assurance Conference"
+SeoTitle: "Industry Shaking News at the HITRUST 3rd Party Assurance Conference"
 Author: travis
 Fullname: Travis Good, MD
 Date: 11/18/2015

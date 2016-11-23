@@ -1,6 +1,6 @@
 ---
-Title: Backend as a Service or Platform as a Service — Which is right for you?
-SeoTitle: Backend as a Service or Platform as a Service — Which is right for you?
+Title: "Backend as a Service or Platform as a Service — Which is right for you?"
+SeoTitle: "Backend as a Service or Platform as a Service — Which is right for you?"
 Author: kris
 Fullname: Kris Gösser
 Date: 02/06/2015

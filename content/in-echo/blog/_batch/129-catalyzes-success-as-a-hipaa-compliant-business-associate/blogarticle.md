@@ -1,6 +1,6 @@
 ---
-Title: Catalyze’s Success as a HIPAA Compliant Business Associate
-SeoTitle: Catalyze’s Success as a HIPAA Compliant Business Associate
+Title: "Catalyze’s Success as a HIPAA Compliant Business Associate"
+SeoTitle: "Catalyze’s Success as a HIPAA Compliant Business Associate"
 Author: mohan
 Fullname: Mohan Balachandran
 Date: 07/22/2015

@@ -1,6 +1,6 @@
 ---
-Title: Engagement Mandates a “Positive Technology” Focus
-SeoTitle: Engagement Mandates a “Positive Technology” Focus
+Title: "Engagement Mandates a “Positive Technology” Focus"
+SeoTitle: "Engagement Mandates a “Positive Technology” Focus"
 Author: ben
 Fullname: Ben Uphoff, PhD
 Date: 08/17/2015

@@ -1,6 +1,6 @@
 ---
-Title: Start Mirth Connect as a Service on Boot
-SeoTitle: Start Mirth Connect as a Service on Boot
+Title: "Start Mirth Connect as a Service on Boot"
+SeoTitle: "Start Mirth Connect as a Service on Boot"
 Author: mark
 Fullname: Mark Olschesky
 Date: 01/20/2015

@@ -1,6 +1,6 @@
 ---
-Title: Announcing Redpoint – Your Integration Sherpa
-SeoTitle: Announcing Redpoint – Your Integration Sherpa
+Title: "Announcing Redpoint – Your Integration Sherpa"
+SeoTitle: "Announcing Redpoint – Your Integration Sherpa"
 Author: mohan
 Fullname: Mohan Balachandran
 Date: 12/02/2015

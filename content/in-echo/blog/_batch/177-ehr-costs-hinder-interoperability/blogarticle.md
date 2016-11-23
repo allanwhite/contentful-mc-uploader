@@ -1,6 +1,6 @@
 ---
-Title: EHR Costs Hinder Interoperability
-SeoTitle: EHR Costs Hinder Interoperability
+Title: "EHR Costs Hinder Interoperability"
+SeoTitle: "EHR Costs Hinder Interoperability"
 Author: mark
 Fullname: Mark Olschesky
 Date: 12/11/2015

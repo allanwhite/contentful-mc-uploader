@@ -5,8 +5,10 @@ module.exports = function(file) {
         'catalyze': '3riALtpuXYeIaIGuaq8M4w',
         'josh': 'VbpTTGURUqoKc0K4oeYU',
         'kris': '3azwOe9v3O4YSuyU0gsuo6',
+        'kenny': '3azwOe9v3O4YSuyU0gsuo6',
         'marcia': '6NxyE8vlfOqMOkkGsCSusA',
         'marko': '5dsPZqJr4Qu2uww6KgYO0G',
+        'ben': '5dsPZqJr4Qu2uww6KgYO0G',
         'heath': '2jePzhmtig2QCaYwucYuuy',
         'mohan': '3VJKuWDfPak8w26k0g0Kw0',
         'travis': '1gpUmvd6yuOKUIUIY620i0'

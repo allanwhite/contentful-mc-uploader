@@ -1,6 +1,6 @@
 ---
-Title: Who’s Buying Engagement? 2015 Update
-SeoTitle: Who’s Buying Engagement? 2015 Update
+Title: "Who’s Buying Engagement? 2015 Update"
+SeoTitle: "Who’s Buying Engagement? 2015 Update"
 Author: travis
 Fullname: Travis Good, MD
 Date: 08/06/2015

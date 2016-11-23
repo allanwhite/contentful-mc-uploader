@@ -1,6 +1,6 @@
 ---
-Title: HL7 ACK/NACK
-SeoTitle: HL7 ACK/NACK
+Title: "HL7 ACK/NACK"
+SeoTitle: "HL7 ACK/NACK"
 Author: mark
 Fullname: Mark Olschesky
 Date: 10/07/2015

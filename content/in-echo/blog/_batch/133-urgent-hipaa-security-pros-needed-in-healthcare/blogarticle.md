@@ -1,6 +1,6 @@
 ---
-Title: Urgent! HIPAA Security Pros Needed in Healthcare!
-SeoTitle: Urgent! HIPAA Security Pros Needed in Healthcare!
+Title: "Urgent! HIPAA Security Pros Needed in Healthcare!"
+SeoTitle: "Urgent! HIPAA Security Pros Needed in Healthcare!"
 Author: kenny
 Fullname: Kenny Stark
 Date: 07/30/2015

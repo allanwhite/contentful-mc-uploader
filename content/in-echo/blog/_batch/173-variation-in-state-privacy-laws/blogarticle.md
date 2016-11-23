@@ -1,6 +1,6 @@
 ---
-Title: Variation in State Privacy Laws
-SeoTitle: Variation in State Privacy Laws
+Title: "Variation in State Privacy Laws"
+SeoTitle: "Variation in State Privacy Laws"
 Author: travis
 Fullname: Travis Good, MD
 Date: 12/01/2015

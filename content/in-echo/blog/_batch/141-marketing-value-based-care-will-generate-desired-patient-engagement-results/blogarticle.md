@@ -1,6 +1,6 @@
 ---
-Title: Marketing Value-Based Care Will Generate Desired Patient Engagement Results
-SeoTitle: Marketing Value-Based Care Will Generate Desired Patient Engagement Results
+Title: "Marketing Value-Based Care Will Generate Desired Patient Engagement Results"
+SeoTitle: "Marketing Value-Based Care Will Generate Desired Patient Engagement Results"
 Author: travis
 Fullname: Travis Good, MD
 Date: 08/13/2015

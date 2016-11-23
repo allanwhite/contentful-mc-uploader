@@ -1,6 +1,6 @@
 ---
-Title: Open APIs Solve Lack of EHR Interoperability
-SeoTitle: Open APIs Solve Lack of EHR Interoperability
+Title: "Open APIs Solve Lack of EHR Interoperability"
+SeoTitle: "Open APIs Solve Lack of EHR Interoperability"
 Author: mark
 Fullname: Mark Olschesky
 Date: 10/21/2015

@@ -1,6 +1,6 @@
 ---
-Title: The Healthcare Innovator's Dilemma
-SeoTitle: The Healthcare Innovator's Dilemma
+Title: "The Healthcare Innovator's Dilemma"
+SeoTitle: "The Healthcare Innovator's Dilemma"
 Author: travis
 Fullname: Travis Good, MD
 Date: 02/11/2015

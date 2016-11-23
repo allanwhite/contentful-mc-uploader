@@ -1,6 +1,6 @@
 ---
-Title: Securing Network Access in Healthcare
-SeoTitle: Securing Network Access in Healthcare
+Title: "Securing Network Access in Healthcare"
+SeoTitle: "Securing Network Access in Healthcare"
 Author: mohan
 Fullname: Mohan Balachandran
 Date: 11/23/2015

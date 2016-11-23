@@ -1,6 +1,6 @@
 ---
-Title: Planning for Innovation in 2016
-SeoTitle: Planning for Innovation in 2016
+Title: "Planning for Innovation in 2016"
+SeoTitle: "Planning for Innovation in 2016"
 Author: mohan
 Fullname: Mohan Balachandran
 Date: 09/17/2015

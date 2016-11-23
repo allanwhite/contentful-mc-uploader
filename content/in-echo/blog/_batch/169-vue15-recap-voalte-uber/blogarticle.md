@@ -1,6 +1,6 @@
 ---
-Title: VUE15 Recap: Voalte, Uber & more
-SeoTitle: VUE15 Recap: Voalte, Uber & more
+Title: "VUE15 Recap: Voalte, Uber & more"
+SeoTitle: "VUE15 Recap: Voalte, Uber & more"
 Author: travis
 Fullname: Travis Good, MD
 Date: 11/16/2015

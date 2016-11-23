@@ -1,6 +1,6 @@
 ---
-Title: Guiding Patient Engagement
-SeoTitle: Guiding Patient Engagement
+Title: "Guiding Patient Engagement"
+SeoTitle: "Guiding Patient Engagement"
 Author: travis
 Fullname: Travis Good, MD
 Date: 08/20/2015

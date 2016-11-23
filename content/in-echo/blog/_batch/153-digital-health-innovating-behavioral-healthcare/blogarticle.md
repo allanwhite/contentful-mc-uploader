@@ -1,6 +1,6 @@
 ---
-Title: Digital Health Innovating Behavioral Healthcare
-SeoTitle: Digital Health Innovating Behavioral Healthcare
+Title: "Digital Health Innovating Behavioral Healthcare"
+SeoTitle: "Digital Health Innovating Behavioral Healthcare"
 Author: marcia
 Fullname: Marcia Noyes
 Date: 09/16/2015

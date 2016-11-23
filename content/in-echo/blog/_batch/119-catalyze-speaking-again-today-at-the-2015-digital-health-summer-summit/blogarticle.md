@@ -1,6 +1,6 @@
 ---
-Title: Catalyze Speaking Again Today at the 2015 Digital Health Summer Summit!
-SeoTitle: Catalyze Speaking Again Today at the 2015 Digital Health Summer Summit!
+Title: "Catalyze Speaking Again Today at the 2015 Digital Health Summer Summit!"
+SeoTitle: "Catalyze Speaking Again Today at the 2015 Digital Health Summer Summit!"
 Author: marcia
 Fullname: Marcia Noyes
 Date: 06/19/2015

@@ -1,6 +1,6 @@
 ---
-Title: 2015 Stanford Medicine X Conference Ignites a Revolution
-SeoTitle: 2015 Stanford Medicine X Conference Ignites a Revolution
+Title: "2015 Stanford Medicine X Conference Ignites a Revolution"
+SeoTitle: "2015 Stanford Medicine X Conference Ignites a Revolution"
 Author: marcia
 Fullname: Marcia Noyes
 Date: 09/28/2015

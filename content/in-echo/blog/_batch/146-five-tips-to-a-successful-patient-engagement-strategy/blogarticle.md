@@ -1,6 +1,6 @@
 ---
-Title: Five Tips to a Successful Patient Engagement Strategy
-SeoTitle: 5 Tips to a Successful Patient Engagement Strategy
+Title: "Five Tips to a Successful Patient Engagement Strategy"
+SeoTitle: "5 Tips to a Successful Patient Engagement Strategy"
 Author: kenny
 Fullname: Kenny Stark
 Date: 08/24/2015

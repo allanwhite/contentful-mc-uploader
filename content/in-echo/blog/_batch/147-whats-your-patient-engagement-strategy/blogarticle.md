@@ -1,6 +1,6 @@
 ---
-Title: What’s Your Patient Engagement Strategy?
-SeoTitle: What’s Your Patient Engagement Strategy?
+Title: "What’s Your Patient Engagement Strategy?"
+SeoTitle: "What’s Your Patient Engagement Strategy?"
 Author: travis
 Fullname: Travis Good, MD
 Date: 08/27/2015

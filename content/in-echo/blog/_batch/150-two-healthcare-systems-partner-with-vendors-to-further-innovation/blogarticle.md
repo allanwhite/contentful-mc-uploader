@@ -1,6 +1,6 @@
 ---
-Title: Two Healthcare Systems Partner with Vendors to Further Innovation
-SeoTitle: Two Healthcare Systems Partner with Vendors to Further Innovation
+Title: "Two Healthcare Systems Partner with Vendors to Further Innovation"
+SeoTitle: "Two Healthcare Systems Partner with Vendors to Further Innovation"
 Author: travis
 Fullname: Travis Good, MD
 Date: 09/08/2015

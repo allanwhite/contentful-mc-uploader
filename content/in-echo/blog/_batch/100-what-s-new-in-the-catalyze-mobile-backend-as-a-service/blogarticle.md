@@ -1,6 +1,6 @@
 ---
-Title: What's new in the Catalyze Mobile Backend as a Service
-SeoTitle: What's new in the Catalyze Mobile Backend as a Service
+Title: "What's new in the Catalyze Mobile Backend as a Service"
+SeoTitle: "What's new in the Catalyze Mobile Backend as a Service"
 Author: ben
 Fullname: Ben Uphoff, PhD
 Date: 03/16/2015

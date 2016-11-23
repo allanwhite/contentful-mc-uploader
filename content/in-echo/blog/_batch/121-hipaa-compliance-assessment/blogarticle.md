@@ -1,6 +1,6 @@
 ---
-Title: Assessment Series: HIPAA Compliance Assessment
-SeoTitle: Assessment Series: HIPAA Compliance Assessment
+Title: "Assessment Series: HIPAA Compliance Assessment"
+SeoTitle: "Assessment Series: HIPAA Compliance Assessment"
 Author: travis
 Fullname: Travis Good, MD
 Date: 06/24/2015

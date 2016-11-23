@@ -1,6 +1,6 @@
 ---
-Title: FHIR is on FIRE as We Release Our Latest Academy Entries
-SeoTitle: FHIR is on FIRE as We Release Our Latest Academy Entries
+Title: "FHIR is on FIRE as We Release Our Latest Academy Entries"
+SeoTitle: "FHIR is on FIRE as We Release Our Latest Academy Entries"
 Author: kenny
 Fullname: Kenny Stark
 Date: 05/28/2015

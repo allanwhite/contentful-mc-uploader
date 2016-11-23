@@ -1,6 +1,6 @@
 ---
-Title: Assessment Series: HIPAA Risk Assessment
-SeoTitle: Assessment Series: HIPAA Risk Assessment
+Title: "Assessment Series: HIPAA Risk Assessment"
+SeoTitle: "Assessment Series: HIPAA Risk Assessment"
 Author: travis
 Fullname: Travis Good, MD
 Date: 06/09/2015

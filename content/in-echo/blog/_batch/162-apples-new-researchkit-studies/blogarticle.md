@@ -1,6 +1,6 @@
 ---
-Title: Apple’s New ResearchKit Studies 
-SeoTitle: Apple’s New ResearchKit Studies 
+Title: "Apple’s New ResearchKit Studies "
+SeoTitle: "Apple’s New ResearchKit Studies "
 Author: travis
 Fullname: Travis Good, MD
 Date: 10/23/2015

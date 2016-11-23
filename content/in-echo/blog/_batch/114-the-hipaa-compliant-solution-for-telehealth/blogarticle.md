@@ -1,6 +1,6 @@
 ---
-Title: The HIPAA Compliant Solution for Telehealth
-SeoTitle: The HIPAA Compliant Solution for Telehealth
+Title: "The HIPAA Compliant Solution for Telehealth"
+SeoTitle: "The HIPAA Compliant Solution for Telehealth"
 Author: kenny
 Fullname: Kenny Stark
 Date: 06/11/2015

@@ -1,6 +1,6 @@
 ---
-Title: Apple's ResearchKit and Clinical Research: Opportunities and Challenges
-SeoTitle: Apple's ResearchKit and Clinical Research: Opportunities and Challenges
+Title: "Apple's ResearchKit and Clinical Research: Opportunities and Challenges"
+SeoTitle: "Apple's ResearchKit and Clinical Research: Opportunities and Challenges"
 Author: mohan
 Fullname: Mohan Balachandran
 Date: 04/06/2015

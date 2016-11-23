@@ -1,6 +1,6 @@
 ---
-Title: Catalyze CEO to Present at Stanford Medicine X Conference
-SeoTitle: Catalyze CEO to Present at Stanford Medicine X Conference
+Title: "Catalyze CEO to Present at Stanford Medicine X Conference"
+SeoTitle: "Catalyze CEO to Present at Stanford Medicine X Conference"
 Author: marcia
 Fullname: Marcia Noyes
 Date: 09/23/2015

@@ -1,6 +1,6 @@
 ---
-Title: Catalyze Provides HIPAA Compliance on the Ionic Market
-SeoTitle: Catalyze Provides HIPAA Compliance on the Ionic Market
+Title: "Catalyze Provides HIPAA Compliance on the Ionic Market"
+SeoTitle: "Catalyze Provides HIPAA Compliance on the Ionic Market"
 Author: ryan
 Fullname: Ryan Rich
 Date: 08/19/2015

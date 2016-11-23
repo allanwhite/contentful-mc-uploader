@@ -1,6 +1,6 @@
 ---
-Title: 3 HIPAA Omnibus Rule Essentials for IT/Security
-SeoTitle: 3 HIPAA Omnibus Rule Essentials for IT/Security
+Title: "3 HIPAA Omnibus Rule Essentials for IT/Security"
+SeoTitle: "3 HIPAA Omnibus Rule Essentials for IT/Security"
 Author: mohan
 Fullname: Mohan Balachandran
 Date: 10/30/2015

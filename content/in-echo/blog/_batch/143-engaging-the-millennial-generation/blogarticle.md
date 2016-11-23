@@ -1,6 +1,6 @@
 ---
-Title: Engaging the Millennial Generation
-SeoTitle: Engaging the Millennial Generation
+Title: "Engaging the Millennial Generation"
+SeoTitle: "Engaging the Millennial Generation"
 Author: marcia
 Fullname: Marcia Noyes
 Date: 08/18/2015

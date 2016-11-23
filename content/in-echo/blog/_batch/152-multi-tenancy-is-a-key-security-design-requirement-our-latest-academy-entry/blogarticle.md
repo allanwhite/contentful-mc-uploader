@@ -1,6 +1,6 @@
 ---
-Title: Multi tenancy is a key security design requirement — Our latest Academy entry
-SeoTitle: Multi tenancy is a key security design requirement — Our latest Academy entry
+Title: "Multi tenancy is a key security design requirement — Our latest Academy entry"
+SeoTitle: "Multi tenancy is a key security design requirement — Our latest Academy entry"
 Author: mohan
 Fullname: Mohan Balachandran
 Date: 09/14/2015

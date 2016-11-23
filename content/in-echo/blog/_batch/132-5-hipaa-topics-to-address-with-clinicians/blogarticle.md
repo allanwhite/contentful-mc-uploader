@@ -1,6 +1,6 @@
 ---
-Title: 5 HIPAA Topics to Address With Clinicians
-SeoTitle: 5 HIPAA Topics to Address With Clinicians
+Title: "5 HIPAA Topics to Address With Clinicians"
+SeoTitle: "5 HIPAA Topics to Address With Clinicians"
 Author: kenny
 Fullname: Kenny Stark
 Date: 07/29/2015

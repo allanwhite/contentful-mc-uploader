@@ -1,6 +1,6 @@
 ---
-Title: Zipnosis Diagnoses Catalyze in Our Latest Case Study
-SeoTitle: Zipnosis Diagnoses Catalyze in Our Latest Case Study
+Title: "Zipnosis Diagnoses Catalyze in Our Latest Case Study"
+SeoTitle: "Zipnosis Diagnoses Catalyze in Our Latest Case Study"
 Author: marcia
 Fullname: Marcia Noyes
 Date: 06/05/2015

@@ -1,6 +1,6 @@
 ---
-Title: Fifty States of HIPAA
-SeoTitle: Fifty States of HIPAA
+Title: "Fifty States of HIPAA"
+SeoTitle: "Fifty States of HIPAA"
 Author: kenny
 Fullname: Kenny Stark
 Date: 07/07/2015

@@ -1,6 +1,6 @@
 ---
-Title: How do you prove HIPAA compliance?
-SeoTitle: How do you prove HIPAA compliance?
+Title: "How do you prove HIPAA compliance?"
+SeoTitle: "How do you prove HIPAA compliance?"
 Author: travis
 Fullname: Travis Good, MD
 Date: 03/06/2015

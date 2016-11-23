@@ -1,6 +1,6 @@
 ---
-Title: Catalyze Speaks Integration at Open mHealth on Wednesday!
-SeoTitle: Catalyze Speaks Integration at Open mHealth on Wednesday!
+Title: "Catalyze Speaks Integration at Open mHealth on Wednesday!"
+SeoTitle: "Catalyze Speaks Integration at Open mHealth on Wednesday!"
 Author: marcia
 Fullname: Marcia Noyes
 Date: 06/15/2015

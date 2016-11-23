@@ -1,6 +1,6 @@
 ---
-Title: Increased Interoperability Will Lead to Increased Patient Engagement
-SeoTitle: Increased Interoperability Will Lead to Increased Patient Engagement
+Title: "Increased Interoperability Will Lead to Increased Patient Engagement"
+SeoTitle: "Increased Interoperability Will Lead to Increased Patient Engagement"
 Author: mohan
 Fullname: Mohan Balachandran
 Date: 08/05/2015

@@ -1,6 +1,6 @@
 ---
-Title: Insufficiencies in Standards for EHR Interoperability
-SeoTitle: Insufficiencies in Standards for EHR Interoperability
+Title: "Insufficiencies in Standards for EHR Interoperability"
+SeoTitle: "Insufficiencies in Standards for EHR Interoperability"
 Author: mark
 Fullname: Mark Olschesky
 Date: 11/24/2015

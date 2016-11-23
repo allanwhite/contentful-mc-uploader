@@ -1,6 +1,6 @@
 ---
-Title: Why Interoperability?
-SeoTitle: Why Interoperability?
+Title: "Why Interoperability?"
+SeoTitle: "Why Interoperability?"
 Author: adam
 Fullname: Adam Leko
 Date: 11/03/2015

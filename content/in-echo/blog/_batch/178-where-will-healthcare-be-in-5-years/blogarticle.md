@@ -1,6 +1,6 @@
 ---
-Title: Where will healthcare be in 5 years?
-SeoTitle: Where will healthcare be in 5 years?
+Title: "Where will healthcare be in 5 years?"
+SeoTitle: "Where will healthcare be in 5 years?"
 Author: travis
 Fullname: Travis Good, MD
 Date: 12/15/2015

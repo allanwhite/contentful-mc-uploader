@@ -1,6 +1,6 @@
 ---
-Title: Catalyze Open Source
-SeoTitle: Catalyze Open Source
+Title: "Catalyze Open Source"
+SeoTitle: "Catalyze Open Source"
 Author: ryan
 Fullname: Ryan Rich
 Date: 03/04/2015

@@ -1,6 +1,6 @@
 ---
-Title: VUE15: Catalyze CEO talks mHealth History at Voalte’s First User Conference
-SeoTitle: VUE15: Catalyze CEO talks mHealth History at Voalte’s First User Conference
+Title: "VUE15: Catalyze CEO talks mHealth History at Voalte’s First User Conference"
+SeoTitle: "VUE15: Catalyze CEO talks mHealth History at Voalte’s First User Conference"
 Author: marcia
 Fullname: Marcia Noyes
 Date: 11/09/2015

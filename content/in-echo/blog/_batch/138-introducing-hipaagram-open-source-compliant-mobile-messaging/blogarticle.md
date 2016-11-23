@@ -1,6 +1,6 @@
 ---
-Title: Introducing HIPAAGRAM - open source, compliant mobile messaging
-SeoTitle: Introducing HIPAAGRAM - open source, compliant mobile messaging
+Title: "Introducing HIPAAGRAM - open source, compliant mobile messaging"
+SeoTitle: "Introducing HIPAAGRAM - open source, compliant mobile messaging"
 Author: travis
 Fullname: Travis Good, MD
 Date: 08/07/2015

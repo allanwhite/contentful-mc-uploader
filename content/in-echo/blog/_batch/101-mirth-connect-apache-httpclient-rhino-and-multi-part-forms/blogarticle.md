@@ -1,6 +1,6 @@
 ---
-Title: Mirth Connect: Apache HTTPClient, Rhino and Multi-part forms
-SeoTitle: Mirth Connect: Apache HTTPClient, Rhino and Multi-part forms
+Title: "Mirth Connect: Apache HTTPClient, Rhino and Multi-part forms"
+SeoTitle: "Mirth Connect: Apache HTTPClient, Rhino and Multi-part forms"
 Author: mark
 Fullname: Mark Olschesky
 Date: 03/18/2015

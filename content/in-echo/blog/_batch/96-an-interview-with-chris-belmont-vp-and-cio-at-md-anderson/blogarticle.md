@@ -1,6 +1,6 @@
 ---
-Title: An interview with Chris Belmont, VP and CIO at MD Anderson
-SeoTitle: An interview with Chris Belmont, VP and CIO at MD Anderson Cancer Center
+Title: "An interview with Chris Belmont, VP and CIO at MD Anderson"
+SeoTitle: "An interview with Chris Belmont, VP and CIO at MD Anderson Cancer Center"
 Author: kris
 Fullname: Kris Gösser
 Date: 03/02/2015

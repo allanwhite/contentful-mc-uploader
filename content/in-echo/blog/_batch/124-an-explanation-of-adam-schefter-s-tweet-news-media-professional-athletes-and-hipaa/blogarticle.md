@@ -1,6 +1,6 @@
 ---
-Title: An explanation of Adam Schefter's Tweet: News media, professional athletes, and HIPAA
-SeoTitle: An explanation of Adam Schefter's Tweet: News media, professional athletes, and HIPAA
+Title: "An explanation of Adam Schefter's Tweet: News media, professional athletes, and HIPAA"
+SeoTitle: "An explanation of Adam Schefter's Tweet: News media, professional athletes, and HIPAA"
 Author: kenny
 Fullname: Kenny Stark
 Date: 07/09/2015

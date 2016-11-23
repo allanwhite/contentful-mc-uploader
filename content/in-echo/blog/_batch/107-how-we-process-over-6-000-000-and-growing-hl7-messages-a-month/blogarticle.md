@@ -1,10 +1,10 @@
 ---
-Title: How we process over 6, 000, 000 (and growing) HL7 messages a month
-SeoTitle: How we process over 6, 000, 000 (and growing) HL7 messages a month
+Title: "How we process over 6,000,000 (and growing) HL7 messages a month"
+SeoTitle: "How we process over 6,000,000 (and growing) HL7 messages a month"
 Author: kris
 Fullname: Kris Gösser
 Date: 05/04/2015
-Summary: 
+Summary:
 Lead: |
   Integration is a buzzword in healthcare, and for good reason.
 
@@ -31,4 +31,3 @@ We reached this milestone by expediting integrations with most of the common HL7
 Our customers' business opportunities have driven us to integrating with over 60% of the EHR market, including Epic, Cerner, McKesson, eClinicalWorks, Allscripts—just to name a few.
 
 Over the next several months we will be sharing with you specific integration stories from real customers, outlining the clear benefits, in the words of our customers, of leveraging Catalyze for integration. Catalyze is committed to the future of healthcare, so we are excited to share genuine examples of bettering patient care.
-

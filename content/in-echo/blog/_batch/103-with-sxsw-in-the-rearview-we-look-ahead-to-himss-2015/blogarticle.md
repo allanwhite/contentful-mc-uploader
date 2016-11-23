@@ -1,6 +1,6 @@
 ---
-Title: With SXSW in the rearview, we look ahead to HIMSS 2015
-SeoTitle: With SXSW in the rearview, we look ahead to HIMSS 2015
+Title: "With SXSW in the rearview, we look ahead to HIMSS 2015"
+SeoTitle: "With SXSW in the rearview, we look ahead to HIMSS 2015"
 Author: kris
 Fullname: Kris Gösser
 Date: 03/30/2015

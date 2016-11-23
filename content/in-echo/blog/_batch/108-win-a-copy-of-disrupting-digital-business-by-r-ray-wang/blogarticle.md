@@ -1,6 +1,6 @@
 ---
-Title: Win a copy of "Disrupting Digital Business" by R "Ray" Wang, our latest Innovation Series participant
-SeoTitle: Win a copy of "Disrupting Digital Business" by R "Ray" Wang, our latest Innovation Series participant
+Title: "Win a copy of "Disrupting Digital Business" by R "Ray" Wang, our latest Innovation Series participant"
+SeoTitle: "Win a copy of "Disrupting Digital Business" by R "Ray" Wang, our latest Innovation Series participant"
 Author: kris
 Fullname: Kris Gösser
 Date: 05/11/2015

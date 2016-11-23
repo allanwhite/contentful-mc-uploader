@@ -1,6 +1,6 @@
 ---
-Title: HIMSS 2015 Recap
-SeoTitle: HIMSS 2015 Recap: Care Coordination, Interoperability, Watson, and more
+Title: "HIMSS 2015 Recap"
+SeoTitle: "HIMSS 2015 Recap: Care Coordination, Interoperability, Watson, and more"
 Author: travis
 Fullname: Travis Good, MD
 Date: 04/21/2015

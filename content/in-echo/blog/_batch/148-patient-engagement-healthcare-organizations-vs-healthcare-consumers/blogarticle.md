@@ -1,6 +1,6 @@
 ---
-Title: Patient Engagement: Healthcare Organizations vs. Healthcare Consumers
-SeoTitle: Patient Engagement: Healthcare Organizations vs. Healthcare Consumers
+Title: "Patient Engagement: Healthcare Organizations vs. Healthcare Consumers"
+SeoTitle: "Patient Engagement: Healthcare Organizations vs. Healthcare Consumers"
 Author: mohan
 Fullname: Mohan Balachandran
 Date: 08/31/2015

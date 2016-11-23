@@ -1,6 +1,6 @@
 ---
-Title: Check out our new HIPAA Compliance FAQ!
-SeoTitle: Check out our new HIPAA Compliance FAQ!
+Title: "Check out our new HIPAA Compliance FAQ!"
+SeoTitle: "Check out our new HIPAA Compliance FAQ!"
 Author: travis
 Fullname: Travis Good, MD
 Date: 07/31/2015

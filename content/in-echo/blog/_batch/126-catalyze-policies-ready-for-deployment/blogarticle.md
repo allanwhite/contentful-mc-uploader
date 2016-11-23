@@ -1,6 +1,6 @@
 ---
-Title: Catalyze Policies - Ready For Deployment
-SeoTitle: Catalyze Policies - Ready For Deployment
+Title: "Catalyze Policies - Ready For Deployment"
+SeoTitle: "Catalyze Policies - Ready For Deployment"
 Author: ryan
 Fullname: Ryan Rich
 Date: 07/15/2015

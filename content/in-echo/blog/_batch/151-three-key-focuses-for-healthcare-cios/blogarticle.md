@@ -1,6 +1,6 @@
 ---
-Title: Three Key Focuses for Healthcare CIOs
-SeoTitle: 3 Key Focuses for Healthcare CIOs
+Title: "Three Key Focuses for Healthcare CIOs"
+SeoTitle: "3 Key Focuses for Healthcare CIOs"
 Author: mark
 Fullname: Mark Olschesky
 Date: 09/10/2015

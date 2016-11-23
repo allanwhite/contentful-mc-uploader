@@ -1,6 +1,6 @@
 ---
-Title: False Claims, Meaningful Use, and HIPAA Compliance: What's the Connection?
-SeoTitle: False Claims, Meaningful Use, and HIPAA Compliance: What's the Connection?
+Title: "False Claims, Meaningful Use, and HIPAA Compliance: What's the Connection?"
+SeoTitle: "False Claims, Meaningful Use, and HIPAA Compliance: What's the Connection?"
 Author: travis
 Fullname: Travis Good, MD
 Date: 07/23/2015

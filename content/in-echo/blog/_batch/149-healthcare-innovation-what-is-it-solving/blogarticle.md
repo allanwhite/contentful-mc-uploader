@@ -1,6 +1,6 @@
 ---
-Title: Healthcare Innovation: What is it solving?
-SeoTitle: Healthcare Innovation: What is it solving?
+Title: "Healthcare Innovation: What is it solving?"
+SeoTitle: "Healthcare Innovation: What is it solving?"
 Author: kenny
 Fullname: Kenny Stark
 Date: 09/04/2015

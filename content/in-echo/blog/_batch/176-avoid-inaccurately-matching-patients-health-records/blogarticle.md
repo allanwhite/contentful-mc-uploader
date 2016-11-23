@@ -1,6 +1,6 @@
 ---
-Title: Avoid Inaccurately Matching Patients’ Health Records
-SeoTitle: Avoid Inaccurately Matching Patients’ Health Records
+Title: "Avoid Inaccurately Matching Patients’ Health Records"
+SeoTitle: "Avoid Inaccurately Matching Patients’ Health Records"
 Author: marcia
 Fullname: Marcia Noyes
 Date: 12/09/2015

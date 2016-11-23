@@ -1,6 +1,6 @@
 ---
-Title: 21st Century Cures Act Passes in the House of Representatives
-SeoTitle: 21st Century Cures Act Passes in the House of Representatives
+Title: "21st Century Cures Act Passes in the House of Representatives"
+SeoTitle: "21st Century Cures Act Passes in the House of Representatives"
 Author: kenny
 Fullname: Kenny Stark
 Date: 07/27/2015

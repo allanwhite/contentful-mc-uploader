@@ -1,6 +1,6 @@
 ---
-Title: Top EHR Vendors (Epic, McKesson, etc.) Meet to Determine Interoperability Metrics
-SeoTitle: Top EHR Vendors (Epic, McKesson, etc.) Meet to Determine Interoperability Metrics
+Title: "Top EHR Vendors (Epic, McKesson, etc.) Meet to Determine Interoperability Metrics"
+SeoTitle: "Top EHR Vendors (Epic, McKesson, etc.) Meet to Determine Interoperability Metrics"
 Author: travis
 Fullname: Travis Good, MD
 Date: 11/05/2015

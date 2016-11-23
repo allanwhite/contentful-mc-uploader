@@ -1,6 +1,6 @@
 ---
-Title: Difficulties of Clinically Testing Health Apps
-SeoTitle: Difficulties of Clinically Testing Health Apps
+Title: "Difficulties of Clinically Testing Health Apps"
+SeoTitle: "Difficulties of Clinically Testing Health Apps"
 Author: travis
 Fullname: Travis Good, MD
 Date: 10/06/2015

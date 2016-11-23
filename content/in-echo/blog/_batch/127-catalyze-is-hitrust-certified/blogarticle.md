@@ -1,6 +1,6 @@
 ---
-Title: Catalyze is HITRUST CSF Certified
-SeoTitle: Catalyze is HITRUST CSF Certified
+Title: "Catalyze is HITRUST CSF Certified"
+SeoTitle: "Catalyze is HITRUST CSF Certified"
 Author: travis
 Fullname: Travis Good, MD
 Date: 07/16/2015

@@ -1,6 +1,6 @@
 ---
-Title: HITRUST will be a core requirement to do business with healthcare enterprises
-SeoTitle: HITRUST will be a core requirement to do business with healthcare enterprises
+Title: "HITRUST will be a core requirement to do business with healthcare enterprises"
+SeoTitle: "HITRUST will be a core requirement to do business with healthcare enterprises"
 Author: kenny
 Fullname: Kenny Stark
 Date: 11/13/2015

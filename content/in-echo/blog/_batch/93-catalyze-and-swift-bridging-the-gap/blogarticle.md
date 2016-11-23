@@ -1,6 +1,6 @@
 ---
-Title: Catalyze and Swift: Bridging The Gap
-SeoTitle: Catalyze and Swift: Bridging The Gap
+Title: "Catalyze and Swift: Bridging The Gap"
+SeoTitle: "Catalyze and Swift: Bridging The Gap"
 Author: josh
 Fullname: Josh Ault
 Date: 02/04/2015

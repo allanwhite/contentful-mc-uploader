@@ -1,6 +1,6 @@
 ---
-Title: Frugal Innovation in Healthcare
-SeoTitle: Frugal Innovation in Healthcare
+Title: "Frugal Innovation in Healthcare"
+SeoTitle: "Frugal Innovation in Healthcare"
 Author: kenny
 Fullname: Kenny Stark
 Date: 09/24/2015

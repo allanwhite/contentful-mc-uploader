@@ -1,6 +1,6 @@
 ---
-Title: SocialWellth and Health123 Advance Opportunities in Value-based Care
-SeoTitle: SocialWellth & Health123 Advance Opportunities in Value-based Care
+Title: "SocialWellth and Health123 Advance Opportunities in Value-based Care"
+SeoTitle: "SocialWellth & Health123 Advance Opportunities in Value-based Care"
 Author: marcia
 Fullname: Marcia Noyes
 Date: 10/27/2015

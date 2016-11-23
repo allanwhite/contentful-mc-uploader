@@ -1,6 +1,6 @@
 ---
-Title: Beware of HIPAA Ready Vendors!
-SeoTitle: Beware of HIPAA Ready Vendors!
+Title: "Beware of HIPAA Ready Vendors!"
+SeoTitle: "Beware of HIPAA Ready Vendors!"
 Author: kenny
 Fullname: Kenny Stark
 Date: 06/04/2015

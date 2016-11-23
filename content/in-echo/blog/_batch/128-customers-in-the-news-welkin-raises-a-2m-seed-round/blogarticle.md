@@ -1,6 +1,6 @@
 ---
-Title: Customers in the news: Welkin raises a $2M seed round
-SeoTitle: Customers in the news: Welkin raises a $2M seed round
+Title: "Customers in the news: Welkin raises a $2M seed round"
+SeoTitle: "Customers in the news: Welkin raises a $2M seed round"
 Author: kris
 Fullname: Kris Gösser
 Date: 07/20/2015

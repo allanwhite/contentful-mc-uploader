@@ -1,6 +1,6 @@
 ---
-Title: IT Executives and Clinicians Collaborate at Sold Out Open mHealth Summit 2015
-SeoTitle: IT Executives and Clinicians Collaborate at Sold Out Open mHealth Summit 2015
+Title: "IT Executives and Clinicians Collaborate at Sold Out Open mHealth Summit 2015"
+SeoTitle: "IT Executives and Clinicians Collaborate at Sold Out Open mHealth Summit 2015"
 Author: kenny
 Fullname: Kenny Stark
 Date: 06/18/2015

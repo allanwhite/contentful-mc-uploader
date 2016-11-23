@@ -1,6 +1,6 @@
 ---
-Title: Need for Governance and Trust Among Entities
-SeoTitle: Need for Governance and Trust Among Entities
+Title: "Need for Governance and Trust Among Entities"
+SeoTitle: "Need for Governance and Trust Among Entities"
 Author: adam
 Fullname: Adam Leko
 Date: 12/07/2015

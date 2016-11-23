@@ -1,6 +1,6 @@
 ---
-Title: Catalyze’s New FHIR Documentation is Your Trusted FHIR Resource
-SeoTitle: Catalyze’s New FHIR Documentation is Your Trusted FHIR Resource
+Title: "Catalyze’s New FHIR Documentation is Your Trusted FHIR Resource"
+SeoTitle: "Catalyze’s New FHIR Documentation is Your Trusted FHIR Resource"
 Author: mohan
 Fullname: Mohan Balachandran
 Date: 06/12/2015
