@@ -1,7 +1,9 @@
 module.exports = function(file) {
     var authors = {
+        'alex': '3RQyxLuTkQko4ouGewqUU6',
         'casey': '7aMAu7W6K4M8S0eCuIyCCM',
         'catalyze': '3riALtpuXYeIaIGuaq8M4w',
+        'josh': 'VbpTTGURUqoKc0K4oeYU',
         'kris': '3azwOe9v3O4YSuyU0gsuo6',
         'marcia': '6NxyE8vlfOqMOkkGsCSusA',
         'marko': '5dsPZqJr4Qu2uww6KgYO0G',

@@ -1,7 +1,7 @@
 ---
 Title: Configuration management on the Catalyze Docker PaaS
 SeoTitle: Configuration management on the Catalyze Docker PaaS
-Author: mike
+Author: catalyze
 Date: 09/25/2014
 Summary: 
 Lead: |
@@ -22,11 +22,8 @@ There are several reasons for choosing to use Salt in our environments. First, S
 In to addition docker/apparmor and quick deployments at our production providers like Rackspace and Amazon, some of the tasks we leverage salt to do are:
 
 - deploy staging environments to hosting providers who do not yet sign BAAs like Digital Ocean, where we can leverage great performance and even better pricing for our environments that don't store PHI or secured code.
-
 - on the fly at rest encryption of our hosts (even in staging!)
-
 - automated docker image creation, deployment and lifecycle management. This one has been a *huge* timesaver and productivity booster. We no longer need to manually run build processes and wait for them to complete. In one Salt state we can build and tag images, push them to our internal docker registries and run automated tests against them.
-
 - management of internal apt package repositories and package version pinning
 
 When we combine all of this (and more) with the ability to trivially define entire environments in YAML with salt-cloud and validate/compare configurations on hosts to "known good" states in salt, we have a complete system management and configuration infrastructure that is extensible and easy to manage.
