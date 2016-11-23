@@ -81,6 +81,9 @@ module.exports = function(file) {
 
     var cfTagArray = [];
 
+    //hacky gross thing but works for this
+    var addedCompliance = false;
+
     for(var i=0; i<tagArray.length; i++) {
         if(tags[tagArray[i]]) {
             cfTagArray.push({
@@ -91,7 +94,7 @@ module.exports = function(file) {
                 }
             });
         } else {
-            if(cfTagArray.indexOf('1wY9bJEWnCwCyqcE2kCiuy') === -1) {
+            if(addedCompliance === false) {
                 cfTagArray.push({
                     'sys': {
                         'type': 'Link',
@@ -99,6 +102,7 @@ module.exports = function(file) {
                         'id': '1wY9bJEWnCwCyqcE2kCiuy' //TODO put actual id here if 'compliance' isn't default tag
                     }
                 });
+                addedCompliance = true;
             }
         }
     }
