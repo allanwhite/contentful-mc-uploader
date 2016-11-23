@@ -1,33 +1,15 @@
-Su---
+---
 Title: Mark Shapiro, MD
 role: Host of the "Explore the Space" Podcast
 
 fullname: Mark Shapiro, MD
 
+GuestAvatar: portrait-mark-shapiro.jpg
 
-GuestAvatar: /assets/img/podcast/portrait-mark-shapiro.jpg
-Interviewers: Interviewed by Travis Good, MD
+bioShort: |
+Dr. Mark Shapiro is a Baylor College of Medicine, Texas-trained hospitalist.
 
 Bio: |
-Dr. Mark Shapiro is a Baylor College of Medicine, Texas-trained hospitalist. He practices full-time in California and is also the host of the healthcare podcast "[Explore the Space](https://itunes.apple.com/us/podcast/explore-the-space/id993287419?mt=2)." He uses his podcast format to explore some incredibly exciting topics from how Abraham Lincoln is critical reading for all physicians to how we have much to learn from one of the decorated Navy Seals of all time. In addition to flexing his creative muscles in podcasting, he has also worked as a full-time sports writer.
+ He practices full-time in California and is also the host of the healthcare podcast "[Explore the Space](https://itunes.apple.com/us/podcast/explore-the-space/id993287419?mt=2)." He uses his podcast format to explore some incredibly exciting topics from how Abraham Lincoln is critical reading for all physicians to how we have much to learn from one of the decorated Navy Seals of all time. In addition to flexing his creative muscles in podcasting, he has also worked as a full-time sports writer.
 
 ---
-**On why his podcasts’ discussion around opioid addiction is important:** "It's helped shaped my own perspectives on the issue because when you hear these varying views of a real-time challenge, you can't help but be affected; you can't help but think, well what can I do differently when I'm seeing a patient, talking to a friend, watching this stuff being discussed on the news?"
-
-**On a clinician’s view of the EHR:**  "One of the major oversights with the EHR and I think this is now uniformly recognized, that in the rush to implement, with good intentions and maybe not so good, we missed out on the opportunity for these EHRs to communicate. So what we have now is a lack of interoperability."
-
-"As we move forward searching for solutions to this interoperability question...on that moment to moment basis as a hospitalist, when I'm in the emergency department and I need to figure out what a patients' medication lists are, or if [that patient] has completed an advance directive, or what workup they've had on a previous hospitalization when they were on a vacation in Miami, I need that data. I will make decisions based on that data. When we have it, it's incredibly helpful. When we don't, sometimes we don't feel as powerful as we could be."
-
-**On the more useful technologies for doctors:** "It's going to be really exciting to decide how to use them, telemedicine being a great example. Telemedicine’s role for the ambulatory patient is unbelievably powerful and we are just figuring that out. Medical groups are moving at light speed to rapidly adopt this for many reasons that are excellent."
-
-**On the reasons he is not a first adopter:** "As far as diagnostics goes, I am still in the world of not becoming the first adopter. I'm going to need other people to beta test. One of my earlier guests on my podcasts was Eric Topol. He had written a book talking about a lot of these things, one of them being Theranos. I was pretty cynical about that. For me, I needed it to be a bit more fully vetted before we say that this is the panacea that we all want it to be. I'm even more cynical now than I was."
-
-**On how physicians vet technologies:** "I do want to see peer-reviewed data. That's how we are trained to think about things. It is imbued in us that this is the way we take things on, something is put into the construct of a study. That study is done in a certain way. The study is then reviewed by peers, who we know what their potential bias is and what any conflicts of interests might be, and then we make decisions. And then we decide, as large groups of people, as the American Board of Internal Medicine, or any of those things helps decide that, yes, this is the way we should do something. I like it to be scalable like that."
-
-"How we are going to do that for healthcare technology is a totally novel idea because this is always been around diagnostics and therapeutics in the same model that it has been in many years. When something is coming out of Silicon Valley, we always have to think to ourselves what is the primary motivation behind it and how fast is the hype machine working."
-
-"When you have the chance to finally look behind the curtain, it's not what you'd hoped it would be. We need to make sure we are looking behind the curtain well before it is used on a population level. I do think there will need to be formalized oversight as these technologies continue to evolve, mostly on the issue of patient privacy. These are privately held companies with their own servers and their own data collection and they are asking you to give them your genetic information. You need to make sure that you are well assured that your genetic information will be closely safeguarded."
-
-**On the missed technology opportunity:** "We would have never dreamed that peptic ulcer disease was caused by a bacteria, until people went and looked and figured it out. All of the sudden one of the most common surgeries around the world for treatment of peptic ulcer disease is gone. It's never done any more, and that's in the span of a decade. The way we manage heart disease, it all changes so fast. That's great and that's how we drive progress. That's how we improve lives. When we can mitigate and moderate, we should not miss those opportunities."
-
-**On the clinician’s use of wearable data:** "Many, many people who are in medicine...very, very smart, committed professional people don't know how to use this stuff. They've never been trained. They've never looked at some of these things. That is a huge challenge, when the information starts to flow in, how do you collect, interpret, select, disseminate, distribute process and educate. if you don't even know how the software platform works. That's the part where the tidal wave will roll in, how are we going to manage that without our shoreline getting absolutely pulverized?"
