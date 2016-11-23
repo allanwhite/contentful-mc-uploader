@@ -98,7 +98,7 @@ module.exports = function(file) {
                     'sys': {
                         'type': 'Link',
                         'linkType': 'Entry',
-                        'id': '1wY9bJEWnCwCyqcE2kCiuy' //TODO put actual id here if 'compliance' isn't default tag
+                        'id': '7befKoeN9uMUqUGYiKOaeO' //TODO put actual id here if 'compliance' isn't default tag
                     }
                 });
                 addedCompliance = true;

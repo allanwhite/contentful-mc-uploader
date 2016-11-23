@@ -23,4 +23,3 @@ In this series, we will cover the following topics:
 8. The role of employers
 9. The role of government
 10. Putting it all together
-
