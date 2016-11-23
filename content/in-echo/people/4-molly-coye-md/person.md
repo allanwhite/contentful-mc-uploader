@@ -1,6 +1,6 @@
 ---
 Title: Molly Coye, MD
-role: Molly Joel Coye, MD, MPH, Chief Innovation Officer, UCLA Health
+role: Chief Innovation Officer, UCLA Health
 
 fullname: Dr. Molly Coye
 

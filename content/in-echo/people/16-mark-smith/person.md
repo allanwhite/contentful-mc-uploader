@@ -1,6 +1,6 @@
 ---
 Title: Mark Smith, MD
-role: Mark Smith, MD — Chief Innovation Officer of MedStar Health and the Director of the MedStar Institute for Innovation (MI2)
+role: Chief Innovation Officer of MedStar Health and the Director of the MedStar Institute for Innovation (MI2)
 
 Bio: |
 Mark S. Smith, MD, is Chief Innovation Officer of MedStar Health and the Director of the MedStar Institute for Innovation (MI2). In this role, Dr. Smith leads a system-wide initiative to catalyze and foster innovation at MedStar Health.

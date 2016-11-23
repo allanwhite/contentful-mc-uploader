@@ -1,6 +1,6 @@
 ---
 Title: Thomas Graham, MD
-role: Thomas Graham, MD, former CIO of the Cleveland Clinic, currently Chief Health Strategy & Innovation Officer  Tavistock Group
+role: Formerly CIO of the Cleveland Clinic, currently Chief Health Strategy & Innovation Officer Tavistock Group
 
 fullname: Thomas J. Graham, MD
 

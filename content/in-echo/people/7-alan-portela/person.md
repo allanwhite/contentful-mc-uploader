@@ -1,6 +1,6 @@
 ---
 Title: Alan Portela
-role: Alan Portela, CEO of AirStrip
+role: CEO of AirStrip
 
 fullname: Alan Portela
 

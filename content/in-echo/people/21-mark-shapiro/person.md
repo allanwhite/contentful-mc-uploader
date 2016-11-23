@@ -1,10 +1,10 @@
 Su---
 Title: Mark Shapiro, MD
-role: Mark Shapiro, MD, Host of the "Explore the Space" Podcast
+role: Host of the "Explore the Space" Podcast
 
 fullname: Mark Shapiro, MD
 
-----
+
 GuestAvatar: /assets/img/podcast/portrait-mark-shapiro.jpg
 Interviewers: Interviewed by Travis Good, MD
 

@@ -1,21 +1,21 @@
 ---
-Title: Ida Sim, MD----
-role: Ida Sim, MD: Physician, Researcher, and Entrepreneur
-----
+Title: Ida Sim, MD
+role: Physician, Researcher, and Entrepreneur
+
 Author: travis
-----
+
 fullname: Ida Sim, MD
-----
+
 GuestAvatar: /assets/img/podcast/portrait-ida-sim.jpg
-----
+
 Interviewers: Interviewed by Travis Good, MD
-----
+
 Bio: |
 Ida Sim, MD, PhD is a primary care physician, informatics researcher, and entrepreneur. She is a Professor of Medicine at the University of California, San Francisco, where she co-directs Biomedical Informatics at UCSF's Clinical and Translational Sciences Institute. Her current research focuses on the use of mobile apps and sensors to improve health and manage disease for populations and individuals, and to make clinical research faster and less expensive. She is a co-founder of Open mHealth, a non-profit organization that is breaking down barriers to mobile health app and data integration through an open software architecture. Dr. Sim is also a co-investigator and Consortium Core Lead with the Mobile Data to Knowledge NIH Center of Excellence.
-----
-----
+
+
 Tags: technology, leadership, EHRs
-----
+
 ---
 **On chronic disease and who is in control:** "Chronic disease is going to be improved and managed by people themselves; it is not the healthcare system that's going to help people manage their chronic disease or prevent them. It is people themselves."
 

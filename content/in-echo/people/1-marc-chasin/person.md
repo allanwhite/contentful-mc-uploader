@@ -1,6 +1,6 @@
 ---
 Title: Marc Chasin, MD
-role: Marc Chasin, MD, MMM, CPE, CHCIO - St. Luke's Health System
+role: St. Luke's Health System
 
 fullname: Dr. Marc Chasin
 

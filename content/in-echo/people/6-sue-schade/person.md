@@ -1,6 +1,6 @@
 ---
 Title: Sue Schade
-role: Sue Schade, Chief information Officer at University of Michigan Hospitals and Health Centers
+role: Chief information Officer at University of Michigan Hospitals and Health Centers
 
 fullname: Sue Schade
 

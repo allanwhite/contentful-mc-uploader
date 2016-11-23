@@ -1,6 +1,6 @@
 ---
 Title: Aneesh Chopra
-role: Aneesh Chopra - Co-founder & CEO NavHealth; First U.S. CTO & Former Virginia Sec. of Technology
+role: Co-founder & CEO NavHealth; First U.S. CTO & Former Virginia Sec. of Technology
 
 fullname: Aneesh Chopra
 
