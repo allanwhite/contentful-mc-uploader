@@ -18,8 +18,6 @@ HostTitle: Co-founder, CEO & Chief Privacy Officer
 
 Date: 11/03/2015
 
-Postmedia: <iframe src="//fast.wistia.net/embed/iframe/t02oshcehg" allowtransparency="true" frameborder="0" scrolling="no" class="wistia_embed" name="wistia_embed" allowfullscreen mozallowfullscreen webkitallowfullscreen oallowfullscreen msallowfullscreen width="500" height="318"></iframe>
-
 Summary: Dr. Jordan Shlain took time out of his busy day practicing as a primary care physician and being a founder of the innovative digital health company Healthloop to discuss the inspiration behind Tincture. We also were witness to the creation of a few new vocabulary terms, which we loved.
 
 Bio: As a practicing primary care physician, digital health entrepreneur, writer and respected thought leader in national health policy, Dr. Jordan Shlain is an original thinker who is interested in designing healthcare based on first principles.  He has been featured in “The Economist” which highlighted the 'innovation by irritation' story of how he created Healthloop; a physician initiated follow up technology that sifts through ‘little data’ to a make specific difference, in real-time, in the lives of patients in treatment or recovery.  He recently served as a Mayoral appointed Commissioner on the Health Service Systems Board of San Francisco and is an advisor to MD Anderson, Avia Health Innovation and a host of other emerging and established healthcare companies.
@@ -28,13 +26,6 @@ Bio: As a practicing primary care physician, digital health entrepreneur, writer
 Shlain is the founding chairman of the Institute for Responsible Nutrition, a working group of scientists to illuminate the public on the poisons in our food supply as well as a board member of The Hope Street Group, a bi-partisan think tank in Washington DC focused on education, jobs and health.
 
 After graduating from UC Berkeley and before attending Georgetown Medical School, Dr. Shlain spent a year teaching high school science in Western Kenya with Harvard affiliated WorldTeach.  He has spoken at The Economist Innovation conference, Stanford MedicineX, Health Evolution Partners, Harvard’s Center for Connected Health, VentureBeat and has posted a series of pithy articles on LinkedIn on the intersection of health, linguistics, data and humanity.
-
-Keys: |
-1. Exposure to ideas beyond your little corner of the world is the foundation of innovation, which was the inspiration for Tincture.
-2. Systems are easy to improve incrementally but hard to innovate. Often a complete redesign is needed for real innovation.
-3. Patients own their data and there needs to be new clarity around what will happen with their data when they give it up to someone else.
-
-Tags:
 
 ---
 <script src="//fast.wistia.com/assets/external/E-v1.js" async></script>

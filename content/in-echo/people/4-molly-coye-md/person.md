@@ -16,21 +16,12 @@ HostTitle: Co-founder, CEO & Chief Privacy Officer
 
 Date: 03/09/2015
 
-Postmedia: <iframe src="//fast.wistia.net/embed/iframe/aocbrkh5y5" allowtransparency="true" frameborder="0" scrolling="no" class="wistia_embed" name="wistia_embed" allowfullscreen mozallowfullscreen webkitallowfullscreen oallowfullscreen msallowfullscreen width="500" height="312"></iframe>
-
 Summary: Dr. Molly Coye joined us to talk about UCLA's innovation process through the topic _"Doer, thinker, delegator: Why all three traits drive decision making that sustains organizational change."_ We learned a great deal about the full life cycle of innovation adoption—from sourcing to evaluating to implementing to operationalizing. Come check this interview out for a candid glimpse into one of the nation's best innovation programs.
 
 Bio: Dr. Coye is the Chief Innovation Officer at UCLA Health and oversees the UCLA Innovates HealthCare Initiative. She also is responsible for developing other initiatives, programs and strategies that promote and nurture innovation across UCLA Health to improve the quality of care delivered locally and globally.  She is an internationally recognized leader in advancing innovative approaches to healthcare delivery, adopting new technologies and shaping national health policy.
 
 
 Dr. Coye received her M.D. and M.P.H. degrees from Johns Hopkins University and is board certified by the American College of Preventive Medicine.  A true Renaissance woman, Dr. Coye also has a M.A. degree in Chinese History from Stanford University and is the author of two books on Chinese history.
-
-Keys: |
-1. Innovations can come from within an organization, but often comes from outside. It is equally critical to create processes to discover innovations from both sources.
-2. Getting the word out organizationally has been important to UCLA's ongoing success. Several methods have lead to this, but two to highlight are broad organizational participation, and focused innovation owners sprinkled throughout the organization, whether MDs, MBAs, or otherwise.
-3. The fundability of a startup has a huge impact as to whether its innovation will be adopted by an academic medical center. Evaluators are thinking three years out, and if there isn't a high degree of certainty that company will be around, chances are the product or service won't be purchased.
-
-Tags:
 
 ---
 <iframe src="//fast.wistia.net/embed/iframe/eu62pcwyr4" allowtransparency="true" frameborder="0" scrolling="no" class="wistia_embed" name="wistia_embed" allowfullscreen mozallowfullscreen webkitallowfullscreen oallowfullscreen msallowfullscreen width="500" height="312"></iframe>

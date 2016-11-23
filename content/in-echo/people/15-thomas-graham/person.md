@@ -18,8 +18,6 @@ HostTitle: Co-founder, CEO & Chief Privacy Officer
 
 Date: 03/09/2016
 
-Postmedia: <div class="wistia_responsive_padding" style="padding:62.4% 0 0 0;position:relative;"><div class="wistia_responsive_wrapper" style="height:100%;left:0;position:absolute;top:0;width:100%;"><iframe src="//fast.wistia.net/embed/iframe/jf0dj71n1j?seo=false&videoFoam=true" allowtransparency="true" frameborder="0" scrolling="no" class="wistia_embed" name="wistia_embed" allowfullscreen mozallowfullscreen webkitallowfullscreen oallowfullscreen msallowfullscreen width="100%" height="100%"></iframe></div></div>
-
 Summary: Dr. Thomas Graham spent time talking about his time leading innovation at the Cleveland Clinic and what he's up to now at the Tavistock Group. We came away with a newfound appreciation to the role of partnerships as critical components to innovation.
 
 Bio: Thomas J. Graham, MD, is a renowned surgeon, healthcare executive, inventor/entrepreneur and author. He is the Chief Health Strategy & Innovation Officer for Tavistock Group, the international private investment and real estate development conglomerate founded by Joe Lewis, with over 200 holdings in a dozen countries. Graham also serves as the Global Chairman of the Lake Nona Institute, the non-profit  organization that focuses on the development and sustainability of Lake Nona Medical City as the world's most connected, intelligent community and the "living laboratory" for healthcare transformation and medical innovation. Graham founded Global Hemisphere, LLC, with Tavistock and other strategic partners as a platform for advisory and intellectual property commercialization that stimulates community economic development.
@@ -31,13 +29,6 @@ Graham is credited as one of the pioneers of mission-driven innovation, the deve
 A graduate of Williams College, he received his M.D. from the University of Cincinnati. He completed his Orthopaedic Surgery Residency at the University of Michigan and a fellowship in Hand and Upper Extremity Surgery at the famed Indiana Hand Center, with additional training in Elbow Surgery at Mayo Clinic. He completed the two-year Executive Management Program in Healthcare Administration, jointly sponsored by Cleveland Clinic and the Weatherhead School of Business of Case Western Reserve University.
 
 Dr. Graham has been involved in multiple civic initiatives and organizations, especially those which advance innovation, community health and economic prosperity.  These include his Chairmanship of the Executive Advisory Board for the Global Center for Health Innovation and BioEnterprise in northwest Ohio. He also served as a Board Member of the Rock & Roll Hall of Fame and Museum.
-
-Keys: |
-1. Partnership is a critical component to innovation. Often, the most fruitful partnerships will come from outside your geography, expertise, or even industry.
-2. There is no failure with innovation, only feedback.
-3. Protecting intellectual property, while still maintaining the spirit of collaboration, is an intriguing and valuable incentive for innovators.
-
-Tags:
 
 ---
 <div class="cf ctz-wang-top-ad">

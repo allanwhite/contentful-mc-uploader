@@ -20,19 +20,8 @@ HostTitle: Catalyze Co-Founder & President----
 
 Date: 10/18/2016
 ----
-Postmedia: <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/294158312&amp;color=1055ff&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
-----
-Summary: Mohan Balachandran chats with HL7 CEO Charles Jaffe, MD in this podcast presentation. From this segment, listeners will discover more about FHIR and learn why developers and hospital systems shouldn’t wait for a fully baked data exchange standard. Healthcare leaders often raise many questions around FHIR and Dr. Jaffe provides clarity around those questions. With standards as a critical component of healthcare innovation, this FHIR-based podcast is a must for those who can’t get enough understanding of FHIR. After the podcast, explore more about FHIR by using the [Catalyze mock FHIR API](https://fhir.catalyze.io/).
-----
-Bio: Dr. Jaffe is the CEO of the HL7 organization and serves as its global ambassador. In his current role, he fosters relationships with key industry stakeholders. As a 37-year veteran of the healthcare IT industry, Dr. Jaffe previously provided strategy for the Intel Corporation’s digital Health Group as a Senior Global Strategist, also helped lead Life Sciences at SAIC as its Vice President, and had been the Director of Medical Informatics at AstraZeneca Pharmaceuticals. After completing his  medical training at Johns Hopkins and Duke Universities, he received a postdoctoral fellowship at the  National Institutes of Health and at Georgetown University.
-
 Dr. Jaffe also  led an informatics consultancy, as InforMed’s president. Over the course of his career, he has been the principal investigator for more than 200 clinical trials, and has served in various leadership roles in the American Medical Informatics Association. He has been a board member on leading organizations for information technology standards, and served as the chair of a national institutional review board. Most recently, Penn State University appointed him to the Department of Engineering. Dr. Jaffe has also been the contributing editor for several journals and has published on a range of subjects, including clinical management, informatics deployment, and healthcare policy.
 ----
-Keys: |
-1. Learn about the three products of the FHIR Foundation
-2. Discover ways that FHIR can enable clinical decision support and personalized medicine
-3. Hear first hand when FHIR will become a normative standard
-4. Be directed to the face-to-face opportunities available with the HL7 organization
 ----
 Tags: technology, leadership, EHRs
 ----

@@ -18,8 +18,6 @@ HostTitle: Co-founder, CEO & Chief Privacy Officer
 
 Date: 04/25/2016
 
-Postmedia: <div class="wistia_responsive_padding" style="padding:61.2% 0 0 0;position:relative;"><div class="wistia_responsive_wrapper" style="height:100%;left:0;position:absolute;top:0;width:100%;"><iframe src="//fast.wistia.net/embed/iframe/mpxtp16ted?videoFoam=true" allowtransparency="true" frameborder="0" scrolling="no" class="wistia_embed" name="wistia_embed" allowfullscreen mozallowfullscreen webkitallowfullscreen oallowfullscreen msallowfullscreen width="100%" height="100%"></iframe></div></div>
-
 Summary: Dr. Mark Smith shared with us the genesis for the MedStar Institute for Innovation (MI2), which he leads. Change in healthcare requires human connection, opportunity, and open mindedness to respond to unexpected ideas. Learn more with us on the topic of innovation at MedStar.
 
 Bio: Mark S. Smith, MD, is Chief Innovation Officer of MedStar Health and the Director of the MedStar Institute for Innovation (MI2). In this role, Dr. Smith leads a system-wide initiative to catalyze and foster innovation at MedStar Health.
@@ -33,18 +31,6 @@ His medical degree is from Yale University School of Medicine. Dr. Smith complet
 Dr. Smith’s interests include digital health, data science, complex systems theory, information visualization, catalyzing sustainable and self-organizing change that is for the better, and scaling that change within and across large systems. MI2 includes a technology commercialization capability (MedStar Inventor Services); a center for human factors in healthcare; initiatives in consumer health, mobile health, and telehealth; a platform for training in creativity, design, and influence; and a collaboration program with start-ups in the healthcare space.
 
 Prior to his work at MI2, Dr. Smith was the co-founder of Project ER One, MedStar Washington Hospital Center's initiative to develop the design specifications for an all-risks ready emergency care facility for mass casualty incidents. He is the co-creator of MedStar Health's innovative Azyxxi / Amalga clinical information system, which has been in continuous use at MedStar hospitals for 18 years and is utilized in other hospitals in the United States. He has authored numerous journal articles and two textbooks in the field of emergency medicine; served on federal advisory groups in the fields of cardiac care, disaster response, and innovation; and helped to develop large programs in clinical simulation and human factors in healthcare.
-
-Keys: |
-1. The biggest spark for innovative thinking happens when two previously unrelated people meet and share ideas.
-2. Incremental improvement is important, but it's not innovation.
-3. Startups need a sandbox.
-4. Having an Innovation Center report directly to the CEO makes a big difference.
-
-Tags:
-
-Guest: Mark Smith, MD
-
-Interviewers: Interviewed by Travis Good, MD
 
 ---
 **Catalyze:** Thanks again, Dr. Smith for joining us today. We are going to be talking about innovation today and about innovation at MedStar. Also, I think about some of the work that you are doing at 1776, and it’s particularly interesting. We’ll also talk today about some of your background and especially now that you are a startup judge. Would like to hear the types of things that you are looking for from developers or new companies.

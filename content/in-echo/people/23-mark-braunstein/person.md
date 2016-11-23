@@ -20,10 +20,6 @@ HostTitle: Catalyze Co-founder, CEO & Chief Privacy Officer----
 
 Date: 11/15/2016
 ----
-Postmedia: <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/293197570&amp;color=1055ff&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
-----
-Summary: Today Healthcare Innovators Podcast has a great conversation about "Healthcare in the Age of Interoperability" with Dr. Mark Braunstein, who teaches healthcare informatics at Georgia Tech. One of the Catalyze team members ran into Dr. Braunstein at an HL7 FHIR Applications roundtable at Harvard Medical School and brought his work to our attention. In this episode, Travis Good, MD finds out more about Braunstein and his work at the first US university to have a FHIR server for class work. Listeners will learn more about the FHIR-enabled projects that Georgia Tech master-level students are doing in conjunction with research physician clinicians in the Atlanta area.
-
 We also prod Braunstein for his personal insight about what is missing in today’s medical education. Listeners can gain deeper insight into this area, by ordering Braunstein’s latest book "[Practitioner’s Guide to Health Informatics](https://www.amazon.com/Practitioners-Guide-Health-Informatics-Braunstein/dp/3319176617)."
 
 After listening to today’s podcast, you may want to [learn more about FHIR](https://catalyze.io/fhir) from the Catalyze site, then check out Dr. Braunstein’s lectures on Udacity, or [Coursera](https://www.coursera.org/learn/fhir).
@@ -36,12 +32,6 @@ Prior to joining Georgia Tech in 2007, he founded several successful health IT c
 He earned a BS degree from MIT in 1969, an MD degree from MUSC in 1974 and completed an internship in internal medicine at Washington University in 1975.
 
 ----
-Keys: |
-1. Learn what’s driving the adoption of FHIR
-2. Discover what is prompting explosive interest in Braunstein’s healthcare informatics courses
-3. Get the inside scoop on what Georgia Tech students are creating with the FHIR standard and access to local clinician researchers
-4. Explore the three areas that FHIR does not currently address or solve
-
 ----
 Tags: technology, leadership, FHIR, HL7, education
 ----

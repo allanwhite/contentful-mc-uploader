@@ -16,18 +16,9 @@ HostTitle: Co-founder, CEO & Chief Privacy Officer
 
 Date: 08/17/2015
 
-Postmedia: <iframe src="//fast.wistia.net/embed/iframe/zx47236ryd" allowtransparency="true" frameborder="0" scrolling="no" class="wistia_embed" name="wistia_embed" allowfullscreen mozallowfullscreen webkitallowfullscreen oallowfullscreen msallowfullscreen width="500" height="306"></iframe>
-
 Summary: Simon Jones sat down with Travis to discuss two big topics: how to affect behavior change, and building core infrastructure. Simon believes both are central components to accelerating innovation within healthcare, and we tend to agree with him.
 
 Bio: With nearly 20 years in healthcare, Simon has focused much of his time on enabling both the business and clinical aspects of healthcare through the application of technology. Presently, he is the Vice President of HIT Product Strategy at Blue Shield of California. Simon has developed technology strategies and implemented solutions for health plans, provider organizations, disease management companies, and product/service providers to the industry. Simon holds a degree in Psychology from the University of California, Berkeley, and an MBA from USC.
-
-Keys: |
-1. There is no one-size-fits-all approach to bettering patient care. Instead, evolving patient care will consist of an innumerable amount of good ideas, which is why getting these systems to work together is key.
-2. "If it doesn't change behavior, it doesn't count." The way in which health systems will evaluate innovations is by proving how behavior was changed for the better.
-3. Cal INDEX is a great example of the type of infrastructure healthcare needs to build to get to the speed and quality of innovations other industries like finance or retail have achieved.
-
-Tags: innovation,behavior change
 
 ---
 <iframe src="//fast.wistia.net/embed/iframe/6kf4qmpbra" allowtransparency="true" frameborder="0" scrolling="no" class="wistia_embed" name="wistia_embed" allowfullscreen mozallowfullscreen webkitallowfullscreen oallowfullscreen msallowfullscreen width="500" height="306"></iframe>
