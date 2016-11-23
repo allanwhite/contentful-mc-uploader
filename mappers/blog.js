@@ -2,6 +2,7 @@ module.exports = function(file) {
     var authors = {
         'casey': '7aMAu7W6K4M8S0eCuIyCCM',
         'catalyze': '3riALtpuXYeIaIGuaq8M4w',
+        'kris': '3azwOe9v3O4YSuyU0gsuo6',
         'marcia': '6NxyE8vlfOqMOkkGsCSusA',
         'marko': '5dsPZqJr4Qu2uww6KgYO0G',
         'heath': '2jePzhmtig2QCaYwucYuuy',

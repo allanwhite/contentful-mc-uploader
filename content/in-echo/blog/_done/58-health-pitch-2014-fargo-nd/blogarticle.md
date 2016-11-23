@@ -1,7 +1,7 @@
 ---
 Title: Health Pitch 2014 [Fargo, ND]
 SeoTitle: Health Pitch 2014 [Fargo, ND]
-Author: sarah
+Author: catalyze
 Date: 08/28/2014
 Summary: 
 Lead: |

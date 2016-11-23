@@ -1,7 +1,7 @@
 ---
 Title: Health News Roundup - 9/11/2014
 SeoTitle: Health News Roundup - 9/11/2014
-Author: sarah
+Author: catalyze
 Date: 09/11/2014
 Summary: 
 Lead: |

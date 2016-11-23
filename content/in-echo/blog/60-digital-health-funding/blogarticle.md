@@ -1,7 +1,7 @@
 ---
 Title: Digital Health Funding - 9/2/2014
 SeoTitle: Digital Health Funding - 9/2/2014
-Author: sarah
+Author: catalyze
 Date: 09/02/2014
 Summary: 
 Lead: |
