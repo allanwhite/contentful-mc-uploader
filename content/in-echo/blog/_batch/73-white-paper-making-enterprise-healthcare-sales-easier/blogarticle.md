@@ -1,6 +1,6 @@
 ---
-Title: New White Paper: Making Enterprise Healthcare Sales Easier
-SeoTitle: New White Paper: Making Enterprise Healthcare Sales Easier
+Title: "New White Paper: Making Enterprise Healthcare Sales Easier"
+SeoTitle: "New White Paper: Making Enterprise Healthcare Sales Easier"
 Author: kris
 Date: 10/01/2014
 Summary: Healthcare is complex, so it's no wonder the sales process proves overly complicated.
