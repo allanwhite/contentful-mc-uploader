@@ -7,7 +7,7 @@ Summary: We're presenting at the StartMeUp conference in Madison, Wisconsin.
 Lead: |
   We're presenting tomorrow at [StartMeUp](http://startuphit.com/) in Madison. We really excited to be presenting in front a large group of health system CIOs and are grateful to the organizers of the event. We'll be pitching catalyze.io for 5 minutes. It'll be our first opportunity to pitch catalyze.io at an event like this so we've spent a lot of time working on the message.
 
-Tags: cio, startmeup, summary
+Tags: cio, startmeup, integration
 Category: company
 Fullname: Travis Good, MD
 ---

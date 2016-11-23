@@ -28,10 +28,6 @@ module.exports = function(file) {
         'medicare': 'hb3JCbHoOcImGmEMasYEC',
         'healthcare-costs': 'muuTw36MCccawe428I8Oa'
     }
-    // Start mapping calls-to-action. These are static, per-section for now.
-    // var ctas = {
-    //     'blog': 'wWsIbfCLjasGCy6cKeO86'
-    // };
 
     var keys = Object.keys(file.content.fields);
 
@@ -57,8 +53,8 @@ module.exports = function(file) {
     delete file.content.fields.fullname;
 
     //Field renaming
-    // file.content.fields.tagString = file.content.fields.tags;
-    // delete file.content.fields.tags;
+    // file.content.fields.origString = file.content.fields.newString;
+    // delete file.content.fields.newString;
 
     file.content.fields.seoTitle = file.content.fields.seotitle;
     delete file.content.fields.seotitle;
@@ -94,6 +90,7 @@ module.exports = function(file) {
                 }
             });
         } else {
+            // if there is no match in existing tag list above
             if(addedCompliance === false) {
                 cfTagArray.push({
                     'sys': {
@@ -107,37 +104,10 @@ module.exports = function(file) {
         }
     }
 
-    //I'm not sure how CF is expecting to receive an array of values.
-    //If this isn't it, will have to check the docs and make any corresponding changes.
+    // array of tag matches, or a default tag
     file.content.fields.tags = {
         'en-US': cfTagArray
     }
-
-    // function tagMapElements(value, key, map) {
-    //     // Need to iterate over tagArray.length, do an "if" check, and insert the mapped value. Else, tag = 'resources' ID (fallback)
-    //     // console.log("tag." + key + " = id: " + value);
-    //
-    // }
-    // new Map([
-    //     ['compliance', '1wY9bJEWnCwCyqcE2kCiuy'],
-    //     ['telemedicine', '2ExI7snXjysKOqWqmwQwwU'],
-    //     ['hipaa', '3ebX0zrnVuYEQOuo2QSSuU'],
-    //     ['design', '3kOhUwDRkkc0qAuKYIoIIW'],
-    //     ['baas', '3NDyJqRTJYMwiU0SSwqagm'],
-    //     ['engagement', '3rO97bU0piC0CI0eOg6ksI'],
-    //     ['podcast', '4ABMNMPZaU68iucWYcEcIe'],
-    //     ['interoperability', '4HqJmCMdiwwiQuC8uUcCqo'],
-    //     ['fhir', '4WpqU1En6MsqmCEWweeCmO'],
-    //     ['security', '5Y8Z8rlBw4Ucuu8su4oCgC'],
-    //     ['resources', '6uZHqvyHMkO4eky0OwiWki'],
-    //     ['ehr', '6vv9sUZuiAs8yQ4cQqm86e'],
-    //     ['integration', '6wXXHIJfUsMg62Cuwquoa2'],
-    //     ['tutorials', '7FkInYPmxiG4QsiM60COos'],
-    //     ['hitrust', '9hLuri8gRGWUksIiIQg8y'],
-    //     ['api', '34a2ITeysg6eYauG028usg'],
-    //     ['medicare', 'hb3JCbHoOcImGmEMasYEC'],
-    //     ['healthcare-costs', 'muuTw36MCccawe428I8Oa']
-    // ]).forEach(tagMapElements);
 
     var dateArray = file.content.fields.date['en-US'].split('/');
     var isoDate = dateArray[2]+'-'+dateArray[0]+'-'+dateArray[1];
@@ -178,7 +148,6 @@ module.exports = function(file) {
         }
     }
 
-    // console.log(file);
-
+    console.log(file);
     return file;
 };
