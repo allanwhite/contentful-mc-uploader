@@ -4,8 +4,6 @@ Seotitle: Thomas Graham, MD, former CIO of the Cleveland Clinic, currently Chief
 
 Author: travis
 
-personType: Guest
-
 Guest: Thomas J. Graham, MD
 
 GuestAvatar: /assets/img/podcast/portrait-thomas-graham.jpg

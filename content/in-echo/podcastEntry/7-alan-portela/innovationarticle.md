@@ -4,8 +4,6 @@ Seotitle: Alan Portela, CEO of AirStrip
 
 Author: travis
 
-personType: Guest
-
 Guest: Alan Portela
 
 Date: 08/03/2015

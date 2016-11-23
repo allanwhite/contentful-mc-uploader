@@ -4,8 +4,6 @@ Seotitle: Sue Schade, Chief information Officer at University of Michigan Hospit
 
 Author: travis
 
-personType: Guest
-
 Guest: Sue Schade
 
 Date: 06/11/2015

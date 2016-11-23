@@ -4,8 +4,6 @@ Seotitle: Mark Shapiro, MD, Host of the "Explore the Space" Podcast
 
 Author: travis
 
-personType: Guest
-
 Guest: Mark Shapiro, MD
 
 

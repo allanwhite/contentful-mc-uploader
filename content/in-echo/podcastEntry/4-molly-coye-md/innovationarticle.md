@@ -4,8 +4,6 @@ Seotitle: Molly Joel Coye, MD, MPH, Chief Innovation Officer, UCLA Health
 
 Author: travis
 
-personType: Guest
-
 Guest: Dr. Molly Coye
 
 Date: 03/09/2015

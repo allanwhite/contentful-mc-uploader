@@ -4,8 +4,6 @@ Seotitle: Robert Wachter, MD - Professor and Interim Chair of the Department of 
 
 Author: travis
 
-personType: Guest
-
 Guest: Robert Wachter, MD
 
 Date: 12/01/2015

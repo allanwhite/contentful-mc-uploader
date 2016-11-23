@@ -4,15 +4,14 @@ Seotitle: Marc Chasin, MD, MMM, CPE, CHCIO - St. Luke's Health System
 
 Author: travis
 
-personType: Guest
-
 Guest: Dr. Marc Chasin
 
 Date: 12/19/2014
 
-Tags:
+Tags: innovation
 
-Postmedia: <iframe src="//fast.wistia.net/embed/iframe/uinuil0g5t" allowtransparency="true" frameborder="0" scrolling="no" class="wistia_embed" name="wistia_embed" allowfullscreen mozallowfullscreen webkitallowfullscreen oallowfullscreen msallowfullscreen width="500" height="312"></iframe>
+Postmedia: |
+<iframe src="//fast.wistia.net/embed/iframe/uinuil0g5t" allowtransparency="true" frameborder="0" scrolling="no" class="wistia_embed" name="wistia_embed" allowfullscreen mozallowfullscreen webkitallowfullscreen oallowfullscreen msallowfullscreen width="500" height="312"></iframe>
 
 Summary: Dr. Chasin is Vice President & Chief Information Officer of St. Luke's Health System in Boise, Idaho. He joined Travis to talk about where patients fit into innovation. The theme of the conversation was "Voice of a Patient: Why the front line should be involved in innovation." We were blown away by the insight Dr. Chasin gave in our inaugural interview.
 

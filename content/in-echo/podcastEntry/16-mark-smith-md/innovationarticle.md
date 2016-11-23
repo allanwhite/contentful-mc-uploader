@@ -18,8 +18,6 @@ Keys: |
 
 Tags:
 
-personType: Guest
-
 Guest: Mark Smith, MD
 
 Interviewers: Interviewed by Travis Good, MD

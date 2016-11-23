@@ -4,8 +4,6 @@ Seotitle: Trey Lauderdale, CEO of Voalte
 
 Author: travis
 
-personType: Guest
-
 Guest: Trey Lauderdale
 
 Date: 11/23/2015

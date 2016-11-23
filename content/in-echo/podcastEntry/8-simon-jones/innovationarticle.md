@@ -4,8 +4,6 @@ Seotitle: Simon Jones - Vice President of HIT Product Strategy at Blue Shield of
 
 Author: travis
 
-personType: Guest
-
 Guest: Simon Jones
 
 Date: 08/17/2015

@@ -4,8 +4,6 @@ Seotitle: Grahame Grieve - the future of healthcare interoperability (part 1)
 
 Author: mohan
 
-personType: Guest
-
 Guest: Grahame Grieve
 
 GuestAvatar: /assets/img/podcast/portrait-grahame-grieve.jpg
