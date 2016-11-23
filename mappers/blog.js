@@ -25,6 +25,7 @@ module.exports = function(file) {
         'design': '3kOhUwDRkkc0qAuKYIoIIW',
         'ehr': '6vv9sUZuiAs8yQ4cQqm86e',
         'engagement': '3rO97bU0piC0CI0eOg6ksI',
+        'patient engagement': '3rO97bU0piC0CI0eOg6ksI',
         'fhir': '4WpqU1En6MsqmCEWweeCmO',
         'healthcare-costs': 'muuTw36MCccawe428I8Oa',
         'healthcare-news': '6AZpnMPG2k8mk8gk2acYUI',

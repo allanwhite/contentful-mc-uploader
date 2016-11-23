@@ -16,6 +16,7 @@ Better alliance between clinicians and healthcare providers is being facilitated
 With this rise in mobile utilization, there must also be a rise in mobile data security. Whether it be mobile data security purchases from hospitals or various other types of data protection, the industry has shifted its focus across the board to showcase the relationship between patient engagement and data security. Major improvements can be seen in patient portals, administrative management platforms, and healthcare IT systems. 
 
 Some considerations for those providing patient data through mobile devices:
+
 - Be sure to deploy, test, and install mobile health security platforms.
 - After implementation, all staff will need training on system utilization.
 - This training should be based off a mobile health security policy enacted by the healthcare organization.

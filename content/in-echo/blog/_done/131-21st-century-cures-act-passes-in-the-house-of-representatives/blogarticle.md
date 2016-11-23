@@ -14,6 +14,7 @@ Category: company
 Presently, the HIPAA Privacy Rule allows the use and exposure of protected health information for research purposes without the necessity of authorization from the patient but does mandate any waiver of the authorization stipulation be approved by an institutional review or privacy board.
 
 This amendment to the Health Information Technology for Economic and Clinical Health (HITECH) obligates the Secretary of the Department of Health and Human Services to revise/elucidate the HIPAA Privacy Rule to:
+
 - Permit the utility and exposure of protected health information by a covered entity for the purposes of research to be considered the entity’s “health care operations”
 - Allow research activities that are in relation to quality, safety, or effectiveness of a product or activity that is managed by the Food and Drug Administration to be regarded public health activities so that the activities can be imparted to a person subject under the FDA’s jurisdiction of the purposes of gathering or announcing adverse events, tracking FDA regulated products, enabling product recalls, or mending/undergoing post-marketing surveillance.
 - Enable removed access to protected health information as long as the covered entity and researcher preserve appropriate security and privacy safeguards and the protected health information is not plagiarized or otherwise held by the researcher.

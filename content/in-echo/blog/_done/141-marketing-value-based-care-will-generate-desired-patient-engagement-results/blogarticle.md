@@ -6,13 +6,10 @@ Fullname: Travis Good, MD
 Date: 08/13/2015
 Summary: 
 Lead: |
-  _*This entry was taken and adapted from an original article published on [HIStalk](http://histalkmobile.com/) on October 9, 2013 by [Travis Good, MD](https://catalyze.io/travis), Catalyze Co-Founder & CEO. You can read the original [here](http://histalkmobile.com/patient-engagement-marketing-value-based-care/)*._
-
-Tags: patient engagement
+  One of the major problems with patient engagement is that it’s a buzzword. Like most buzzwords, it is often used without much thought going in to what it really means. I admit to being part of the problem. I’ve written about patient engagement without providing a real definition for it. I think I know what I mean by patient engagement, but my definition tends to be use case driven, meaning I have something very specific applications of engagement in mind when I write about it.
+Tags: patient, engagement
 Category: company
 ---
-One of the major problems with patient engagement is that it’s a buzzword. Like most buzzwords, it is often used without much thought going in to what it really means. I admit to being part of the problem. I’ve written about patient engagement without providing a real definition for it. I think I know what I mean by patient engagement, but my definition tends to be use case driven, meaning I have something very specific applications of engagement in mind when I write about it.
-
 This [KevinMD article](http://www.kevinmd.com/blog/2013/10/real-patient-engagement-depends-defining-correctly.html) tries to clarify patient engagement and commit to a definition. The author concludes that, "supporting patient engagement means fostering an effective collaboration in which patients and clinicians work together to help the patient progress towards mutually agreed-upon health goals." That definition is growing on me, but it’s optimistic in terms of what it expects from patients. I don’t think all patients will participate in shared decision making and goal setting.
 
 While providers are essential to engaging patients, physicians will be as much of the process of patient engagement as the article above defines it. Physicians will help to promote patient engagement and be a part of scalable solutions to engage patients, but they will be the only way patients are engaged.
@@ -30,3 +27,5 @@ More importantly, and this relates back more directly to the definition, is that
 The problem with this definition of patient engagement is that it is broad. It has to be. It’s not hedging to say that patient engagement will take on many forms. It is not hedging to say that many different organizations will try to engage patients, members, customers, and consumers in different ways. The part that makes this type of marketing separate and distinct from traditional healthcare marketing is that patient engagement marketing is geared towards value-based care, not volume-based care. The goal of patient engagement marketing should align with the goals for changing our health system – reducing costs, improving access, and making patients happier.
 
 What do you think about the concept of patient engagement marketing? [Email us](hello@catalyze.io) or [Tweet us](https://twitter.com/catalyzeio) your thoughts!
+
+_*This entry was taken and adapted from an original article published on [HIStalk](http://histalkmobile.com/) on October 9, 2013 by [Travis Good, MD](https://catalyze.io/travis), Catalyze Co-Founder & CEO. You can read the original [here](http://histalkmobile.com/patient-engagement-marketing-value-based-care/)*._

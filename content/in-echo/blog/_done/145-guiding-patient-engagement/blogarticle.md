@@ -18,13 +18,9 @@ The current best way to assess (or at least to categorize) [patient engagement](
 Below are stages of engagement.
 
 1. **Inform me**. As it sounds, this stage is purely information and mostly generic. There is some specification at the level of medication or diagnosis for care plans, but by and large, this is generic and  pre-Meaningful Use. Printable forms also fall into this bucket. I hope that most organizations don’t see this as a major accomplishment.
-
 2. **Engage me**. This takes a slightly more interactive approach with tools for tracking data like nutrition and fitness as well as access to interactive forms for prescription refills. It’s largely transactional at this stage and not an integrated approach or platform.
-
 3. **Empower me**. As the stage name implies, this is when patients start to get some say and provide feedback, as well as ratings. Organizations might offer patients virtual visits and secure messaging at this stage. Patients can share medical records here as well. Fortunately, at least for 14 percent of the population, this is when materials are available in Spanish.
-
 4. **Partner with me**. Taking empowerment one step further, the tools here are meant to provide self-care capabilities. Data is largely integrated at this stage and collaborative care is enabled.
-
 5. **Support my e-community**. This stage is varied if you look at all the things that are happening. The common theme seems to be around patients working together with broader care teams. Chiropractic, dental, and alternative medicine are integrated into the collaborative team model at this stage (there had to be some lobbies at the table to get this included.)
 
 The framework highlights the looseness and lack of clear definition for “[patient engagement](https://catalyze.io/solutions/patient-engagement), ” which is all over the place, like throwing stuff at a wall to see what sticks. It looks as though it was created in an effort to capture everything that could be done with digital health data and tech-enabled services, not even exclusively for patients.
@@ -32,6 +28,7 @@ The framework highlights the looseness and lack of clear definition for “[pati
 I’m all for data interoperability and care team collaboration, but I don’t think that’s [patient engagement](https://catalyze.io/solutions/patient-engagement). The counter argument might be that care team collaboration makes navigating the system easier for patients and, in turn, helps keep them engaged.
 
 Two of my favorite points are:
+
 - Option to share progress and health milestones on social media.
 - Guides to understanding accountable care.
 
