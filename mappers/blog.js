@@ -9,24 +9,26 @@ module.exports = function(file) {
     };
     // tags map to linked entries; using the tag 'slug' field as key
     var tags = {
-        'compliance': '1wY9bJEWnCwCyqcE2kCiuy',
-        'telemedicine': '2ExI7snXjysKOqWqmwQwwU',
-        'hipaa': '3ebX0zrnVuYEQOuo2QSSuU',
-        'design': '3kOhUwDRkkc0qAuKYIoIIW',
-        'baas': '3NDyJqRTJYMwiU0SSwqagm',
-        'engagement': '3rO97bU0piC0CI0eOg6ksI',
-        'podcast': '4ABMNMPZaU68iucWYcEcIe',
-        'interoperability': '4HqJmCMdiwwiQuC8uUcCqo',
-        'fhir': '4WpqU1En6MsqmCEWweeCmO',
-        'security': '5Y8Z8rlBw4Ucuu8su4oCgC',
-        'resources': '6uZHqvyHMkO4eky0OwiWki',
-        'ehr': '6vv9sUZuiAs8yQ4cQqm86e',
-        'integration': '6wXXHIJfUsMg62Cuwquoa2',
-        'tutorials': '7FkInYPmxiG4QsiM60COos',
-        'hitrust': '9hLuri8gRGWUksIiIQg8y',
         'api': '34a2ITeysg6eYauG028usg',
+        'baas': '3NDyJqRTJYMwiU0SSwqagm',
+        'company': '7befKoeN9uMUqUGYiKOaeO',
+        'compliance': '1wY9bJEWnCwCyqcE2kCiuy',
+        'design': '3kOhUwDRkkc0qAuKYIoIIW',
+        'ehr': '6vv9sUZuiAs8yQ4cQqm86e',
+        'engagement': '3rO97bU0piC0CI0eOg6ksI',
+        'fhir': '4WpqU1En6MsqmCEWweeCmO',
+        'healthcare-costs': 'muuTw36MCccawe428I8Oa',
+        'hipaa': '3ebX0zrnVuYEQOuo2QSSuU',
+        'hitrust': '9hLuri8gRGWUksIiIQg8y',
+        'integration': '6wXXHIJfUsMg62Cuwquoa2',
+        'interoperability': '4HqJmCMdiwwiQuC8uUcCqo',
         'medicare': 'hb3JCbHoOcImGmEMasYEC',
-        'healthcare-costs': 'muuTw36MCccawe428I8Oa'
+        'mhealth': '4TyZlvypiw6yMeuGG8W4mu',
+        'podcast': '4ABMNMPZaU68iucWYcEcIe',
+        'resources': '6uZHqvyHMkO4eky0OwiWki',
+        'security': '5Y8Z8rlBw4Ucuu8su4oCgC',
+        'telemedicine': '2ExI7snXjysKOqWqmwQwwU',
+        'tutorials': '7FkInYPmxiG4QsiM60COos'
     }
 
     var keys = Object.keys(file.content.fields);
