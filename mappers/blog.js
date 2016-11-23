@@ -91,13 +91,15 @@ module.exports = function(file) {
                 }
             });
         } else {
-            cfTagArray.push({
-                'sys': {
-                    'type': 'Link',
-                    'linkType': 'Entry',
-                    'id': '1wY9bJEWnCwCyqcE2kCiuy' //TODO put actual id here if 'compliance' isn't default tag
-                }
-            });
+            if(cfTagArray.indexOf('1wY9bJEWnCwCyqcE2kCiuy') === -1) {
+                cfTagArray.push({
+                    'sys': {
+                        'type': 'Link',
+                        'linkType': 'Entry',
+                        'id': '1wY9bJEWnCwCyqcE2kCiuy' //TODO put actual id here if 'compliance' isn't default tag
+                    }
+                });
+            }
         }
     }
 
