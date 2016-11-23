@@ -1,8 +1,6 @@
 ---
 Title: Simon Jones
-Seotitle: Simon Jones - Vice President of HIT Product Strategy at Blue Shield of California
-
-Author: travis
+role: Simon Jones - Vice President of HIT Product Strategy at Blue Shield of California
 
 fullname: Simon Jones
 

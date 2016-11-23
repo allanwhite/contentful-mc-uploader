@@ -1,8 +1,6 @@
 ---
 Title: Marc Chasin, MD
-Seotitle: Marc Chasin, MD, MMM, CPE, CHCIO - St. Luke's Health System
-
-Author: travis
+role: Marc Chasin, MD, MMM, CPE, CHCIO - St. Luke's Health System
 
 fullname: Dr. Marc Chasin
 

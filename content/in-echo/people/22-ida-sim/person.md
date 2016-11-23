@@ -1,6 +1,6 @@
 ---
 Title: Ida Sim, MD----
-Seotitle: Ida Sim, MD: Physician, Researcher, and Entrepreneur
+role: Ida Sim, MD: Physician, Researcher, and Entrepreneur
 ----
 Author: travis
 ----

@@ -1,6 +1,6 @@
 ---
 Title: Charles Jaffe, MD, PhD----
-Seotitle: Charles Jaffe, MD: Why Healthcare Should Expand its View of FHIR
+role: Charles Jaffe, MD: Why Healthcare Should Expand its View of FHIR
 ----
 Author: mohan
 ----

@@ -1,8 +1,6 @@
 Su---
 Title: Mark Shapiro, MD
-Seotitle: Mark Shapiro, MD, Host of the "Explore the Space" Podcast
-
-Author: travis
+role: Mark Shapiro, MD, Host of the "Explore the Space" Podcast
 
 fullname: Mark Shapiro, MD
 

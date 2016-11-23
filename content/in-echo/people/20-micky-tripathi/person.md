@@ -1,6 +1,6 @@
 ---
 Title: Micky Tripathi: a FHIR-side Chat----
-Seotitle: Micky Tripathi: a FHIR-side Chat
+role: Micky Tripathi: a FHIR-side Chat
 ----
 Author: travis
 ----

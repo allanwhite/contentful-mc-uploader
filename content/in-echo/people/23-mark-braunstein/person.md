@@ -1,6 +1,6 @@
 ---
 Title: Dr. Mark Braunstein----
-Seotitle: Dr. Mark Braunstein: Healthcare in the Age of Interoperability
+role: Dr. Mark Braunstein: Healthcare in the Age of Interoperability
 ----
 Author: travis
 ----

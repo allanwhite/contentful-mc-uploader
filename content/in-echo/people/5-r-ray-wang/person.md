@@ -1,8 +1,6 @@
 ---
 Title: R Ray Wang
-Seotitle: R "Ray" Wang, Founder and Chairman of Constellation Research
-
-Author: travis
+role: R "Ray" Wang, Founder and Chairman of Constellation Research
 
 fullname: R "Ray" Wang
 

@@ -1,8 +1,6 @@
 ---
 Title: Dr. Chris Wasden
-Seotitle: Dr. Chris Wasden, Executive Director, Sorenson Center for Discovery and Innovation at the University of Utah
-
-Author: travis
+role: Dr. Chris Wasden, Executive Director, Sorenson Center for Discovery and Innovation at the University of Utah
 
 fullname: Dr. Chris Wadsen
 

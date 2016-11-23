@@ -1,8 +1,6 @@
 ---
 Title: Trey Lauderdale
-Seotitle: Trey Lauderdale, CEO of Voalte
-
-Author: travis
+role: Trey Lauderdale, CEO of Voalte
 
 fullname: Trey Lauderdale
 

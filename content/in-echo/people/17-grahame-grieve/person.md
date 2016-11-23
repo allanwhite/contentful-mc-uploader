@@ -1,8 +1,6 @@
 ---
 Title: Grahame Grieve - the future of healthcare interoperability (part 1)
-Seotitle: Grahame Grieve - the future of healthcare interoperability (part 1)
-
-Author: mohan
+role: Grahame Grieve - the future of healthcare interoperability (part 1)
 
 fullname: Grahame Grieve
 

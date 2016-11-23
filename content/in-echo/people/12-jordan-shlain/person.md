@@ -1,8 +1,6 @@
 ---
 Title: Jordan Shlain, MD
-Seotitle: Jordan Shlain, MD - Founder Healthloop
-
-Author: travis
+role: Jordan Shlain, MD - Founder Healthloop
 
 fullname: Dr. Jordan Shlain
 
