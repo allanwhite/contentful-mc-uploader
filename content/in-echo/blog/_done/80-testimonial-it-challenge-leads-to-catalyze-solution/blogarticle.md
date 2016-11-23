@@ -1,17 +1,17 @@
 ---
-Title: Customer Video Testimonial Released: IT Challenge Leads to Catalyze Solution
-SeoTitle: Customer Video Testimonial Released: IT Challenge Leads to Catalyze Solution
+Title: "Customer Video Testimonial Released: IT Challenge Leads to Catalyze Solution"
+SeoTitle: "Customer Video Testimonial Released: IT Challenge Leads to Catalyze Solution"
 Author: marcia
 Fullname: Marcia Noyes
 Date: 12/05/2014
 Summary: 
 Lead: |
-  >"They didn’t try to oversell us; they spelled out the technical approach to a level that was completely clear and that I could understand. Also the chemistry was really great with their team. They are great people to work with." – Mayank Thanawala, HealthLoop
+  > "They didn’t try to oversell us; they spelled out the technical approach to a level that was completely clear and that I could understand. Also the chemistry was really great with their team. They are great people to work with." – Mayank Thanawala, HealthLoop
 
 Tags: healthloop, customer video
 Category: company
 ---
-We think the words of our clients say more about Catalyze than our own. Tha'’s why when one of our clients has a challenge that Catalyze can meet and exceed we let them tell you about it.
+We think the words of our clients say more about Catalyze than our own. That's why when one of our clients has a challenge that Catalyze can meet and exceed we let them tell you about it.
 
 Mayank Thanawala, Vice-President of Research and Development for HealthLoop – a company that is tracking patient recovery and improving outcomes with its automated patient follow-up solution, talked recently on-camera about his experience with switching his present hosting company to Catalyze and what led to that decision.
 

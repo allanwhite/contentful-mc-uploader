@@ -1,6 +1,6 @@
 ---
-Title: If a vendor won't sign a BAA, they aren't "HIPAA-compliant"
-SeoTitle: If a vendor won't sign a BAA, they aren't "HIPAA-compliant"
+Title: "If a vendor won't sign a BAA, they aren't \"HIPAA-compliant\""
+SeoTitle: "If a vendor won't sign a BAA, they aren't \"HIPAA-compliant\""
 Author: mark
 Fullname: Mark Olschesky
 Date: 01/07/2015

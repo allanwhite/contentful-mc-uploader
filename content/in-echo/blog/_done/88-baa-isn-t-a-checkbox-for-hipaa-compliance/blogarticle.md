@@ -1,6 +1,6 @@
 ---
-Title: BAA isn't a Checkbox for HIPAA Compliance
-SeoTitle: BAA isn't a Checkbox for HIPAA Compliance
+Title: "BAA isn't a Checkbox for HIPAA Compliance"
+SeoTitle: "BAA isn't a Checkbox for HIPAA Compliance"
 Author: travis
 Fullname: Travis Good, MD
 Date: 01/13/2015

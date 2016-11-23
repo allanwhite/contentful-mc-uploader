@@ -1,8 +1,8 @@
 ---
-Title: New Press Release: Formal Release of Open Source Policies
-SeoTitle: New Press Release: Formal Release of Open Source Policies
+Title: "New Press Release: Formal Release of Open Source Policies"
+SeoTitle: "New Press Release: Formal Release of Open Source Policies"
 Author: kris
-Fullname: Kris Gösser
+Fullname: "Kris Gösser"
 Date: 01/14/2015
 Summary: 
 Lead: |

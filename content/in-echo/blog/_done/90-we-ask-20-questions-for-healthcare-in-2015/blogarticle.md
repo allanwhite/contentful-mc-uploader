@@ -1,10 +1,10 @@
 ---
-Title: We Ask 20 Questions for Healthcare in 2015
-SeoTitle: 20 Questions for Healthcare in 2015
+Title: "We Ask 20 Questions for Healthcare in 2015"
+SeoTitle: "20 Questions for Healthcare in 2015"
 Author: travis
 Fullname: Travis Good, MD
 Date: 01/15/2015
-Summary: Being fans of yearly predictions, we took Benedict Evans' approach and applied it to healthcare. Here's our guesses for 2015.
+Summary: "Being fans of yearly predictions, we took Benedict Evans' approach and applied it to healthcare. Here's our guesses for 2015."
 Lead: |
   > Judge a man by his questions rather than his answers. - Voltaire
 Tags: healthcare-news
