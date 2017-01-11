@@ -1,24 +1,20 @@
 Title: Catalyze Releases Open Source Policies and Procedures to Hasten Healthcare IT Development
 
-----
 
 Seotitle: Catalyze Releases Open Source Policies and Procedures to Hasten Healthcare IT Development
 
-----
 
 Description: Catalyze Releases Open Source Policies and Procedures to Hasten Healthcare IT Development
 
-----
 
 Keywords: Open source, policies, HIPAA compliance
 
-----
 
 Date: 01/14/2015
 
-----
 
-Post: Madison, WI - January 14, 2015
+---
+Madison, WI - January 14, 2015
 
 Catalyze, Inc., an innovative healthcare IT firm that supplies HIPAA-compliant infrastructure services, today announced the widespread release of its open source policies and procedures on GitHub for healthcare developers and enterprises.
 

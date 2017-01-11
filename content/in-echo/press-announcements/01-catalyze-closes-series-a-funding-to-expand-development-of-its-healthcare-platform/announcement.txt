@@ -1,24 +1,20 @@
 Title: Catalyze Closes Series A Funding to Expand Development of Its Healthcare Platform
 
-----
 
 Seotitle: Catalyze Closes Series A Funding to Expand Development of Its Healthcare Platform
 
-----
 
 Description: Catalyze Closes Series A Funding to Expand Development of Its Healthcare Platform
 
-----
 
 Keywords: Catalyze, Series A, HIPAA, Healthcare Platform
 
-----
 
 Date: 12/03/2013
 
-----
 
-Post: Madison, WI - December 03, 2013
+---
+Madison, WI - December 03, 2013
 
 Catalyze – developers of the innovative compliant cloud-based platform for healthcare – announced closing of its Series A round of funding. The funding will provide muscle to meet the overwhelming demand for its API-based compliant cloud services. Arthur Ventures, Baird Venture Partners and Chicago Ventures led the round of financing that allows Catalyze to scale its pilots with current enterprises and expand product features and services.
 

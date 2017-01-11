@@ -1,24 +1,20 @@
 Title: DocbookMD Selects Catalyze to Go-to-Market with HL7 Integration
 
-----
 
 Seotitle: DocbookMD Selects Catalyze to Go-to-Market with HL7 Integration
 
-----
 
 Description: DocbookMD Selects Catalyze to Go-to-Market with HL7 Integration
 
-----
 
 Keywords: hl7, integration, docbookmd
 
-----
 
 Date: 05/12/2015
 
-----
 
-Post: Madison, WI (PRWEB) May 12, 2015
+---
+Madison, WI (PRWEB) May 12, 2015
 
 [Catalyze, Inc.](https://catalyze.io), an innovative healthcare IT firm that provides a HIPAA-compliant platform for healthcare enterprises, today announced the completion and fully functioning HL7 integration for [DocbookMD®](http://www.docbookmd.com/). This HL7 integration enables DocBookMD’s mobile communication platform that is designed for critical healthcare decision information to expand beyond its own API to communicate with other systems. DocbookMD clients can now interface with admin discharge summaries, as well as get information to/from radiology and other labs.
 

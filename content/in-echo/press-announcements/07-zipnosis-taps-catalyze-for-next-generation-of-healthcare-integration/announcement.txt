@@ -1,24 +1,20 @@
 Title: Zipnosis Taps Catalyze for Next Generation of Healthcare Integration
 
-----
 
 Seotitle: Zipnosis Taps Catalyze for Next Generation of Healthcare Integration
 
-----
 
 Description: Virtual care pioneering company scales up on Catalyze’s HIPAA-compliant platform to offer HL7 integration to customers.
 
-----
 
 Keywords: zipnosis, hl7, integration
 
-----
 
 Date: 06/02/2015
 
-----
 
-Post: ### Virtual care pioneering company scales up on Catalyze’s HIPAA-compliant platform to offer HL7 integration to customers.
+---
+### Virtual care pioneering company scales up on Catalyze’s HIPAA-compliant platform to offer HL7 integration to customers.
 
 Madison, WI (PRWEB) June 02, 2015
 

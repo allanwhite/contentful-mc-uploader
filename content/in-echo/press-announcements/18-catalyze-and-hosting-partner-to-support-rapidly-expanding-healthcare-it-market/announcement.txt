@@ -1,24 +1,20 @@
 Title: Catalyze and HOSTING Partner to Support Rapidly Expanding Healthcare IT Market
 
-----
 
 Seotitle: Catalyze and HOSTING Partner to Support Rapidly Expanding Healthcare IT Market
 
-----
 
 Description: Catalyze and HOSTING Partner to Support Rapidly Expanding Healthcare IT Market
 
-----
 
 Keywords: catalyze, hosting, partnership
 
-----
 
 Date: 04/13/2016
 
-----
 
-Post: ### Two industry leaders conflate cloud offerings to provide clients with broader service delivery options.
+---
+### Two industry leaders conflate cloud offerings to provide clients with broader service delivery options.
 
 Catalyze, healthcare’s leading HITRUST CSF Certified Platform-as-a-Service (PaaS) and integration firm, today announced a partnership with HOSTING, the leading provider of managed cloud services. This partnership will offer 24x7 managed hosting services to the growing and maturing clients of Catalyze. Official details about the partnership will be announced at the HOSTING Customer Summit in Denver, April 13-15.
 
