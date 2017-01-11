@@ -53,8 +53,6 @@ Tags: technology, leadership, EHRs
 
 **On clinical decision support:** "I think one of the critical areas that physicians often overlook that leverage the value of electronic health records is clinical decision support. So there is an initiative in support of FHIR called CDS Hooks, which use FHIR to access the many commercial and public databases for clinical decision support."
 
----
-
 ### More On FHIR: The Grahame Grieve Interviews
 
 Dr. Jaffe mentioned Grahame Grieve, "The Father of FHIR", in this episode. Check out parts [one](https://catalyze.io/innovation/grahame-grieve-pt1), [two](https://catalyze.io/innovation/grahame-grieve-pt2), and [three](https://catalyze.io/innovation/grahame-grieve-pt3) of these interviews.
