@@ -1,17 +1,13 @@
-Title: Catalyze Delivers HITRUST CSF Certified Compliant Cloud Solutions for Amazon Web Services Workloads
-
+---
+Title: "Catalyze Delivers HITRUST CSF Certified Compliant Cloud Solutions for Amazon Web Services Workloads"
 
 Seotitle: Catalyze Delivers HITRUST CSF Certified Compliant Cloud Solutions for Amazon Web Services Workloads
 
-
 Description: Healthcare customers gain compliance and security measurement with extension of HITRUST CSF Certification Workloads on AWS.
-
 
 Keywords: hipaa, hitrust, aws
 
-
 Date: 07/19/2016
-
 
 ---
 ### Healthcare customers gain compliance and security measurement with extension of HITRUST CSF Certification Workloads on AWS.

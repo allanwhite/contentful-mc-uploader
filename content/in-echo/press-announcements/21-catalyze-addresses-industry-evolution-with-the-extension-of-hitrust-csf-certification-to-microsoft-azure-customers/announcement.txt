@@ -1,20 +1,15 @@
-Title: Catalyze Addresses Industry Evolution with the Extension of HITRUST CSF Certification to Microsoft Azure Customers
-
+---
+Title: "Catalyze Addresses Industry Evolution with the Extension of HITRUST CSF Certification to Microsoft Azure Customers"
 
 Seotitle: Catalyze Addresses Industry Evolution with the Extension of HITRUST CSF Certification to Microsoft Azure Customers
 
-
 Description: Catalyze provides approach for Microsoft Azure healthcare enterprise customers that expands trust and tenders better management of regulatory compliance and risk.
-
 
 Keywords: microsoft, azure, hipaa, hitrust
 
-
 Date: 2016-10-05
 
-
 ---
-
 
 ### Catalyze provides approach for Microsoft Azure healthcare enterprise customers that expands trust and tenders better management of regulatory compliance and risk.
 

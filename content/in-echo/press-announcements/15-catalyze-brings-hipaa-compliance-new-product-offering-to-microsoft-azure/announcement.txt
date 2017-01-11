@@ -1,17 +1,13 @@
-Title: Catalyze brings HIPAA Compliance, New Product Offering to Microsoft Azure
-
+---
+Title: "Catalyze brings HIPAA Compliance, New Product Offering to Microsoft Azure"
 
 Seotitle: Catalyze brings HIPAA Compliance, New Product Offering to Microsoft Azure
 
-
 Description: Catalyze brings HIPAA Compliance, New Product Offering to Microsoft Azure
-
 
 Keywords: 
 
-
 Date: 02/26/2016
-
 
 ---
 ### Microsoft Azure customers will now have access to the Catalyze HITRUST CSF Certified platform
