@@ -70,14 +70,14 @@ module.exports = function(file) {
     // file.content.fields.origString = file.content.fields.newString;
     // delete file.content.fields.newString;
 
-    // file.content.fields.Title = file.content.fields.title;
-    // delete file.content.fields.title;
+    file.content.fields.Title = file.content.fields.title;
+    delete file.content.fields.title;
 
     file.content.fields.seoTitle = file.content.fields.seotitle;
     delete file.content.fields.seotitle;
 
-    file.content.fields.blogLead = file.content.fields.Description;
-    delete file.content.fields.lead;
+    // file.content.fields.blogLead = file.content.fields.Description;
+    // delete file.content.fields.lead;
 
     file.content.fields.post = file.content.fields.body;
     delete file.content.fields.body;
