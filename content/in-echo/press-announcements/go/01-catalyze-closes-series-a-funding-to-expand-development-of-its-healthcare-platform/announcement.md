@@ -5,7 +5,7 @@ Seotitle: Catalyze Closes Series A Funding to Expand Development of Its Healthca
 
 Summary: Catalyze Closes Series A Funding to Expand Development of Its Healthcare Platform
 
-Keywords: Catalyze, Series A, HIPAA, Healthcare Platform
+Tags: hipaa, company
 
 Date: 12/03/2013
 

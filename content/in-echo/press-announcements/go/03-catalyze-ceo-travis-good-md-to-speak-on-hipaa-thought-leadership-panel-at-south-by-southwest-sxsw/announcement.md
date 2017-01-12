@@ -5,7 +5,7 @@ Seotitle: Catalyze CEO Travis Good, MD to Speak on HIPAA Thought Leadership Pane
 
 Summary: Catalyze CEO Travis Good, MD to Speak on HIPAA Thought Leadership Panel at South by Southwest (SXSW)®
 
-Keywords: SXSW, HIPAA, thought leadership, travis good
+Tags: SXSW, HIPAA, thought leadership, travis good
 
 Date: 03/03/2015
 

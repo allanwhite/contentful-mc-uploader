@@ -5,7 +5,7 @@ Seotitle: Catalyze Extends Salesforce Health Cloud Data Capabilities as Trusted 
 
 Summary: Catalyze Extends Salesforce Health Cloud Data Capabilities as Trusted Integration Partner with EHRs
 
-Keywords: 
+Tags: 
 
 Date: 02/29/2016
 

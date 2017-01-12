@@ -5,7 +5,7 @@ Seotitle: Catalyze brings HIPAA Compliance, New Product Offering to Microsoft Az
 
 Summary: Catalyze brings HIPAA Compliance, New Product Offering to Microsoft Azure
 
-Keywords: 
+Tags: 
 
 Date: 02/26/2016
 

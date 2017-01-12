@@ -5,7 +5,7 @@ Seotitle: New Innovation Interview Series Provides Key Insights from Top Healthc
 
 Summary: New Innovation Interview Series Provides Key Insights from Top Healthcare Innovation Experts
 
-Keywords: Innovation, Molly Coye, Chris Belmont, Wayne Guerra, Marc Chasin
+Tags: Innovation, Molly Coye, Chris Belmont, Wayne Guerra, Marc Chasin
 
 Date: 04/08/2015
 

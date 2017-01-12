@@ -139,31 +139,39 @@ module.exports = function(file) {
     file.content.fields.slug = {
         'en-US': slug
     };
-
-    var authorId = authors[file.content.fields.author['en-US']];
-    if(authorId) {
-        file.content.fields.author = {
-            'en-US': {
-                'sys': {
-                    'type': 'Link',
-                    'linkType': 'Entry',
-                    'id': authorId
-                }
-            }
-            // 'en-US': authorId
-        }
-    } else {
-        // Marcia
-        file.content.fields.author = {
-            'en-US': {
-                'sys': {
-                    'type': 'Link',
-                    'linkType': 'Entry',
-                    'id': '6NxyE8vlfOqMOkkGsCSusA'
-                }
+    file.content.fields.author = {
+        'en-US': {
+            'sys': {
+                'type': 'Link',
+                'linkType': 'Entry',
+                'id': '6NxyE8vlfOqMOkkGsCSusA'
             }
         }
     }
+    // var authorId = authors[file.content.fields.author['en-US']];
+    // if(authorId) {
+    //     file.content.fields.author = {
+    //         'en-US': {
+    //             'sys': {
+    //                 'type': 'Link',
+    //                 'linkType': 'Entry',
+    //                 'id': authorId
+    //             }
+    //         }
+    //         // 'en-US': authorId
+    //     }
+    // } else {
+    //     // Marcia
+    //     file.content.fields.author = {
+    //         'en-US': {
+    //             'sys': {
+    //                 'type': 'Link',
+    //                 'linkType': 'Entry',
+    //                 'id': '6NxyE8vlfOqMOkkGsCSusA'
+    //             }
+    //         }
+    //     }
+    // }
 
     // injecting CTA ref, all entries in this pool have this as default.
     file.content.fields.ctaRef = {

@@ -5,7 +5,7 @@ Seotitle: Catalyze and HOSTING Partner to Support Rapidly Expanding Healthcare I
 
 Summary: Catalyze and HOSTING Partner to Support Rapidly Expanding Healthcare IT Market
 
-Keywords: catalyze, hosting, partnership
+Tags: catalyze, hosting, partnership
 
 Date: 04/13/2016
 

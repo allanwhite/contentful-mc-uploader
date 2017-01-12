@@ -5,7 +5,7 @@ Seotitle: Catalyze Releases Open Source Policies and Procedures to Hasten Health
 
 Summary: Catalyze Releases Open Source Policies and Procedures to Hasten Healthcare IT Development
 
-Keywords: Open source, policies, HIPAA compliance
+Tags: Open source, policies, HIPAA compliance
 
 Date: 01/14/2015
 

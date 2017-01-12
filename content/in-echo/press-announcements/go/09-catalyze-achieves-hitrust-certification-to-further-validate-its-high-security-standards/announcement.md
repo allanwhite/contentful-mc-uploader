@@ -5,7 +5,7 @@ Seotitle: Catalyze Achieves HITRUST CSF Certification to Further Validate Its Hi
 
 Summary: HITRUST CSF Certification allows healthcare technology company to expand client confidence around the rigorous security and privacy requirements of healthcare.
 
-Keywords: hitrust, audit, certification
+Tags: hitrust, audit, certification
 
 Date: 07/16/2015
 

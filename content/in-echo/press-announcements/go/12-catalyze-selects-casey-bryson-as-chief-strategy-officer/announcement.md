@@ -5,7 +5,7 @@ Seotitle: Catalyze Selects Casey Bryson as Chief Strategy Officer
 
 Summary: Catalyze Selects Casey Bryson as Chief Strategy Officer
 
-Keywords: casey bryson, strategy, catalyze
+Tags: casey bryson, strategy, catalyze
 
 Date: 01/14/2016
 

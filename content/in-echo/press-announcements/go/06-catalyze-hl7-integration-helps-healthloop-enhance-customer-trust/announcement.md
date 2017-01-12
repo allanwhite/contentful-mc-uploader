@@ -5,7 +5,7 @@ Seotitle: Catalyze HL7 Integration helps HealthLoop Enhance Customer Trust
 
 Summary: Mountain View-based healthcare technology company scales up on Catalyze HIPAA-compliant platform and builds upon established trust and security.
 
-Keywords: healthloop, hl7, integration
+Tags: healthloop, hl7, integration
 
 Date: 05/20/2015
 

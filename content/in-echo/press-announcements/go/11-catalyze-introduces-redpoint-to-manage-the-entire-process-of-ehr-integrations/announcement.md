@@ -5,7 +5,7 @@ Seotitle: Catalyze Introduces Redpoint to Manage the Entire Process of EHR Integ
 
 Summary: Catalyze Introduces Redpoint to Manage the Entire Process of EHR Integrations
 
-Keywords: 
+Tags: 
 
 Date: 12/02/2015
 
