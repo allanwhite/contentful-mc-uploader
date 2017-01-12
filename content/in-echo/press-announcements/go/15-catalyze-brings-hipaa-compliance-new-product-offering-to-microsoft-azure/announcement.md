@@ -5,7 +5,7 @@ Seotitle: Catalyze brings HIPAA Compliance, New Product Offering to Microsoft Az
 
 Summary: Catalyze brings HIPAA Compliance, New Product Offering to Microsoft Azure
 
-Tags: 
+Tags: hipaa, company
 
 Date: 02/26/2016
 
@@ -20,7 +20,7 @@ Catalyze automates much of the compliance burden put on technical teams. With a 
 
 “Microsoft Azure is one of the strongest cloud providers available, and will only grow in importance. We are excited to bring our trusted approach to HIPAA compliance and HITRUST certification to its customers,” said Mohan Balachandran, co-founder and president of Catalyze. “A collaboration between Microsoft Azure and Catalyze will be a mature option for even the most complex of enterprise healthcare organizations. In addition, we look forward to working with the entire Microsoft Azure ecosystem.”
 
-Catalyze provides two HITRUST CSF Certified products. 
+Catalyze provides two HITRUST CSF Certified products.
 
 * Stratum, a compliant hosting solution, alleviates difficult technology obligations, such as encryption in transit and at rest, vulnerability scanning and intrusion detection, and backup and disaster recovery.
 * Redpoint, an integration solution, guides customers through the journey of a typical healthcare integration by automating secure connectivity like VPN setups, or utilizing intelligent workflows for different digital health use cases.

@@ -31,8 +31,11 @@ module.exports = function(file) {
         'healthcare-news': '6AZpnMPG2k8mk8gk2acYUI',
         'hipaa': '3ebX0zrnVuYEQOuo2QSSuU',
         'hitrust': '9hLuri8gRGWUksIiIQg8y',
+        'hl7': '659zjsWqC4CqqmMgASc46a',
+        'innovation': '7lK2BzqJKoygAwAkQG2omW',
         'integration': '6wXXHIJfUsMg62Cuwquoa2',
         'interoperability': '4HqJmCMdiwwiQuC8uUcCqo',
+        'leadership': '2fj1jK1yC0CQuAUIQYIaeo',
         'medicare': 'hb3JCbHoOcImGmEMasYEC',
         'mhealth': '4TyZlvypiw6yMeuGG8W4mu',
         'open-source': '1rsUh5OdtWEgi24qakiGO0',
@@ -42,7 +45,6 @@ module.exports = function(file) {
         'telemedicine': '2ExI7snXjysKOqWqmwQwwU',
         'tutorials': '7FkInYPmxiG4QsiM60COos'
     }
-
     var keys = Object.keys(file.content.fields);
 
     //Replace 'Title' with 'title', 'SeoTitle' with 'seoTitle', etc.
@@ -70,8 +72,8 @@ module.exports = function(file) {
     // file.content.fields.origString = file.content.fields.newString;
     // delete file.content.fields.newString;
 
-    file.content.fields.Title = file.content.fields.title;
-    delete file.content.fields.title;
+    // file.content.fields.Title = file.content.fields.Title;
+    // delete file.content.fields.title;
 
     file.content.fields.seoTitle = file.content.fields.seotitle;
     delete file.content.fields.seotitle;

@@ -5,7 +5,7 @@ Seotitle: DocbookMD Selects Catalyze to Go-to-Market with HL7 Integration
 
 Summary: DocbookMD Selects Catalyze to Go-to-Market with HL7 Integration
 
-Tags: hl7, integration, docbookmd
+Tags: hl7, integration, customers
 
 Date: 05/12/2015
 

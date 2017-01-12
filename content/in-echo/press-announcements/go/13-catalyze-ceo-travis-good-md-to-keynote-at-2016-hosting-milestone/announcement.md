@@ -5,7 +5,7 @@ Seotitle: Catalyze CEO Travis Good, MD to Keynote at 2016 HOSTING MILESTONE
 
 Summary: Catalyze CEO Travis Good, MD to Keynote at 2016 HOSTING MILESTONE
 
-Tags: 
+Tags: leadership, company
 
 Date: 02/01/2016
 
@@ -22,9 +22,9 @@ Dr. Good will deliver “Excitement in Healthcare Regulation” — an important
 
 The event series named MILESTONE, created by HOSTING™, engages enterprise firms embracing a managed service partner for their access to Amazon AWS, Microsoft Azure, and other key cloud platforms. In addition to Catalyze, sponsors of the event series include ScienceLogic, NetApp, Kovarus, SolidFire, Avtex, and Exceda. The MILESTONE events in 2016 are for businesses interested in HOSTING making them compliant in the cloud. The events include:
 
-Feb 3-5th - Vegas.HOSTING.com - Regulation in Unregulated Industries 
-April 13-15 - HOSTINGcustomerSUMMIT.com - 7th Annual HOSTING Customer Event 
-July 27-29 - HOSTINGpartnerSUMMIT.com - 2nd Annual HOSTING Partner Event 
+Feb 3-5th - Vegas.HOSTING.com - Regulation in Unregulated Industries
+April 13-15 - HOSTINGcustomerSUMMIT.com - 7th Annual HOSTING Customer Event
+July 27-29 - HOSTINGpartnerSUMMIT.com - 2nd Annual HOSTING Partner Event
 September - HOSTING Pre-Holiday PCI-Compliance Party in Boston and NYC
 
 “I’m excited to be one of the first to speak at the MILESTONE series. HOSTING is bringing the ‘Unified Cloud’ discussion to the technology community in many industries. We applaud HOSTING for its targeted emphasis on a market with such national importance — healthcare, where our partnership begins,” said Travis Good, M.D., CEO and co-founder of Catalyze.

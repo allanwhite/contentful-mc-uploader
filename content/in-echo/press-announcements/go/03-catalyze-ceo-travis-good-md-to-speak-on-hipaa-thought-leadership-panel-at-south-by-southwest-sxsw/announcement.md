@@ -5,7 +5,7 @@ Seotitle: Catalyze CEO Travis Good, MD to Speak on HIPAA Thought Leadership Pane
 
 Summary: Catalyze CEO Travis Good, MD to Speak on HIPAA Thought Leadership Panel at South by Southwest (SXSW)®
 
-Tags: SXSW, HIPAA, thought leadership, travis good
+Tags: hipaa, leadership
 
 Date: 03/03/2015
 
@@ -16,7 +16,7 @@ Catalyze, Inc., an innovative health care IT firm that supplies HIPAA-compliant 
 
 The thought leadership session will begin at 3:15 p.m. on Tuesday, March 17 on the MedTech Stage at the J.W. Marriott on 2nd Street in Austin.
 
-According to a [mid-year 2014 Rock Health report](http://rockhealth.com/2014/06/2014-midyear-digital-health-funding-update/), digital health funding obliterated records with a 168% year-over-year growth. As a result, more innovative entrepreneurs are entering the space in 2015 and hope to put their stake in health care technology. The leadership from those health care startups will want to attend this SXSW panel to hear discussions around HIPAA compliance. Panelists, in addition to Dr. Travis Good include: 
+According to a [mid-year 2014 Rock Health report](http://rockhealth.com/2014/06/2014-midyear-digital-health-funding-update/), digital health funding obliterated records with a 168% year-over-year growth. As a result, more innovative entrepreneurs are entering the space in 2015 and hope to put their stake in health care technology. The leadership from those health care startups will want to attend this SXSW panel to hear discussions around HIPAA compliance. Panelists, in addition to Dr. Travis Good include:
 
 * George Gooch, associate director of policy & planning, Texas Health Services Authority
 * Nora Belcher, executive director, Texas e-Health Alliance

@@ -3,9 +3,9 @@ Title: "Catalyze CEO to Present at Stanford Medicine X Conference"
 
 Seotitle: Catalyze CEO to Present at Stanford Medicine X Conference
 
-Summary: 
+Summary:
 
-Tags: 
+Tags: company, leadership
 
 Date: 09/08/2015
 

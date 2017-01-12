@@ -5,7 +5,7 @@ Seotitle: New Innovation Interview Series Provides Key Insights from Top Healthc
 
 Summary: New Innovation Interview Series Provides Key Insights from Top Healthcare Innovation Experts
 
-Tags: Innovation, Molly Coye, Chris Belmont, Wayne Guerra, Marc Chasin
+Tags: innovation, leadership
 
 Date: 04/08/2015
 
@@ -16,7 +16,7 @@ Catalyze, Inc., an innovative healthcare IT firm that supplies HIPAA-compliant i
 
 The series begins with four well-known healthcare innovation leaders who offer insights on everything from the transition of healthcare data ownership and HL7 integrations to an inside look at success/failure rate of ideas. “For every 100 fantastic ideas, 99 don’t really scale and either don’t benefit the patient from an access perspective, or the clinician from an efficiency perspective,” stated Marc Chasin, MD, MMM, CPE, CHCIO, St. Luke’s Health System.
 
-The first four interviews have been posted and are located here on the Catalyze Healthcare Innovation Interview page: 
+The first four interviews have been posted and are located here on the Catalyze Healthcare Innovation Interview page:
 
 * Molly Coye, MD, MPH, chief innovation officer, UCLA Health System;
 * Chris Belmont, VP & CIO, University of Texas MD Anderson Cancer Center;

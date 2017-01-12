@@ -5,7 +5,7 @@ Seotitle: Catalyze to Present at Open mHealth and Digital Health Summer Summit
 
 Summary: Two health technology summits tap Catalyze, Inc. for presentations on integration and innovation.
 
-Tags: digital health summer summit, open mhealth
+Tags: mhealth
 
 Date: 06/09/2015
 

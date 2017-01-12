@@ -5,7 +5,7 @@ Seotitle: Catalyze and HOSTING Partner to Support Rapidly Expanding Healthcare I
 
 Summary: Catalyze and HOSTING Partner to Support Rapidly Expanding Healthcare IT Market
 
-Tags: catalyze, hosting, partnership
+Tags: company, hitrust
 
 Date: 04/13/2016
 
@@ -26,13 +26,13 @@ Catalyze has played an ongoing role in the 2016 coast-to-coast HOSTING event ser
 
 Following the HOSTING Annual Customer Summit event in Denver, two more MILESTONE events are scheduled for the remainder of the series:
 
-* July 27-29 - HOSTINGpartnerSUMMIT.com - 2nd Annual HOSTING Partner Event 
+* July 27-29 - HOSTINGpartnerSUMMIT.com - 2nd Annual HOSTING Partner Event
 * September - HOSTING Pre-Holiday PCI - Compliance Party in Boston and NYC
 
 #### About Catalyze, Inc.
 
 Catalyze provides an innovative HIPAA compliant, HITRUST Certified platform with a complete set of modules to handle, store and transmit PHI securely in the cloud. Scalable, HIPAA compliant and interoperable infrastructure is powering the future of healthcare, so Catalyze has built the platform upon which an enterprise can hasten healthcare innovation without the need to become an overnight expert in compliance. For more information, please visit http://www.catalyze.io.
 
-#### About HOSTING 
+#### About HOSTING
 
 HOSTING delivers secure and compliant managed services on the industry’s leading cloud platforms to empower enterprises to increase revenue, reduce costs and manage risk. Headquartered in Denver, Colorado, HOSTING owns and operates six data centers under an ITIL-based control environment validated for compliance against HIPAA, PCI DSS and SOC (formerly SAS 70) frameworks. For more information, please visit http://www.HOSTING.com.

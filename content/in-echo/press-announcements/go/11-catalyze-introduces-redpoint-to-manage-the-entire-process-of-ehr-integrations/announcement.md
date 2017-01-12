@@ -5,7 +5,7 @@ Seotitle: Catalyze Introduces Redpoint to Manage the Entire Process of EHR Integ
 
 Summary: Catalyze Introduces Redpoint to Manage the Entire Process of EHR Integrations
 
-Tags: 
+Tags: company
 
 Date: 12/02/2015
 
@@ -24,7 +24,7 @@ Redpoint is the product evolution of Catalyze's industry-leading integration ser
 
 Redpoint and its components will guide vendors through the entire process of a healthcare integration. The custom-built workflows, called Scripts, are for digital health use cases and some of these Scripts require multiple, bi-directional EHR interfaces. With Redpoint, customers simply get the APIs they require without needing to become experts in EHR interfaces. Redpoint addresses another major challenge to securing connections, typically via VPN, to health systems. This challenge grows exponentially at scale. Connectors automate the creation and management of secure connections, eliminating that burden for digital health vendors. Bearings round out the complimentary mix of components by managing specific project management requirements along the journey.
 
-“Healthcare requires a fundamentally different menu of workflow options than it did when EHR integration standards were written 20+ years ago,” said Mohan Balachandran, co-founder and president of Catalyze. “Today, digital health vendors require a Sherpa, to guide them from one end of the healthcare integration process to the other. Redpoint now makes that possible.” 
+“Healthcare requires a fundamentally different menu of workflow options than it did when EHR integration standards were written 20+ years ago,” said Mohan Balachandran, co-founder and president of Catalyze. “Today, digital health vendors require a Sherpa, to guide them from one end of the healthcare integration process to the other. Redpoint now makes that possible.”
 
 #### The Guide for Digital Health Innovators
 

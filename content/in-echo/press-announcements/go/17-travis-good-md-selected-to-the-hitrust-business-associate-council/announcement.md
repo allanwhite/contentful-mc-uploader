@@ -5,7 +5,7 @@ Seotitle: Travis Good, MD, Selected to the HITRUST Business Associate Council
 
 Summary: Travis Good, MD, Selected to the HITRUST Business Associate Council
 
-Tags: 
+Tags: hitrust, company, leadership
 
 Date: 04/06/2016
 
