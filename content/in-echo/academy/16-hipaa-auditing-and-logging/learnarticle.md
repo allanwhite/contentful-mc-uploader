@@ -5,6 +5,10 @@ Seotitle: HIPAA Auditing and Logging
 
 Date: 10/09/2015
 
+Tags: HIPAA
+
+Author: travis
+
 ---
 Auditing is an important part of the HIPAA Security Rule, but there not prescriptive controls around auditing. According to HIPAA Security Rule - 164.312(b):
 
@@ -25,10 +29,3 @@ If you log enough data, you can proactively identify when a breach may have occu
 The approach that we take at Catalyze is to log every interaction with our systems - all API traffic - application logs, , database logs, and system logs. For companies that use us as a Platform as a Service (PaaS), we give them one endpoint so that whatever application logs they are generating, we can store those for them; we'll also help them determine what data they should be capturing in application logs. We store the application logs, along with system logs that we generate, in an encrypted, dedicated store for each customer, and we provide customers with views and API access into that data.
 
 It's a very powerful unified logging service, one that's HIPAA-grade and meant for ePHI. The service sits within our environment right next to your application and we  combine your log data that we're already collecting on the servers and network traffic. We pull all that in into one place and give you a managed console for logging. Soon we'll be enabling customers to set alerts as well. If you're going through a HIPAA audit or assessment by a compliance office at a hospital or payer, this is a very powerful tool to assure them of the security and integrity of your application.
-
-Tags: HIPAA
-
-Author: travis
-
-Interlinking: <h2>Explore more topics on HIPAA. Visit our Content Archive on the Basics of HIPAA.</h2>
-<a href="http://content.catalyze.io/hipaa-basics">Content Archive</a>

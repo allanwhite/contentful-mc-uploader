@@ -7,6 +7,8 @@ Author: travis
 
 Date: 04/05/2016
 
+Tags: HIPAA
+
 ---
 This post is part an answer to a question on Quora about HIPAA and different types of hosted infrastructure options. You can read more on Quora [here](http://www.quora.com/Health-Insurance-Portability-and-Accountability-Act-HIPAA/Becoming-HIPAA-Compliant-Should-you-use-a-Backend-As-A-Service-or-a-HIPAA-Server-Why).
 
@@ -41,8 +43,3 @@ It's really hard, and we see it as a burden to developers, to prevent custom app
 Another fundamental difference with HIPAA is that the data you are storing is part of the core value of the app; if you build a health app, health data IS is your app. It's not payment processing. It's the data collected via a glucose monitor or a WiFi scale or an intake form or a virtual visit app (asynchronous telemed). The app has to use that data to power the app (provide logic) and provide a customized user experience. In the overwhelming majority of cases the app needs access to that data, and you can't simply hand off the storage layer and make an app compliant or out of scope of HIPAA.
 
 It's why, after spending a lot of time researching the challenges of HIPAA security, we built Catalyze the way we did, with version 1 being essentially a HIPAA-compliant BaaS offering, and not as an add-on for existing apps. Our platform (users, auth, storage, etc) is API-based, so could be used as storage layer, but we don't think that's a real path to HIPAA compliance. Our version 2 will include additional features and flexibility, something we're really excited about and hope will address more and more of the market need. Ultimately we want to give developers a simple way to add modern web services to health apps and, in the process, we want to mitigate risk for them and help them overcome some of the compliance roadblocks we encountered in building and selling apps in healthcare.
-
-Tags: HIPAA
-
-Interlinking: <h2>Explore more topics on HIPAA. Visit our Content Archive on the Basics of HIPAA.</h2>
-<a href="http://content.catalyze.io/hipaa-basics">Content Archive</a>

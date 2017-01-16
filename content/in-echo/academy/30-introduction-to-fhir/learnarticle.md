@@ -90,6 +90,3 @@ ADT (and other HL7) messages were crafted with care to support hospital and anci
 ### Summary
 
 Overall, FHIR has a lot going for it. There are gaps, but they are neither unexpected nor insurmountable. Stay tuned for updates as the FHIR standard evolves.
-
-Interlinking: <h2>Explore more topics on FHIR. Visit our Content Archive on the Basics of FHIR.</h2>
-<a href="http://content.catalyze.io/fhir-basics">Content Archive</a>

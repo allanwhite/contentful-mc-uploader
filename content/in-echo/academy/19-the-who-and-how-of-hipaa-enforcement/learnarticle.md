@@ -5,6 +5,10 @@ Seotitle: The Who and How of HIPAA Enforcement
 
 Date: 11/13/2015
 
+Tags: HIPAA
+
+Author: travis
+
 ---
 When people talk or write about HIPAA, it's always presumed that there's an enforcement aspect, though enforcement is rarely explicitly discussed. As much as people and organizations value the privacy and security of the personal health information of their customers (patients, members, users/consumers), the fear of fines and other penalties are the major drivers of compliance and security efforts. Penalties, whether fines or otherwise, are quantifiable, and expose organizations to very real financial risk if proper controls, both tech and policy, aren't put into place and followed.
 
@@ -29,9 +33,3 @@ Previous to these new rules, the fine associated with each HIPAA violation was c
 In certain extreme HIPAA cases, individuals can be exposed to criminal risk as well. When criminal action is involved with HIPAA, the OCR hands the case off to The Department of Justice. Individuals are at risk of criminal enforcement and penalties if they "knowingly" obtain, disclose, or use PHI "in violation" of HIPAA rules. You can read a very detailed, legal opinion on what [constitutes](http://www.justice.gov/olc/hipaa_final.htm) legal vs civil in the case of HIPAA. There is a lengthy discussion of the terms "knowingly" and "in violation" in that document, which is why we put them in quotes.
 
 In addition to the OCR, and the Department of Justice to a lesser extent, recently the FCC has waded into enforcing the privacy of health data through its mandate to protect consumers. The financial penalties from the FCC are lower than those from the OCR; but, the FCC has the power to require annual privacy audits, as it has done with companies like Google and Facebook, and these audits, over time, have the potential to be very expensive for companies. This move by the FCC is new, and still making its way through the courts, so it's still uncertain how the FCC will fit with HIPAA enforcement.
-
-Tags: HIPAA
-
-Author: travis
-
-Interlinking: 

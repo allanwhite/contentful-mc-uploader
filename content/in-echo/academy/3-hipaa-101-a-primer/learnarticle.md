@@ -5,6 +5,10 @@ Seotitle: HIPAA 101 - A primer
 
 Date: 02/07/2015
 
+Tags: HIPAA
+
+Author: travis
+
 ---
 This article assumes no prior knowledge of HIPAA and is meant to present a very high level snapshot of what HIPAA is and who it impacts.
 
@@ -33,10 +37,3 @@ The other aspects of HIPAA that are relevant as a starting point are the types o
 2. **Business Associates**. These, most likely you if you're reading this, are entities that provide services to covered entities and through those services access, transmit, process, or store PHI. Changes to HIPAA that went into effect in the fall of 2013 expanded the definition of business associate to include "subcontractors", or entities that provide services to business associates. A simple use case - a developer that builds a PHR for a hospital is a business associate, and the hosting provider that developer uses (ideally Catalyze) is a subcontractor. The developer signs a BAA with the hospital and as well as with the hosting provider, again ideally Catalyze.
 
 So that's our intro. You now know more about HIPAA that 99.9% of the population. The rest of our articles go into much more depth on these topics but this is a great place to start.
-
-Tags: HIPAA
-
-Author: travis
-
-Interlinking: <h2>Explore more topics on HIPAA. Visit our Content Archive on the Basics of HIPAA.</h2>
-<a href="http://content.catalyze.io/hipaa-basics">Content Archive</a>

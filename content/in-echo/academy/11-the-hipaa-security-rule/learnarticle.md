@@ -7,6 +7,8 @@ Author: adam
 
 Date: 02/13/2015
 
+Tags: HIPAA
+
 ---
 The HIPAA Security Rule operationalizes many of the standards set out in the Privacy Rule. Specifically the Security Rule spells out, in various levels of detail, the ways in which electronic protected health information, or ePHI, needs to be protected. The Security Rule, despite setting implementation specifications, isn’t all that specific most of the time.
 
@@ -37,8 +39,3 @@ For access controls and logging, basically all activity of servers should be log
 Beyond the three areas above, there are a few miscellaneous requirements in the security rule. Those additional requirements relate to signing business associate agreements and having policies to, well, manage your policies.
 
 That's a very high high level overview of the Security Rule. You can see pretty detailed information about the Security Rule, and how we address the different specifications, on our HIPAA page.
-
-Tags: HIPAA
-
-Interlinking: <h2>Explore more topics on HIPAA. Visit our Content Archive on the Basics of HIPAA.</h2>
-<a href="http://content.catalyze.io/hipaa-basics">Content Archive</a>

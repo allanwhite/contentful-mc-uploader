@@ -226,6 +226,3 @@ Patients play a central role in many of the responses returned by resources. For
 ### Summary
 
 These are the general design principles that we have followed at Catalyze. These are guidelines based on our experience building RESTful APIs and gathered from multiple other sources. The key underlying principles being consistency and adherence with HTTP standards.
-
-Interlinking: <h2>Explore more topics on FHIR. Visit our Content Archive on the Basics of FHIR.</h2>
-<a href="http://content.catalyze.io/fhir-basics">Content Archive</a>

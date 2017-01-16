@@ -51,5 +51,4 @@ At Catalyze, we go several steps more to ensure our customers security and isola
 
 This is essentially no different from you managing your own set of containers on a IaaS provider. At Catalyze, our goal is to simplify infrastructure and compliance so that you can focus on your application features and your customers.
 
-Interlinking: <h2>Explore more topics on Healthcare Technology. Visit our Content Archive on the Basics of Health IT.</h2>
-<a href="http://content.catalyze.io/health-it-basics">Content Archive</a>
+Explore more topics on Healthcare Technology. Visit our Content Archive on the [Basics of Health IT](http://content.catalyze.io/health-it-basics)

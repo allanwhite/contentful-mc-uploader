@@ -5,6 +5,10 @@ Seotitle: HIPAA and Encryption
 
 Date: 03/23/2016
 
+Tags: HIPAA
+
+Author: adam
+
 ---
 Encryption is one of the standards that exist within the HIPAA Security Rule (164.312(a)(2)(iv)). Specifically encryption is used as a means of access control. HIPAA defines encryption as "the use of an algorithmic process to transform data into a form in which there is a low probability of assigning meaning without use of a confidential process or key". HIPAA goes to say “Implement a mechanism to encrypt and decrypt electronic protected health information".
 
@@ -17,10 +21,3 @@ The other aspect of encryption is encryption at rest. If you store data in some 
 There are other encryption tools you can use to improve performance in an encrypted environment. The newer Intel i5 and i7 chips can do AES-NI, which speeds up encryption considerably. AES-NI is what the makes the performance in FileVault2 encryption on new Macs so much better than the performance in previous versions. As part of our HIPAA workstation security policy, we require FileVault encryption on all company laptops. We also encrypt internal company passwords, SSH keys, and secure notes using Lastpass and 256-bit encryption. Decrypting Lastpass requires two-factor authentication through Duo Security.
 
 Encryption strategy is something you need to think about. This means more than just encrypting, it means how are you going to securely manage keys and maintain performance of your technology. We're happy to talk to you more about how we take care of all aspects of encryption, from in-transit to at-rest to key management to performance, for our customers.
-
-Tags: HIPAA
-
-Author: adam
-
-Interlinking: <h2>Explore more topics on HIPAA. Visit our Content Archive on the Basics of HIPAA.</h2>
-<a href="http://content.catalyze.io/hipaa-basics">Content Archive</a>

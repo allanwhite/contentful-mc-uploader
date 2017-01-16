@@ -7,6 +7,8 @@ Date: 03/02/2015
 
 Tags: HIPAA
 
+Author: travis
+
 ---
 > I remember the time I was kidnapped and they sent a piece of my finger to my father. He said he wanted more proof. - Rodney Dangerfield
 
@@ -247,8 +249,3 @@ In the end, the path you choose to prove HIPAA is up to you and will be driven b
 
 
 If you're interested in learning more about how we can help with the technical aspects of HIPAA, don't hesitate to [email us](mailto:hello@catalyze.io). If you have specific questions about any of this, please let us know and we'd be happy to respond.
-
-Author: travis
-
-Interlinking: <h2>Explore more topics on HIPAA. Visit our Content Archive on the Basics of HIPAA.</h2>
-<a href="http://content.catalyze.io/hipaa-basics">Content Archive</a>

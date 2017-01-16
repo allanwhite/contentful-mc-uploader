@@ -23,6 +23,3 @@ HIPAA requires that business associates and covered entities retain the followin
 - Accounting of disclosures of protected health information (PHI).
 
 In addition to understanding what HIPAA requires for retention, covered entities and business associates must also know their other legal requirements for retention, from state, federal, international and contractual requirements. For example, Connecticut state law requires that medical records, some of which go beyond HIPAA’s definition of PHI, be maintained for 7 years.
-
-Interlinking: <h2>Explore more topics on HIPAA. Visit our Content Archive on the Basics of HIPAA.</h2>
-<a href="http://content.catalyze.io/hipaa-basics">Content Archive</a>

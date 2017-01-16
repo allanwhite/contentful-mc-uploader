@@ -9,8 +9,6 @@ Date: 05/11/2016
 
 Tags: HL7
 
-Interlinking: 
-
 ---
 The Medical Document Management (MDM) message is a commonly used HL7 message type that provides information about new or updated notes or documents. Per the HL7 standard, it's main purpose is "to produce an accurate, legal, and legible document that serves as a comprehensive account of healthcare services provided to a patient".
 

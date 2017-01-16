@@ -193,6 +193,3 @@ If you are considering or have completed a HITRUST assessment, feel free to [rea
 [7]:	mailto:hipaa@catalyze.io
 
 [8]:	https://hitrustalliance.net/content/uploads/2014/04/BA-1-Understand-the-CSF-and-CSF-Assurance-Program.pdf
-
-Interlinking: <h2>Explore more topics on HITRUST. Visit our Content Archive on the Basics of HITRUST.</h2>
-<a href="http://content.catalyze.io/hitrust-basics">Content Archive</a>

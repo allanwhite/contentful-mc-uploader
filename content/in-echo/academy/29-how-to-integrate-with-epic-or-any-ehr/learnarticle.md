@@ -6,7 +6,7 @@ Seotitle: How to integrate with Epic (or any EHR)
 Date: 04/19/2016
 
 Tags: HL7
-
+Author: mark
 ---
 You did it! You made your first big sale to a hospital. Your product is live. You proved your efficacy, and the impact with clinicians and patients is evident. To reduce double documentation or improve your application, your customer wants to receive data from the EHR. You'll need to work with a project team, sometimes 200-persons large, while mastering a new skillset.
 
@@ -50,34 +50,34 @@ It's also worth noting that the process of getting data in or out the EHR doesn'
 
 ### The Process
 
-<div class="ctz-hl7-projectplan-container cf">
-<div class="ctz-hl7-projectplan-txt">
-<p>Assuming other dependencies move at the same speed, typically we can execute on a project plan in 30 days.</p>
-<p>To give you an understanding of our project planning process, we have made available our HL7 Project Plan. To download, fill out this form. We ask for your details so one of our HL7 lead engineers can personally reach out to see there is any help Catalyze can lend, or questions we can answer.</p>
-<p>We are always interested in learning and improving, so if you have feedback about the project plan, shoot us an email at <a href="mailto:hello@catalyze.io">hello@catalyze.io</a>.</p>
-</div>
-<div class="ctz-hl7-signup-form">
-	<div class="ctz-signup-form">
-			<div class="ctz-hl7-signup-form-header">
-				<h3>Download a free copy of our HL7 Project Plan</h3>
+	<div class="ctz-hl7-projectplan-container cf">
+	<div class="ctz-hl7-projectplan-txt">
+	<p>Assuming other dependencies move at the same speed, typically we can execute on a project plan in 30 days.</p>
+	<p>To give you an understanding of our project planning process, we have made available our HL7 Project Plan. To download, fill out this form. We ask for your details so one of our HL7 lead engineers can personally reach out to see there is any help Catalyze can lend, or questions we can answer.</p>
+	<p>We are always interested in learning and improving, so if you have feedback about the project plan, shoot us an email at <a href="mailto:hello@catalyze.io">hello@catalyze.io</a>.</p>
+	</div>
+	<div class="ctz-hl7-signup-form">
+		<div class="ctz-signup-form">
+				<div class="ctz-hl7-signup-form-header">
+					<h3>Download a free copy of our HL7 Project Plan</h3>
+				</div>
+				<!--[if lte IE 8]>
+				<script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/v2-legacy.js"></script>
+				<![endif]-->
+				<script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/v2.js"></script>
+				<script>
+				  hbspt.forms.create({
+				    css: '',
+				    portalId: '1695915',
+				    formId: 'b93518dd-13d6-4c79-b801-55df57615be6',
+				    cssClass: 'ctz-signup-form-items',
+				    submitButtonClass: 'btn-brand',
+				    errorMessageClass: 'ctz-form-error'
+				  });
+				</script>
 			</div>
-			<!--[if lte IE 8]>
-			<script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/v2-legacy.js"></script>
-			<![endif]-->
-			<script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/v2.js"></script>
-			<script>
-			  hbspt.forms.create({
-			    css: '',
-			    portalId: '1695915',
-			    formId: 'b93518dd-13d6-4c79-b801-55df57615be6',
-			    cssClass: 'ctz-signup-form-items',
-			    submitButtonClass: 'btn-brand',
-			    errorMessageClass: 'ctz-form-error'
-			  });
-			</script>
-		</div>
-</div>
-</div>
+	</div>
+	</div>
 
 ### The Stack
 
@@ -105,11 +105,5 @@ Because there is so much more to do. It takes plenty of specialized experience t
 
 We want to make interoperability easier for everyone. Look forward to more open-sourced advice and documentation in the future.
 
-
 [1] There isn't always a clean line between Outpatient/Inpatient applications. There may be "outpatient" clinics in a hospital, which may use multiple systems. When in doubt, let the hospital pull in the right people.
 [2] There are many new Epic apps and integrations possible every year. The ones listed are amongst the most common apps and integrations, but the list is not inclusive or wholly complete. If you're not sure who is responsible for a specific integration, it's best to lean on your operational owner/project manager who needs to be involved to get something done.
-
-Author: mark
-
-Interlinking: <h2>Explore more topics on HL7. Visit our Content Archive on the Basics of HL7.</h2>
-<a href="http://content.catalyze.io/hl7-basics">Content Archive</a>

@@ -5,6 +5,10 @@ Seotitle: HIPAA Risk Assessment and Management
 
 Date: 01/12/2016
 
+Tags: HIPAA
+
+Author: travis
+
 ---
 Probably the first thing to consider when going down the path of compliance, or really the first thing to think about regarding security holistically, is to perform a risk assessment. A risk assessment is a requirement of HIPAA and it's really the first thing that should be done. The reason it's so important is because it frames many of the rest of the decisions you make regarding your security posture.
 
@@ -21,10 +25,3 @@ For us we map vulnerabilities specifically to HIPAA rules related to protection 
 Once you know the infrastructure, risks, and threats/vulnerabilities, the next steps is to mitigate the risks that exist and have not been fully mitigated by current security controls. Not all risks can be 100% mitigated. There are typically gaps in almost all risk assessments, because if you do a risk assessment you will get a ton of different variables - not just the obvious ones at the top of your head right now. And from those risks, there are typically are some gaps that need to be mitigated. It's imperative that you come up with a mitigation strategy. What can you do that is reasonable and appropriate to mitigate risks to ePHI? From there you need to implement those mitigation strategies and documenting thoroughly. Documentation is not fun but has to be done in a compliant industry like healthcare.
 
 We follow all of the steps above using a spreadsheet with sheets for each step. That's the way that we do ours, and we do ours both annually as well as on an ongoing basis, when there are changes to our core infrastructure. We use NIST standards ([NIST800-30](http://csrc.nist.gov/publications/nistpubs/800-30/sp800-30.pdf) and [800-26](http://www.nist.org/nist_plugins/content/content.php?content.32)) as the model for our [risk assessment](https://catalyze.io/hipaa#security-management-process---164.308(a)(1)(i)) at Catalyze. We're more than happy to share the spreadsheets and the steps and processes that we use to do that. If you want to reach out to us we can help you with that process. But that really is the first step that you need to do because that helps you really understand where your major gaps are. And which things you need to do, to implement or mitigate the risk that you have within, and the threats that you have to your infrastructure and to PHI -  that you're storing a processing or whatever it might be for covered entity.
-
-Tags: HIPAA
-
-Author: travis
-
-Interlinking: <h2>Explore more topics on HIPAA. Visit our Content Archive on the Basics of HIPAA.</h2>
-<a href="http://content.catalyze.io/hipaa-basics">Content Archive</a>

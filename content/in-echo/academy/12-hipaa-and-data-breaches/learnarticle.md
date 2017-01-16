@@ -5,6 +5,10 @@ Seotitle: HIPAA and Data Breaches
 
 Date: 04/14/2016
 
+Tags: HIPAA
+
+Author: travis
+
 ---
 One of the most important aspects of HIPAA has nothing to do with technical security like encryption or backup or logging or any of other requirements for securing data. What's important is what happens in the case of an unauthorized disclosure of ePHI, or a breach of ePHI. A breach is defined as unauthorized exposure of ePHI or disclosure that's not authorized or allowed under the HIPAA Privacy Rule. The breach rules were amended in 2013 as part of the HITECH Act.
 
@@ -21,10 +25,3 @@ The policies should be consistent with what is in the requirements of a business
 Breach policy and breach notification are things that are extremely important. There are templates for breach notification, but the policy alone does not mitigate risk. There needs to be an understanding within the organization, business associate or covered entity, of what a breach is and what the breach policy is. There also need to be auditing and logging and other systems (IDS) in place to detect and investigate a breach. Detecting the breach is often the challenge which is why having a comprehensive audit log is necessary and more importantly, being able to generate alerts off the log is critical. Look for something from us to help you address this problem shortly.
 
 At Catalyze we have [both](https://catalyze.io/hipaa#hitech-act-and-omnibus-rule:-it-security-provisions) a breach policy and a breach checklist that we can follow in the case of a breach. We've mock tested this policy and checklist to assure it makes sense and all relevant workforce members understand their roles. If you want to learn more about our policies for handling breaches, please just [ask](mailto:hello@catalyze.io).
-
-Tags: HIPAA
-
-Author: travis
-
-Interlinking: <h2>Explore more topics on HIPAA. Visit our Content Archive on the Basics of HIPAA.</h2>
-<a href="http://content.catalyze.io/hipaa-basics">Content Archive</a>

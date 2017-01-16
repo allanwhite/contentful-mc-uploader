@@ -5,6 +5,10 @@ Seotitle: What is Protected Health Information or PHI?
 
 Date: 04/17/2015
 
+Tags: HIPAA
+
+Author: mohan
+
 ---
 **The acronym**: PHI stands for **P**rotected **H**ealth **I**nformation - not personal health information (although that's in essense what it implies), not personally identifiable health information (I've seen it used although that would technically be PIHI) and I'm sure there are variants of this that you've heard as well.
 
@@ -59,10 +63,3 @@ These 18 elements are the core set of data elements that individually or in comb
 ### Designing HIPAA compliant solutions
 
 Given the above constraints, it is essential that any application that you design takes these anonymization and/or de-identification requirements into account before any data is shared with any external entity. PHI data can be "shared" with an external entity provided you have BAA ([business associate agreement](http://healthcare.partners.org/phsirb/hipaaglos.htm#g7)) in place and the individual has signed the appropriate consent documents. How PHI needs to be managed under HIPAA is a whole topic in itself. Look for a blog post from us shortly describing how we enable HIPAA compliance and simplify adherence to the letter and spirit of the law at [Catalyze](https://catalyze.io/).
-
-Tags: HIPAA
-
-Author: mohan
-
-Interlinking: <h2>Explore more topics on HIPAA. Visit our Content Archive on the Basics of HIPAA.</h2>
-<a href="http://content.catalyze.io/hipaa-basics">Content Archive</a>

@@ -5,6 +5,9 @@ Seotitle: HL7 201 - The Admission, Discharge, Transfer (ADT) Message
 
 Date: 02/25/2014
 
+Tags: HL7
+
+Author: mohan
 ---
 The ADT message is one of the most common messages in HL7. It covers a lot of use cases such as admissions, cancellation of admits, merging of patient data etc. This is the reason why there is such a long list of possible events / message types that could be sent. The full list for the HL7 v2.3.1 is shown below.
 
@@ -158,9 +161,5 @@ Painful, isn't it? Well, the good thing is that there are open source parsers th
 
 If you’re looking to integrate EHR data with your application without becoming an HL7 expert, Catalyze can help. Learn more about our hosted, HIPAA-compliant HL7 integration platform [here](https://catalyze.io/hl7/).
 
-Tags: HL7
-
-Author: mohan
-
-Interlinking: <h2>Looking for further help on integrating an ADT Registration feed with an EHR? Check out these helpful articles.</h2>
+<h2>Looking for further help on integrating an ADT Registration feed with an EHR? Check out these helpful articles.</h2>
 <a href="http://content.catalyze.io/adt-registration-integration-help">ADT Integration Help</a>

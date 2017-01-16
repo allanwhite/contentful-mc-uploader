@@ -9,8 +9,6 @@ Date: 05/17/2016
 
 Tags: Healthcare
 
-Interlinking: 
-
 ---
 There is confusion in the industry around MACRA, MIPs, and APMs. It begs the question, Is Meaningful Use dead? The confusion is justified as the topic is both broad and dense, especially since we’ve been operating in a world of acronyms under the “Medicare EHR incentive program”—more commonly called Meaningful Use—for years.
 

@@ -5,6 +5,10 @@ Seotitle: HL7 102 - Anatomy of an HL7 message
 
 Date: 03/11/2016
 
+Tags: HL7
+
+Author: mohan
+
 ---
 In the [previous entry](/learn/hl7-101-a-primer/), we gave you a quick introduction to HL7 and its design - message types, segments and code sets. What I've come to also appreciate as I delved deeper into HL7 is that for all its perceived faults, it has more than served its purpose of standardization of communication of clinical and administrative data amongst disparate applications.
 
@@ -13,6 +17,7 @@ One can argue about problems arising because of the lack of standardization of c
 With that said, in this post, we'll delve deeper into HL7 so that you can better understand how an HL7 message is constructed.
 
 ### The overall structure of an HL7 message
+
 Think of an HL7 message as an envelope. It contains various segments (pieces of data) which are (usually) patient oriented and triggered based on specific events (admits, lab results, procedures, discharge etc.) and communicate relevant information about that triggered event.
 
 There are a lot of message types - 76 in v2.3 and 85 in v2.3.1 and even more now. The key ones to remember were also listed in my [previous entry](/learn/hl7-101-a-primer/). An HL7 message is constructed with:
@@ -82,10 +87,3 @@ MSH     Message Header
 Hope that gave you a deeper insight into HL7. In the next post, we'll take an actual HL7 message - the ADT - and break it down to help you understand how it's constructed exactly.
 
 If you’re looking to integrate EHR data with your application without becoming an HL7 expert, Catalyze can help. Learn more about our hosted, HIPAA-compliant HL7 integration platform [here](/hl7).
-
-Tags: HL7
-
-Author: mohan
-
-Interlinking: <h2>Explore more topics on HL7. Visit our Content Archive on the Basics of HL7.</h2>
-<a href="http://content.catalyze.io/hl7-basics">Content Archive</a>

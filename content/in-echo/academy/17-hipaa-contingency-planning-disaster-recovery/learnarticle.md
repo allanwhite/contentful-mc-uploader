@@ -5,6 +5,10 @@ Seotitle: HIPAA Contingency Planning + Disaster Recovery
 
 Date: 09/16/2015
 
+Tags: HIPAA
+
+Author: travis
+
 ---
 The HIPAA rules place great weight on the integrity of protected-health information. The reason is that protected-health information is something that's important for somebody's health - if they were to be in an accident or they were to need health services, the ability to look back at their health information, an informed clinical decision-making, management treatment, all of those things. Protected-health information is very, very important. As such, one of the required elements within the HIPAA security rule is around contingency planning.
 
@@ -29,9 +33,3 @@ Once you have a good backup strategy and plan in place that you've implemented, 
 Disaster recovery and actual backups are something that's very important, and both are things that are not that fun to do. It takes time, and there are resources that need to be dedicated to actual backups. With Catalyze we work with you to solve that section of HIPAA. We have a backup process that we can quickly implement unless you already have one in place or would like to incorporate what you've already set up in to the process we have.  We have a very detailed contingency plan that covers all the elements outlines above. We assure that if something happens to your infrastructure, which we are managing for you, that we can stand it back up in the case of a disaster.
 
 When it comes to the contingency-plan requirement, not only do we meet the technical safeguards and provide you with the technical infrastructure and the tools pre-built to do it, we also have the policy in place for it; and our policy has been assessed by a third party auditor. As an organization and Catalyze customer, if you're developing your own HIPAA policies, you can inherit or use our disaster recovery policy in its entirety. It is essentially your DR policy.
-
-Tags: HIPAA
-
-Author: travis
-
-Interlinking: 

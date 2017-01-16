@@ -4,7 +4,7 @@ Title: HL7 203 - The HL7 ORM (Order Entry) message
 Seotitle: HL7 203 - The HL7 ORM (Order Entry) message
 
 Author: mohan
-
+Tags: HL7
 Date: 09/02/2014
 
 ---
@@ -138,7 +138,4 @@ It's not pretty, but it's the way healthcare orders are passed from system to sy
 
 If you're looking to integrate EHR data with your application without becoming an HL7 expert, Catalyze can help. Learn more about our hosted, HIPAA-compliant HL7 integration platform [here](https://catalyze.io/hl7/).
 
-Tags: HL7
-
-Interlinking: <h2>Looking for further help on integrating an ORM (Orders, Procedures) feed with an EHR? Check out these helpful articles.</h2>
-<a href="http://content.catalyze.io/orm-orders-procedures-integration-help">ORM Integration Help</a>
+Looking for further help on integrating an ORM (Orders, Procedures) feed with an EHR? Check out [ORM Integration Help](http://content.catalyze.io/orm-orders-procedures-integration-help)

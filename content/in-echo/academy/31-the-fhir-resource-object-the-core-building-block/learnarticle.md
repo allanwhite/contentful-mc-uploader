@@ -583,6 +583,3 @@ Every resource consists of the following:
 * **Tags** — Such as security labels which can include ACLs, workflow specific functions, etc. This is optional. It is also under design.
 
 While the FHIR spec is calcifying, no doubt additions and subtractions are on the horizon. Stay tuned for updates.
-
-Interlinking: <h2>Explore more topics on FHIR. Visit our Content Archive on the Basics of FHIR.</h2>
-<a href="http://content.catalyze.io/fhir-basics">Content Archive</a>

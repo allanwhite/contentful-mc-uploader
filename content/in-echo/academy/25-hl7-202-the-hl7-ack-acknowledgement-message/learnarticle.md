@@ -3,12 +3,16 @@ Title: HL7 202 - The HL7 ACK (Acknowledgement message)
 
 Seotitle: HL7 202 - The HL7 ACK (Acknowledgement message)
 
+Tags: HL7
+
+Author: mohan
+
 Date: 03/04/2014
 
 ---
 The HL7 acknowledgement message, or ACK, is critical to ensure that ongoing HL7 communication proceeds smoothly. The concept of an [ACK](http://en.wikipedia.org/wiki/Acknowledgement_(data_networks)) is commonly used in many data networks protocols, including TCP, so you are likely familiar with it. Although conceptually simple (receiving system acknowledges receipt for specific message sent from sending system), there are a couple of nuances (enhanced mode, rate limiting) with HL7 ACK that make covering this topic worthwhile.
 
-##The structure of an ACK message
+## The structure of an ACK message
 Let's take a quick look at how an ACK message is created.
 
 Let's say an inbound HL7 ADT (Admit, Discharge, Transfer) message came in with the following MSH (message header).
@@ -27,7 +31,7 @@ Note the following:
 
 Seems pretty straightforward but as you will see, the rules utilized to come up with this simple message can be pretty complicated.
 
-##The need for the ACK message
+## The need for the ACK message
 
 The need for acknowledgements is best understood when we know that:
 
@@ -40,16 +44,16 @@ So, if an event happens in one system (patient is admitted), then that event has
 2. the message is valid based on HL7 processing rules (more on this in a minute); and optionally
 3. the message data has been taken into a transient store like a processing queue or permanent store like a database (more on this in a minute as well).
 
-##Types of ACK messages and associated processing rules
+## Types of ACK messages and associated processing rules
 
 As you can see, the ACK message is **not** like the delivery acknowledgement you get when you send an email or text message - it's not a "I got it" message. One can specify whether original or enhanced processing rules are to be applied to the message. Based on this specification, the inbound message is processed differently and a different kind of ACK message is sent back. The ACK message and the associated processing rules are defined based on the MSH (message header) segment content (more details on the MSH segment was discussed in an [earlier post](http://catalyze.io/blog/hl7/HL7-201-the-admission-discharge-transfer-adt-message/)).
 
-###Original mode
+### Original mode
 Original mode processing is indicated if both the 15th and 16th fields of the MSH segment of the inbound message is null or empty.
 
 Any inbound message with an MSH segment indicating original mode processing will be validated for correct syntax and goes through a two step process:
 
-###STEP 1 - Protocol validation
+### STEP 1 - Protocol validation
 
 This is used to to assure that:
 
@@ -59,14 +63,14 @@ This is used to to assure that:
 
 If any of these checks fail, the protocol software will reject the message with an ACK message containing "AR" in the acknowledgment code field (MSA-1). If it doesn't fail, it passes the message to the application.
 
-###STEP 2 - Application validation
+### STEP 2 - Application validation
 The application validation checks are:
 
 1. if the application processes the message successfully, it will generate the functional response message with a value of AA in acknowledgment code (MSA-1);
 2. or the application will send an error response, with a value of AE in acknowledgment code (MSA-1);
 3. if the application fails to process (reject) the message because of system uptime or other reasons and not for format or validation errors. The response message contains a value of AR in acknowledgment code (MSA-1). The message can sometimes be re-sent later but that is up to the sending system and the implementation to figure out.
 
-##Enhanced mode
+## Enhanced mode
 Enhanced mode processing is indicated if at least one of the 15th and 16th fields of the MSH segment of the inbound message is not null. Enhanced mode requires that the receiving application take on additional responsibility namely that:
 
 1. the inbound message is received and stored;
@@ -79,10 +83,10 @@ Based on these rules, the receiving system will send
 2. a commit reject (CR) as above; or
 3. a commit error (CE) for any other error.
 
-###Custom ACK
+### ustom ACK
 What is health IT without some customization? Not surprisingly, it is possible to send a Non-HL7/Static String ACK. This is a custom acknowledgement and is simply a text string (rather than an HL7-formatted ACK). These types of ACKs are used when an inbound system is incapable of receiving HL7 formatted messages or creating them.
 
-##Rate limiting with ACK messages
+## Rate limiting with ACK messages
 
 The HL7 standard defines that the sending systems cannot send another message to a system until it has received an ACK in response. Actually, that is not quite correct (thanks for a reader for pointing this out to us). It is not part of the HL7 specification. It is usually the way the HL7 systems are implemented in *practice* to ensure messages are handled appropriatelt.  This was done, one presumes, to ensure that if messages are rejected due to errors in content, message formats, system downtime etc., they can be corrected either at the source or queued until the destination system comes back up. But as you can immediately see, if the next message won't be sent until an ACK is received, it is possible to slow down the rate of inbound messages by delaying the sending of the ACK message. Since processing of HL7 messages using open source tools have challenges when inbound message rates become high, this is one of the levers that is available to implementers to ensure messages are received and processed appropriately.
 
@@ -98,9 +102,3 @@ In 2.7, a new field was added to the 15th segment of the MSH segment of the ACK 
 Now you know as much as I do about ACKs. Go forth and prosper..
 
 If you’re looking to integrate EHR data with your application without becoming an HL7 expert, Catalyze can help. Learn more about our hosted, HIPAA-compliant HL7 integration platform [here](https://catalyze.io/hl7/).
-
-Tags: HL7
-
-Author: mohan
-
-Fullname: Mohan Balachandran
