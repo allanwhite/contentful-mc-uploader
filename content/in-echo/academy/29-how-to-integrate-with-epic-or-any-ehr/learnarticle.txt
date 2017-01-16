@@ -6,7 +6,7 @@ Date: 04/19/2016
 
 Type: HL7
 
-Post: |
+---
 You did it! You made your first big sale to a hospital. Your product is live. You proved your efficacy, and the impact with clinicians and patients is evident. To reduce double documentation or improve your application, your customer wants to receive data from the EHR. You'll need to work with a project team, sometimes 200-persons large, while mastering a new skillset.
 
 What needs to be done? Lets walk through the names, the players and the timelines of delivering your first integration with Epic Systems EHR (EpicCare) or any other EHR like Cerner or Allscripts.

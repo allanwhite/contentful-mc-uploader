@@ -4,7 +4,7 @@ Seotitle: HL7 101 - A primer
 
 Date: 03/16/2016
 
-Post: |
+---
 HL7 (Health Language 7) is a "standard" utilized by the healthcare industry to enable messaging between applications i.e. EHR to PMS (practice management system) for example. It is managed and maintained by [Health Level Seven International (HL7)](http://hl7.org) which is a not-for-profit, ANSI-accredited standards developing organization. The HL7 standard is often jokingly referred to as the “non-standard standard.” This is not very fair but it does reflect the fact that almost every hospital, clinic, imaging center, lab, and care facility is “special” in terms of how it implements HL7 (really?, why?). The reason is primarily because there is no such thing as a standard business or clinical process for interacting with patients, clinical data, or related personnel.
 
 The HL7 messaging protocol was designed to facilitate high volumes of pre-defined data to be shared across many applications reliably. The protocol selected to make this happen was a traditional file transfer or a TCP/IP **socket** in both a real-time and batched fashion. HL7 v2.x message structure is complex, flat, and delimited. HL7 has obviously evolved over time. The current version of HL7 is v3.0. However, older versions exist and make up the bulk of the standard used today primarily because of the  large number customizations that have been done to each HL7 message.

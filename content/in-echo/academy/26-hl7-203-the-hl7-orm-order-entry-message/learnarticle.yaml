@@ -6,7 +6,7 @@ Author: mohan
 
 Date: 09/02/2014
 
-Post: |
+---
 The Order Entry (ORM) message is one of the most commonly used HL7 message type. ORM messages contain information about an order. This includes placing new orders, canceling existing orders, discontinuation, holding, etc. Orders pertain to either materials (e.g., 1 liter of 0.9% saline) or services (e.g., a blood panel, etc.). Usually this is patient specific. The trigger event for this message is any change to an order i.e. order is created, modified, cancelled, put on hold and so on.
 
 Before we jump into ORM messages, a quick review might be in order. As we've discussed [before](https://catalyze.io/learn/hl7/), HL7 has many message types which can be very daunting. It's not only that there are messages but also that there are types of HL7 messages which are geared towards handling specific events. Admission, Discharge, Transfer (ADT) messages are sent when patient's are admitted, discharged or otherwise moved around the hospital. Scheduling (SIU) messages schedule and update appointments in clinics. Order Entry (ORM) messages are sent when orders are placed or edited and Order Result (ORU) messages are sent back with results that correspond to the original ORM message. These are the most common HL7 message types; most other workflows, like updating flowsheets or filing visit notes, use some combination of segments from these message types to accomplish their goals. Since we already covered the ADT message in detail [here](https://catalyze.io/learn/hl7/hl7-201-the-admission-discharge-transfer-adt-message/), we thought we could move onto the Order Entry (ORM) message.

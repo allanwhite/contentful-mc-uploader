@@ -4,7 +4,7 @@ Seotitle: HIPAA and Encryption
 
 Date: 03/23/2016
 
-Post: |
+---
 Encryption is one of the standards that exist within the HIPAA Security Rule (164.312(a)(2)(iv)). Specifically encryption is used as a means of access control. HIPAA defines encryption as "the use of an algorithmic process to transform data into a form in which there is a low probability of assigning meaning without use of a confidential process or key". HIPAA goes to say “Implement a mechanism to encrypt and decrypt electronic protected health information".
 
 When we talk about encryption in HIPAA, it means both encryption in transit, or data moving from point A (app) to point B (server/DB), as well as encryption at rest, or on the hard drive. Encryption is straightforward. It's become industry practice not just in healthcare, but generally - with web services and even increasingly websites - to use SSL and encryption during transmission. With HIPAA, it's important that you do end-to-end encryption - from app to firewall to app server to database server, or logging server even. That means every step along the way from origination to delivery.

@@ -6,7 +6,7 @@ Author: travis
 
 Date: 04/05/2016
 
-Post: |
+---
 This post is part an answer to a question on Quora about HIPAA and different types of hosted infrastructure options. You can read more on Quora [here](http://www.quora.com/Health-Insurance-Portability-and-Accountability-Act-HIPAA/Becoming-HIPAA-Compliant-Should-you-use-a-Backend-As-A-Service-or-a-HIPAA-Server-Why).
 
 To start, and for full disclosure, I'm the co-founder of Catalyze. At Catalyze we offer APIs for developers looking to add HIPAA-compliant hosted infrastructure to web and mobile apps. We take a different approach from either of the two examples cited, and we believe we have good reasons from a risk mitigation and app functionality standpoint. Mapping Catalyze to the various aspects of HIPAA, we currently address technical and physical requirements, and will be very shortly adding a tool to address the administrative and policy safeguards; for this last part (admin and policy), we needed a tool internally to proactively address the admin and policy rules of HIPAA and, after building it, we've been asked by multiple customers if we could offer it as a service, so we are - HIPAAboard.com.

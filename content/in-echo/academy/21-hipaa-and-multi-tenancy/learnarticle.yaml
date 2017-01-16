@@ -8,7 +8,7 @@ Date: 09/09/2015
 
 Type: HIPAA
 
-Post: |
+---
 ### Multi tenancy is a key security design requirement
 
 Catalyze provides [HIPAA compliant](https://catalyze.io/compliance) and [HITRUST CSF Certified](https://catalyze.io/compliance/hitrust) [hosting](https://catalyze.io/paas) and [integration](https://catalyze.io/hl7) solutions for a variety of customers. These HIPAA and HITRUST audits have been performed by a national third party ([*Coalfire*)](https://coalfire.com). In the case of HITRUST, we have been through additional scrutiny in the context by the certifying authority, namely [HITRUST](https://hitrustalliance.net).

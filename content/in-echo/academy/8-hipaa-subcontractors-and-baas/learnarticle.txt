@@ -4,7 +4,7 @@ Seotitle: HIPAA, Subcontractors, and BAAs
 
 Date: 08/21/2015
 
-Post: |
+---
 Our mission is to help developers build health apps and technology. Specifically we want to offer tools and services to deal with the security and data challenges in healthcare. The major part of security in healthcare is HIPAA, and the HIPAA rules changed in late 2013 in ways that we've been planning for at Catalyze. The new HIPAA Omnibus ("omnibus" means something with several volumes or chapters, I didn't know that so I looked it up and thought I'd share) rules that went into effect on 9/23, amongst other changes, created a category of entities called subcontractors.
 
 Previously HIPAA rules only defined two categories of entities - covered entities and business associates. Covered entities are basically providers, payers, and clearinghouses. Business associates are basically entities that work with covered entities to perform a service or services to store, transmit, and/or process PHI. The new HIPAA rules expanded the number of categories of entities by 50% with the addition of subcontractors; for those of us in health tech, we think this is a pretty big deal.

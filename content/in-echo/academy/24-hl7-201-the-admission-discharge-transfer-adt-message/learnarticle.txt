@@ -4,7 +4,7 @@ Seotitle: HL7 201 - The Admission, Discharge, Transfer (ADT) Message
 
 Date: 02/25/2014
 
-Post: |
+---
 The ADT message is one of the most common messages in HL7. It covers a lot of use cases such as admissions, cancellation of admits, merging of patient data etc. This is the reason why there is such a long list of possible events / message types that could be sent. The full list for the HL7 v2.3.1 is shown below.
 
 |Segment ID | Description|

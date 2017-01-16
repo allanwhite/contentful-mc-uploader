@@ -4,7 +4,7 @@ Seotitle: HIPAA Risk Assessment and Management
 
 Date: 01/12/2016
 
-Post: |
+---
 Probably the first thing to consider when going down the path of compliance, or really the first thing to think about regarding security holistically, is to perform a risk assessment. A risk assessment is a requirement of HIPAA and it's really the first thing that should be done. The reason it's so important is because it frames many of the rest of the decisions you make regarding your security posture.
 
 In the words of HHS - "Conducting a risk analysis is the first step in identifying and implementing safeguards that comply with and carry out the standards and implementation specifications in the Security Rule. Therefore, a risk analysis is foundational..."

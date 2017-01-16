@@ -4,7 +4,7 @@ Seotitle: HIPAA Auditing and Logging
 
 Date: 10/09/2015
 
-Post: |
+---
 Auditing is an important part of the HIPAA Security Rule, but there not prescriptive controls around auditing. According to HIPAA Security Rule - 164.312(b):
 
 > Implement hardware, software, and/or procedural mechanisms that record and examine activity in information systems that contain or use electronic protected health information.

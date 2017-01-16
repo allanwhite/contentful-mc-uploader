@@ -4,7 +4,7 @@ Seotitle: HIPAA Contingency Planning + Disaster Recovery
 
 Date: 09/16/2015
 
-Post: |
+---
 The HIPAA rules place great weight on the integrity of protected-health information. The reason is that protected-health information is something that's important for somebody's health - if they were to be in an accident or they were to need health services, the ability to look back at their health information, an informed clinical decision-making, management treatment, all of those things. Protected-health information is very, very important. As such, one of the required elements within the HIPAA security rule is around contingency planning.
 
 Section 164.308(a)(7)(i) of the HIPAA Security Rule states:

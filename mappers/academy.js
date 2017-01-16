@@ -1,4 +1,4 @@
-
+// node ./index.js -C catalyze-config.json -c academy -m mappers/academy.js content/in-echo/academy/go/**/*.md --testing
 
 module.exports = function(file) {
     var authors = {

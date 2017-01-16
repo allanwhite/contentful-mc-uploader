@@ -10,7 +10,7 @@ Type: Healthcare
 
 Interlinking: 
 
-Post: |
+---
 
 
 The scoring in MIPS is based on a composite score across four dimensions, summarized as:

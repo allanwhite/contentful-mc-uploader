@@ -8,7 +8,7 @@ Date: 05/26/2015
 
 Type: FHIR
 
-Post: |
+---
 FHIR is based on API routes. What should the API route look like? The only legitimate link that a quick Google search produces is the Open Epic link. If you haven't already, I strongly recommend that you sign up [here](http://open.epic.com/).
 
 Epic has (for now, I'm sure, as they explore the new FHIR world) chosen to define the API structure as below:

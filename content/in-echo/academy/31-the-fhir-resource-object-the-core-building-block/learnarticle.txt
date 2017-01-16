@@ -8,7 +8,7 @@ Date: 05/26/2015
 
 Type: FHIR
 
-Post: |
+---
 To understand FHIR, you must understand the Resource object. This entry will help explain its origins and intent, then provide links to expand your understanding.
 
 First, a quote from the [FHIR website](http://www.hl7.org/fhir/):
