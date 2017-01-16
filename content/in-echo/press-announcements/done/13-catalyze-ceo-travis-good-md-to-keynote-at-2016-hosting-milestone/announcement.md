@@ -10,6 +10,7 @@ Tags: leadership, company
 Date: 02/01/2016
 
 ---
+
 ### Dr. Good provides latest regulation updates and their impact on the massive market of healthcare.
 
 MADISON, WI (PRWEB) FEBRUARY 01, 2016
