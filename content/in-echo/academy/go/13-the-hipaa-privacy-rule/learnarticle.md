@@ -1,8 +1,6 @@
 ---
 Title: "The HIPAA Privacy Rule"
 
-Seotitle: "The HIPAA Privacy Rule"
-
 Date: 02/20/2016
 
 Tags: HIPAA

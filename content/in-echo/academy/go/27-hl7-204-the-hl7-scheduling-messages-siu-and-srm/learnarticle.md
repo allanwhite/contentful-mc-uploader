@@ -1,8 +1,6 @@
 ---
 Title: "HL7 204 - The HL7 Scheduling messages, SIU and SRM"
 
-Seotitle: "HL7 204 - The HL7 Scheduling messages, SIU and SRM"
-
 Author: bakken
 
 Date: 05/04/2016

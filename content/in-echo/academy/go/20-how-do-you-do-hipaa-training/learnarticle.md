@@ -1,8 +1,6 @@
 ---
 Title: "How do you do HIPAA training?"
 
-Seotitle: "How do you do HIPAA training?"
-
 Date: 02/13/2015
 
 Tags: HIPAA

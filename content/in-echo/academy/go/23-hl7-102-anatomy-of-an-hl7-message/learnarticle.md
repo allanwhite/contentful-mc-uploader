@@ -1,8 +1,6 @@
 ---
 Title: "HL7 102 - Anatomy of an HL7 message"
 
-Seotitle: "HL7 102 - Anatomy of an HL7 message"
-
 Date: 03/11/2016
 
 Tags: HL7

@@ -1,8 +1,6 @@
 ---
 Title: "What is HITRUST?"
 
-Seotitle: "What is HITRUST?"
-
 Author: travis
 
 Date: 04/22/2016

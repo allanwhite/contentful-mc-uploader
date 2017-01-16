@@ -1,8 +1,6 @@
 ---
 Title: "Why HIPAA is not PCI"
 
-Seotitle: "Why HIPAA is not PCI"
-
 Author: travis
 
 Date: 04/05/2016

@@ -1,8 +1,6 @@
 ---
 Title: "HIPAA and Multi Tenancy"
 
-Seotitle: "HIPAA and Multi Tenancy"
-
 Author: mohan
 
 Date: 09/09/2015

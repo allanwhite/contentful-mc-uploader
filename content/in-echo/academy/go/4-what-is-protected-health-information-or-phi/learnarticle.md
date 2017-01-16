@@ -1,8 +1,6 @@
 ---
 Title: "What is Protected Health Information or PHI"
 
-Seotitle: "What is Protected Health Information or PHI?"
-
 Date: 04/17/2015
 
 Tags: HIPAA

@@ -1,8 +1,6 @@
 ---
 Title: "HL7 203 - The HL7 ORM (Order Entry) message"
 
-Seotitle: "HL7 203 - The HL7 ORM (Order Entry) message"
-
 Author: mohan
 Tags: HL7
 Date: 09/02/2014

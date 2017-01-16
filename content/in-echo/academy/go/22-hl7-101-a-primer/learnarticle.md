@@ -1,8 +1,6 @@
 ---
 Title: "HL7 101 - A primer"
 
-Seotitle: "HL7 101 - A primer"
-
 Date: 03/16/2016
 
 Tags: HL7

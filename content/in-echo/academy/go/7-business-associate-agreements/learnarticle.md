@@ -1,8 +1,6 @@
 ---
 Title: "Business Associate Agreements"
 
-Seotitle: "Business Associate Agreements"
-
 Date: 04/08/2015
 
 Tags: HIPAA

@@ -1,8 +1,6 @@
 ---
 Title: "MIPS Performance Qualifiers, Scoring, and Thresholds"
 
-Seotitle: "MIPS Performance Qualifiers, Scoring, and Thresholds"
-
 Author: mohan
 
 Date: 2016-10-07

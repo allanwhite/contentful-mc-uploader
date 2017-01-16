@@ -1,8 +1,6 @@
 ---
 Title: "HL7 201 - The Admission, Discharge, Transfer (ADT) Message"
 
-Seotitle: "HL7 201 - The Admission, Discharge, Transfer (ADT) Message"
-
 Date: 02/25/2014
 
 Tags: HL7

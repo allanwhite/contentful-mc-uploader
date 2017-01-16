@@ -1,8 +1,6 @@
 ---
 Title: "HIPAA and Data Breaches"
 
-Seotitle: "HIPAA and Data Breaches"
-
 Date: 04/14/2016
 
 Tags: HIPAA

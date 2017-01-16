@@ -1,8 +1,6 @@
 ---
 Title: "HIPAA, Subcontractors, and BAAs"
 
-Seotitle: "HIPAA, Subcontractors, and BAAs"
-
 Date: 08/21/2015
 
 Tags: HIPAA

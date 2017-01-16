@@ -1,8 +1,6 @@
 ---
 Title: "Introduction to FHIR"
 
-Seotitle: "Introduction to FHIR"
-
 Author: mohan
 
 Date: 05/26/2015

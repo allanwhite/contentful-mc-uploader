@@ -1,8 +1,6 @@
 ---
 Title: "The Who and How of HIPAA Enforcement"
 
-Seotitle: "The Who and How of HIPAA Enforcement"
-
 Date: 11/13/2015
 
 Tags: HIPAA

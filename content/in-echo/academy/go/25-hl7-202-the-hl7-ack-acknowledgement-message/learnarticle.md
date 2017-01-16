@@ -1,8 +1,6 @@
 ---
 Title: "HL7 202 - The HL7 ACK (Acknowledgement message)"
 
-Seotitle: "HL7 202 - The HL7 ACK (Acknowledgement message)"
-
 Tags: HL7
 
 Author: mohan

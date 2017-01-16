@@ -1,8 +1,6 @@
 ---
 Title: "How to integrate with Epic (or any EHR)"
 
-Seotitle: "How to integrate with Epic (or any EHR)"
-
 Date: 04/19/2016
 
 Tags: HL7

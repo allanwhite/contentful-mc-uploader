@@ -1,8 +1,6 @@
 ---
 Title: "The FHIR Resource Object: The Core Building Block"
 
-Seotitle: "The FHIR Resource Object: The Core Building Block"
-
 Author: mohan
 
 Date: 05/26/2015

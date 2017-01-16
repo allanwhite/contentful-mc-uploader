@@ -1,8 +1,6 @@
 ---
 Title: "Customizable HIPAA"
 
-Seotitle: "Customizable HIPAA"
-
 Date: 02/05/2016
 
 Tags: HIPAA

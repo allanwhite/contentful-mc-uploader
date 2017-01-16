@@ -1,8 +1,6 @@
 ---
 Title: "HIPAA Contingency Planning + Disaster Recovery"
 
-Seotitle: "HIPAA Contingency Planning + Disaster Recovery"
-
 Date: 09/16/2015
 
 Tags: HIPAA

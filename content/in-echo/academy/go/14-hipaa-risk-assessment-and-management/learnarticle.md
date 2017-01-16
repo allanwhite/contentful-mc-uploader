@@ -1,8 +1,6 @@
 ---
 Title: "HIPAA Risk Assessment and Management"
 
-Seotitle: "HIPAA Risk Assessment and Management"
-
 Date: 01/12/2016
 
 Tags: HIPAA

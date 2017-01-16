@@ -1,8 +1,6 @@
 ---
 Title: "Proving HIPAA Compliance"
 
-Seotitle: "Proving HIPAA Compliance"
-
 Date: 03/02/2015
 
 Tags: HIPAA

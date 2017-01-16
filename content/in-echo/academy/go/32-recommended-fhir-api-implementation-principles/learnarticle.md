@@ -1,8 +1,6 @@
 ---
 Title: "Recommended FHIR API Implementation Principles"
 
-Seotitle: "Recommended FHIR API Implementation Principles"
-
 Author: mohan
 
 Date: 05/26/2015

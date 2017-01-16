@@ -1,8 +1,6 @@
 ---
 Title: "HIPAA and Encryption"
 
-Seotitle: "HIPAA and Encryption"
-
 Date: 03/23/2016
 
 Tags: HIPAA

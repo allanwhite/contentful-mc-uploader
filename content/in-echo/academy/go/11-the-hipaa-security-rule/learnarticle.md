@@ -1,8 +1,6 @@
 ---
 Title: "The HIPAA Security Rule"
 
-Seotitle: "The HIPAA Security Rule"
-
 Author: adam
 
 Date: 02/13/2015

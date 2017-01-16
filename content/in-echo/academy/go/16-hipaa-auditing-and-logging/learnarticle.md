@@ -1,8 +1,6 @@
 ---
 Title: "HIPAA Auditing and Logging"
 
-Seotitle: "HIPAA Auditing and Logging"
-
 Date: 10/09/2015
 
 Tags: HIPAA

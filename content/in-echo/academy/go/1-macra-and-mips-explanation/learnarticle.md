@@ -1,8 +1,6 @@
 ---
 Title: "MACRA and MIPS Explanation"
 
-Seotitle: "MACRA and MIPS Explanation"
-
 Author: casey
 
 Date: 05/17/2016

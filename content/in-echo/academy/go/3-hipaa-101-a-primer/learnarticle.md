@@ -1,8 +1,6 @@
 ---
 Title: "HIPAA 101 A primer"
 
-Seotitle: "HIPAA 101 - A primer"
-
 Date: 02/07/2015
 
 Tags: HIPAA

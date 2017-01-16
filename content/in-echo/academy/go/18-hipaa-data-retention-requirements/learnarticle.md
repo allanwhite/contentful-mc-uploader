@@ -1,8 +1,6 @@
 ---
 Title: "HIPAA Data Retention Requirements"
 
-Seotitle: "HIPAA Data Retention Requirements"
-
 Author: kenny
 
 Date: 07/24/2015
