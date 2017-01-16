@@ -1,3 +1,4 @@
+---
 Title: HIPAA Risk Assessment and Management
 
 Seotitle: HIPAA Risk Assessment and Management
@@ -21,7 +22,7 @@ Once you know the infrastructure, risks, and threats/vulnerabilities, the next s
 
 We follow all of the steps above using a spreadsheet with sheets for each step. That's the way that we do ours, and we do ours both annually as well as on an ongoing basis, when there are changes to our core infrastructure. We use NIST standards ([NIST800-30](http://csrc.nist.gov/publications/nistpubs/800-30/sp800-30.pdf) and [800-26](http://www.nist.org/nist_plugins/content/content.php?content.32)) as the model for our [risk assessment](https://catalyze.io/hipaa#security-management-process---164.308(a)(1)(i)) at Catalyze. We're more than happy to share the spreadsheets and the steps and processes that we use to do that. If you want to reach out to us we can help you with that process. But that really is the first step that you need to do because that helps you really understand where your major gaps are. And which things you need to do, to implement or mitigate the risk that you have within, and the threats that you have to your infrastructure and to PHI -  that you're storing a processing or whatever it might be for covered entity.
 
-Type: HIPAA
+Tags: HIPAA
 
 Author: travis
 

@@ -1,3 +1,4 @@
+---
 Title: HL7 202 - The HL7 ACK (Acknowledgement message)
 
 Seotitle: HL7 202 - The HL7 ACK (Acknowledgement message)
@@ -98,7 +99,7 @@ Now you know as much as I do about ACKs. Go forth and prosper..
 
 If you’re looking to integrate EHR data with your application without becoming an HL7 expert, Catalyze can help. Learn more about our hosted, HIPAA-compliant HL7 integration platform [here](https://catalyze.io/hl7/).
 
-Type: HL7
+Tags: HL7
 
 Author: mohan
 

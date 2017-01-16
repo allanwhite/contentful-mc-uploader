@@ -1,3 +1,4 @@
+---
 Title: Business Associate Agreements
 
 Seotitle: Business Associate Agreements
@@ -25,7 +26,7 @@ If you boil it down, business associate agreements are just contracts that outli
 
 At a high level, that's what business associate agreements are and you are expected to have those for all of the various technology and services companies that you work with that might in some way interact, process, store, or have access to ePHI. If you're a business associate or you're a covered entity, we happily sign BAAs. And if you're interested in seeing one of our BAAs, [email us](mailto:legal@catalyze.io) and we'll walk you through ours and answer any questions you might have about it.
 
-Type: HIPAA
+Tags: HIPAA
 
 Author: travis
 

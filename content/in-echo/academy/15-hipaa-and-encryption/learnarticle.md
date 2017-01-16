@@ -1,3 +1,4 @@
+---
 Title: HIPAA and Encryption
 
 Seotitle: HIPAA and Encryption
@@ -17,7 +18,7 @@ There are other encryption tools you can use to improve performance in an encryp
 
 Encryption strategy is something you need to think about. This means more than just encrypting, it means how are you going to securely manage keys and maintain performance of your technology. We're happy to talk to you more about how we take care of all aspects of encryption, from in-transit to at-rest to key management to performance, for our customers.
 
-Type: HIPAA
+Tags: HIPAA
 
 Author: adam
 

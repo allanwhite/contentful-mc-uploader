@@ -1,10 +1,11 @@
+---
 Title: Proving HIPAA Compliance
 
 Seotitle: Proving HIPAA Compliance
 
 Date: 03/02/2015
 
-Type: HIPAA
+Tags: HIPAA
 
 ---
 > I remember the time I was kidnapped and they sent a piece of my finger to my father. He said he wanted more proof. - Rodney Dangerfield

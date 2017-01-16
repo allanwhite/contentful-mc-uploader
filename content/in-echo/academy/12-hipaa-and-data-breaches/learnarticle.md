@@ -1,3 +1,4 @@
+---
 Title: HIPAA and Data Breaches
 
 Seotitle: HIPAA and Data Breaches
@@ -21,7 +22,7 @@ Breach policy and breach notification are things that are extremely important. T
 
 At Catalyze we have [both](https://catalyze.io/hipaa#hitech-act-and-omnibus-rule:-it-security-provisions) a breach policy and a breach checklist that we can follow in the case of a breach. We've mock tested this policy and checklist to assure it makes sense and all relevant workforce members understand their roles. If you want to learn more about our policies for handling breaches, please just [ask](mailto:hello@catalyze.io).
 
-Type: HIPAA
+Tags: HIPAA
 
 Author: travis
 

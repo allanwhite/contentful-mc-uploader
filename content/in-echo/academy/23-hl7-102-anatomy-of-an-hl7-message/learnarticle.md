@@ -1,3 +1,4 @@
+---
 Title: HL7 102 - Anatomy of an HL7 message
 
 Seotitle: HL7 102 - Anatomy of an HL7 message
@@ -82,7 +83,7 @@ Hope that gave you a deeper insight into HL7. In the next post, we'll take an ac
 
 If you’re looking to integrate EHR data with your application without becoming an HL7 expert, Catalyze can help. Learn more about our hosted, HIPAA-compliant HL7 integration platform [here](/hl7).
 
-Type: HL7
+Tags: HL7
 
 Author: mohan
 

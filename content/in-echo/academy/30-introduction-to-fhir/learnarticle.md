@@ -1,3 +1,4 @@
+---
 Title: Introduction to FHIR
 
 Seotitle: Introduction to FHIR
@@ -6,7 +7,7 @@ Author: mohan
 
 Date: 05/26/2015
 
-Type: FHIR
+Tags: FHIR
 
 ---
 FHIR (Fast Healthcare Interoperability Resources) is a new and emerging standard being developed under the auspices of the [Health Language 7](https://hl7.org) (HL7) organization. [(View a primer on HL7.)](https://catalyze.io/learn/hl7-101-a-primer) Pronounced as 'Fire', it was initially developed by [Graham Grieve](http://www.healthintersections.com.au/), who insisted FHIR be open sourced. At its core, FHIR is intended to be **the** next generation of healthcare interoperability. It tries to combine the best features of HL7 Version 2 and Version 3, in which Grieve was significantly involved.

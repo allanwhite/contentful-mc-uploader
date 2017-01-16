@@ -1,10 +1,11 @@
+---
 Title: How to integrate with Epic (or any EHR)
 
 Seotitle: How to integrate with Epic (or any EHR)
 
 Date: 04/19/2016
 
-Type: HL7
+Tags: HL7
 
 ---
 You did it! You made your first big sale to a hospital. Your product is live. You proved your efficacy, and the impact with clinicians and patients is evident. To reduce double documentation or improve your application, your customer wants to receive data from the EHR. You'll need to work with a project team, sometimes 200-persons large, while mastering a new skillset.

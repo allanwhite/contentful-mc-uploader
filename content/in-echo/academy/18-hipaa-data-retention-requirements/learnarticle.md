@@ -1,3 +1,4 @@
+---
 Title: HIPAA Data Retention Requirements
 
 Seotitle: HIPAA Data Retention Requirements
@@ -6,7 +7,7 @@ Author: kenny
 
 Date: 07/24/2015
 
-Type: HIPAA
+Tags: HIPAA
 
 ---
 HIPAA requires that business associates and covered entities retain the following for at least six years from creation date or last effective date, whichever happens to be later.

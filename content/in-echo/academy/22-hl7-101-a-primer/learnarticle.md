@@ -1,3 +1,4 @@
+---
 Title: HL7 101 - A primer
 
 Seotitle: HL7 101 - A primer
@@ -108,7 +109,7 @@ At a high level, that's HL7. Look for further articles delving into more details
 
 If you’re looking to integrate EHR data with your application without becoming an HL7 expert, Catalyze can help. Learn more about our hosted, HIPAA-compliant HL7 integration platform [here](https://catalyze.io/hl7/).
 
-Type: HL7
+Tags: HL7
 
 Author: mohan
 

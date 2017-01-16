@@ -1,3 +1,4 @@
+---
 Title: HL7 205 - The HL7 MDM (Medical Document Management) Message
 
 Seotitle: HL7 205 - The HL7 MDM (Medical Document Management) Message
@@ -6,7 +7,7 @@ Author: rick
 
 Date: 05/11/2016
 
-Type: HL7
+Tags: HL7
 
 Interlinking: 
 

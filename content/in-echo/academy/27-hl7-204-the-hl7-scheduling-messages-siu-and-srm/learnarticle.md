@@ -1,3 +1,4 @@
+---
 Title: HL7 204 - The HL7 Scheduling messages, SIU and SRM
 
 Seotitle: HL7 204 - The HL7 Scheduling messages, SIU and SRM
@@ -6,7 +7,7 @@ Author: bakken
 
 Date: 05/04/2016
 
-Type: HL7
+Tags: HL7
 
 Interlinking: <h2>Looking for further help on integrating an SIU or SRM feed with an EHR? Check out these helpful articles.</h2>
 <a href="http://content.catalyze.io/siu-scheduling-integration-help">SIU Integration Help</a>

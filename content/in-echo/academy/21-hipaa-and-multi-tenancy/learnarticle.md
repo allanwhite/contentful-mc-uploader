@@ -1,3 +1,4 @@
+---
 Title: HIPAA and Multi Tenancy
 
 Seotitle: HIPAA and Multi Tenancy
@@ -6,7 +7,7 @@ Author: mohan
 
 Date: 09/09/2015
 
-Type: HIPAA
+Tags: HIPAA
 
 ---
 ### Multi tenancy is a key security design requirement

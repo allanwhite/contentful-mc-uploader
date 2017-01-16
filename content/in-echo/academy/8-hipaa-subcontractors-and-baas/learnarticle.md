@@ -1,3 +1,4 @@
+---
 Title: HIPAA, Subcontractors, and BAAs
 
 Seotitle: HIPAA, Subcontractors, and BAAs
@@ -19,7 +20,7 @@ This is a very exciting and major shift for health tech. HIPAA has finally ackno
 
 We encourage you to read the rest of the new [rules](http://www.hhs.gov/news/press/2013pres/01/20130117b.html), or at least one of the commentaries that covers them in more detail, to see about the other changes that are a part of the Omnibus rule. If you have any questions related to the new rules, where you potentially fit, and how we can help you mitigate your risk, shoot us an [email](mailto:hello@catalyze.io).
 
-Type: HIPAA
+Tags: HIPAA
 
 Author: travis
 

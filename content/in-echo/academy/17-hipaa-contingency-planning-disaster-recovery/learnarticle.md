@@ -1,3 +1,4 @@
+---
 Title: HIPAA Contingency Planning + Disaster Recovery
 
 Seotitle: HIPAA Contingency Planning + Disaster Recovery
@@ -29,7 +30,7 @@ Disaster recovery and actual backups are something that's very important, and bo
 
 When it comes to the contingency-plan requirement, not only do we meet the technical safeguards and provide you with the technical infrastructure and the tools pre-built to do it, we also have the policy in place for it; and our policy has been assessed by a third party auditor. As an organization and Catalyze customer, if you're developing your own HIPAA policies, you can inherit or use our disaster recovery policy in its entirety. It is essentially your DR policy.
 
-Type: HIPAA
+Tags: HIPAA
 
 Author: travis
 

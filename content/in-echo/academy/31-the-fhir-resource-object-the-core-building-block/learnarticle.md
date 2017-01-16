@@ -1,3 +1,4 @@
+---
 Title: The FHIR Resource Object: The Core Building Block
 
 Seotitle: The FHIR Resource Object: The Core Building Block
@@ -6,7 +7,7 @@ Author: mohan
 
 Date: 05/26/2015
 
-Type: FHIR
+Tags: FHIR
 
 ---
 To understand FHIR, you must understand the Resource object. This entry will help explain its origins and intent, then provide links to expand your understanding.

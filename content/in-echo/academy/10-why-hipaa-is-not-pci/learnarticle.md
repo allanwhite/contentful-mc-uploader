@@ -1,3 +1,4 @@
+---
 Title: Why HIPAA is not PCI
 
 Seotitle: Why HIPAA is not PCI
@@ -41,7 +42,7 @@ Another fundamental difference with HIPAA is that the data you are storing is pa
 
 It's why, after spending a lot of time researching the challenges of HIPAA security, we built Catalyze the way we did, with version 1 being essentially a HIPAA-compliant BaaS offering, and not as an add-on for existing apps. Our platform (users, auth, storage, etc) is API-based, so could be used as storage layer, but we don't think that's a real path to HIPAA compliance. Our version 2 will include additional features and flexibility, something we're really excited about and hope will address more and more of the market need. Ultimately we want to give developers a simple way to add modern web services to health apps and, in the process, we want to mitigate risk for them and help them overcome some of the compliance roadblocks we encountered in building and selling apps in healthcare.
 
-Type: HIPAA
+Tags: HIPAA
 
 Interlinking: <h2>Explore more topics on HIPAA. Visit our Content Archive on the Basics of HIPAA.</h2>
 <a href="http://content.catalyze.io/hipaa-basics">Content Archive</a>

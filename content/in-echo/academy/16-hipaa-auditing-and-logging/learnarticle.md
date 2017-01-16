@@ -1,3 +1,4 @@
+---
 Title: HIPAA Auditing and Logging
 
 Seotitle: HIPAA Auditing and Logging
@@ -25,7 +26,7 @@ The approach that we take at Catalyze is to log every interaction with our syste
 
 It's a very powerful unified logging service, one that's HIPAA-grade and meant for ePHI. The service sits within our environment right next to your application and we  combine your log data that we're already collecting on the servers and network traffic. We pull all that in into one place and give you a managed console for logging. Soon we'll be enabling customers to set alerts as well. If you're going through a HIPAA audit or assessment by a compliance office at a hospital or payer, this is a very powerful tool to assure them of the security and integrity of your application.
 
-Type: HIPAA
+Tags: HIPAA
 
 Author: travis
 

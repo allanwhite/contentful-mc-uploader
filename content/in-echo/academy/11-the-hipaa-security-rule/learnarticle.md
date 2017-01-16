@@ -1,3 +1,4 @@
+---
 Title: The HIPAA Security Rule
 
 Seotitle: The HIPAA Security Rule
@@ -37,7 +38,7 @@ Beyond the three areas above, there are a few miscellaneous requirements in the 
 
 That's a very high high level overview of the Security Rule. You can see pretty detailed information about the Security Rule, and how we address the different specifications, on our HIPAA page.
 
-Type: HIPAA
+Tags: HIPAA
 
 Interlinking: <h2>Explore more topics on HIPAA. Visit our Content Archive on the Basics of HIPAA.</h2>
 <a href="http://content.catalyze.io/hipaa-basics">Content Archive</a>

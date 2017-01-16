@@ -1,3 +1,4 @@
+---
 Title: What is Protected Health Information or PHI
 
 Seotitle: What is Protected Health Information or PHI?
@@ -59,7 +60,7 @@ These 18 elements are the core set of data elements that individually or in comb
 
 Given the above constraints, it is essential that any application that you design takes these anonymization and/or de-identification requirements into account before any data is shared with any external entity. PHI data can be "shared" with an external entity provided you have BAA ([business associate agreement](http://healthcare.partners.org/phsirb/hipaaglos.htm#g7)) in place and the individual has signed the appropriate consent documents. How PHI needs to be managed under HIPAA is a whole topic in itself. Look for a blog post from us shortly describing how we enable HIPAA compliance and simplify adherence to the letter and spirit of the law at [Catalyze](https://catalyze.io/).
 
-Type: HIPAA
+Tags: HIPAA
 
 Author: mohan
 

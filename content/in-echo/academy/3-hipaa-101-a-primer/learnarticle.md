@@ -1,3 +1,4 @@
+---
 Title: HIPAA 101 A primer
 
 Seotitle: HIPAA 101 - A primer
@@ -33,7 +34,7 @@ The other aspects of HIPAA that are relevant as a starting point are the types o
 
 So that's our intro. You now know more about HIPAA that 99.9% of the population. The rest of our articles go into much more depth on these topics but this is a great place to start.
 
-Type: HIPAA
+Tags: HIPAA
 
 Author: travis
 

@@ -1,3 +1,4 @@
+---
 Title: HL7 201 - The Admission, Discharge, Transfer (ADT) Message
 
 Seotitle: HL7 201 - The Admission, Discharge, Transfer (ADT) Message
@@ -157,7 +158,7 @@ Painful, isn't it? Well, the good thing is that there are open source parsers th
 
 If you’re looking to integrate EHR data with your application without becoming an HL7 expert, Catalyze can help. Learn more about our hosted, HIPAA-compliant HL7 integration platform [here](https://catalyze.io/hl7/).
 
-Type: HL7
+Tags: HL7
 
 Author: mohan
 

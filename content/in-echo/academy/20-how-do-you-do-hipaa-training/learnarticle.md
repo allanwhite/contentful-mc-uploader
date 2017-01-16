@@ -1,3 +1,4 @@
+---
 Title: How do you do HIPAA training?
 
 Seotitle: How do you do HIPAA training?
@@ -15,7 +16,7 @@ At Catalyze, we provide HIPAA and information security training for all new empl
 
 We want security to be a part of the way that our workforce members think about technology. We want it to go into every decision that they make, and every requirement that they write, and every line of code. So that they understand not just the importance of HIPPA, not just what is PHI, but also what are the best technical practices to secure that data. We're acting as a trusted compliance partner, and an abstracted compliance and security layer for our customers, so we need security and compliance to be at the center of how we operate. We put a lot of time and energy into training to make sure that all of the technology that we provide to our customers is not just compliant, but also secure. We're planning to "open source" our training, and do more open training by using our Brown Bag Trainings as a springboard into blog posts in which others can learn.
 
-Type: HIPAA
+Tags: HIPAA
 
 Author: travis
 

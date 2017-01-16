@@ -1,3 +1,4 @@
+---
 Title: What is HITRUST?
 
 Seotitle: What is HITRUST?
@@ -6,7 +7,7 @@ Author: travis
 
 Date: 04/22/2016
 
-Type: HIPAA
+Tags: HIPAA
 
 ---
 > The reason a lot of people do not recognize opportunity is because it usually goes around wearing overalls looking like hard work. – Thomas A. Edisons

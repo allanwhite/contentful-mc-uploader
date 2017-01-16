@@ -1,3 +1,4 @@
+---
 Title: Recommended FHIR API Implementation Principles
 
 Seotitle: Recommended FHIR API Implementation Principles
@@ -6,7 +7,7 @@ Author: mohan
 
 Date: 05/26/2015
 
-Type: FHIR
+Tags: FHIR
 
 ---
 FHIR is based on API routes. What should the API route look like? The only legitimate link that a quick Google search produces is the Open Epic link. If you haven't already, I strongly recommend that you sign up [here](http://open.epic.com/).

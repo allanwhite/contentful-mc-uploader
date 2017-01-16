@@ -1,3 +1,4 @@
+---
 Title: The Who and How of HIPAA Enforcement
 
 Seotitle: The Who and How of HIPAA Enforcement
@@ -29,7 +30,7 @@ In certain extreme HIPAA cases, individuals can be exposed to criminal risk as w
 
 In addition to the OCR, and the Department of Justice to a lesser extent, recently the FCC has waded into enforcing the privacy of health data through its mandate to protect consumers. The financial penalties from the FCC are lower than those from the OCR; but, the FCC has the power to require annual privacy audits, as it has done with companies like Google and Facebook, and these audits, over time, have the potential to be very expensive for companies. This move by the FCC is new, and still making its way through the courts, so it's still uncertain how the FCC will fit with HIPAA enforcement.
 
-Type: HIPAA
+Tags: HIPAA
 
 Author: travis
 

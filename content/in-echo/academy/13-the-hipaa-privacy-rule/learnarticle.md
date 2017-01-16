@@ -1,3 +1,4 @@
+---
 Title: The HIPAA Privacy Rule
 
 Seotitle: The HIPAA Privacy Rule
@@ -44,7 +45,7 @@ Covered entities much provide individuals with a notice informing those individu
 ### Penalties
 The Office of Civil Rights (OCR), within HHS, is responsible for enforcing the HIPAA rules. In addition to civil (financial) penalties, there are criminal penalties for knowingly disclosing PHI or obtain PHI in violation of the HIPAA Privacy Rule.
 
-Type: HIPAA
+Tags: HIPAA
 
 Author: travis
 
