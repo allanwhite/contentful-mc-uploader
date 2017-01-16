@@ -1,18 +1,10 @@
 Title: Customizable HIPAA
 
-----
-
 Seotitle: Customizable HIPAA
-
-----
 
 Date: 02/05/2016
 
-----
-
 Type: HIPAA
-
-----
 
 Post: It might seem strange but communicating directly with individuals about their health is a pretty new concept. It's part of larger trends in healthcare that put the patient in more control of their data, and make the patient a more informed and active member of the care team. Patient activation and engagement are not the subjects of this post, though they are near and dear to our hearts at Catalyze.
 
@@ -28,15 +20,9 @@ SMS is a good example because there are very successful, and popular, SMS delive
 
 So what can you do as a developer? It's a matter of being thoughtful about who you work with and understanding where PHI flows. Many infrastructure companies understand the unique needs in healthcare and the broadened scope of HIPAA. But, at the same time, you have to be proactive when you work with vendors to assure you minimize risk and maximize protections for patient data.
 
-----
-
 Author: travis
 
-----
-
 Fullname: Travis Good, MD
-
-----
 
 Interlinking: <h2>Explore more topics on HIPAA. Visit our Content Archive on the Basics of HIPAA.</h2>
 <a href="http://content.catalyze.io/hipaa-basics">Content Archive</a>

@@ -1,26 +1,14 @@
 Title: What is HITRUST?
 
-----
-
 Seotitle: What is HITRUST?
-
-----
 
 Author: travis
 
-----
-
 Fullname: Travis Good, MD
-
-----
 
 Date: 04/22/2016
 
-----
-
 Type: HIPAA
-
-----
 
 Post: > The reason a lot of people do not recognize opportunity is because it usually goes around wearing overalls looking like hard work. – Thomas A. Edisons
 
@@ -205,8 +193,6 @@ If you are considering or have completed a HITRUST assessment, feel free to [rea
 [7]:	mailto:hipaa@catalyze.io
 
 [8]:	https://hitrustalliance.net/content/uploads/2014/04/BA-1-Understand-the-CSF-and-CSF-Assurance-Program.pdf
-
-----
 
 Interlinking: <h2>Explore more topics on HITRUST. Visit our Content Archive on the Basics of HITRUST.</h2>
 <a href="http://content.catalyze.io/hitrust-basics">Content Archive</a>

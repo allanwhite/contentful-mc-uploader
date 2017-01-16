@@ -1,14 +1,8 @@
 Title: HL7 202 - The HL7 ACK (Acknowledgement message)
 
-----
-
 Seotitle: HL7 202 - The HL7 ACK (Acknowledgement message)
 
-----
-
 Date: 03/04/2014
-
-----
 
 Post: The HL7 acknowledgement message, or ACK, is critical to ensure that ongoing HL7 communication proceeds smoothly. The concept of an [ACK](http://en.wikipedia.org/wiki/Acknowledgement_(data_networks)) is commonly used in many data networks protocols, including TCP, so you are likely familiar with it. Although conceptually simple (receiving system acknowledges receipt for specific message sent from sending system), there are a couple of nuances (enhanced mode, rate limiting) with HL7 ACK that make covering this topic worthwhile.
 
@@ -103,14 +97,8 @@ Now you know as much as I do about ACKs. Go forth and prosper..
 
 If you’re looking to integrate EHR data with your application without becoming an HL7 expert, Catalyze can help. Learn more about our hosted, HIPAA-compliant HL7 integration platform [here](https://catalyze.io/hl7/).
 
-----
-
 Type: HL7
 
-----
-
 Author: mohan
-
-----
 
 Fullname: Mohan Balachandran

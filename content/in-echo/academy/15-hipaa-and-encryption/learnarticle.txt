@@ -1,14 +1,8 @@
 Title: HIPAA and Encryption
 
-----
-
 Seotitle: HIPAA and Encryption
 
-----
-
 Date: 03/23/2016
-
-----
 
 Post: Encryption is one of the standards that exist within the HIPAA Security Rule (164.312(a)(2)(iv)). Specifically encryption is used as a means of access control. HIPAA defines encryption as "the use of an algorithmic process to transform data into a form in which there is a low probability of assigning meaning without use of a confidential process or key". HIPAA goes to say “Implement a mechanism to encrypt and decrypt electronic protected health information".
 
@@ -22,19 +16,11 @@ There are other encryption tools you can use to improve performance in an encryp
 
 Encryption strategy is something you need to think about. This means more than just encrypting, it means how are you going to securely manage keys and maintain performance of your technology. We're happy to talk to you more about how we take care of all aspects of encryption, from in-transit to at-rest to key management to performance, for our customers.
 
-----
-
 Type: HIPAA
-
-----
 
 Author: adam
 
-----
-
 Fullname: Adam Leko
-
-----
 
 Interlinking: <h2>Explore more topics on HIPAA. Visit our Content Archive on the Basics of HIPAA.</h2>
 <a href="http://content.catalyze.io/hipaa-basics">Content Archive</a>

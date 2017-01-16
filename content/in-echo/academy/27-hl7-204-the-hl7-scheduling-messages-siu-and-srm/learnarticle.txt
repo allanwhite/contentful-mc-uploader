@@ -1,31 +1,17 @@
 Title: HL7 204 - The HL7 Scheduling messages, SIU and SRM
 
-----
-
 Seotitle: HL7 204 - The HL7 Scheduling messages, SIU and SRM
-
-----
 
 Author: bakken
 
-----
-
 Fullname: Alex Bakken
-
-----
 
 Date: 05/04/2016
 
-----
-
 Type: HL7
-
-----
 
 Interlinking: <h2>Looking for further help on integrating an SIU or SRM feed with an EHR? Check out these helpful articles.</h2>
 <a href="http://content.catalyze.io/siu-scheduling-integration-help">SIU Integration Help</a>
-
-----
 
 Post: The SIU (Schedule Information Unsolicited) and SRM (Schedule Request Message) messages contain information related to appointment scheduling. SRM messages are used for requesting changes to a health system's schedule, such as a request for a new appointment booking, appointment rescheduling, modification, cancellation, etc. SIU messages are used to notify auxiliary applications of a change made to the health system's schedule, such as a notification for the booking of a new appointment, appointment rescheduling, modification, cancellation, etc. Scheduling messages contain information about the appointment date and time, resources, services, location, and any other pertinent information regarding the appointment. The purpose or action prescribed by any scheduling message will depend entirely on the trigger event (See the List of Trigger Events below).  
 

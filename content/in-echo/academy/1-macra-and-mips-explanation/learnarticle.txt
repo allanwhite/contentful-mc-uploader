@@ -1,30 +1,16 @@
 Title: MACRA and MIPS Explanation
 
-----
-
 Seotitle: MACRA and MIPS Explanation
-
-----
 
 Author: casey
 
-----
-
 Fullname: Casey Bryson
-
-----
 
 Date: 05/17/2016
 
-----
-
 Type: Healthcare
 
-----
-
 Interlinking: 
-
-----
 
 Post: There is confusion in the industry around MACRA, MIPs, and APMs. It begs the question, Is Meaningful Use dead? The confusion is justified as the topic is both broad and dense, especially since we’ve been operating in a world of acronyms under the “Medicare EHR incentive program”—more commonly called Meaningful Use—for years.
 

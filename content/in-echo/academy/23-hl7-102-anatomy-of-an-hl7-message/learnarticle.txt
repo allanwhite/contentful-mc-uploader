@@ -1,14 +1,8 @@
 Title: HL7 102 - Anatomy of an HL7 message
 
-----
-
 Seotitle: HL7 102 - Anatomy of an HL7 message
 
-----
-
 Date: 03/11/2016
-
-----
 
 Post: In the [previous entry](/learn/hl7-101-a-primer/), we gave you a quick introduction to HL7 and its design - message types, segments and code sets. What I've come to also appreciate as I delved deeper into HL7 is that for all its perceived faults, it has more than served its purpose of standardization of communication of clinical and administrative data amongst disparate applications.
 
@@ -87,19 +81,11 @@ Hope that gave you a deeper insight into HL7. In the next post, we'll take an ac
 
 If you’re looking to integrate EHR data with your application without becoming an HL7 expert, Catalyze can help. Learn more about our hosted, HIPAA-compliant HL7 integration platform [here](/hl7).
 
-----
-
 Type: HL7
-
-----
 
 Author: mohan
 
-----
-
 Fullname: Mohan Balachandran
-
-----
 
 Interlinking: <h2>Explore more topics on HL7. Visit our Content Archive on the Basics of HL7.</h2>
 <a href="http://content.catalyze.io/hl7-basics">Content Archive</a>

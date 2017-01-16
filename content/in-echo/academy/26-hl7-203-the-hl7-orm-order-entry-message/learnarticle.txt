@@ -1,18 +1,10 @@
 Title: HL7 203 - The HL7 ORM (Order Entry) message
 
-----
-
 Seotitle: HL7 203 - The HL7 ORM (Order Entry) message
-
-----
 
 Author: mohan
 
-----
-
 Date: 09/02/2014
-
-----
 
 Post: The Order Entry (ORM) message is one of the most commonly used HL7 message type. ORM messages contain information about an order. This includes placing new orders, canceling existing orders, discontinuation, holding, etc. Orders pertain to either materials (e.g., 1 liter of 0.9% saline) or services (e.g., a blood panel, etc.). Usually this is patient specific. The trigger event for this message is any change to an order i.e. order is created, modified, cancelled, put on hold and so on.
 
@@ -144,15 +136,9 @@ It's not pretty, but it's the way healthcare orders are passed from system to sy
 
 If you're looking to integrate EHR data with your application without becoming an HL7 expert, Catalyze can help. Learn more about our hosted, HIPAA-compliant HL7 integration platform [here](https://catalyze.io/hl7/).
 
-----
-
 Type: HL7
 
-----
-
 Fullname: Mohan Balachandran
-
-----
 
 Interlinking: <h2>Looking for further help on integrating an ORM (Orders, Procedures) feed with an EHR? Check out these helpful articles.</h2>
 <a href="http://content.catalyze.io/orm-orders-procedures-integration-help">ORM Integration Help</a>

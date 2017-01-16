@@ -1,14 +1,8 @@
 Title: HIPAA 101 A primer
 
-----
-
 Seotitle: HIPAA 101 - A primer
 
-----
-
 Date: 02/07/2015
-
-----
 
 Post: This article assumes no prior knowledge of HIPAA and is meant to present a very high level snapshot of what HIPAA is and who it impacts.
 
@@ -38,19 +32,11 @@ The other aspects of HIPAA that are relevant as a starting point are the types o
 
 So that's our intro. You now know more about HIPAA that 99.9% of the population. The rest of our articles go into much more depth on these topics but this is a great place to start.
 
-----
-
 Type: HIPAA
-
-----
 
 Author: travis
 
-----
-
 Fullname: Travis Good, MD
-
-----
 
 Interlinking: <h2>Explore more topics on HIPAA. Visit our Content Archive on the Basics of HIPAA.</h2>
 <a href="http://content.catalyze.io/hipaa-basics">Content Archive</a>

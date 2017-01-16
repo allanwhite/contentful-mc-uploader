@@ -1,18 +1,10 @@
 Title: How to integrate with Epic (or any EHR)
 
-----
-
 Seotitle: How to integrate with Epic (or any EHR)
-
-----
 
 Date: 04/19/2016
 
-----
-
 Type: HL7
-
-----
 
 Post: You did it! You made your first big sale to a hospital. Your product is live. You proved your efficacy, and the impact with clinicians and patients is evident. To reduce double documentation or improve your application, your customer wants to receive data from the EHR. You'll need to work with a project team, sometimes 200-persons large, while mastering a new skillset.
 
@@ -115,15 +107,9 @@ We want to make interoperability easier for everyone. Look forward to more open-
 [1] There isn't always a clean line between Outpatient/Inpatient applications. There may be "outpatient" clinics in a hospital, which may use multiple systems. When in doubt, let the hospital pull in the right people.
 [2] There are many new Epic apps and integrations possible every year. The ones listed are amongst the most common apps and integrations, but the list is not inclusive or wholly complete. If you're not sure who is responsible for a specific integration, it's best to lean on your operational owner/project manager who needs to be involved to get something done.
 
-----
-
 Author: mark
 
-----
-
 Fullname: Mark Olschesky
-
-----
 
 Interlinking: <h2>Explore more topics on HL7. Visit our Content Archive on the Basics of HL7.</h2>
 <a href="http://content.catalyze.io/hl7-basics">Content Archive</a>

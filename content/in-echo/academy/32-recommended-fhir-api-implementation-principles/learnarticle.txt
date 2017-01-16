@@ -1,26 +1,14 @@
 Title: Recommended FHIR API Implementation Principles
 
-----
-
 Seotitle: Recommended FHIR API Implementation Principles
-
-----
 
 Author: mohan
 
-----
-
 Fullname: Mohan Balachandran
-
-----
 
 Date: 05/26/2015
 
-----
-
 Type: FHIR
-
-----
 
 Post: FHIR is based on API routes. What should the API route look like? The only legitimate link that a quick Google search produces is the Open Epic link. If you haven't already, I strongly recommend that you sign up [here](http://open.epic.com/).
 
@@ -238,8 +226,6 @@ Patients play a central role in many of the responses returned by resources. For
 ### Summary
 
 These are the general design principles that we have followed at Catalyze. These are guidelines based on our experience building RESTful APIs and gathered from multiple other sources. The key underlying principles being consistency and adherence with HTTP standards.
-
-----
 
 Interlinking: <h2>Explore more topics on FHIR. Visit our Content Archive on the Basics of FHIR.</h2>
 <a href="http://content.catalyze.io/fhir-basics">Content Archive</a>

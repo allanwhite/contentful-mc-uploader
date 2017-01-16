@@ -1,14 +1,8 @@
 Title: HL7 101 - A primer
 
-----
-
 Seotitle: HL7 101 - A primer
 
-----
-
 Date: 03/16/2016
-
-----
 
 Post: HL7 (Health Language 7) is a "standard" utilized by the healthcare industry to enable messaging between applications i.e. EHR to PMS (practice management system) for example. It is managed and maintained by [Health Level Seven International (HL7)](http://hl7.org) which is a not-for-profit, ANSI-accredited standards developing organization. The HL7 standard is often jokingly referred to as the “non-standard standard.” This is not very fair but it does reflect the fact that almost every hospital, clinic, imaging center, lab, and care facility is “special” in terms of how it implements HL7 (really?, why?). The reason is primarily because there is no such thing as a standard business or clinical process for interacting with patients, clinical data, or related personnel.
 
@@ -113,19 +107,11 @@ At a high level, that's HL7. Look for further articles delving into more details
 
 If you’re looking to integrate EHR data with your application without becoming an HL7 expert, Catalyze can help. Learn more about our hosted, HIPAA-compliant HL7 integration platform [here](https://catalyze.io/hl7/).
 
-----
-
 Type: HL7
-
-----
 
 Author: mohan
 
-----
-
 Fullname: Mohan Balachandran
-
-----
 
 Interlinking: <h2>Explore more topics on HL7. Visit our Content Archive on the Basics of HL7.</h2>
 <a href="http://content.catalyze.io/hl7-basics">Content Archive</a>
