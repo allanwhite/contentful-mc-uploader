@@ -3,12 +3,11 @@ Title: "MIPS Performance Qualifiers, Scoring, and Thresholds"
 
 Author: mohan
 
-Date: 2016-10-07
+Date: 07/10/2016
 
-Tags: Healthcare
+Tags: Medicare
 
 ---
-
 
 The scoring in MIPS is based on a composite score across four dimensions, summarized as:
 

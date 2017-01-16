@@ -30,7 +30,6 @@ module.exports = function(file) {
         'patient engagement': '3rO97bU0piC0CI0eOg6ksI',
         'fhir': '4WpqU1En6MsqmCEWweeCmO',
         'healthcare-costs': 'muuTw36MCccawe428I8Oa',
-        'healthcare': '6AZpnMPG2k8mk8gk2acYUI',
         'healthcare-news': '6AZpnMPG2k8mk8gk2acYUI',
         'hipaa': '3ebX0zrnVuYEQOuo2QSSuU',
         'hitrust': '9hLuri8gRGWUksIiIQg8y',
