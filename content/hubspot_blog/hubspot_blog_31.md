@@ -1,15 +1,15 @@
 ---
-title: "Announcing Change Agent, Catalyzeâ€™s Medium Publication"
+title: "Announcing Change Agent, Catalyze's Medium Publication"
 slug: announcing-change-agent-catalyzes-medium-publication
 pubDate: "Thu, 19 May 2016 16:00:00 GMT"
 dateUnix: 2016-05-19T16:00:00Z
 author: kris
 summary: |
-    
+    Since Catalyze's beginning, a core belief has revolved around the importance of transparent, free, readily available content. That is why we [write about what we learn][1]. That is why we have [open sourced our company policies][2] and [made our Business Associate Agreement publicly available][3].
 lead: |
-    
+    Since Catalyze's beginning, a core belief has revolved around the importance of transparent, free, readily available content. That is why we [write about what we learn][1]. That is why we have [open sourced our company policies][2] and [made our Business Associate Agreement publicly available][3].
+
 ---
-Since Catalyze's beginning, a core belief has revolved around the importance of transparent, free, readily available content. That is why we [write about what we learn][1]. That is why we have [open sourced our company policies][2] and [made our Business Associate Agreement publicly available][3].
 
 The healthcare technology community has an incredibly vibrant culture of open and welcomed knowledge sharing. [Tincture][4], a Medium publication originated by Dr. Jordan Shlain, presents a wonderful example in effect. The culture of Tincture is largely predicated on sharing ideas, challenging the status quo, and effectively swapping best practices, going beyond the basic foundational building blocks of our existing educational content.
 

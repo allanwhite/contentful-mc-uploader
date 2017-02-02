@@ -5,12 +5,12 @@ pubDate: "Mon, 15 Feb 2016 13:00:00 GMT"
 dateUnix: 2016-02-15T13:00:00Z
 author: travis
 summary: |
-    
+    Healthcare is completely different from any other industry so is it possible to take everyday shortcuts to achieve the desired entrepreneurial results? If you ask one of the latest  Silicon Valley sweethearts, [Zenefits][1], as of late, the answer is an astounding no. As Zenefits' COO [David Sacks][2] states, "Compliance is like oxygen. Without it, we die." With the immediate resignation of [Parker Conrad][3], former Zenefits' CEO, we will see if Zenefits' will be given the kiss of life as compliance becomes a newly adopted core pillar to the organization.
 lead: |
-    
+    Healthcare is completely different from any other industry so is it possible to take everyday shortcuts to achieve the desired entrepreneurial results? If you ask one of the latest  Silicon Valley sweethearts, [Zenefits][1], as of late, the answer is an astounding no. As Zenefits' COO [David Sacks][2] states, "Compliance is like oxygen. Without it, we die." With the immediate resignation of [Parker Conrad][3], former Zenefits' CEO, we will see if Zenefits' will be given the kiss of life as compliance becomes a newly adopted core pillar to the organization.
 ---
 
-Healthcare is completely different from any other industry so is it possible to take everyday shortcuts to achieve the desired entrepreneurial results? If you ask one of the latest  Silicon Valley sweethearts, [Zenefits][1], as of late, the answer is an astounding no. As Zenefits' COO [David Sacks][2] states, "Compliance is like oxygen. Without it, we die." With the immediate resignation of [Parker Conrad][3], former Zenefits' CEO, we will see if Zenefits' will be given the kiss of life as compliance becomes a newly adopted core pillar to the organization.
+
 
 As of earlier this month, [BuzzFeed][4] released a [report][5] that discovered over eigthy percent of the Zenefits insurance deals in just Washington through at least August 2015 were sold by unlicensed brokers. Along with Washington, there is evidence of similar behaviors in at least seven other states, dating back all the way to summer of 2014. With this event just adding salt to the wound after a shaky financial year for Zenefits, further devaluation can be anticipated from the already 48% decrease the company faced in 2015.
 

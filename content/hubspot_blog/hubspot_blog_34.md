@@ -5,13 +5,13 @@ pubDate: "Tue, 26 Apr 2016 16:10:15 GMT"
 dateUnix: 2016-04-26T16:10:15Z
 author: mark
 summary: |
-    
-lead: |
-    
----
-In healthcare's current transformational model, organizations are moving from paper-based organizations to data-enabled organizations. To further clarify, being data-enabled is not the same as being data-driven. Data-driven normally means that data is being allowed to mandate treatment and management of patients with as much decision automation as possible. On the other hand, data-enabled organizations provide information to the end-user to empower them to make improved final treatments and diagnoses based on masses of patients with similar symptoms and backgrounds.
+    In healthcare's current transformational model, organizations are moving from paper-based organizations to data-enabled organizations. Healthcare should not become completely data-driven nor rely solely on decision automation because there is a human component that must be addressed. Besides some necessary operational alerts and such, there are nuances involved in a primary care relationship that simply cannot be captured by a machine.
 
-Healthcare should not become completely data-driven nor rely solely on decision automation because there is a human component that must be addressed. Besides some necessary operational alerts and such, there are nuances involved in a primary care relationship that simply cannot be captured by a machine. The provider is in front of the patient, and they know the patient, so naturally they should have final say about the patient's diagnoses. But in tandem with provider knowledge, data-enablement empowers providers to provide care based on the patient's information and that of a cornucopia of other patients with the same background and symptoms. In this scenario, the physician would receive something on their screen like this
+lead: |
+    In healthcare's current transformational model, organizations are moving from paper-based organizations to data-enabled organizations. To further clarify, being data-enabled is not the same as being data-driven. Data-driven normally means that data is being allowed to mandate treatment and management of patients with as much decision automation as possible. On the other hand, data-enabled organizations provide information to the end-user to empower them to make improved final treatments and diagnoses based on masses of patients with similar symptoms and backgrounds.
+
+---
+Healthcare should not become completely data-driven nor rely solely on decision automation because there is a human component that must be addressed. Besides some necessary operational alerts and such, there are nuances involved in a primary care relationship that simply cannot be captured by a machine. The provider is in front of the patient, and they know the patient, so naturally they should have final say about the patient's diagnoses. But in tandem with provider knowledge, data-enablement empowers providers to provide care based on the patient's information and that of a cornucopia of other patients with the same background and symptoms. In this scenario, the physician would receive something on their screen like this:
 
 ----
 

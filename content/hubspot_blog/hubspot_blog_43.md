@@ -5,11 +5,10 @@ pubDate: "Thu, 25 Feb 2016 17:00:00 GMT"
 dateUnix: 2016-02-25T17:00:00Z
 author: mohan
 summary: |
-    
+    Today we are proud to announce the immediate availability of our Platform as a Service solution product – [**Stratum**][1].
 lead: |
-    
+    Today we are proud to announce the immediate availability of our Platform as a Service solution product – [**Stratum**][1].
 ---
-Today we are proud to announce the immediate availability of our Platform as a Service solution product – [**Stratum**][1].
 
 > "If you have built castles in the air, your work need not be lost; that is where they should be. Now put the foundations under them." – Henry David Thoreau, Walden
 

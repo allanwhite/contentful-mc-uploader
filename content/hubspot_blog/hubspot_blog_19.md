@@ -5,12 +5,10 @@ pubDate: "Mon, 26 Sep 2016 18:48:00 GMT"
 dateUnix: "2016-09-26T18:48:00Z"
 author: eileen
 summary: |
-    
+    In a city underrated by those who have never visited, Madison, WI, brings more to the Midwest than its prestigious university and famous State Street. The Midwest is [predicted to have more startups than Silicon Valley in five years][1]. VentureBeat author Chris Olson states, "Today entrepreneurs are building more billion-dollar companies in the Midwest than in the last 50 years combined." It's time for Madison to be on the radar among the national startup community.
 lead: |
-    
+    In a city underrated by those who have never visited, Madison, WI, brings more to the Midwest than its prestigious university and famous State Street. The Midwest is [predicted to have more startups than Silicon Valley in five years][1]. VentureBeat author Chris Olson states, "Today entrepreneurs are building more billion-dollar companies in the Midwest than in the last 50 years combined." It's time for Madison to be on the radar among the national startup community.
 ---
-In a city underrated by those who have never visited, Madison, WI, brings more to the Midwest than its prestigious university and famous State Street. The Midwest is [predicted to have more startups than Silicon Valley in five years][1]. VentureBeat author Chris Olson states, "Today entrepreneurs are building more billion-dollar companies in the Midwest than in the last 50 years combined." It's time for Madison to be on the radar among the national startup community.
-
 The entrepreneurial activity in Madison can be attributed to the top talent from the University of Wisconsin and large local companies (AmFam, Epic Systems, etc). The startup community here varies from micro-breweries to medical devices. Whether it's a first-time entrepreneur opening her new soap business or a serial entrepreneur focusing on patient engagement, resources bring the entrepreneurial community together.
 
 Three examples are [100 State][2], [1 Million Cups][3] and the [Weinert Center for Entrepreneurship][4]. Although each resource differs in purpose, they share two commonalities: 1) bringing entrepreneurs together and 2) leveraging network diversity for growth. Even meetups are growing to help unite entrepreneurs in the area. As Brian Lee from Madisonstartups.com put it, "Madison has a full ecosystem of resources and organizations all working toward a common goal."   

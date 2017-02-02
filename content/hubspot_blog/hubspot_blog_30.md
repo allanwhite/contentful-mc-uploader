@@ -5,12 +5,12 @@ pubDate: "Wed, 25 May 2016 15:56:18 GMT"
 dateUnix: 2016-05-25T15:56:18Z
 author: mohan
 summary: |
-    
-lead: |
-    
----
+    Even as a healthcare professional, understanding the what, when, why, who, and how of healthcare quality measurement becomes a grueling task. There are multiple non-profit and private sector organizations involved in the discovery, design, and verification of quality measures for the healthcare industry. We explain a bit of the who, what, why, when, and how behind quality care.
 
-Even as a healthcare professional, understanding the what, when, why, who, and how of healthcare quality measurement becomes a grueling task. There are multiple non-profit and private sector organizations involved in the discovery, design, and verification of quality measures for the healthcare industry. Each of these organizations has a predominant concentration; however, as healthcare evolves, the need among them to collaborate has grown. Health insurance plans prove to be the most involved in this effort since they house and analyze large quantities of care delivery data, and are legally and financially liable for quality care delivery. Popularized data mining tactics, quality improvement programs, and actuarial services have been founded and implemented by these organizations with the intent to improve the quality and affordability of healthcare, so let us explain a bit of the who, what, why, when, and how behind quality care.
+lead: |
+    Even as a healthcare professional, understanding the what, when, why, who, and how of healthcare quality measurement becomes a grueling task. There are multiple non-profit and private sector organizations involved in the discovery, design, and verification of quality measures for the healthcare industry. Each of these organizations has a predominant concentration; however, as healthcare evolves, the need among them to collaborate has grown. Health insurance plans prove to be the most involved in this effort since they house and analyze large quantities of care delivery data, and are legally and financially liable for quality care delivery. Popularized data mining tactics, quality improvement programs, and actuarial services have been founded and implemented by these organizations with the intent to improve the quality and affordability of healthcare, so let us explain a bit of the who, what, why, when, and how behind quality care.
+
+---
 
 ## The Joint Commission (TJC)
 

@@ -5,12 +5,12 @@ pubDate: "Thu, 10 Mar 2016 17:29:27 GMT"
 dateUnix: 2016-03-10T17:29:27Z
 author: travis
 summary: |
-    
+    The Catalyze [Healthcare Innovation Series][1] is an ongoing collection of interviews with a few of the industry's brightest minds. For the past two years, we have asked participants the question **_how does healthcare innovate_**? So in joint efforts with these figures to intrigue and inspire, we are proud to begin releasing quarterly eBooks that are able to thematically link what sparks, inspires and ignites innovation.
 lead: |
-    
+    The Catalyze [Healthcare Innovation Series][1] is an ongoing collection of interviews with a few of the industry's brightest minds. For the past two years, we have asked participants the question **_how does healthcare innovate_**? We have had the privilege of asking esteemed individuals from [Aneesh Chopra][2], First U.S. CTO and CEO & Co-founder of NavHealth, to [Trey Lauderdale][3], CEO of Voalte. With the increasing popularity of the series, it has become clear that the thoughts of these leaders must be heard. So in joint efforts with these figures to intrigue and inspire, we are proud to begin releasing quarterly eBooks that are able to thematically link what sparks, inspires and ignites innovation.
+
 ---
 
-The Catalyze [Healthcare Innovation Series][1] is an ongoing collection of interviews with a few of the industry's brightest minds. For the past two years, we have asked participants the question **_how does healthcare innovate_**? We have had the privilege of asking esteemed individuals from [Aneesh Chopra][2], First U.S. CTO and CEO & Co-founder of NavHealth, to [Trey Lauderdale][3], CEO of Voalte. With the increasing popularity of the series, it has become clear that the thoughts of these leaders must be heard. So in joint efforts with these figures to intrigue and inspire, we are proud to begin releasing quarterly eBooks that are able to thematically link what sparks, inspires and ignites innovation.
 
 [Innovation Doesn't Follow Rules][4] is our second eBook in this series following our 2015 eBook, [4 Big Ideas on Innovation][5]. This latest **free** release will cover thoughts from
 

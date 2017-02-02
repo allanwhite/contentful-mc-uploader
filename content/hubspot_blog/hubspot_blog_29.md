@@ -5,12 +5,12 @@ pubDate: "Wed, 01 Jun 2016 17:55:48 GMT"
 dateUnix: 2016-06-01T17:55:48Z
 author: kris
 summary: |
-    
-lead: |
-    
----
+    Data capturing is becoming an increasingly automated process across all modern interactions. Specifically in healthcare, electronic health record systems are digitizing existing patient records to be used in patient care, surgical procedures, and clinical trials. For instance, data streams captured by medical instruments during surgical procedures are fed into an integrated health record system in real-time; also, wearables worn can live stream data directly into clinical and hospital servers while patients recover at home.
 
-Data capturing is becoming an increasingly automated process across all modern interactions. Specifically in healthcare, electronic health record systems are digitizing existing patient records to be used in patient care, surgical procedures, and clinical trials. For instance, data streams captured by medical instruments during surgical procedures are fed into an integrated health record system in real-time; also, wearables worn can live stream data directly into clinical and hospital servers while patients recover at home.
+lead: |
+    Data capturing is becoming an increasingly automated process across all modern interactions. Specifically in healthcare, electronic health record systems are digitizing existing patient records to be used in patient care, surgical procedures, and clinical trials. For instance, data streams captured by medical instruments during surgical procedures are fed into an integrated health record system in real-time; also, wearables worn can live stream data directly into clinical and hospital servers while patients recover at home.
+
+---
 
 With so many channels, data in healthcare is multidimensional and commonly segmented. From a pharmaceutical perspective, in order for Big Data analytics to be successful, attention must be given to vast scale data collection from various entities over extended periods. Big Data support must also be incorporated into interoperable health record systems and this data must be presented intuitively through visual analytics. Despite the buzzing potential of Big Data analytics, there are still challenges impeding complete integration in today's medical field.
 

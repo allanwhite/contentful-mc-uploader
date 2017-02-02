@@ -5,12 +5,10 @@ pubDate: "Fri, 15 Apr 2016 22:01:35 GMT"
 dateUnix: 2016-04-15T22:01:35Z
 author: marcia
 summary: |
-    
+    What's the buzz going on at Catalyze? Partnerships, engagements and announcements are bountiful with the multiple undertakings by this very driven team. Co-Founder Travis Good, M.D. has been selected as a founding member of the HITRUST Business Associate Council, while Catalyze Chief Strategy Officer, Casey Bryson has been flying coast to coast to engage in some of the industry's premiere events such as HealthXL Global Gathering in San Francisco and HOSTING Customer Summit in Denver to announce exciting new partnerships. 
 lead: |
-    
+    What's the buzz going on at Catalyze? Partnerships, engagements and announcements are bountiful with the multiple undertakings by this very driven team. Co-Founder Travis Good, M.D. has been selected as a founding member of the HITRUST Business Associate Council, while Catalyze Chief Strategy Officer, Casey Bryson has been flying coast to coast to engage in some of the industry's premiere events such as HealthXL Global Gathering in San Francisco and HOSTING Customer Summit in Denver to announce exciting new partnerships. 
 ---
-
-What's the buzz going on at Catalyze? Partnerships, engagements and announcements are bountiful with the multiple undertakings by this very driven team. Co-Founder Travis Good, M.D. has been selected as a founding member of the HITRUST Business Associate Council, while Catalyze Chief Strategy Officer, Casey Bryson has been flying coast to coast to engage in some of the industry's premiere events such as HealthXL Global Gathering in San Francisco and HOSTING Customer Summit in Denver to announce exciting new partnerships. 
 
 ## Catalyze Cofounder on HITRUST BA Council 
 

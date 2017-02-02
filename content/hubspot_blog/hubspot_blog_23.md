@@ -5,12 +5,10 @@ pubDate: "Thu, 28 Jul 2016 16:00:00 GMT"
 dateUnix: 2016-07-28T16:00:00Z
 author: travis
 summary: |
-    
+    HIT vendors develop and offer services for a variety of applications, such as health records and e-prescribing, among others. Rising cost pressures affiliated with managed-care environments have been driving hospitals' adoption of clinical and administrative IT systems since such adoption is expected to improve efficiency and lower costs. What is driving these costs though? How are HIT vendors pricing their technologies? Why does pricing seem so fluid in contrast to other industry models?
 lead: |
-    
+    HIT vendors develop and offer services for a variety of applications, such as health records and e-prescribing, among others. Vendors typically specialize in serving certain size physician practices and their products are often licensed by the physician or user. The overall adoption of these technologies is influenced by both the total market share of care organizations and the level of competition among them. Rising cost pressures affiliated with managed-care environments have been driving hospitals' adoption of clinical and administrative IT systems since such adoption is expected to improve efficiency and lower costs. What is driving these costs though? How are HIT vendors pricing their technologies? Why does pricing seem so fluid in contrast to other industry models?
 ---
-
-HIT vendors develop and offer services for a variety of applications, such as health records and e-prescribing, among others. Vendors typically specialize in serving certain size physician practices and their products are often licensed by the physician or user. The overall adoption of these technologies is influenced by both the total market share of care organizations and the level of competition among them. Rising cost pressures affiliated with managed-care environments have been driving hospitals' adoption of clinical and administrative IT systems since such adoption is expected to improve efficiency and lower costs. What is driving these costs though? How are HIT vendors pricing their technologies? Why does pricing seem so fluid in contrast to other industry models?
 
 The power struggle between [digital health vendors][1] and enterprise customers is vastly changing due to a convergence of market, economic, and technological influences. No longer can vendors solely control how they sell and price. Now they must account for a new generation of customer that will evaluate vendor technologies by their ability to contribute value to the customer – measuring where, when, how much, and how well the technology is used. HIT vendors must be thinking of their applications as fluid platforms that permit customers to select among various technological components and pricing models.
 

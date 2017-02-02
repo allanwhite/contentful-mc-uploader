@@ -5,11 +5,14 @@ pubDate: "Wed, 13 Apr 2016 16:56:28 GMT"
 dateUnix: 2016-04-13T16:56:28Z
 author: mohan
 summary: |
-    
+    The guaranteed benefits of data analytics and the federal HIPAA mandates have been driving healthcare organizations to adopt EHR systems. However, large scale integration on a national level would be obviously optimal. Integrated healthcare systems provide a platform for performing advanced causation analyses and predictive modeling. 
+
 lead: |
-    
+    The guaranteed benefits of data analytics and the federal HIPAA mandates have been driving healthcare organizations to adopt EHR systems. The transition from paper-based record keeping systems to EHRs not only improves the efficiency of record keeping but also allows rapid retrieval and analysis of patient medical history. It is clear that medical decisions supported by a large amount of easily accessible, real-time data are advantageous over ones based on anything less. More data equals more accurate and encompassing diagnoses. Currently, many of the electronic medical systems are integrated with their own respective hospital and, at best, their partners' systems. However, large scale integration on a national level would be obviously optimal. Integrated healthcare systems provide a platform for performing advanced causation analyses and predictive modeling. 
+
 ---
-The guaranteed benefits of data analytics and the federal HIPAA mandates have been driving healthcare organizations to adopt EHR systems. The transition from paper-based record keeping systems to EHRs not only improves the efficiency of record keeping but also allows rapid retrieval and analysis of patient medical history. It is clear that medical decisions supported by a large amount of easily accessible, real-time data are advantageous over ones based on anything less. More data equals more accurate and encompassing diagnoses. Currently, many of the electronic medical systems are integrated with their own respective hospital and, at best, their partners' systems. However, large scale integration on a national level would be obviously optimal. Integrated healthcare systems provide a platform for performing advanced causation analyses and predictive modeling. Vast amounts of accessible medical data holds potential opportunities for research and improvements in everyday healthcare practices, such as
+
+Vast amounts of accessible medical data holds potential opportunities for research and improvements in everyday healthcare practices, such as
 
 1. Advanced diagnoses
 2. New pharma research

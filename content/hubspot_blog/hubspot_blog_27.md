@@ -5,11 +5,11 @@ pubDate: "Tue, 21 Jun 2016 17:09:21 GMT"
 dateUnix: 2016-06-21T17:09:21Z
 author: mark
 summary: |
-    
+    Criminal and financial penalties alongside severe reputation loss — with wagers so high, hospitals need to grow above the impromptu manual audits. Further contextual proof is given since these audits review a very minute percentage of all daily access events. Ensuring widespread patient privacy requires a solid foundation involving policy, procedures, and technology.
 lead: |
-    
+    Criminal and financial penalties alongside severe reputation loss — with wagers so high, hospitals need to grow above the impromptu manual audits. Further contextual proof is given since these audits review a very minute percentage of all daily access events. Ensuring widespread patient privacy requires a solid foundation involving policy, procedures, and technology.
+
 ---
-Criminal and financial penalties alongside severe reputation loss — with wagers so high, hospitals need to grow above the impromptu manual audits. Further contextual proof is given since these audits review a very minute percentage of all daily access events. Ensuring widespread patient privacy requires a solid foundation involving policy, procedures, and technology.
 
 Certain tasks simply cannot be addressed efficiently when done manually. With the appropriate technology, hospitals and healthcare entities can move beyond the limitations of random and manual audits. Now, patient privacy monitoring can be automated.
 

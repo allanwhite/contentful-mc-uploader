@@ -5,11 +5,11 @@ pubDate: "Fri, 11 Nov 2016 17:54:37 GMT"
 dateUnix: "2016-11-11T17:54:37Z"
 author: casey
 summary: |
-    
+    For the second year in a row, Catalyze both attended and sponsored the Voalte User Experience (VUE16) in Sarasota, Florida. W
 lead: |
-    
+    For the second year in a row, Catalyze both attended and sponsored the Voalte User Experience (VUE16) in Sarasota, Florida. What an honor to have our CEO Travis Good, MD participate in a panel discussion around EHR integration, alongside Deborah Whitebird-Clayton, program manager from St. Luke's Health System in Kansas City, MO and Ariel Norton, director of product management at Allscripts Healthcare.
+
 ---
-For the second year in a row, Catalyze both attended and sponsored the Voalte User Experience (VUE16) in Sarasota, Florida. What an honor to have our CEO Travis Good, MD participate in a panel discussion around EHR integration, alongside Deborah Whitebird-Clayton, program manager from St. Luke's Health System in Kansas City, MO and Ariel Norton, director of product management at Allscripts Healthcare.
 
 ![voalte_2016-1.jpg][1]
 

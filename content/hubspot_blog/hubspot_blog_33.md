@@ -5,11 +5,12 @@ pubDate: "Tue, 03 May 2016 16:00:00 GMT"
 dateUnix: 2016-05-03T16:00:00Z
 author: kris
 summary: |
-    
+    Under the Omnibus Rule, learn about four special cases for making use of PHI in marketing efforts.
+
 lead: |
-    
+    In modern daily practice, healthcare professionals can utilize patient [protected health information (PHI)][1] to "market" various alternative remedies or products, without formal authorization from the patient / beneficiary. To start off clearly, marketing is the communication of a product or service that encourages the purchase or use of said product or service. Under the [HIPAA Omnibus Rules][2] legislation passed in 2013, marketing interaction in healthcare is severely limited. Within the Omnibus Rules is stated that prior to a compensated covered entity recommending third party products or services, that entity must first receive the proper authorization to use patient PHI. For example, an entity must officially notify and authorize patients to obtain or distribute supplements from a third party that also pays the entity a commission. Furthermore, if the entity apportions any products and receives payments/discounts for bulk purchases, the entity must have a statement of disclosure that patients can review that states the entity may sell them products or services in return for recompense of sorts from a third party. Doesn't that sound like a very uncomfortable conversation? Thankfully, it doesn't have to be.
+
 ---
-In modern daily practice, healthcare professionals can utilize patient [protected health information (PHI)][1] to "market" various alternative remedies or products, without formal authorization from the patient / beneficiary. To start off clearly, marketing is the communication of a product or service that encourages the purchase or use of said product or service. Under the [HIPAA Omnibus Rules][2] legislation passed in 2013, marketing interaction in healthcare is severely limited. Within the Omnibus Rules is stated that prior to a compensated covered entity recommending third party products or services, that entity must first receive the proper authorization to use patient PHI. For example, an entity must officially notify and authorize patients to obtain or distribute supplements from a third party that also pays the entity a commission. Furthermore, if the entity apportions any products and receives payments/discounts for bulk purchases, the entity must have a statement of disclosure that patients can review that states the entity may sell them products or services in return for recompense of sorts from a third party. Doesn't that sound like a very uncomfortable conversation? Thankfully, it doesn't have to be.
 
 The best method to proceed with the desired marketing is to add an explanatory statement about the participation in these business arrangements within the necessary HIPAA Patient Acknowledgement form. Entities must ensure the phrasing is concise, simple, while stating the patient advisement in agreement with the current HIPAA legislation. Often highly encouraged is to include a Third Party Remuneration paragraph just in case of participation in third party compensation promotions or programs. This rhetoric can be suitably customized but must clearly advise patients of participation in all programs that provide repayments.
 
@@ -29,7 +30,7 @@ Payments in absence of actual money or payments that execute a disease managemen
 
 ### 4. Reasonable Propaganda
 
-Everyone loves presents, but be mindful as to what is legally admissible and inadmissible . Miniscule valued propaganda gifts are not bound to the authorization requirement.
+Everyone loves presents, but be mindful as to what is legally admissible and inadmissible. Miniscule valued propaganda gifts are not bound to the authorization requirement.
 
 **There you have it. Those are the four special cases to marketing with PHI. Hopefully this was insightful, and provides a sense of necessary awareness. HIPAA and all of its accompanying mandates are intense and complex. At Catalyze, we are trying to simplify as many of these convoluted healthcare topics as possible so you don't have to. Don't do it solo! You are not alone in feeling overwhelmed by the incessant twists and turns of this industry. Many healthcare professionals feel the same way. That is our motivation. **
 

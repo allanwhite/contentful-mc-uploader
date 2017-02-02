@@ -5,12 +5,12 @@ pubDate: "Mon, 23 Jan 2017 16:54:22 GMT"
 dateUnix: 2017-01-23T16:54:22Z
 author: laleh
 summary: |
-    
-lead: |
-    
----
+    As one of the newest members of the healthcare executive suite, the Chief Medical Information/Informatics Officer (CMIO) has a complex job description that's evolving in parallel to the shift from volume-based to value-based care.
 
-Most people are familiar with the role a CIO plays in a health system but the mention of a CMIO would likely elicit questioning looks or shoulder shrugs from many. As one of the newest members of the healthcare executive suite, the Chief Medical Information/Informatics Officer (CMIO) has a complex job description that's evolving in parallel to the shift  from volume-based to value-based care.
+lead: |
+    Most people are familiar with the role a CIO plays in a health system but the mention of a CMIO would likely elicit questioning looks or shoulder shrugs from many. As one of the newest members of the healthcare executive suite, the Chief Medical Information/Informatics Officer (CMIO) has a complex job description that's evolving in parallel to the shift from volume-based to value-based care.
+
+---
 
 ![Luis Saldana, MD on the CMIO job][1]
 

@@ -5,16 +5,14 @@ pubDate: "Thu, 06 Oct 2016 13:21:33 GMT"
 dateUnix: 2016-10-06T13:21:33Z
 author: travis
 summary: |
-    
+    HITRUST is an industry-driven organization with a mission to create a standardized and certifiable security and compliance framework for the healthcare industry. It was founded by and is still governed by representatives from covered entities included Unitedhealthcare, Anthem, and Highmark. The framework created by HITRUST, called the Common Security Framework (CSF), is an evolving framework now on version 8.0.
 lead: |
-    
+    ## HITRUST: A Primer
+
+    HITRUST is an industry-driven organization with a mission to create a standardized and certifiable security and compliance framework for the healthcare industry. It was founded by and is still governed by representatives from covered entities included Unitedhealthcare, Anthem, and Highmark. The framework created by HITRUST, called the Common Security Framework (CSF), is an evolving framework now on version 8.0.
+
+    The mission of HITRUST is to standardize the compliance framework and certification process for healthcare but also to streamline the the process of third party assurance, which basically means making it less resource intensive for both covered entities (payor, providers, clearinghouses) and business associates (BAs) as covered entities assess the risk of data security and compliance in working with third parties (BAs). 
 ---
-
-## HITRUST: A Primer
-
-HITRUST is an industry-driven organization with a mission to create a standardized and certifiable security and compliance framework for the healthcare industry. It was founded by and is still governed by representatives from covered entities included Unitedhealthcare, Anthem, and Highmark. The framework created by HITRUST, called the Common Security Framework (CSF), is an evolving framework now on version 8.0.
-
-The mission of HITRUST is to standardize the compliance framework and certification process for healthcare but also to streamline the the process of third party assurance, which basically means making it less resource intensive for both covered entities (payor, providers, clearinghouses) and business associates (BAs) as covered entities assess the risk of data security and compliance in working with third parties (BAs). 
 
 ## Victim of its own success
 

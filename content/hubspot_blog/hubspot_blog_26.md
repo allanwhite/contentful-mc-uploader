@@ -5,11 +5,11 @@ pubDate: "Wed, 13 Jul 2016 16:00:00 GMT"
 dateUnix: 2016-07-13T16:00:00Z
 author: mohan
 summary: |
-    
+    Healthcare is being revolutionized by the proliferation of new technologies. With the modern boom of laptop, smartphone and tablet usage being witnessed across medical institutions, allowing doctors to easily connect with their patients is more important than ever. Since medical workers can connect near instantaneously to obtain medical information sought after, primary care workflows can be expedited, but what does this mean for data security?
 lead: |
-    
+    Healthcare is being revolutionized by the proliferation of new technologies. With the modern boom of laptop, smartphone and tablet usage being witnessed across medical institutions, allowing doctors to easily connect with their patients is more important than ever. Since medical workers can connect near instantaneously to obtain medical information sought after, primary care workflows can be expedited, but what does this mean for data security?
+
 ---
-Healthcare is being revolutionized by the proliferation of new technologies. With the modern boom of laptop, smartphone and tablet usage being witnessed across medical institutions, allowing doctors to easily connect with their patients is more important than ever. Since medical workers can connect near instantaneously to obtain medical information sought after, primary care workflows can be expedited, but what does this mean for data security?
 
 Risks always follow new technologies. For instance, a tablet may be easily stolen or misplaced. If that tablet has the personal information of several hundred patients stored on it, the unknown whereabouts could lead to lawsuit settlements with insurmountable financial repercussions. Therefore, hospitals must be wary about how they are collecting, storing and protecting the information on their patients.
 

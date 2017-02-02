@@ -5,11 +5,11 @@ pubDate: "Thu, 16 Jun 2016 19:01:03 GMT"
 dateUnix: 2016-06-16T19:01:03Z
 author: travis
 summary: |
-    
+    Healthcare providers are facing increasingly severe economic and social pressures that ultimately affect their service budgets and the ability to deliver on quality services. In an age where thriving is equivalent to surviving,  an attractive approach for the healthcare industry is outsourcing. While manifesting a vast array of diverse and complex services, hospitals are a distinctly lush domain for outsourcing many functions.
 lead: |
-    
+    Healthcare providers are facing increasingly severe economic and social pressures that ultimately affect their service budgets and the ability to deliver on quality services. As with all businesses, providers must also overcome the tremendous pressures of industry competition. In an age where thriving is equivalent to surviving,  an attractive approach for the healthcare industry is outsourcing. While manifesting a vast array of diverse and complex services, hospitals are a distinctly lush domain for outsourcing many functions.
+
 ---
-Healthcare providers are facing increasingly severe economic and social pressures that ultimately affect their service budgets and the ability to deliver on quality services. As with all businesses, providers must also overcome the tremendous pressures of industry competition. In an age where thriving is equivalent to surviving,  an attractive approach for the healthcare industry is outsourcing. While manifesting a vast array of diverse and complex services, hospitals are a distinctly lush domain for outsourcing many functions.
 
 There really are many advantages to providing services by utilizing an internal staff. The weighty benefit is price, assuming that service qualities are comparable. An additional two motives for keeping services in-house are reliable continuity and vested interests. An internal staff has a heightened understanding of the patient requirements and procedures necessary in a multitude of situations. Additionally is the anticipation of continuity. Staff will need to face actionable consequences, leading to increased strategic alignment through fortified internal and client relationships.
 

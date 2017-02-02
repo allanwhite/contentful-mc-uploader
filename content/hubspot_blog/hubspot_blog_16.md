@@ -5,13 +5,11 @@ pubDate: "Thu, 29 Sep 2016 00:10:12 GMT"
 dateUnix: 2016-09-29T00:10:12Z
 author: kris
 summary: |
-    
+    Day Three is a wrap, meaning we saw more demos and observed the last few panel discussions of the conference.
 lead: |
-    
+    Day Three is a wrap, meaning we saw more demos and observed the last few panel discussions of the conference.
+
 ---
-
-Day Three is a wrap, meaning we saw more demos and observed the last few panel discussions of the conference.
-
 ## Diversity of care
 
 One of the more powerful themes that sets up a tentpole topic for 2017 is the diversity of types of care. It's now obvious there are several different types of care. Health 2.0 explained it like such:

@@ -1,18 +1,17 @@
 ---
-title: "AWS Re:Invent â€” Re:Cap #2"
+title: "AWS Re:Invent” Re:Cap #2"
 slug: aws-reinvent-recap-2
 pubDate: "Fri, 02 Dec 2016 19:15:59 GMT"
 dateUnix: 2016-12-02T19:15:59Z
 author: mohan
 summary: |
-    
+    While both keynotes were interesting from a technology perspective, I felt that it would be worthwhile to condense it down and explore how some of these announcements could be applicable to the healthcare domain.
 lead: |
+    ## A recap of the AWS re:Invent keynotes
     
+    We're returning from three and a half days at the re:invent conference. It was an extraordinary event both in terms of the number of people attending but also in terms of the calibre and diversity of the attendees. I had some conversations where people reminisced about how re:invent has come to be **the** IT conference and has taken over the mantle from VMWorld. It also helps that the brands making presentations and sharing their knowledge are acknowledged leaders in their industry _viz_ Netflix (entertainment), Merck (life sciences), FINRA (finance), Twilio (messaging), Mapbox (mapping), enterprise IT (VMWare and Workday), McDonald's (fast food) and more. Every presentation in the keynote has slides filled with logos of major brands in every industry you can imagine. Each of the keynotes—the first by CEO Andy Jassy and the second by CTO Werner Vogels—were about two and a half hours long. Each was filled with product announcements and interspersed with customer presentations, all of which were illuminating and funny at times as well. The Snowmobile announcement, for one, was sheer showmanship (it was driven onto stage) and remains memorable for every attendee. It was also parked right next to our booth in the exhibit hall and had a constant stream of people coming by to take selfies and pose with it.
+
 ---
-
-## A recap of the AWS re:Invent keynotes
-
-We're returning from three and a half days at the re:invent conference. It was an extraordinary event both in terms of the number of people attending but also in terms of the calibre and diversity of the attendees. I had some conversations where people reminisced about how re:invent has come to be **the** IT conference and has taken over the mantle from VMWorld. It also helps that the brands making presentations and sharing their knowledge are acknowledged leaders in their industry _viz_ Netflix (entertainment), Merck (life sciences), FINRA (finance), Twilio (messaging), Mapbox (mapping), enterprise IT (VMWare and Workday), McDonald's (fast food) and more. Every presentation in the keynote has slides filled with logos of major brands in every industry you can imagine. Each of the keynotes—the first by CEO Andy Jassy and the second by CTO Werner Vogels—were about two and a half hours long. Each was filled with product announcements and interspersed with customer presentations, all of which were illuminating and funny at times as well. The Snowmobile announcement, for one, was sheer showmanship (it was driven onto stage) and remains memorable for every attendee. It was also parked right next to our booth in the exhibit hall and had a constant stream of people coming by to take selfies and pose with it.
 
 ![IMG_4343.jpg][1]
 

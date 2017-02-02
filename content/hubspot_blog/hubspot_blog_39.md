@@ -1,15 +1,15 @@
 ---
-title: "The Acme of Insight â€” Raj Sundaramurthy, Catalyze Chief Product Officer"
+title: "The Acme of Insight” Raj Sundaramurthy, Catalyze Chief Product Officer"
 slug: the-acme-of-insight-raj-sundaramurthy-catalyze-chief-product-officer
 pubDate: "Wed, 16 Mar 2016 13:00:00 GMT"
 dateUnix: 2016-03-16T13:00:00Z
 author: mohan
 summary: |
-    
+    From the arts to the sciences, having insight is the most effective method to developing understanding. Whether you desire to delve into a new area of expertise or explore a more generalized subject matter, having insight is critical. No one can advocate for this imperative more than Catalyze's new Chief Product Officer, Raj Sundaramurthy.
 lead: |
-    
+    From the arts to the sciences, having insight is the most effective method to developing understanding. Whether you desire to delve into a new area of expertise or explore a more generalized subject matter, having insight is critical. No one can advocate for this imperative more than Catalyze's new Chief Product Officer, Raj Sundaramurthy.
+
 ---
-Genius can often be defined by insightful measures. From the arts to the sciences, having insight is the most effective method to developing understanding. Whether you desire to delve into a new area of expertise or explore a more generalized subject matter, having insight is critical. No one can advocate for this imperative more than Catalyze's new Chief Product Officer, Raj Sundaramurthy.
 
 > "Keep the main thing, the main thing." — Stephen Covey
 

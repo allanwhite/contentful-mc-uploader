@@ -5,11 +5,12 @@ pubDate: "Thu, 11 Feb 2016 13:00:00 GMT"
 dateUnix: 2016-02-11T13:00:00Z
 author: marcia
 summary: |
-    
+    **Doctors need HIPAA-secure communication if they are to share [critical patient information][1] and collaborate with medical colleagues. That's what rural primary care doctor [Tracey Haas, MD][2] discovered as she practiced in an area that didn't even have a cardiologist or orthopedic surgeon. HIPAA regulations tied her hands whenever she looked at a patient EKG or X-ray and needed a real-time expert opinion from another doctor, like her husband, orthopedic surgeon [Dr. Tim Gueramy][3]. Prior to the start of [DocbookMD®][4], a secure way to communicate physician-to-physician didn't exist, so doctors, including Haas and Gueramy struggled to provide immediate and efficient care to patients.**
+
 lead: |
-    
+    **Doctors need HIPAA-secure communication if they are to share [critical patient information][1] and collaborate with medical colleagues. That's what rural primary care doctor [Tracey Haas, MD][2] discovered as she practiced in an area that didn't even have a cardiologist or orthopedic surgeon. HIPAA regulations tied her hands whenever she looked at a patient EKG or X-ray and needed a real-time expert opinion from another doctor, like her husband, orthopedic surgeon [Dr. Tim Gueramy][3]. Prior to the start of [DocbookMD®][4], a secure way to communicate physician-to-physician didn't exist, so doctors, including Haas and Gueramy struggled to provide immediate and efficient care to patients.**
+
 ---
-**Doctors need HIPAA-secure communication if they are to share [critical patient information][1] and collaborate with medical colleagues. That's what rural primary care doctor [Tracey Haas, MD][2] discovered as she practiced in an area that didn't even have a cardiologist or orthopedic surgeon. HIPAA regulations tied her hands whenever she looked at a patient EKG or X-ray and needed a real-time expert opinion from another doctor, like her husband, orthopedic surgeon [Dr. Tim Gueramy][3]. Prior to the start of [DocbookMD®][4], a secure way to communicate physician-to-physician didn't exist, so doctors, including Haas and Gueramy struggled to provide immediate and efficient care to patients.**
 
 **When the first [iPhone®][5] came out in 2007, [_sans_][6][ camera][6], apps or app store, Haas and Gueramy began talking to other doctors to build the first use cases for DocbookMD, which went from directory app upon its launch in 2009 to communication app and finally to today's iteration -- a critical collaboration platform.**
 

@@ -5,12 +5,10 @@ pubDate: "Wed, 09 Nov 2016 18:57:04 GMT"
 dateUnix: "2016-11-09T18:57:04Z"
 author: travis
 summary: |
-    
+    Recently, I was surprised to see a handful of online posts from vendors and consultants about HITRUST, voicing opinions that don't quite match up with my understanding and experiences. The questions raised and inaccurate claims made showed me that there's still a lot of misinformation and misunderstanding about HITRUST.
 lead: |
-    
+    Recently, I was surprised to see a handful of online posts from vendors and consultants about HITRUST, voicing opinions that don't quite match up with my understanding and experiences. The questions raised and inaccurate claims made showed me that there's still a lot of misinformation and misunderstanding about HITRUST. As a longtime user and supporter — as well as a member of the HITRUST Business Associate Council — I feel it incumbent on me to help address these misconceptions and provide some clarifying facts and information.
 ---
-
-Recently, I was surprised to see a handful of online posts from vendors and consultants about HITRUST, voicing opinions that don't quite match up with my understanding and experiences. The questions raised and inaccurate claims made showed me that there's still a lot of misinformation and misunderstanding about HITRUST. As a longtime user and supporter — as well as a member of the HITRUST Business Associate Council — I feel it incumbent on me to help address these misconceptions and provide some clarifying facts and information.
 
 To understand where we are today, it's important to know where HITRUST came from. After HIPAA was passed into law in 1996, the following decade or so was a confusing, disorganized morass in which the HIPAA Security Rule did not provide prescriptive measures for covered entities (CE) and business associates (BA). Basically, these organizations were given the flexibility to implement comprehensive information security programs and analyze their own levels of risk — something many healthcare organizations had no experience with, so even those who did have programs had ones that were significantly less robust than they needed.
 

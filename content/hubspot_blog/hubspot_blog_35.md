@@ -5,11 +5,12 @@ pubDate: "Wed, 20 Apr 2016 16:28:12 GMT"
 dateUnix: 2016-04-20T16:28:12Z
 author: travis
 summary: |
-    
+    With all the buzzwords in the healthcare industry, it has become impossible to keep track of their many interpretations and evolutions, but more importantly, tracking how to properly enable solutions. Previously, physicians handled the clinical affairs while healthcare administrators managed the finances and operations. Presently, those roles have blurred. With such close working environments, some baselines must be met to fully enable the acceleration of clinical integration.
+
 lead: |
-    
+    With all the buzzwords in the healthcare industry, it has become impossible to keep track of their many interpretations and evolutions, but more importantly, tracking how to properly enable solutions. Clinically integrated networks have their many benefits. As regarded by the Federal Trade Commission (FTC) they are permitted collaborations between otherwise competing providers (physicians and/or hospitals). These partnerships are organized in a manner that not only improves efficiencies in care delivery, including care quality and cost reduction, but also avoids any potential rival ramifications, such as competitor pricing fixes. Additionally, clinical integration enables providers to engage in contracted collaborations while evading the heavy scrutiny of the antitrust laws.
+
 ---
-With all the buzzwords in the healthcare industry, it has become impossible to keep track of their many interpretations and evolutions, but more importantly, tracking how to properly enable solutions. Clinically integrated networks have their many benefits. As regarded by the Federal Trade Commission (FTC) they are permitted collaborations between otherwise competing providers (physicians and/or hospitals). These partnerships are organized in a manner that not only improves efficiencies in care delivery, including care quality and cost reduction, but also avoids any potential rival ramifications, such as competitor pricing fixes. Additionally, clinical integration enables providers to engage in contracted collaborations while evading the heavy scrutiny of the antitrust laws.
 
 Over the years, the notion of _clinical integration_ has evolved. The FTC in 1996 instituted a few guiding principles: 1) The framework must be based on the equal ownership of the substantial risk by the participant providers; 2) Clinical integration must produce an outcome that benefits consumers; 3) The goal is to provide supplemental services at a reduced price point, or that this would at least be an end result. Today, there are a few different features that underlie clinical integration:
 

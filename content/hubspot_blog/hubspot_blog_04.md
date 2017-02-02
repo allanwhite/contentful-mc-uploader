@@ -5,12 +5,10 @@ pubDate: "Mon, 16 Jan 2017 22:12:31 GMT"
 dateUnix: 2017-01-16T22:12:31Z
 author: travis
 summary: |
-    
+    There's often a buzz of recap news stories at the end of each year followed by a flurry of predictions posts for the coming new year. We've done this [before][1] in a few different ways at Catalyze. The prediction posts are usually specific and often wrong in that specificity. For 2017 I'm going to do things differently.
 lead: |
-    
+    There's often a buzz of recap news stories at the end of each year followed by a flurry of predictions posts for the coming new year. We've done this [before][1] in a few different ways at Catalyze. The prediction posts are usually specific and often wrong in that specificity. For 2017 I'm going to do things differently.
 ---
-
-There's often a buzz of recap news stories at the end of each year followed by a flurry of predictions posts for the coming new year. We've done this [before][1] in a few different ways at Catalyze. The prediction posts are usually specific and often wrong in that specificity. For 2017 I'm going to do things differently.
 
 Over the course of the next few weeks, I'll present four high-level trends that follow the broad directional shifts driving healthcare in 2017 and beyond. These overarching trends are creating turmoil and uncertainty, new problems across all sectors of the industry, and opportunities for new solutions to help address uncertainty and new problems.
 

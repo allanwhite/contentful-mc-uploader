@@ -5,12 +5,10 @@ pubDate: "Thu, 10 Nov 2016 17:15:38 GMT"
 dateUnix: 2016-11-10T17:15:38Z
 author: travis
 summary: |
-    
+    Now that the healthcare system is starting to look at "patients as consumers" and consider how to deliver and document quality care in which patients enjoy the experience, what changes in terms of data requirements and strategy? The short answer is lots of things, most notably more data elements on patients collected on a continuous basis. 
 lead: |
-    
+    Almost 3 years ago I [wrote][1] about Big Data in healthcare for HIStalk. At the time I covered many of types of healthcare data that are not a part of the EHR but hold tremendous value to clinicians, patients, and data scientists. I haven't changed the fundamental thesis that the EHR represents only one set of healthcare data, which, while large and currently the primary source of data for healthcare delivery, is far from the only set of relevant data. In fact, I'd go further today than I did 3 years ago by saying that new payment models and forms of care, namely those driven by things like "[patients as consumers][2]" and MACRA, require the expansion of the relevant data sets well beyond the EHR.
 ---
-
-Almost 3 years ago I [wrote][1] about Big Data in healthcare for HIStalk. At the time I covered many of types of healthcare data that are not a part of the EHR but hold tremendous value to clinicians, patients, and data scientists. I haven't changed the fundamental thesis that the EHR represents only one set of healthcare data, which, while large and currently the primary source of data for healthcare delivery, is far from the only set of relevant data. In fact, I'd go further today than I did 3 years ago by saying that new payment models and forms of care, namely those driven by things like "[patients as consumers][2]" and MACRA, require the expansion of the relevant data sets well beyond the EHR.
 
 EHRs were built to document delivered care and they do a good job of that. There have been a lot of critiques of the UX and design of EHRs but documenting care for billing in today's healthcare system is extremely cumbersome. EHRs are the main tool, and do it well. Today, documented care is based on episodic care—ambulatory appointments, notes from acute stays, labs, etc. EHRs contain terabytes of episodic data plus the corresponding metadata about the episodes like charges, payments, schedules, and more. Thousands of tables worth of data in fact, most of which is [not clinically relevant][3].
 

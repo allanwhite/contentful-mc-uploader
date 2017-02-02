@@ -5,12 +5,12 @@ pubDate: "Thu, 04 Aug 2016 22:21:41 GMT"
 dateUnix: 2016-08-04T22:21:41Z
 author: mohan
 summary: |
-    
-lead: |
-    
----
-In 2015, the Healthcare Information Systems (HCIS) market accounted for $40.39 billion and is forecasted to reach $70+ billion by 2022. Rising government initiatives, increasing healthcare costs and aging population are some of the factors driving the market growth. Compared to information systems in other industries, HCISs are specific to healthcare. The distinctiveness characterizing the development of HCISs in healthcare is attributed to six elements.
+    In 2015, the Healthcare Information Systems (HCIS) market accounted for $40.39 billion and is forecasted to reach $70+ billion by 2022. Compared to information systems in other industries, HCISs are specific to healthcare. The distinctiveness characterizing the development of HCISs in healthcare is attributed to six elements.
 
+lead: |
+    In 2015, the Healthcare Information Systems (HCIS) market accounted for $40.39 billion and is forecasted to reach $70+ billion by 2022. Rising government initiatives, increasing healthcare costs and aging population are some of the factors driving the market growth. Compared to information systems in other industries, HCISs are specific to healthcare. The distinctiveness characterizing the development of HCISs in healthcare is attributed to six elements.
+
+---
 ### Mismatched Information
 
 At all stages related to care, information systems showcase errors since healthcare quality is vigilantly implemented and diligently pursued to minimize the impact associated with information mismatch.

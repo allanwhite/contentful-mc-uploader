@@ -5,14 +5,12 @@ pubDate: "Tue, 11 Oct 2016 13:37:00 GMT"
 dateUnix: 2016-10-11T13:37:00Z
 author: kris
 summary: |
-    
+    Recently we published our first five Customer Spotlights, a new section on the website sharing the amazing and diverse stories our customers have to tell. 
 lead: |
-    
+    Recently we published our first five Customer Spotlights, a new section on the website sharing the amazing and diverse stories our customers have to tell. 
+
+    We noticed something interesting when working with our customers: Their origin stories, visions on how to change healthcare, and traction were all so compelling, and surprisingly diverse. It reminded us of the vastness of healthcare; the industry is full of things to be fixed, and there is no shortage of innovators ready to step up.
 ---
-
-Recently we published our first five Customer Spotlights, a new section on the website sharing the amazing and diverse stories our customers have to tell. 
-
-We noticed something interesting when working with our customers: Their origin stories, visions on how to change healthcare, and traction were all so compelling, and surprisingly diverse. It reminded us of the vastness of healthcare; the industry is full of things to be fixed, and there is no shortage of innovators ready to step up.
 
 It got to the point where we knew these stories had to be shared. We would have feel-good moments each time we heard how a customer was truly making a dent in the universe, and wanted to pass those moments onto you.
 

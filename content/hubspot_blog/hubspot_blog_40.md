@@ -5,12 +5,10 @@ pubDate: "Fri, 11 Mar 2016 22:28:59 GMT"
 dateUnix: 2016-03-11T22:28:59Z
 author: mohan
 summary: |
-    
+    Catalyze automates much of the compliance burden put on technical teams. We are proud to announce that with a single [Business Associate Agreement (BAA)][2], healthcare customers of [Microsoft Azure][3] and [Salesforce Health Cloud][4] can now cover the infrastructure obligations of HIPAA, freeing them to focus on their core competencies.
 lead: |
-    
+    Healthcare data requires the utmost level of security and integrity. [Protected Health Information (PHI)][1] isn't just random data; it's a real person's medical history so dedication to compliance and security is critical. Unfortunately the commitment to security and privacy has lead to the data being difficult to fully utilize. With that industry hurdle, Catalyze automates much of the compliance burden put on technical teams. We are proud to announce that with a single [Business Associate Agreement (BAA)][2], healthcare customers of [Microsoft Azure][3] and [Salesforce Health Cloud][4] can now cover the infrastructure obligations of HIPAA, freeing them to focus on their core competencies.
 ---
-Healthcare data requires the utmost level of security and integrity. [Protected Health Information (PHI)][1] isn't just random data; it's a real person's medical history so dedication to compliance and security is critical. Unfortunately the commitment to security and privacy has lead to the data being difficult to fully utilize. With that industry hurdle, Catalyze automates much of the compliance burden put on technical teams. We are proud to announce that with a single [Business Associate Agreement (BAA)][2], healthcare customers of [Microsoft Azure][3] and [Salesforce Health Cloud][4] can now cover the infrastructure obligations of HIPAA, freeing them to focus on their core competencies.
-
 We were very excited to discover both Salesforce and Microsoft Azure, prominent cloud vendors normally outside of healthcare, are entering healthcare with their service offerings. If done correctly, both can be meaningful workflow softwares that can be leveraged by organizations across the industry. Existing Azure and Salesforce Health Cloud customers now have the option to utilize Catalyze's specialized and respected approach to HIPAA compliance.
 
 As we know, integration is not easy, as it requires not only understanding healthcare specific mappings and standards ([HL7][5], CCD, [FHIR][6]…) but also context and business process enablement. It's an undertaking very different from every other industry. Both cloud service providers must solve the integration puzzle in order to reach their full potential. Catalyze is the premier integration and compliance partner. We bring the domain expertise to the gate of these clouds so vendors and health systems can both maximize their utility and value.

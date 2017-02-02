@@ -5,11 +5,10 @@ pubDate: "Mon, 19 Sep 2016 18:45:21 GMT"
 dateUnix: 2016-09-19T18:45:21Z
 author: marcia
 summary: |
-    
+    _FierceHealthcare_ reporter Susan D. Hall outlined some important challenges for digital health in a recent [article][1] titled, "Amid opportunities, digital health poses challenges for cardiology." The article covers three challenges. 
 lead: |
-    
+    _FierceHealthcare_ reporter Susan D. Hall outlined some important challenges for digital health in a recent [article][1] titled, "Amid opportunities, digital health poses challenges for cardiology." The article covers three challenges. One, the need for the onslaught of healthcare data to be better aggregated in context for doctors and patients alike. Two, the challenge of proving mobile health applications' efficacy as a stand-alone therapeutic.
 ---
-_FierceHealthcare_ reporter Susan D. Hall outlined some important challenges for digital health in a recent [article][1] titled, "Amid opportunities, digital health poses challenges for cardiology." The article covers three challenges. One, the need for the onslaught of healthcare data to be better aggregated in context for doctors and patients alike. Two, the challenge of proving mobile health applications' efficacy as a stand-alone therapeutic.
 
 However, her third point about a need for gathering strong evidence around mobile health applications is the one Catalyze is hearing about most. Two physicians we recently interviewed expressed similar concerns. In a recent [_Healthcare Innovators Podcast_][2], Catalyze CEO Travis Good, MD interviewed Dr. Mark Shapiro, a hospitalist from San Diego, as well as the host of [_Explore the Space_][3] podcast. Dr. Shapiro shared his thoughts about the dilemma physicians face when called upon to recommend applications without thorough industry validation of those devices.
 

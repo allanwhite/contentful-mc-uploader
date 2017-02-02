@@ -5,12 +5,12 @@ pubDate: "Wed, 20 Jul 2016 18:24:01 GMT"
 dateUnix: 2016-07-20T18:24:01Z
 author: travis
 summary: |
-    
-lead: |
-    
----
+    Obviously, money is an important resource for EHR projects. No project results in success without the necessary financial resources. Despite all moderate estimates, conventional projections and supplemental buffers, most EHR projects are forecasted to go beyond scope. 
 
-Obviously, money is an important resource for EHR projects. No project results in success without the necessary financial resources. Despite all moderate estimates, conventional projections and supplemental buffers, most EHR projects are forecasted to go beyond scope. The most common causes for budget overruns usually go something like "I forgot to consider this," "I did not expect it to be this high," or "I wasn't expecting it to take this long." These oversights usually include:
+lead: |
+    Obviously, money is an important resource for EHR projects. No project results in success without the necessary financial resources. Despite all moderate estimates, conventional projections and supplemental buffers, most EHR projects are forecasted to go beyond scope. The most common causes for budget overruns usually go something like "I forgot to consider this," "I did not expect it to be this high," or "I wasn't expecting it to take this long." These oversights usually include:
+
+---
 
 * **Training**: It's very common to underestimate the number of people, length of time, and money it takes to train staff.
 * **IT Infrastructure**: EHR projects reveal constraints and limits of existing infrastructures, such as bandwidth requirements, dead spot access points, or new station cabling.

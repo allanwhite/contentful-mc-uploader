@@ -5,12 +5,10 @@ pubDate: "Wed, 19 Oct 2016 14:21:00 GMT"
 dateUnix: "2016-10-19T14:21:00Z"
 author: travis
 summary: |
-    
+    Since achieving our HITRUST Certification, our goal has been to educate the industry about our [experience][1], both positive and negative, with HITRUST, and lower the barrier for others to achieve HITRUST Certification.
 lead: |
-    
+    We completed our initial HITRUST assessment about three years ago. The process of working with the HITRUST CSF, our 3rd party HITRUST approved auditors, and HITRUST as a certifying body had a steep learning curve; we've since completed additional HITRUST assessments and extended our HITRUST CSF Validated Assessment to include additional service providers and certify product and organizational changes. Since achieving our HITRUST Certification, our goal has been to educate the industry about our [experience][1], both positive and negative, with HITRUST, and lower the barrier for others to achieve HITRUST Certification.
 ---
-
-We completed our initial HITRUST assessment about three years ago. The process of working with the HITRUST CSF, our 3rd party HITRUST approved auditors, and HITRUST as a certifying body had a steep learning curve; we've since completed additional HITRUST assessments and extended our HITRUST CSF Validated Assessment to include additional service providers and certify product and organizational changes. Since achieving our HITRUST Certification, our goal has been to educate the industry about our [experience][1], both positive and negative, with HITRUST, and lower the barrier for others to achieve HITRUST Certification.
 
 We feel strongly that the healthcare industry needs a true industry-accepted certification for security and compliance in order to streamline the adoption of new technologies while maintaining the highest privacy standards for health-related data. HITRUST represents that certification in healthcare today.  We've seen the power of HITRUST at reducing our contracting process with certain covered entities from months to minutes (or however long it takes to securely upload your HITRUST Certification report). Achieving a CSF Validated Assessment, especially for those new to HITRUST, is a time consuming and [expensive][2] endeavor. That's why we're so excited HITRUST launched it's [inheritance program][3] this summer and will fully incorporate the concept of inheritance into the CSF this December.
 

@@ -5,11 +5,12 @@ pubDate: "Mon, 17 Dec 2015 21:41:20 GMT"
 dateUnix: 2015-12-17T21:41:20Z
 author: mohan
 summary: |
-    
+    With 2016 rapidly approaching, we are reflecting on what a huge success 2015 was for us but we really can't take all the credit – we had some amazing inspiration from fellow industry leaders. One of the most memorable experiences we partook in and sponsored this year was the [2015 Digital Health Summer Summit][1] co-hosted by the [Center for Digital Health Innovation (CDHI) at UCSF][2] where my fellow Cofounder and CEO, [Travis Good][3], got the opportunity to moderate a panel on [dealmaking, piloting and scaling][4]. As a relatively young company, we are all ears to the learnings offered by others, and what we took from this event back in June inspired our next six months and beyond.
+
 lead: |
-    
+    With 2016 rapidly approaching, we are reflecting on what a huge success 2015 was for us but we really can't take all the credit – we had some amazing inspiration from fellow industry leaders. One of the most memorable experiences we partook in and sponsored this year was the [2015 Digital Health Summer Summit][1] co-hosted by the [Center for Digital Health Innovation (CDHI) at UCSF][2] where my fellow Cofounder and CEO, [Travis Good][3], got the opportunity to moderate a panel on [dealmaking, piloting and scaling][4]. As a relatively young company, we are all ears to the learnings offered by others, and what we took from this event back in June inspired our next six months and beyond.
+
 ---
-With 2016 rapidly approaching, we are reflecting on what a huge success 2015 was for us but we really can't take all the credit – we had some amazing inspiration from fellow industry leaders. One of the most memorable experiences we partook in and sponsored this year was the [2015 Digital Health Summer Summit][1] co-hosted by the [Center for Digital Health Innovation (CDHI) at UCSF][2] where my fellow Cofounder and CEO, [Travis Good][3], got the opportunity to moderate a panel on [dealmaking, piloting and scaling][4]. As a relatively young company, we are all ears to the learnings offered by others, and what we took from this event back in June inspired our next six months and beyond.
 
 As we discussed in our recap of the summit, the importance of partnerships seemed to be a recurring theme throughout the conference.  Afterall, we're all working towards the same goal: exceptional patient care at a fraction of the cost. In order to truly shift to a value-based care model though, transformative partnerships are essential, as Director of CDHI, [Michael Blum, MD][5], stated in his Keynote presentation (video below). [Dr. Blum][6] is responsible for building partnerships and overseeing the strategic direction of CDHI so it was extremely insightful to listen to his comprehensive vantage point on UCSF's transformatvie partnerships and how they are working to transform healthcare delivery with innovations in digital health.
 

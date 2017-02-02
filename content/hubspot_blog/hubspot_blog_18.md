@@ -5,11 +5,10 @@ pubDate: "Tue, 27 Sep 2016 01:47:15 GMT"
 dateUnix: 2016-09-27T01:47:15Z
 author: kris
 summary: |
-    
+    Day One of Health 2.0 featured the annual Traction startup pitch session. Many interesting companies presented, from [biome.io][1] to [strollhealth.com][2]. The panel prior had compelling insight worth sharing. The group of investors told a unified story across several key conversation topics.
 lead: |
-    
+    Day One of Health 2.0 featured the annual Traction startup pitch session. Many interesting companies presented, from [biome.io][1] to [strollhealth.com][2]. The panel prior had compelling insight worth sharing. The group of investors told a unified story across several key conversation topics:
 ---
-Day One of Health 2.0 featured the annual Traction startup pitch session. Many interesting companies presented, from [biome.io][1] to [strollhealth.com][2]. The panel prior had compelling insight worth sharing. The group of investors told a unified story across several key conversation topics:  
 
 * Digital Health is in the "Trough" of the Gartner hype cycle. There was a lot of promise, now under delivery, but eventually will get to the Plateau of Maturity. They are hopeful, but it needs to be said that Digital Health is not accomplishing what it promised.
 * A focus on ROI with a partnership-based relationship is the key to gaining tractions for Digital Health. 
