@@ -4,6 +4,9 @@ slug: data-enabled-does-not-equal-data-driven
 pubDate: "Tue, 26 Apr 2016 16:10:15 GMT"
 dateUnix: 2016-04-26T16:10:15Z
 author: mark
+summary: 
+lead: |
+    
 ---
 In healthcare's current transformational model, organizations are moving from paper-based organizations to data-enabled organizations. To further clarify, being data-enabled is not the same as being data-driven. Data-driven normally means that data is being allowed to mandate treatment and management of patients with as much decision automation as possible. On the other hand, data-enabled organizations provide information to the end-user to empower them to make improved final treatments and diagnoses based on masses of patients with similar symptoms and backgrounds.
 

@@ -4,6 +4,9 @@ slug: cost-of-hitrust-assessment-and-certification
 pubDate: "Wed, 06 Jan 2016 14:24:04 GMT"
 dateUnix: 2016-01-06T14:24:04Z
 author: mohan
+summary: 
+lead: |
+    
 ---
 Cost is one of a few gating factors for companies considering a HITRUST Assessment. This cost can broken up into two broad categories – direct and indirect costs.
 

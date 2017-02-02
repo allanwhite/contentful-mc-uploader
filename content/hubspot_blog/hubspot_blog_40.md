@@ -4,6 +4,9 @@ slug: catalyze-partners-with-salesforce-microsoft-azure
 pubDate: "Fri, 11 Mar 2016 22:28:59 GMT"
 dateUnix: 2016-03-11T22:28:59Z
 author: mohan
+summary: 
+lead: |
+    
 ---
 Healthcare data requires the utmost level of security and integrity. [Protected Health Information (PHI)][1] isn't just random data; it's a real person's medical history so dedication to compliance and security is critical. Unfortunately the commitment to security and privacy has lead to the data being difficult to fully utilize. With that industry hurdle, Catalyze automates much of the compliance burden put on technical teams. We are proud to announce that with a single [Business Associate Agreement (BAA)][2], healthcare customers of [Microsoft Azure][3] and [Salesforce Health Cloud][4] can now cover the infrastructure obligations of HIPAA, freeing them to focus on their core competencies.
 

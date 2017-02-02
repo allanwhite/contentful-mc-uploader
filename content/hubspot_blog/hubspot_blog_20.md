@@ -4,6 +4,9 @@ slug: announcing-our-6.5mm-series-b.-the-story-is-about-our-customers
 dateUnix: "2016-09-21T17:17:13Z"
 pubDate: "Wed, 21 Sep 2016 17:17:13 GMT"
 author: travis
+summary: 
+lead: |
+    
 ---
 Today Catalyze completed a Series B round of financing, raising $6.5MM and bringing our total amount raised to $12.5MM. We're thrilled to have new investor Lewis & Clark Ventures lead the round, and equally excited our existing investors—Arthur Ventures, Baird Capital, and Chicago Ventures—participated in the round and continue to view Catalyze as the organization they believed we would become when they initially invested almost 3 years ago. More details about the round are available in our [press release][1].
 

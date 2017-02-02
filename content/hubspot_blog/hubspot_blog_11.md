@@ -4,6 +4,9 @@ slug: the-truth-about-hitrust-and-why-it-should-become-the-industry-standard
 pubDate: "Wed, 09 Nov 2016 18:57:04 GMT"
 dateUnix: "2016-11-09T18:57:04Z"
 author: travis
+summary: 
+lead: |
+    
 ---
 
 Recently, I was surprised to see a handful of online posts from vendors and consultants about HITRUST, voicing opinions that don't quite match up with my understanding and experiences. The questions raised and inaccurate claims made showed me that there's still a lot of misinformation and misunderstanding about HITRUST. As a longtime user and supporter — as well as a member of the HITRUST Business Associate Council — I feel it incumbent on me to help address these misconceptions and provide some clarifying facts and information.

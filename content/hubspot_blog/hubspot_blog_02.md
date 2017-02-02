@@ -4,6 +4,9 @@ slug: 2017-healthcare-trends-part-two-trump-and-putting-the-genie-back-in-the-bo
 pubDate: "Tue, 24 Jan 2017 13:00:00 GMT"
 dateUnix: 2017-01-24T13:00:00Z
 author: travis
+summary: 
+lead: |
+    
 ---
 
 _In part one of our series on 2017 Healthcare trends, we explored [the rise of the patient as consumer][1]. Here, in part two of our four-part series, we look at how Trump's unpacking of Obamacare might affect the healthcare industry this year._

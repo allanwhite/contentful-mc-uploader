@@ -4,6 +4,9 @@ slug: joint-commission-allows-secure-texting
 pubDate: "Wed, 11 May 2016 15:52:41 GMT"
 dateUnix: 2016-05-11T15:52:41Z
 author: travis
+summary: 
+lead: |
+    
 ---
 
 In last month's edition of the [_Joint Commission Perspectives_][1], the Joint Commission ended its ban on text messaging for healthcare providers, reversing its 2011 prohibition for these recognized healthcare entities. Effective immediately, healthcare professionals may text patient care directives through a secure, compliant text messaging platform. The passageway to innovate and invest for healthcare stakeholders, primarily EHR software developers and product managers, has been opened once again. This ruling not only will significantly increase accuracy and remove the necessity of phone calls, faxing or direct communication, but leads to the heavily desired streamlined clinician order process. The Joint Commission is finally embracing modern technology, and these updated regulations permit customers like ours to freely produce, promote, and [integrate][2] their secure text messaging solutions.

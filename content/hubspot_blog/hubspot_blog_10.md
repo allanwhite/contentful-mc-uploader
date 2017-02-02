@@ -4,6 +4,9 @@ slug: dimensions-of-big-data-for-healthcare
 pubDate: "Thu, 10 Nov 2016 17:15:38 GMT"
 dateUnix: 2016-11-10T17:15:38Z
 author: travis
+summary: 
+lead: |
+    
 ---
 
 Almost 3 years ago I [wrote][1] about Big Data in healthcare for HIStalk. At the time I covered many of types of healthcare data that are not a part of the EHR but hold tremendous value to clinicians, patients, and data scientists. I haven't changed the fundamental thesis that the EHR represents only one set of healthcare data, which, while large and currently the primary source of data for healthcare delivery, is far from the only set of relevant data. In fact, I'd go further today than I did 3 years ago by saying that new payment models and forms of care, namely those driven by things like "[patients as consumers][2]" and MACRA, require the expansion of the relevant data sets well beyond the EHR.

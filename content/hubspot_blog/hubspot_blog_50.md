@@ -4,6 +4,9 @@ slug: 5-predictions-for-digital-health-in-2016
 pubDate: "Mon, 21 Dec 2015 21:41:20 GMT"
 dateUnix: 2015-12-21T21:41:20Z
 author: travis
+summary: 
+lead: |
+    
 ---
 Prediction posts are fun, despite my relatively low batting average for success. The hardest part about making predictions in healthcare is timing. And timing can be everything. Lots of predictions, like we'll see X% risk-based or value-based care contracts, are hard to deny but quantifying them in terms of when these changes will tip in the industry is the challenge. With that disclaimer, below are my predictions for healthcare in 2016, with a bend towards healthcare technology.
 

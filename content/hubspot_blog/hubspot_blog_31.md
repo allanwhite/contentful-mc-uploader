@@ -4,6 +4,9 @@ slug: announcing-change-agent-catalyzes-medium-publication
 pubDate: "Thu, 19 May 2016 16:00:00 GMT"
 dateUnix: 2016-05-19T16:00:00Z
 author: kris
+summary: 
+lead: |
+    
 ---
 Since Catalyze's beginning, a core belief has revolved around the importance of transparent, free, readily available content. That is why we [write about what we learn][1]. That is why we have [open sourced our company policies][2] and [made our Business Associate Agreement publicly available][3].
 

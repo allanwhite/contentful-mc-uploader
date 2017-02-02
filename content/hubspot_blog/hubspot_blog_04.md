@@ -4,6 +4,9 @@ slug: 2017-healthcare-trends-part-1-the-rise-of-patient-as-consumer
 pubDate: "Mon, 16 Jan 2017 22:12:31 GMT"
 dateUnix: 2017-01-16T22:12:31Z
 author: travis
+summary: 
+lead: |
+    
 ---
 
 There's often a buzz of recap news stories at the end of each year followed by a flurry of predictions posts for the coming new year. We've done this [before][1] in a few different ways at Catalyze. The prediction posts are usually specific and often wrong in that specificity. For 2017 I'm going to do things differently.

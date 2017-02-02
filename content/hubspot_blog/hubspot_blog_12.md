@@ -4,6 +4,9 @@ slug: hitrust-inheritance-the-most-important-compliance-announcement-of-the-year
 pubDate: "Wed, 19 Oct 2016 14:21:00 GMT"
 dateUnix: "2016-10-19T14:21:00Z"
 author: travis
+summary: 
+lead: |
+    
 ---
 
 We completed our initial HITRUST assessment about three years ago. The process of working with the HITRUST CSF, our 3rd party HITRUST approved auditors, and HITRUST as a certifying body had a steep learning curve; we've since completed additional HITRUST assessments and extended our HITRUST CSF Validated Assessment to include additional service providers and certify product and organizational changes. Since achieving our HITRUST Certification, our goal has been to educate the industry about our [experience][1], both positive and negative, with HITRUST, and lower the barrier for others to achieve HITRUST Certification.

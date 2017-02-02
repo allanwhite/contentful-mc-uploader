@@ -4,6 +4,9 @@ slug: the-advantages-and-measures-of-outsourcing-in-healthcare
 pubDate: "Thu, 16 Jun 2016 19:01:03 GMT"
 dateUnix: 2016-06-16T19:01:03Z
 author: travis
+summary: 
+lead: |
+    
 ---
 Healthcare providers are facing increasingly severe economic and social pressures that ultimately affect their service budgets and the ability to deliver on quality services. As with all businesses, providers must also overcome the tremendous pressures of industry competition. In an age where thriving is equivalent to surviving,  an attractive approach for the healthcare industry is outsourcing. While manifesting a vast array of diverse and complex services, hospitals are a distinctly lush domain for outsourcing many functions.
 

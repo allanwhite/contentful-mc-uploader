@@ -4,6 +4,9 @@ slug: madison-startups-on-the-map-healthcare-it-included
 pubDate: "Mon, 26 Sep 2016 18:48:00 GMT"
 dateUnix: "2016-09-26T18:48:00Z"
 author: eileen
+summary: 
+lead: |
+    
 ---
 In a city underrated by those who have never visited, Madison, WI, brings more to the Midwest than its prestigious university and famous State Street. The Midwest is [predicted to have more startups than Silicon Valley in five years][1]. VentureBeat author Chris Olson states, "Today entrepreneurs are building more billion-dollar companies in the Midwest than in the last 50 years combined." It's time for Madison to be on the radar among the national startup community.
 

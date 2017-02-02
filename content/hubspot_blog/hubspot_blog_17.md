@@ -4,6 +4,9 @@ slug: health-2.0-recap-day-2
 pubDate: "Wed, 28 Sep 2016 02:01:19 GMT"
 dateUnix: 2016-09-28T02:01:19Z
 author: kris
+summary: 
+lead: |
+    
 ---
 
 Day Two of Health 2.0 featured a diverse set of topics. The conference deserves credit for the breadth of session options. There was more to see than the Catalyze crew could cover, so we'll focus on just a few key observations.  

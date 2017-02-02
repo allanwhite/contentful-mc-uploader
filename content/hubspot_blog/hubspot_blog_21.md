@@ -4,6 +4,9 @@ slug: the-doctor-app-question-who-will-validate-vett-or-veto
 pubDate: "Mon, 19 Sep 2016 18:45:21 GMT"
 dateUnix: 2016-09-19T18:45:21Z
 author: marcia
+summary: 
+lead: |
+    
 ---
 _FierceHealthcare_ reporter Susan D. Hall outlined some important challenges for digital health in a recent [article][1] titled, "Amid opportunities, digital health poses challenges for cardiology." The article covers three challenges. One, the need for the onslaught of healthcare data to be better aggregated in context for doctors and patients alike. Two, the challenge of proving mobile health applications' efficacy as a stand-alone therapeutic.
 

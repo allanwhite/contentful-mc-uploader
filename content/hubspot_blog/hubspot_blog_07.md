@@ -4,6 +4,9 @@ slug: aws-reinvent-recap-1
 pubDate: "Wed, 30 Nov 2016 15:53:35 GMT"
 dateUnix: 2016-11-30T15:53:35Z
 author: mohan
+summary: 
+lead: |
+    
 ---
 This is the first time that we at Catalyze are attending AWS re:invent. We always knew that the event was large but we're surprised to see and hear that the event has grown substantially since last year. AWS re:invent expects to have about 32,000 attendees this year with attendee profiles ranging from engineers to CIOs and a broad range of industries.
 

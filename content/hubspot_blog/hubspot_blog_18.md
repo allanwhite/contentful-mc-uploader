@@ -4,6 +4,9 @@ slug: health-2.0-recap-day-1
 pubDate: "Tue, 27 Sep 2016 01:47:15 GMT"
 dateUnix: 2016-09-27T01:47:15Z
 author: kris
+summary: 
+lead: |
+    
 ---
 Day One of Health 2.0 featured the annual Traction startup pitch session. Many interesting companies presented, from [biome.io][1] to [strollhealth.com][2]. The panel prior had compelling insight worth sharing. The group of investors told a unified story across several key conversation topics:  
 

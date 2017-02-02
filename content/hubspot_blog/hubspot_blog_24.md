@@ -4,6 +4,9 @@ slug: catalyze-continues-expanding-industry-support-and-recognition
 pubDate: "Wed, 27 Jul 2016 04:24:10 GMT"
 dateUnix: 2016-07-27T04:24:10Z
 author: marcia
+summary: 
+lead: |
+    
 ---
 
 From expanding our services to new podcast appearances, July had a lot of excitement to capture for Catalyze. As we continue to push towards a value-based healthcare system and simultaneously navigate new regulations, we have progressively built additional support for our clients while bringing further credibility to them and their clients. We are proud of all that we achieved in July so just to name a few, here are a few highlights.  
