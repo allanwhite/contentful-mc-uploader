@@ -19,6 +19,12 @@ Install like so:
 npm install mc.uploader
 ```
 
+### Example
+
+```
+node ./index.js -C catalyze-config.json -c blog -m mappers/blog-hubspot.js content/hubspot_blog/hubspot_blog_51.md
+```
+
 ### Usage
 
 There are two ways to use mc.uploader. With or without a config file. Without a config file you pass in all parameters with command line arguments like so:
