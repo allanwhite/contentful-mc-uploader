@@ -3,7 +3,7 @@ title: "4 Challenges & Solutions for Big Data Capturing"
 slug: 4-challenges-solutions-for-big-data-capturing
 pubDate: "Wed, 01 Jun 2016 17:55:48 GMT"
 dateUnix: 2016-06-01T17:55:48Z
-author: "kenny@catalyze.io (Kenny Stark)"
+author: kris
 ---
 
 Data capturing is becoming an increasingly automated process across all modern interactions. Specifically in healthcare, electronic health record systems are digitizing existing patient records to be used in patient care, surgical procedures, and clinical trials. For instance, data streams captured by medical instruments during surgical procedures are fed into an integrated health record system in real-time; also, wearables worn can live stream data directly into clinical and hospital servers while patients recover at home.

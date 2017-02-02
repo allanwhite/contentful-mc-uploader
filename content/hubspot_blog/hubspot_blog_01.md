@@ -3,7 +3,7 @@ title: "2017 Healthcare Trends Part 3: The Rise and Fall of the EHR"
 slug: 2017-healthcare-trends-part-three-the-rise-and-fall-of-the-ehr
 pubDate: "Tue, 31 Jan 2017 13:00:00 GMT"
 dateUnix: 2017-01-31T13:00:00Z
-author: "travis@catalyze.io (Travis Good)"
+author: travis
 ---
 In part one of our series on 2017 Healthcare trends, we explored [the rise of the patient as consumer][1]. Next, in the second installation of our four-part series, we look at how [Trump's unpacking of Obamacare][2] might affect the healthcare industry this year. This week, we focus on the evolution of the EHR.
 

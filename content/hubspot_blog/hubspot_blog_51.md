@@ -3,7 +3,7 @@ title: "Reflecting on our time with CDHI at UCSF"
 slug: reflecting-on-our-time-with-cdhi-at-ucsf
 pubDate: "Mon, 17 Dec 2015 21:41:20 GMT"
 dateUnix: 2015-12-17T21:41:20Z
-author: "mohan@catalyze.io (Mohan Balachandran)"
+author: mohan
 ---
 With 2016 rapidly approaching, we are reflecting on what a huge success 2015 was for us but we really can't take all the credit – we had some amazing inspiration from fellow industry leaders. One of the most memorable experiences we partook in and sponsored this year was the [2015 Digital Health Summer Summit][1] co-hosted by the [Center for Digital Health Innovation (CDHI) at UCSF][2] where my fellow Cofounder and CEO, [Travis Good][3], got the opportunity to moderate a panel on [dealmaking, piloting and scaling][4]. As a relatively young company, we are all ears to the learnings offered by others, and what we took from this event back in June inspired our next six months and beyond.
 

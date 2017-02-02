@@ -3,7 +3,7 @@ title: "Innovation & Partnerships Anticipated at Upcoming Industry Gatherings"
 slug: innovation-partnerships-anticipated-at-upcoming-industry-gatherings
 pubDate: "Thu, 07 Apr 2016 18:32:56 GMT"
 dateUnix: 2016-04-07T18:32:56Z
-author: "kenny@catalyze.io (Kenny Stark)"
+author: kris
 ---
 Commitment, collaboration, communication, focus — all critical compontents to successful strategic partnerships that produce innovation. The Catalyze team is committed to finding other leading companies and individuals to partner with that share the vision of an improved healthcare system. As our [latest innovation interviewee][1] [Thomas Graham, M.D.][2] says, "the folks that are real leaders understand that we have massive challenges. It's not going to be until we recognize and admit them, understand our own limitations, and then really embrace the power of partnership." With that in mind, members of our Leadership team will be heading to explore those potential possibilities next week at some of the most highly anticipated industry gatherings.  
 

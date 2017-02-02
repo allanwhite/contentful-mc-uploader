@@ -3,7 +3,7 @@ title: "Why Do Healthcare Information Systems Account For $40+ Billion?"
 slug: why-do-healthcare-information-systems-account-for-40-billion
 pubDate: "Thu, 04 Aug 2016 22:21:41 GMT"
 dateUnix: 2016-08-04T22:21:41Z
-author: "mohan@catalyze.io (Mohan Balachandran)"
+author: mohan
 ---
 In 2015, the Healthcare Information Systems (HCIS) market accounted for $40.39 billion and is forecasted to reach $70+ billion by 2022. Rising government initiatives, increasing healthcare costs and aging population are some of the factors driving the market growth. Compared to information systems in other industries, HCISs are specific to healthcare. The distinctiveness characterizing the development of HCISs in healthcare is attributed to six elements.
 

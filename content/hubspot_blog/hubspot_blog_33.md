@@ -3,7 +3,7 @@ title: "4 PHI Marketing Special Cases"
 slug: 4-phi-marketing-special-cases
 pubDate: "Tue, 03 May 2016 16:00:00 GMT"
 dateUnix: 2016-05-03T16:00:00Z
-author: "kris@catalyze.io (Kris GÃ¶sser)"
+author: kris
 ---
 In modern daily practice, healthcare professionals can utilize patient [protected health information (PHI)][1] to "market" various alternative remedies or products, without formal authorization from the patient / beneficiary. To start off clearly, marketing is the communication of a product or service that encourages the purchase or use of said product or service. Under the [HIPAA Omnibus Rules][2] legislation passed in 2013, marketing interaction in healthcare is severely limited. Within the Omnibus Rules is stated that prior to a compensated covered entity recommending third party products or services, that entity must first receive the proper authorization to use patient PHI. For example, an entity must officially notify and authorize patients to obtain or distribute supplements from a third party that also pays the entity a commission. Furthermore, if the entity apportions any products and receives payments/discounts for bulk purchases, the entity must have a statement of disclosure that patients can review that states the entity may sell them products or services in return for recompense of sorts from a third party. Doesn't that sound like a very uncomfortable conversation? Thankfully, it doesn't have to be.
 

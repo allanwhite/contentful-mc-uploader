@@ -3,7 +3,7 @@ title: "10 Financial Questions to Ask Before an EHR Project"
 slug: 10-financial-questions-to-ask-before-an-ehr-project
 pubDate: "Wed, 20 Jul 2016 18:24:01 GMT"
 dateUnix: 2016-07-20T18:24:01Z
-author: "travis@catalyze.io (Travis Good)"
+author: travis
 ---
 
 Obviously, money is an important resource for EHR projects. No project results in success without the necessary financial resources. Despite all moderate estimates, conventional projections and supplemental buffers, most EHR projects are forecasted to go beyond scope. The most common causes for budget overruns usually go something like "I forgot to consider this," "I did not expect it to be this high," or "I wasn't expecting it to take this long." These oversights usually include:

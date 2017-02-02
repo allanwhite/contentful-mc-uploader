@@ -3,7 +3,7 @@ title: "New Chief Operating Officer Deepens Epic Experience at Catalyze"
 slug: new-chief-operating-officer-deepens-epic-experience-at-catalyze
 dateUnix: "2016-12-19T19:44:10Z"
 pubDate: "Mon, 19 Dec 2016 19:44:10 GMT"
-author: "laleh@catalyze.io (Laleh Hassibi)"
+author: laleh
 ---
 You may have recently seen our press release announcing Catalyze's [new Chief Operating Officer][1] (COO), Brian Lindstrom. Brian brings deep experience in healthcare coming from a job as CFO of Influence Health in Alabama and, before that, as Controller for Epic, where he played a key role in Epic's rapid growth story.
 

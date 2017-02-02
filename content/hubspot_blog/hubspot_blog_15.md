@@ -3,7 +3,7 @@ title: "Does Healthcare IT Put the Cart Before the Horse?"
 slug: does-healthcare-it-put-the-cart-before-the-horse
 pubDate: "Mon, 03 Oct 2016 16:26:35 GMT"
 dateUnix: 2016-10-03T16:26:35Z
-author: "eileen@catalyze.io (Eileen Tublin)"
+author: eileen
 ---
 Industry focus on patient outcomes has never been higher. Key healthcare stakeholders, from payers, providers, vendors and others, all indicate that this focus will surely escalate. The emphasis may appear new, but as early as 1998, the [_Journal of of General Internal Medicine_][1] began covering the patient outcomes movement. Considering this surge in interest, you may be wondering why some healthcare innovators are focusing on technology first and outcomes second.
 

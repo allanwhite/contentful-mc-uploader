@@ -3,7 +3,7 @@ title: "Casey Bryson: The Man, The Myth, The Legend"
 slug: casey-bryson-the-man-the-myth-the-legend
 pubDate: "Fri, 19 Feb 2016 22:53:39 GMT"
 dateUnix: 2016-02-19T22:53:39Z
-author: "travis@catalyze.io (Travis Good)"
+author: travis
 ---
 
 Passion. It's one word that makes all the difference. It's one quality that cannot be taught. And it's one differentiator between where we are and where we can go. Passion is the epitome of what Casey Bryson embodies and it is with that passion that he joins the Catalyze family as our Chief Strategy Officer.

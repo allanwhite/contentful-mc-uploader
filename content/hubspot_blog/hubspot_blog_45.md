@@ -3,7 +3,7 @@ title: "Voalte Guest Post: The company we keep"
 slug: voalte-guest-post-the-company-we-keep
 pubDate: "Tue, 16 Feb 2016 13:00:00 GMT"
 dateUnix: 2016-02-16T13:00:00Z
-author: "travis@catalyze.io (Travis Good)"
+author: travis
 ---
 Healthcare technology has always been a complex business, and it's not getting any simpler. In the 1960s, mainframes were the behemoth systems that stored data, mostly related to a hospital's accounting functions. In the '80s and '90s, health IT turned to desktop computers and networking solutions for clinical and operational data. In recent years, federal mandates under the American Recovery and Reinvestment Act caused the focus to shift to electronic medical records (EMRs), bringing numerous advantages for patients, medical practices and health systems, such as:
 
