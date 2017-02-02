@@ -4,7 +4,8 @@ slug: voalte-guest-post-the-company-we-keep
 pubDate: "Tue, 16 Feb 2016 13:00:00 GMT"
 dateUnix: 2016-02-16T13:00:00Z
 author: travis
-summary: 
+summary: |
+    
 lead: |
     
 ---

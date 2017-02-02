@@ -4,7 +4,8 @@ slug: announcing-change-agent-catalyzes-medium-publication
 pubDate: "Thu, 19 May 2016 16:00:00 GMT"
 dateUnix: 2016-05-19T16:00:00Z
 author: kris
-summary: 
+summary: |
+    
 lead: |
     
 ---

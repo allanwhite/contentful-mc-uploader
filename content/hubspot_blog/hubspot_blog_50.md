@@ -4,7 +4,8 @@ slug: 5-predictions-for-digital-health-in-2016
 pubDate: "Mon, 21 Dec 2015 21:41:20 GMT"
 dateUnix: 2015-12-21T21:41:20Z
 author: travis
-summary: 
+summary: |
+    
 lead: |
     
 ---

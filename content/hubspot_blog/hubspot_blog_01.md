@@ -4,12 +4,11 @@ slug: 2017-healthcare-trends-part-three-the-rise-and-fall-of-the-ehr
 pubDate: "Tue, 31 Jan 2017 13:00:00 GMT"
 dateUnix: 2017-01-31T13:00:00Z
 author: travis
-summary: 
+summary: |
+    In part one of our series on 2017 Healthcare trends, we explored [the rise of the patient as consumer][1]. Next, in the second installation of our four-part series, we look at how [Trump's unpacking of Obamacare][2] might affect the healthcare industry this year. This week, we focus on the evolution of the EHR.
 lead: |
-    
+    In part one of our series on 2017 Healthcare trends, we explored [the rise of the patient as consumer][1]. Next, in the second installation of our four-part series, we look at how [Trump's unpacking of Obamacare][2] might affect the healthcare industry this year. This week, we focus on the evolution of the EHR.
 ---
-In part one of our series on 2017 Healthcare trends, we explored [the rise of the patient as consumer][1]. Next, in the second installation of our four-part series, we look at how [Trump's unpacking of Obamacare][2] might affect the healthcare industry this year. This week, we focus on the evolution of the EHR.
-
 Meaningful Use (MU) is dead but it succeeded wildly in [increasingly the adoption of EHRs][3]. In fact, MU was so successful that physicians have become the most overtrained and overpriced data entry workers in our economy. [All of this data entry][4] has been at the expense of patient care as evidenced by the time and attention given to record keeping and not spending time with patients. To be clear, there are benefits to EHRs in terms of standardizing documenting, analytics, and billing.
 
 ![Meaningful Use, Data Sharing, EHR, Cloud ][5]

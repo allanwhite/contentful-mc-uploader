@@ -4,7 +4,8 @@ slug: reflecting-on-our-time-with-cdhi-at-ucsf
 pubDate: "Mon, 17 Dec 2015 21:41:20 GMT"
 dateUnix: 2015-12-17T21:41:20Z
 author: mohan
-summary: 
+summary: |
+    
 lead: |
     
 ---

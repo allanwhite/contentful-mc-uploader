@@ -4,7 +4,8 @@ slug: catalyzing-the-hitrust-ba-council-healthxl-global-gathering-hosting-partne
 pubDate: "Fri, 15 Apr 2016 22:01:35 GMT"
 dateUnix: 2016-04-15T22:01:35Z
 author: marcia
-summary: 
+summary: |
+    
 lead: |
     
 ---

@@ -4,7 +4,8 @@ slug: 2017-healthcare-trends-part-two-trump-and-putting-the-genie-back-in-the-bo
 pubDate: "Tue, 24 Jan 2017 13:00:00 GMT"
 dateUnix: 2017-01-24T13:00:00Z
 author: travis
-summary: 
+summary: |
+    
 lead: |
     
 ---
