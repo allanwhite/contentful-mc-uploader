@@ -1,0 +1,300 @@
+    -
+        title: "2017 Healthcare Trends Part 3: The Rise and Fall of the EHR"
+        slug: 2017-healthcare-trends-part-three-the-rise-and-fall-of-the-ehr
+        pubDate: "Tue, 31 Jan 2017 13:00:00 GMT"
+        dateUnix: 2017-01-31T13:00:00Z
+        author: "travis@catalyze.io (Travis Good)"
+    -
+        title: "2017 Healthcare Trends Part 2: Trump and Putting the Genie Back in the Bottle"
+        slug: 2017-healthcare-trends-part-two-trump-and-putting-the-genie-back-in-the-bottle
+        pubDate: "Tue, 24 Jan 2017 13:00:00 GMT"
+        dateUnix: 2017-01-24T13:00:00Z
+        author: "travis@catalyze.io (Travis Good)"
+    -
+        title: "The CMIO Role in the Era of Value-Based Care"
+        slug: the-cmio-role-in-the-era-of-value-based-care
+        pubDate: "Mon, 23 Jan 2017 16:54:22 GMT"
+        dateUnix: 2017-01-23T16:54:22Z
+        author: "laleh@catalyze.io (Laleh Hassibi)"
+    -
+        title: "2017 Healthcare Trends Part 1: The Rise of Patient as Consumer"
+        slug: 2017-healthcare-trends-part-1-the-rise-of-patient-as-consumer
+        pubDate: "Mon, 16 Jan 2017 22:12:31 GMT"
+        dateUnix: 2017-01-16T22:12:31Z
+        author: "travis@catalyze.io (Travis Good)"
+    -
+        title: "New Chief Operating Officer Deepens Epic Experience at Catalyze"
+        slug: new-chief-operating-officer-deepens-epic-experience-at-catalyze
+        dateUnix: "2016-12-19T19:44:10Z"
+        pubDate: "Mon, 19 Dec 2016 19:44:10 GMT"
+        author: "laleh@catalyze.io (Laleh Hassibi)"
+    -
+        title: "AWS Re:Invent — Re:Cap #2"
+        slug: aws-reinvent-recap-2
+        pubDate: "Fri, 02 Dec 2016 19:15:59 GMT"
+        dateUnix: 2016-12-02T19:15:59Z
+        author: "mohan@catalyze.io (Mohan Balachandran)"
+    -
+        title: "AWS Re:Invent — Re:Cap #1"
+        slug: aws-reinvent-recap-1
+        pubDate: "Wed, 30 Nov 2016 15:53:35 GMT"
+        dateUnix: 2016-11-30T15:53:35Z
+        author: "mohan@catalyze.io (Mohan Balachandran)"
+    -
+        title: "HHS Guidance on HIPAA Compliance in the Cloud: What You Need to Know"
+        slug: hhs-guidance-on-hipaa-compliance-in-the-cloud-what-you-need-to-know
+        pubDate: "Wed, 30 Nov 2016 14:12:00 GMT"
+        dateUnix: 2016-11-30T14:12:00Z
+        author: "travis@catalyze.io (Travis Good)"
+    -
+        title: "VUE16 WOWs again"
+        slug: major-announcement-rolls-out-of-voaltes-user-experience-vue16
+        pubDate: "Fri, 11 Nov 2016 17:54:37 GMT"
+        dateUnix: "2016-11-11T17:54:37Z"
+        author: "casey@catalyze.io (Casey Bryson)"
+    -
+        title: "Dimensions of Big Data for Healthcare"
+        slug: dimensions-of-big-data-for-healthcare
+        pubDate: "Thu, 10 Nov 2016 17:15:38 GMT"
+        dateUnix: 2016-11-10T17:15:38Z
+        author: "travis@catalyze.io (Travis Good)"
+    -
+        title: "The Truth About HITRUST — and Why It Should Become the Industry Standard"
+        slug: the-truth-about-hitrust-and-why-it-should-become-the-industry-standard
+        pubDate: "Wed, 09 Nov 2016 18:57:04 GMT"
+        dateUnix: "2016-11-09T18:57:04Z"
+        author: "travis@catalyze.io (Travis Good)"
+    -
+        title: "HITRUST Inheritance: The most important compliance announcement of the year"
+        slug: hitrust-inheritance-the-most-important-compliance-announcement-of-the-year
+        pubDate: "Wed, 19 Oct 2016 14:21:00 GMT"
+        dateUnix: "2016-10-19T14:21:00Z"
+        author: "travis@catalyze.io (Travis Good)"
+    -
+        title: "Announcing Our First Customer Spotlights"
+        slug: announcing-our-first-customer-spotlights
+        pubDate: "Tue, 11 Oct 2016 13:37:00 GMT"
+        dateUnix: 2016-10-11T13:37:00Z
+        author: "kris@catalyze.io (Kris Gösser)"
+    -
+        title: "The Purpose of HITRUST’s Business Associate Council"
+        slug: the-purpose-of-hitrusts-business-associate-council
+        pubDate: "Thu, 06 Oct 2016 13:21:33 GMT"
+        dateUnix: 2016-10-06T13:21:33Z
+        author: "travis@catalyze.io (Travis Good)"
+    -
+        title: "Does Healthcare IT Put the Cart Before the Horse?"
+        slug: does-healthcare-it-put-the-cart-before-the-horse
+        pubDate: "Mon, 03 Oct 2016 16:26:35 GMT"
+        dateUnix: 2016-10-03T16:26:35Z
+        author: "eileen@catalyze.io (Eileen Tublin)"
+    -
+        title: "Health 2.0 Recap: Day 3"
+        slug: health-2.0-recap-day-3
+        pubDate: "Thu, 29 Sep 2016 00:10:12 GMT"
+        dateUnix: 2016-09-29T00:10:12Z
+        author: "kris@catalyze.io (Kris Gösser)"
+    -
+        title: "Health 2.0 Recap: Day 2"
+        slug: health-2.0-recap-day-2
+        pubDate: "Wed, 28 Sep 2016 02:01:19 GMT"
+        dateUnix: 2016-09-28T02:01:19Z
+        author: "kris@catalyze.io (Kris Gösser)"
+    -
+        title: "Health 2.0 Recap: Day 1"
+        slug: health-2.0-recap-day-1
+        pubDate: "Tue, 27 Sep 2016 01:47:15 GMT"
+        dateUnix: 2016-09-27T01:47:15Z
+        author: "kris@catalyze.io (Kris Gösser)"
+    -
+        title: "Madison Startups on the Map - Healthcare IT Included"
+        slug: madison-startups-on-the-map-healthcare-it-included
+        pubDate: "Mon, 26 Sep 2016 18:48:00 GMT"
+        dateUnix: "2016-09-26T18:48:00Z"
+        author: "eileen@catalyze.io (Eileen Tublin)"
+    -
+        title: "Announcing Our $6.5MM Series B. The Story is about Our Customers."
+        slug: announcing-our-6.5mm-series-b.-the-story-is-about-our-customers
+        dateUnix: "2016-09-21T17:17:13Z"
+        pubDate: "Wed, 21 Sep 2016 17:17:13 GMT"
+        author: "travis@catalyze.io (Travis Good)"
+    -
+        title: "The Doctor App Question: Who will Validate, Vet or Veto?"
+        slug: the-doctor-app-question-who-will-validate-vett-or-veto
+        pubDate: "Mon, 19 Sep 2016 18:45:21 GMT"
+        dateUnix: 2016-09-19T18:45:21Z
+        author: "marcia@catalyze.io (Marcia Noyes)"
+    -
+        title: "Why Do Healthcare Information Systems Account For $40+ Billion?"
+        slug: why-do-healthcare-information-systems-account-for-40-billion
+        pubDate: "Thu, 04 Aug 2016 22:21:41 GMT"
+        dateUnix: 2016-08-04T22:21:41Z
+        author: "mohan@catalyze.io (Mohan Balachandran)"
+    -
+        title: "How HIT Vendors Price Their Solutions"
+        slug: how-hit-vendors-price-their-solutions
+        pubDate: "Thu, 28 Jul 2016 16:00:00 GMT"
+        dateUnix: 2016-07-28T16:00:00Z
+        author: "travis@catalyze.io (Travis Good)"
+    -
+        title: "Catalyze Continues Expanding Industry Support and Recognition"
+        slug: catalyze-continues-expanding-industry-support-and-recognition
+        pubDate: "Wed, 27 Jul 2016 04:24:10 GMT"
+        dateUnix: 2016-07-27T04:24:10Z
+        author: "marcia@catalyze.io (Marcia Noyes)"
+    -
+        title: "10 Financial Questions to Ask Before an EHR Project"
+        slug: 10-financial-questions-to-ask-before-an-ehr-project
+        pubDate: "Wed, 20 Jul 2016 18:24:01 GMT"
+        dateUnix: 2016-07-20T18:24:01Z
+        author: "travis@catalyze.io (Travis Good)"
+    -
+        title: "How Does the Cloud Reduce Data Loss Risk?"
+        slug: how-does-the-cloud-reduce-data-loss-risk
+        pubDate: "Wed, 13 Jul 2016 16:00:00 GMT"
+        dateUnix: 2016-07-13T16:00:00Z
+        author: "mohan@catalyze.io (Mohan Balachandran)"
+    -
+        title: "7-Step Technology Checklist for PHI Protection"
+        slug: 7-step-technology-checklist-for-phi-protection
+        pubDate: "Tue, 21 Jun 2016 17:09:21 GMT"
+        dateUnix: 2016-06-21T17:09:21Z
+        author: "mark@catalyze.io (Mark Olschesky)"
+    -
+        title: "The Advantages and Measures of Outsourcing in Healthcare"
+        slug: the-advantages-and-measures-of-outsourcing-in-healthcare
+        pubDate: "Thu, 16 Jun 2016 19:01:03 GMT"
+        dateUnix: 2016-06-16T19:01:03Z
+        author: "travis@catalyze.io (Travis Good)"
+    -
+        title: "4 Challenges & Solutions for Big Data Capturing"
+        slug: 4-challenges-solutions-for-big-data-capturing
+        pubDate: "Wed, 01 Jun 2016 17:55:48 GMT"
+        dateUnix: 2016-06-01T17:55:48Z
+        author: "kenny@catalyze.io (Kenny Stark)"
+    -
+        title: "7 Quality Measure Healthcare Organizations Explained"
+        slug: 7-quality-measure-healthcare-organizations-explained
+        pubDate: "Wed, 25 May 2016 15:56:18 GMT"
+        dateUnix: 2016-05-25T15:56:18Z
+        author: "mohan@catalyze.io (Mohan Balachandran)"
+    -
+        title: "Announcing Change Agent, Catalyze’s Medium Publication"
+        slug: announcing-change-agent-catalyzes-medium-publication
+        pubDate: "Thu, 19 May 2016 16:00:00 GMT"
+        dateUnix: 2016-05-19T16:00:00Z
+        author: "kris@catalyze.io (Kris Gösser)"
+    -
+        title: "Joint Commission Allows Secure Texting"
+        slug: joint-commission-allows-secure-texting
+        pubDate: "Wed, 11 May 2016 15:52:41 GMT"
+        dateUnix: 2016-05-11T15:52:41Z
+        author: "travis@catalyze.io (Travis Good)"
+    -
+        title: "4 PHI Marketing Special Cases"
+        slug: 4-phi-marketing-special-cases
+        pubDate: "Tue, 03 May 2016 16:00:00 GMT"
+        dateUnix: 2016-05-03T16:00:00Z
+        author: "kris@catalyze.io (Kris Gösser)"
+    -
+        title: "Data-Enabled ≠ Data-Driven"
+        slug: data-enabled-does-not-equal-data-driven
+        pubDate: "Tue, 26 Apr 2016 16:10:15 GMT"
+        dateUnix: 2016-04-26T16:10:15Z
+        author: "mark@catalyze.io (Mark Olschesky)"
+    -
+        title: "4 Essentials to Enabling Clinical Integration"
+        slug: 4-essentials-to-enabling-clinical-integration
+        pubDate: "Wed, 20 Apr 2016 16:28:12 GMT"
+        dateUnix: 2016-04-20T16:28:12Z
+        author: "travis@catalyze.io (Travis Good)"
+    -
+        title: "Catalyzing the HITRUST BA Council, HealthXL Global Gathering & HOSTING Partnership"
+        slug: catalyzing-the-hitrust-ba-council-healthxl-global-gathering-hosting-partnership
+        pubDate: "Fri, 15 Apr 2016 22:01:35 GMT"
+        dateUnix: 2016-04-15T22:01:35Z
+        author: "marcia@catalyze.io (Marcia Noyes)"
+    -
+        title: "3 Benefits of Accessible Big Data Analytics"
+        slug: 3-benefits-of-accessible-big-data-analytics
+        pubDate: "Wed, 13 Apr 2016 16:56:28 GMT"
+        dateUnix: 2016-04-13T16:56:28Z
+        author: "mohan@catalyze.io (Mohan Balachandran)"
+    -
+        title: "Innovation & Partnerships Anticipated at Upcoming Industry Gatherings"
+        slug: innovation-partnerships-anticipated-at-upcoming-industry-gatherings
+        pubDate: "Thu, 07 Apr 2016 18:32:56 GMT"
+        dateUnix: 2016-04-07T18:32:56Z
+        author: "kenny@catalyze.io (Kenny Stark)"
+    -
+        title: "The Acme of Insight — Raj Sundaramurthy, Catalyze Chief Product Officer"
+        slug: the-acme-of-insight-raj-sundaramurthy-catalyze-chief-product-officer
+        pubDate: "Wed, 16 Mar 2016 13:00:00 GMT"
+        dateUnix: 2016-03-16T13:00:00Z
+        author: "mohan@catalyze.io (Mohan Balachandran)"
+    -
+        title: "Catalyze Partners with Salesforce & Microsoft Azure"
+        slug: catalyze-partners-with-salesforce-microsoft-azure
+        pubDate: "Fri, 11 Mar 2016 22:28:59 GMT"
+        dateUnix: 2016-03-11T22:28:59Z
+        author: "mohan@catalyze.io (Mohan Balachandran)"
+    -
+        title: "eBook Release: Innovation Doesn't Follow Rules"
+        slug: ebook-release-innovation-doesnt-follow-rules
+        pubDate: "Thu, 10 Mar 2016 17:29:27 GMT"
+        dateUnix: 2016-03-10T17:29:27Z
+        author: "travis@catalyze.io (Travis Good)"
+    -
+        title: "Metabahn & HealthLoop chose Catalyze, but why?"
+        slug: metabahn-healthloop-chose-catalyze-but-why
+        pubDate: "Sat, 27 Feb 2016 00:38:53 GMT"
+        dateUnix: 2016-02-27T00:38:53Z
+        author: "marcia@catalyze.io (Marcia Noyes)"
+    -
+        title: "Announcing Stratum — Your Compliance Foundation"
+        slug: announcing-stratum-your-compliance-foundation
+        pubDate: "Thu, 25 Feb 2016 17:00:00 GMT"
+        dateUnix: 2016-02-25T17:00:00Z
+        author: "mohan@catalyze.io (Mohan Balachandran)"
+    -
+        title: "Casey Bryson: The Man, The Myth, The Legend"
+        slug: casey-bryson-the-man-the-myth-the-legend
+        pubDate: "Fri, 19 Feb 2016 22:53:39 GMT"
+        dateUnix: 2016-02-19T22:53:39Z
+        author: "travis@catalyze.io (Travis Good)"
+    -
+        title: "Voalte Guest Post: The company we keep"
+        slug: voalte-guest-post-the-company-we-keep
+        pubDate: "Tue, 16 Feb 2016 13:00:00 GMT"
+        dateUnix: 2016-02-16T13:00:00Z
+        author: "travis@catalyze.io (Travis Good)"
+    -
+        title: "Zenefits Scandal Further Proves the Importance of Compliance"
+        slug: zenefits-scandal-further-proves-the-importance-of-compliance
+        pubDate: "Mon, 15 Feb 2016 13:00:00 GMT"
+        dateUnix: 2016-02-15T13:00:00Z
+        author: "travis@catalyze.io (Travis Good)"
+    -
+        title: "4 Integration Factors DocbookMD Considered"
+        slug: 4-integration-factors-docbookmd-considered
+        pubDate: "Thu, 11 Feb 2016 13:00:00 GMT"
+        dateUnix: 2016-02-11T13:00:00Z
+        author: "marcia@catalyze.io (Marcia Noyes)"
+    -
+        title: "Cost of HITRUST assessment and certification"
+        slug: cost-of-hitrust-assessment-and-certification
+        pubDate: "Wed, 06 Jan 2016 14:24:04 GMT"
+        dateUnix: 2016-01-06T14:24:04Z
+        author: "mohan@catalyze.io (Mohan Balachandran)"
+    -
+        title: "Top 6 Free Digital Stocking Stuffers"
+        slug: top-6-free-digital-stocking-stuffers
+        pubDate: "Wed, 23 Dec 2015 18:32:53 GMT"
+        dateUnix: 2015-12-23T18:32:53Z
+        author: "marcia@catalyze.io (Marcia Noyes)"
+    -
+        title: "5 Predictions for Digital Health in 2016"
+        slug: 5-predictions-for-digital-health-in-2016
+        pubDate: "Mon, 21 Dec 2015 21:41:20 GMT"
+        dateUnix: 2015-12-21T21:41:20Z
+        author: "travis@catalyze.io (Travis Good)"

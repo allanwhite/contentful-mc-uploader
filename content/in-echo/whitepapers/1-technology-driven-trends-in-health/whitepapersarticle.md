@@ -1,19 +1,14 @@
+---
 Title: Technology Driven Trends In Health
-
-----
-
-Seotitle: Technology Driven Trends In Health
-
-----
 
 Date: 03/27/2014
 
-----
+Author: travis
 
-Post: By: The Catalyze Compliance Team
+Tags: healthcare-costs
 
-March 2014
-***
+Summary: Healthcare will look foreign in 20 years. This paper looks at what trends we can expect, and what to do about it.
+---
 
 ##When we look back in 20 years, the healthcare of today will look very foreign to us!
 
@@ -104,10 +99,3 @@ Catalyze offers cloud-delivered backend infrastructure for health and wellness a
 If you'd like to learn more about how Catalyze helps doers build the future of healthcare,
 [email](mailto:founders@catalyze.io) or call us. We'd be happy to talk your ear off about healthcare and technology, and help you bring your vision to life!
 
-----
-
-Tags: 
-
-----
-
-Summary: Healthcare will look foreign in 20 years. This paper looks at what trends we can expect, and what to do about it.

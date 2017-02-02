@@ -1,21 +1,14 @@
+---
 Title: Making Enterprise Healthcare Sales Easier
-
-----
-
-Seotitle: Making Enterprise Healthcare Sales Easier
-
-----
 
 Date: 09/30/2014
 
-----
+Author: travis
 
-Post: By: Travis Good, MD
+Tags: whitepaper,sales,enterprise
 
-September 2014
-
-***
-
+Summary: Enterprise sales is hard, especially in healthcare. Trust is the quickest way to securing deals.
+---
 ### Trust is the currency of the enterprise. Catalyze is proven to be a pivotal tool to help customers earn trust in enterprise healthcare.
 
 Selling into large enterprises is hard. Selling into large healthcare enterprises presents additional roadblocks, especially for modern, cloud-based technology companies. Healthcare enterprises, in the context used here, means insurance companies, hospitals, and health systems. They have traditionally kept data on premises, in their own data centers, and behind their own firewalls. Many are risk averse when it comes to data storage outside of their own data centers, including cloud-based systems. A recent report found almost 40% of healthcare enterprises cite risk aversion as the main barrier to adoption of new technologies.
@@ -104,11 +97,3 @@ If you want to learn more about how Catalyze can help you sell to healthcare ent
 ##### About Catalyze
 
 Catalyze is cloud computing for healthcare. We offer a HIPAA compliant platform to make achieving compliance easier. We also have platform solutions for building compliant mobile apps and integrating data to and from clinical systems. Customers such as the VA, Blue Shield of California, Healthloop, University of North Carolina, Zipnosis, and others utilize Catalyze for building and scaling innovative solutions for healthcare.
-
-----
-
-Tags: whitepaper,sales,enterprise
-
-----
-
-Summary: Enterprise sales is hard, especially in healthcare. Trust is the quickest way to securing deals.
